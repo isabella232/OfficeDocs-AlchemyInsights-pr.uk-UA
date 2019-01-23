@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: uk-UA
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383537"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 1/11/2019 | [Видалення користувачів](/AlchemyInsights/deleting-users) | змінено |
 | 1/11/2019 | [Розгорнути безшовні єдиного входу](/AlchemyInsights/deploy-seamless-single-sign-on) | змінено |
 | 1/11/2019 | [Відключити доступ до Yammer](/AlchemyInsights/disable-access-to-yammer) | змінено |
+
+
+## <a name="week-of-january-14-2019"></a>Тиждень 14 січня 2019
+
+
+| Опубліковано на |Назву теми | Зміна |
+|------|------------|--------|
+| 1, 14, 2019 | Алхімія покажчик місця заповнення | вилучений |
+| 1, 14, 2019 | Додати домен Алхімія | вилучений |
+| 1, 14, 2019 | [Алхімія Insights будинку](/AlchemyInsights/index) | змінено |
+| 1/17/2019 | [так само, як ім'я файлу є кращим [правило #-Опис]](/AlchemyInsights/1-alchemy-insight-template) | додав |
