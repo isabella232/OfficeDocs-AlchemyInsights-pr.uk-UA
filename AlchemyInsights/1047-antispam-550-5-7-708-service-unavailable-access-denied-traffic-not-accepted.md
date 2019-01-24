@@ -13,13 +13,13 @@ ms.openlocfilehash: 1c10f03dcd105fe80edf3407288bdd551cfed54a
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383530"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454091"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="76108-103">550 5.7.708 відмовлено в доступі, трафік не приймаються з цієї IP адреси</span><span class="sxs-lookup"><span data-stu-id="76108-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="918bd-103">550 5.7.708 відмовлено в доступі, трафік не приймаються з цієї IP адреси</span><span class="sxs-lookup"><span data-stu-id="918bd-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="76108-104">Ця помилка виникає під час надсилання листів від відомих, низький репутацію IP-адрес, які зазвичай використовуються нових клієнтів.</span><span class="sxs-lookup"><span data-stu-id="76108-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="918bd-104">Ця помилка виникає під час надсилання листів від відомих, низький репутацію IP-адрес, які зазвичай використовуються нових клієнтів.</span><span class="sxs-lookup"><span data-stu-id="918bd-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
   
-<span data-ttu-id="76108-105">Якщо потрібно надсилати електронною поштою з цих IP-адрес, перш ніж ви можете придбати ліцензії, зверніться до служби підтримки для запиту виключення, поки ви зможете придбати ліцензії.</span><span class="sxs-lookup"><span data-stu-id="76108-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="918bd-105">Якщо потрібно надсилати електронною поштою з цих IP-адрес, перш ніж ви можете придбати ліцензії, зверніться до служби підтримки для запиту виключення, поки ви зможете придбати ліцензії.</span><span class="sxs-lookup"><span data-stu-id="918bd-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
   
 
