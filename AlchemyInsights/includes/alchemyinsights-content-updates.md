@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383537"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454451"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383537"
 ## <a name="week-of-january-07-2019"></a>Тиждень 07 січня 2019
 
 
-| Опубліковано на |Назву теми | Зміна |
+| Опубліковано на |Назву теми | "Змінити". |
 |------|------------|--------|
 | 1/7/2019 | [Змінити пароль](/AlchemyInsights/change-your-password-in-outlook.com) | додав |
 | 1/7/2019 | [Зміна дозволів на поштову скриньку](/AlchemyInsights/changing-permissions-on-a-mailbox) | додав |
@@ -302,7 +302,7 @@ ms.locfileid: "29383537"
 | 1/10/2019 | [Створити повідомлення сайту](/AlchemyInsights/create-a-communication-site) | додав |
 | 1/10/2019 | [Створити потік](/AlchemyInsights/create-a-flow) | додав |
 | 1/10/2019 | [Створити сайт сучасні групи](/AlchemyInsights/create-a-modern-team-site) | додав |
-| 1/10/2019 | [Створення спільної поштової скриньки](/AlchemyInsights/create-a-shared-mailbox) | додав |
+| 1/10/2019 | Створення спільної поштової скриньки  | додав |
 | 1/10/2019 | [Створення сайту SharePoint](/AlchemyInsights/create-a-sharepoint-site) | додав |
 | 1/10/2019 | [Створити сайт у SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | додав |
 | 1/10/2019 | [Створення та використання спільної поштової скриньки](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | додав |
@@ -599,7 +599,7 @@ ms.locfileid: "29383537"
 | 1/11/2019 | [Створити повідомлення сайту](/AlchemyInsights/create-a-communication-site) | змінено |
 | 1/11/2019 | [Створити потік](/AlchemyInsights/create-a-flow) | змінено |
 | 1/11/2019 | [Створити сайт сучасні групи](/AlchemyInsights/create-a-modern-team-site) | змінено |
-| 1/11/2019 | [Створення спільної поштової скриньки](/AlchemyInsights/create-a-shared-mailbox) | змінено |
+| 1/11/2019 | Створення спільної поштової скриньки  | змінено |
 | 1/11/2019 | [Створення сайту SharePoint](/AlchemyInsights/create-a-sharepoint-site) | змінено |
 | 1/11/2019 | [Створити сайт у SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | змінено |
 | 1/11/2019 | [Створення та використання спільної поштової скриньки](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | змінено |
@@ -637,7 +637,7 @@ ms.locfileid: "29383537"
 ## <a name="week-of-january-14-2019"></a>Тиждень 14 січня 2019
 
 
-| Опубліковано на |Назву теми | Зміна |
+| Опубліковано на |Назву теми | "Змінити". |
 |------|------------|--------|
 | 1, 14, 2019 | Алхімія покажчик місця заповнення | вилучений |
 | 1, 14, 2019 | Додати домен Алхімія | вилучений |
