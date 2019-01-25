@@ -1,5 +1,5 @@
 ---
-title: Варіанти оплати
+title: "\"Способи оплати\"."
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 2130f3fffccdc71e2777991d34ed39402142c23c
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28319860"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496239"
 ---
- **Варіанти оплати**
+ "Способи оплати".
   
 Кредитна картка, банківський рахунок (прямий дебет) і рахунок-фактуру (оплатити замовлення чеком або електронний платіж)
   
@@ -32,7 +32,7 @@ ms.locfileid: "28319860"
   
 При оплаті рахунку за підписку, ви отримаєте лист, який говорить, білінгу заяву готова для перегляду. Цей лист містить копію білінгу заяву. Однак, ви також можете отримати [копію вашого білінгу заяви в електронній пошті](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). Біллінг заяву включає в себе детальну інформацію про ваші варіанти для проведення оплати. Якщо ви введете на номер замовлення (PO), коли ви купуєте підписку, номер відображається в розрахункового рахунку. Докладніше про доступ до заяви біллінг переглянути [подання законопроекту або рахунка-фактури](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
- **Змінити, як ви платите**
+ "Змінити способи оплати".
   
 Якщо ви хотіли б змінити, як ви платити за поточної підписки, виконайте інструкції [тут](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
