@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 5cdb7d8f-b456-446c-9ba4-1427c9bf545a
 description: Почати вашу статтю з дуже короткий вступ (1, пропозиція). Поставте себе на місце читача - чому вони тут? Що вони роблять?
 ms.openlocfilehash: 13828d443e0d97adcd9d7d16e00c774cdd70297b
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28318690"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498071"
 ---
 Почати вашу статтю з дуже короткий вступ (1, пропозиція). Поставте себе на місце читача - чому вони тут? Що вони роблять? 
   

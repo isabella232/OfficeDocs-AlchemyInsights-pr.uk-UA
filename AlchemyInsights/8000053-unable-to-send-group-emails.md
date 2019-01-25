@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28319238"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29495708"
 ---
 # <a name="unable-to-send-group-emails"></a>Не вдається надіслати повідомлення електронної пошти групи
 
@@ -26,7 +26,7 @@ ms.locfileid: "28319238"
     
 2. Якщо ви все ще виникли проблеми створювати повідомлення для групи, йти до [людей](https://outlook.live.com/people/), виберіть список контактів або групу а потім виберіть **надіслати електронною поштою**.
     
- **Примітки:**
+ Примітки
   
 1. Переконайтеся, що ви не маєте заблоковані виринаючі вікна: відправка електронної пошти на сторінці списку контактів відкривається нове вікно.
     
