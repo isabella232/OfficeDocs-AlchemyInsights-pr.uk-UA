@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
 ms.openlocfilehash: e53827376daabae49acde8261ae09a5dd3f439a5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28319615"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29496200"
 ---
-# <a name="create-a-shared-mailbox"></a>Створення спільної поштової скриньки
+# <a name="create-a-shared-mailbox"></a>Створення спільної поштової скриньки 
 
 Спільної поштової скриньки дає змогу кільком надсилати й отримувати електронну пошту для псевдонім, як sales@contoso.com, без призначення іншого ліцензії. Щоб створити спільну поштову скриньку, перейти до [Спільних керівництво електронної пошти](https://portal.office.com/adminportal/home).
   
