@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454451"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454451"
 ## <a name="week-of-january-07-2019"></a>Тиждень 07 січня 2019
 
 
-| Опубліковано на |Назву теми | "Змінити". |
+| Опубліковано на |Назву теми | Зміна |
 |------|------------|--------|
 | 1/7/2019 | [Змінити пароль](/AlchemyInsights/change-your-password-in-outlook.com) | додав |
 | 1/7/2019 | [Зміна дозволів на поштову скриньку](/AlchemyInsights/changing-permissions-on-a-mailbox) | додав |
@@ -302,7 +294,7 @@ ms.locfileid: "29454451"
 | 1/10/2019 | [Створити повідомлення сайту](/AlchemyInsights/create-a-communication-site) | додав |
 | 1/10/2019 | [Створити потік](/AlchemyInsights/create-a-flow) | додав |
 | 1/10/2019 | [Створити сайт сучасні групи](/AlchemyInsights/create-a-modern-team-site) | додав |
-| 1/10/2019 | Створення спільної поштової скриньки  | додав |
+| 1/10/2019 | [Створення спільної поштової скриньки](/AlchemyInsights/create-a-shared-mailbox) | додав |
 | 1/10/2019 | [Створення сайту SharePoint](/AlchemyInsights/create-a-sharepoint-site) | додав |
 | 1/10/2019 | [Створити сайт у SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | додав |
 | 1/10/2019 | [Створення та використання спільної поштової скриньки](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | додав |
@@ -599,7 +591,7 @@ ms.locfileid: "29454451"
 | 1/11/2019 | [Створити повідомлення сайту](/AlchemyInsights/create-a-communication-site) | змінено |
 | 1/11/2019 | [Створити потік](/AlchemyInsights/create-a-flow) | змінено |
 | 1/11/2019 | [Створити сайт сучасні групи](/AlchemyInsights/create-a-modern-team-site) | змінено |
-| 1/11/2019 | Створення спільної поштової скриньки  | змінено |
+| 1/11/2019 | [Створення спільної поштової скриньки](/AlchemyInsights/create-a-shared-mailbox) | змінено |
 | 1/11/2019 | [Створення сайту SharePoint](/AlchemyInsights/create-a-sharepoint-site) | змінено |
 | 1/11/2019 | [Створити сайт у SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | змінено |
 | 1/11/2019 | [Створення та використання спільної поштової скриньки](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | змінено |
@@ -637,9 +629,25 @@ ms.locfileid: "29454451"
 ## <a name="week-of-january-14-2019"></a>Тиждень 14 січня 2019
 
 
-| Опубліковано на |Назву теми | "Змінити". |
+| Опубліковано на |Назву теми | Зміна |
 |------|------------|--------|
 | 1, 14, 2019 | Алхімія покажчик місця заповнення | вилучений |
 | 1, 14, 2019 | Додати домен Алхімія | вилучений |
 | 1, 14, 2019 | [Алхімія Insights будинку](/AlchemyInsights/index) | змінено |
 | 1/17/2019 | [так само, як ім'я файлу є кращим [правило #-Опис]](/AlchemyInsights/1-alchemy-insight-template) | додав |
+
+
+## <a name="week-of-january-21-2019"></a>Тиждень 21 січня 2019
+
+
+| Опубліковано на |Назву теми | Зміна |
+|------|------------|--------|
+| 1/22/2019 | [Антиспам 1047 550 5.7.708 Служба недоступна. Відмовлено у доступі, трафік не приймаються у з цієї IP адреси](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | змінено |
+| 1/22/2019 | [1049 антиспам 4.5.3 занадто багато одержувачів (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | змінено |
+| 1/22/2019 | [1050 антиспам 4.7.500 сервер зайнятий. Будь ласка, спробуйте ще раз пізніше з [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | змінено |
+| 1/22/2019 | [1051 антиспам 4.7.500 відмовлено в доступі, будь ласка, спробуйте ще раз пізніше](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | змінено |
+| 1/22/2019 | [Email реле через Office 365](/AlchemyInsights/relay-email-through-office-365) | змінено |
+| 1/24/2019 | [Керування створення груп](/AlchemyInsights/control-creation-of-groups) | змінено |
+| 1/24/2019 | [Outlook проблеми з Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | додав |
+| 1/24/2019 | [Відновити до Office 365 групи за допомогою Центру адміністрування Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | перейменовано |
+| 1/24/2019 | [Усунення несправностей із Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | перейменовано |
