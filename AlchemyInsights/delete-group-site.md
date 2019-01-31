@@ -3,31 +3,30 @@ title: Видалити групу сайту
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496360"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660692"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Видалити сайт SharePoint, який належить до Office 365 групи
 
-Коли користувачі створюють новий сайт групи SharePoint вдома або створити новий сайт групи з нових preview центр адміністратора SharePoint, відповідні служби Office 365 група створюється автоматично. Office 365 пов'язаних Група вузлів також створюються, створюючи Office 365 група або команди в Microsoft команд. Видалити сайт SharePoint, який належить до Office 365 групи, ви повинні видалити групу Office 365, сама. 
+Глобальні адміністратори та адміністраторів SharePoint Тепер можна видалити сайтів, що належать до групи служби Office 365. Видалення цих сайтів призведе до видалення групи і всі його ресурсів, у тому числі поштової скриньки Outlook і календар і будь-які команди канали.
   
-1. Перейдіть до [групи сторінки центру адміністрування служби Office 365](https://portal.office.com/adminportal/home#/groups).
-    
-2. Установіть прапорець поряд із групою.
-    
-3. Виберіть **Видалити**.
-    
-Примітка: Коли ви видаляєте групу, може бути затримка перед видаленням сайту є з SharePoint.
+Важливо:
+- Ви можете відновити видалену сайти 93 днів. Для отримання додаткової інформації перегляду та відновити видалену сайтів. Зверніть увагу, що видалені групи має бути відновлене протягом 30 днів. 
+- Якщо до сайту є частиною політики збереження, не можна видалити, поки сайт видаляється з у [безпеки &amp; центру адміністрування дотримання](https://protection.office.com/?rfr=AdminCenter#/retention). Переглянути [Огляд політики збереження](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) для отримання додаткової інформації. 
+  
+[Перегляд та відновлення видалених сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)виберіть **Видалити сайти**. Вибрати сайт, який було видалено та оберіть "відновлення" або "Delete, (що призведе до остаточного видалення сайту). Щоб видалити активний центр, виберіть **активних** сайти, виберіть сайт і виберіть **Видалити**. Для отримання додаткових відомостей див. [керування сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

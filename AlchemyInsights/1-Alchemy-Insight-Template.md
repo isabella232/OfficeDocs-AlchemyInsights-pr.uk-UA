@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 9e2a369f4b1bf87da8b12224b5f6e8b1138db9dd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
+ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454235"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662951"
 ---
 # <a name="required-customer-facing-h1-h2-doesnt-work"></a>Необхідні клієнт стикається H1, H2 не працює
 Приклад тексту блок - Дотримуйтесь цих вказівок:
 
-1. Файли в папці **AlchemyInsights** повинна мати правило ID і ім'я правила з [алхімії партнер портал](https://alchemyportal.azurewebsites.net) Грива.
+1. Файли в папці **AlchemyInsights** повинна мати правило ID і ім'я правила з [алхімії партнер портал](https://alchemyportal.azurewebsites.net) в імені файлу.
     1. EX. ***976-How-to-enable-litigation-hold***
 1. Використання метаданих у верхній частині цього файлу як шаблону. Ніщо інше не потрібно.
 1. [Алхімія партнер портал](https://alchemyportal.azurewebsites.net), перейдіть до розділу **замовника Insight заголовок:** і використовувати його як відправна точка для H1 заголовок, за розуміння. 
@@ -34,3 +34,8 @@ ms.locfileid: "29454235"
     1. Посилання повинні бути завжди або **"посилання" / зовнішні** OR **глибокі посилання на елементи Інтерфейсу**, не внутрішні посилання.
 
 І це дійсно вже трохи занадто довго. Найкраща практика становить близько 400 символів--
+
+Як тільки ваш контент буде готовий, відповідне вікно виходить жити відділення. Потім перейдіть до [алхімії партнер портал](https://alchemyportal.azurewebsites.net) і введіть ім'я файлу в полі url. Переконайтеся, що Insight переглянуті та опубліковані каже "так" і виберіть правило оновлення. (Це буде виглядати красивіше, до нової версії порталу - звільнення незабаром).
+
+![URL поля](media/for-content-team.PNG)
+

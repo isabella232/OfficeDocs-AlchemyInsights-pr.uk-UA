@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 4f05d1e94e7b44ccf2034c2d01e4e4c9216e94bd
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 99ce258f5d3b18db1df3cad492f24ca75a23e93a
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496342"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660908"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Перемикач планує збільшити розмір поштової скриньки
 
-Якщо розмір поштової скриньки становить 50 ГБ, ви можете збільшити розмір поштової скриньки до 100 ГБ Переключившись на [Office 365 підприємство E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) або [Office 365 E5 підприємства](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Ось кроки, щоб переключитися на інший план Office 365:
+Якщо розмір поштової скриньки становить 50 ГБ, ви можете збільшити розмір поштової скриньки до 100 ГБ Переключившись на [Office 365 підприємство E3](https://products.office.com/business/office-365-enterprise-e3-business-software) або [Office 365 E5 підприємства](https://products.office.com/business/office-365-enterprise-e5-business-software). Ось кроки, щоб переключитися на інший план Office 365:
   
 1. В Office 365 Центр адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Billing** \> **підписки**.
     
