@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496088"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646404"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>Видалити сайти, які належать до групи служби Office 365:
 
@@ -30,7 +30,7 @@ ms.locfileid: "29496088"
     
 Примітка: Коли ви видаляєте групу, може бути затримка перед видаленням сайту є з SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>Видалення зв'язку сайтів або класичний сайтів:
+**Видалення зв'язку сайтів або класичний сайтів:**
 
 1. Перейти до веб-сайту.
   
@@ -38,7 +38,7 @@ ms.locfileid: "29496088"
   
 3. Натисніть кнопку **Параметри сайту**. У розділі **Відомості сайту** або **Дії сайту**натисніть кнопку **видалити цей сайт**і натисніть кнопку **Видалити**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>Видалити колекцію сайтів SharePoint:
+**Видалити колекцію сайтів SharePoint:**
 
 Щоб видалити колекцію класичний сайтів:
   
@@ -46,7 +46,7 @@ ms.locfileid: "29496088"
     
 2. На вкладці колекцій сайтів виберіть **Видалити.**
     
-## <a name="deleted-a-site-by-accident"></a>Видалені сайт випадково?
+**Видалені сайт випадково?**
 
 Переглянути [відновити видалену вузлів](https://go.microsoft.com/fwlink/?linkid=867660).
   
