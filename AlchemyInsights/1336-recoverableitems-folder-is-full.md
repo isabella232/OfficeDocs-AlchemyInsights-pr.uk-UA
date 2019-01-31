@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495808"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655688"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Папки «Відновлювані» заповнено
 
@@ -36,7 +36,7 @@ ms.locfileid: "29495808"
     
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Для поштових скриньок, які знаходяться на утриманні адміністратори повинні видалити утримання, перш ніж вони можуть видалені елементи з папки «Відновлювані». Докладніше перегляньте [видалення елементів у відновлювані папку хмарних поштових скриньок на утримуйте](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Для поштових скриньок, які знаходяться на утриманні адміністратори повинні видалити утримання, перш ніж вони можуть видалені елементи з папки «Відновлювані». Докладніше перегляньте [видалення елементів у відновлювані папку хмарних поштових скриньок на утримуйте](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Щоб запобігти папки «Відновлювані» стає повний, адміністратори можуть збільшити зберігання Відновлювані папку для поштових скриньок на провести і настроїти політику збереження поштової скриньки, який переміщує елементи з папки «Відновлювані» до архіву користувача Поштова скринька. Переглянути [збільшити Відновлювані квоти поштових скриньок на утримуйте](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

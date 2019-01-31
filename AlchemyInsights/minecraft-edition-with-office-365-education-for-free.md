@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 17304586ab659d81099091df5836985bf15992e7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4310c499b8b19f5712bebed7e8a6666e4b602fda
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496078"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657560"
 ---
-[Безкоштовно освіти для Minecraft видання з Office 365](https://docs.microsoft.com/en-us/education/windows/get-minecraft-for-education)
+[Безкоштовно освіти для Minecraft видання з Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
 - **Minecraft: Освіта видання** вимагає версії 10 
     
 - Випробування або підписки з **Minecraft: Освіта видання** пропонуються для орендарів освіти, які перебувають в управлінні Azure Active Directory (AD блакитні) 
     
-  - Якщо ваша школа не має на блакитні оголошення орендар, до [ІТ-адміністратора це можна зробити](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft) в рамках процесу отримання **Minecraft: Освіта видання**.
+  - Якщо ваша школа не має на блакитні оголошення орендар, до [ІТ-адміністратора це можна зробити](https://docs.microsoft.com/education/windows/school-get-minecraft) в рамках процесу отримання **Minecraft: Освіта видання**.
     
   - Office 365 освіти, яка включає в себе онлайн-версії Office apps плюс 1 ТБ онлайн зберігання є безкоштовним для викладачів і студентів. [Зареєструватися школи для Office 365 освіти](https://products.office.com/academic/office-365-education-plan).
     
   - Якщо ваша школа має Office 365 освіти підписки, вона включає в себе безкоштовну блакитні оголошення підписки. [Зареєструватися безкоштовні оголошення блакитні підписки](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
     
-[Дізнатися, як вчителі можуть отримати і поширювати Minecraft: Освіта видання](https://docs.microsoft.com/en-us/education/windows/teacher-get-minecraft).
+[Дізнатися, як вчителі можуть отримати і поширювати Minecraft: Освіта видання](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[Дізнатися, як отримати та розповсюджувати Minecraft адміністраторів: Освіта видання](https://docs.microsoft.com/en-us/education/windows/school-get-minecraft)і те, як керувати дозволами для Minecraft.
+[Дізнатися, як отримати та розповсюджувати Minecraft адміністраторів: Освіта видання](https://docs.microsoft.com/education/windows/school-get-minecraft)і те, як керувати дозволами для Minecraft.
   
 

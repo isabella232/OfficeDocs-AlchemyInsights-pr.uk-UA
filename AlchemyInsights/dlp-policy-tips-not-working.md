@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: c263f8b1692f5116222d753964e6a9e16eb5d1ac
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c59fb005168e02b4aa8dda26b335ac763ab61aa0
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495406"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657799"
 ---
 При використанні **DLP політики**, користувачів може бути повідомлені про порушення політики з **політики поради**. Адміністратори можуть настроїти політики поради для відображення під час тестування їх DLP політики або під час політика в режимі повного виконання. 
   
 Для настроювання політики поради про ваш DLP політики в центрі безпека та відповідність вимогам у режимі повного виконання виконайте такі дії.
   
-- Забезпечити політики поради був **включений** на DLP правило, виконавши дії, описані [тут](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips).
+- Забезпечити політики поради був **включений** на DLP правило, виконавши дії, описані [тут](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
-- Забезпечити ваш **вміст відповідає** **необхідних** для ініціювання правила, викладені в цій статті [тут](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- Забезпечити ваш **вміст відповідає** **необхідних** для ініціювання правила, викладені в цій статті [тут](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
     
-- Політика поради відображення в OWA та Outlook. Однак, при використанні **Outlook 2013 року або пізніше**, поради політика тільки відображаються за певних умов. Тут перераховані ці умови: [Підтримувані умови для Outlook 2013 року або пізніше, при відображенні політики поради](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- Політика поради відображення в OWA та Outlook. Однак, при використанні **Outlook 2013 року або пізніше**, поради політика тільки відображаються за певних умов. Тут перераховані ці умови: [Підтримувані умови для Outlook 2013 року або пізніше, при відображенні політики поради](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
     
-Додаткові відомості про DLP політики поради: [показувати поради політики для DLP політик](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
+Додаткові відомості про DLP політики поради: [показувати поради політики для DLP політик](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
 

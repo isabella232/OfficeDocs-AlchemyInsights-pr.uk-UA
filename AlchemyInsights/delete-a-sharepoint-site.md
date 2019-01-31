@@ -2,51 +2,30 @@
 title: Видалення сайту SharePoint
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29496243"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660037"
 ---
 # <a name="delete-a-sharepoint-site"></a>Видалення сайту SharePoint
-
- **Видалити сайти, які належать до групи служби Office 365:**
+ **Видалити сайти із нового центру адміністрування SharePoint**
   
-Коли користувачі створюють новий сайт групи SharePoint вдома або створити новий сайт групи з нових preview центр адміністратора SharePoint, відповідні служби Office 365 група створюється автоматично. Office 365 пов'язаних Група вузлів також створюються, створюючи Office 365 група або команди в Microsoft команд. Видалити сайт SharePoint, який належить до Office 365 групи, ви повинні видалити групу Office 365, сама. 
+Видалити активний центр, перейдіть до поточного центру адміністрування SharePoint, натисніть кнопку "Спробувати зараз" у правому верхньому кутку. Оберіть **активні ділянки**, виберіть сайт та клацніть **Видалити**. [Перегляд та відновлення видалених сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)виберіть **Видалити сайти**. Для отримання додаткових відомостей див. [керування сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Перейдіть до [групи сторінки центру адміністрування служби Office 365](https://portal.office.com/adminportal/home#/groups).
+**Важливі:** Якщо до сайту є частиною політики збереження, не можна видалити, поки сайт видаляється з у [безпеки &amp; центру адміністрування дотримання](https://protection.office.com/?rfr=AdminCenter#/homepage). Переглянути [Огляд політики збереження](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) для отримання додаткової інформації. 
   
-2. Установіть прапорець поряд із групою.
-  
-3. Виберіть **Видалити**. 
-  
-Примітка: Коли ви видаляєте групу, може бути затримка перед видаленням сайту є з SharePoint.
-  
- **Видалення зв'язку сайтів або класичний сайтів:**
-  
-1. Перейти до веб-сайту.
-  
-2. Натисніть на * * налаштування * * (передач колесо значок) у правому верхньому кутку. 
-  
-3. Натисніть кнопку **Параметри сайту**. У розділі **Відомості сайту** або **Дії сайту**натисніть кнопку **видалити цей сайт**і натисніть кнопку **Видалити**. 
-  
- **Видалити колекцію сайтів SharePoint:**
-  
-Щоб видалити колекцію класичний сайтів:
-  
-1. Класичний центру адміністрування SharePoint, на сторінці колекції сайтів установіть **прапорець** поруч із колекції сайтів. 
-  
-2. На вкладці колекцій сайтів виберіть **Видалити.**
-  
- **Видалені сайт випадково?**
-  
-Переглянути [відновити видалену вузлів](https://go.microsoft.com/fwlink/?linkid=867660).
+Поради:
+- Глобальні адміністратори та адміністраторів SharePoint Тепер можна видалити сайти, які належать до **Групи Office 365**. Буде видалено всі свої ресурси, включаючи поштової скриньки Outlook і календар і будь-які команди канали і групи. Для отримання додаткових відомостей див. [видалити сайт SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Ви можете відновити видалену сайти 93 днів. Зверніть увагу, що видалені групи має бути відновлене протягом 30 днів. Для отримання додаткової інформації див [вигляд і відновити видалені сайтів](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Щоб повністю видалити сайт з Powershell, дивіться приклад командлета [Видалити SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) . 
   
 
