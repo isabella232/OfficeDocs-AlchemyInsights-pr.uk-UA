@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662951"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697151"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Необхідні клієнт стикається H1, H2 не працює
-Приклад тексту блок - Дотримуйтесь цих вказівок:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Необхідні Алхімія заголовка H1, H2, не працюють.
+Кращі практики і рекомендацій щодо авторинга алхімії:
 
+1. **Не гніздяться Алхімія Insights в папках**- це буде ламатися структуру URL-адреси. Ми дивимося на такі виправлення.
 1. Файли в папці **AlchemyInsights** повинна мати правило ID і ім'я правила з [алхімії партнер портал](https://alchemyportal.azurewebsites.net) в імені файлу.
     1. EX. ***976-How-to-enable-litigation-hold***
 1. Використання метаданих у верхній частині цього файлу як шаблону. Ніщо інше не потрібно.
@@ -35,7 +36,6 @@ ms.locfileid: "29662951"
 
 І це дійсно вже трохи занадто довго. Найкраща практика становить близько 400 символів--
 
-Як тільки ваш контент буде готовий, відповідне вікно виходить жити відділення. Потім перейдіть до [алхімії партнер портал](https://alchemyportal.azurewebsites.net) і введіть ім'я файлу в полі url. Переконайтеся, що Insight переглянуті та опубліковані каже "так" і виберіть правило оновлення. (Це буде виглядати красивіше, до нової версії порталу - звільнення незабаром).
-
-![URL поля](media/for-content-team.PNG)
+Як тільки ваш контент буде готовий, відповідне вікно виходить жити відділення. Потім перейдіть до [алхімії партнер портал](https://alchemyportal.azurewebsites.net) і введіть ім'я файлу в полі url. Переконайтеся, що Insight переглянуті та опубліковані каже "так" і виберіть правило оновлення. **(Це буде виглядати красивіше, до нової версії порталу - звільнення незабаром).** 
+ ![поле url](media/for-content-team.PNG)
 
