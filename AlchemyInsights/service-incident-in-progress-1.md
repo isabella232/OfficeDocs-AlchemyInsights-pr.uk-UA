@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 2ed85d10-162f-4e4a-a843-7ad20e00a077
-ms.openlocfilehash: dba1df3ec66dc5fceb488843610d375b81fd15c7
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 434bd76952899866290283733ac60a6fbb3203d3
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29495375"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759985"
 ---
 # <a name="service-incident-in-progress"></a>Обслуговування інциденту в прогрес
 
-Ви можуть впливати на обслуговування інциденту або консультативної які в даний час ведеться розслідування. Ви можете перевірити найновішого стану, перейшовши на сторінку [Служба охорони здоров'я](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth) . 
+Ви можуть впливати на обслуговування інциденту або консультативної які в даний час ведеться розслідування. Ви можете перевірити найновішого стану, перейшовши на сторінку [Служба охорони здоров'я](https://admin.microsoft.com/adminportal/home#/servicehealth) . 
   
 Для вашої зручності ви можете знайти резюме цього інциденту нижче:
   
-> **Інцидент номер:** [{IncidentId}](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/servicehealth)
+> **Інцидент номер:** [{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Вплинути на Опис: {ImpactDescription}
     
