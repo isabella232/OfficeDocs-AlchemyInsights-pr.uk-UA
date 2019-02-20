@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: f9529dc92637e6b6174ff3cb8d1587ab2dffd0e2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: da3d35e5f86f2b76fe6bd25829458b1b2d1a1e9a
+ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927525"
+ms.lasthandoff: 02/19/2019
+ms.locfileid: "30088134"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Відновлення видаленої поштової скриньки
 
@@ -33,6 +33,6 @@ ms.locfileid: "29927525"
     
 3. Призначити ліцензії на Exchange Online та натисніть **зберегти**
     
-Якщо ви намагаєтеся відновити поштову скриньку Shared, це також можна відновити на 30 днів. Ви можете знайти їх у розділі **користувачі** \> **Видалені** користувачі. Спільних поштових скриньок не потрібна ліцензія. 
+Якщо ви намагаєтеся відновити поштову скриньку Shared, це також можна відновити на 30 днів. Ви можете знайти їх у розділі **користувачі** \> **Видалені** користувачі; спільних поштових скриньок не потрібна ліцензія. Якщо ви розумієте, що потрібно відновити видалені користувачем, будь ласка, дивіться, [відновити користувача у службі Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/restore-user).
   
 
