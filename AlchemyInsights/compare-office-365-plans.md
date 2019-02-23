@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919461"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208104"
 ---
 # <a name="compare-office-365-plans"></a>Порівняйте плани Office 365
 
@@ -26,7 +26,7 @@ Office 365 плани доступні для [бізнесу](https://products.
   
 Якщо ваша організація зацікавлена в порівняння всіх планів та ціноутворення, огляд, [у спокійній атмосфері порівняйте всі плани Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Якщо ваша організація вже придбали план Office 365, зацікавлена в переключення на інший план можна так з Office 365 центру адміністрування, перейти до [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054), або вибрати **Billing** \> **підписки**. Вибрати **перемикач плани** для перегляду списку нові плани, які доступні. 
+Якщо ваша організація вже придбали план Office 365, зацікавлена в переключення на інший план можна так від центру адміністрування Microsoft Outlook 365 перейти до [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054), або вибрати **Billing** \> **підписки**. Вибрати **перемикач плани** для перегляду списку нові плани, які доступні. 
   
 Організації можуть також змішувати і поєднувати Office 365 плани для задоволення потреб і вимог функція користувачів. Від адміністратора Office 365, перейдіть на сторінку [Покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) , або вибрати **виставлення рахунків** \> **Купівлю послуг**.
   

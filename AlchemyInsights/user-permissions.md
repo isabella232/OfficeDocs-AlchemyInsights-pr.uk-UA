@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941133"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209866"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Дозволи користувачів SharePoint і OneDrive
 
 Якщо користувач в організації не мати доступ до SharePoint або OneDrive, переконайтеся, що вони мають ліцензії, що включає в себе SharePoint і OneDrive. 
   
-1. Перейдіть на [сторінку активних користувачів в Office 365 центру адміністрування](https://portal.office.com/adminportal/home#/users) і виберіть користувача. 
+1. Перейдіть на [сторінку активних користувачів Microsoft Outlook 365 центру адміністрування](https://portal.office.com/adminportal/home#/users) і виберіть користувача. 
     
 2. Переконайтеся, що під **продукту ліцензії**, отримує ліцензію і **SharePoint Online** вибрано. 
     

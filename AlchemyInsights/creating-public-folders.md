@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f8699c8-1eb6-4f5e-8c06-08e960092b1a
-ms.openlocfilehash: 5cbc69c723b311f4e1c5b8fb2831c878641a065d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ec33ae6f35f22666185ae3e45c2222329e8f9207
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914169"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208138"
 ---
 # <a name="creating-public-folders"></a>Створення спільних папок
 
 Перед тим, як ваші користувачі можуть використовувати спільні папки у службі Office 365, вам потрібно буде створити хоча б одну спільну папку поштової скриньки. Створити:
   
-1. В Office 365 центру адміністрування, перейти до **адмін центрів** \> **обміну**.
+1. У Microsoft Outlook 365 центру адміністрування, перейти до **адміністратора центрів** \> **обміну**.
     
 2. Перейти до **спільних папок** \> **спільної папки поштових скриньок**та клацніть **Додати**.
     

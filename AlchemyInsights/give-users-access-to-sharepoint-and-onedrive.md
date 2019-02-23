@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933861"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209758"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Надати користувачам доступ до SharePoint і OneDrive
 
 > [!NOTE]
 > Якщо сайт OneDrive або SharePoint недоступний для декількох користувачів, які раніше мали доступ, може бути тимчасова служби питання. [Перевірте службу здоров'я приладної дошки](https://portal.office.com/adminportal/home#/servicehealth)
   
-Якщо потрібно, щоб люди у вашій організації, щоб мати можливість входити та використовувати SharePoint і OneDrive, вам потрібно додати облікові записи для них і переконайтеся, що вони мають ліцензію, яка дає їм доступ до SharePoint і OneDrive. Найлегший спосіб додавання користувачів є центру адміністрування служби Office 365.
+Якщо потрібно, щоб люди у вашій організації, щоб мати можливість входити та використовувати SharePoint і OneDrive, вам потрібно додати облікові записи для них і переконайтеся, що вони мають ліцензію, яка дає їм доступ до SharePoint і OneDrive. Найлегший спосіб додавання користувачів є Microsoft Outlook 365 центру адміністрування.
   
-1. Перейдіть на [сторінку активних користувачів в Office 365 центру адміністрування](https://portal.office.com/adminportal/home#/users)і натисніть кнопку **Додати користувача**.
+1. Перейдіть на [сторінку активних користувачів Microsoft Outlook 365 центру адміністрування](https://portal.office.com/adminportal/home#/users)і натисніть кнопку **Додати користувача**.
     
 2. Введіть відомості для користувача і переконайтеся, що під **продукту ліцензії**, ліцензії присвоюється і **SharePoint Online** вибрано. 
     
