@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
-ms.openlocfilehash: e92c0a1f08d56128a1dc04022af2cbba78dd3909
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 67a16f6c3bae7b797cee4e823741a2196cd6d426
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29928677"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244278"
 ---
 # <a name="change-your-email-name-in-outlookcom"></a>Змінити ім'я електронної пошти в Outlook.com
 
@@ -32,7 +32,7 @@ ms.locfileid: "29928677"
   
 1. В Outlook.com скласти нового повідомлення або відповідь на повідомлення.
     
-2. У вікні Створити повідомлення виберіть ![більш Група дій значок. ](media/b97ea7cd-eeb0-49c5-a564-7ca2d2e33909.png) \> **Показати від** побачити рядок From. 
+2. У вікні Створити повідомлення виберіть "..." \> **Показати від** побачити рядок From. 
     
 3. Вибрати **з** і вибрати яку адресу електронної пошти, ви хочете використовувати. 
     
