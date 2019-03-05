@@ -3,22 +3,6 @@
 
 
 
-## <a name="week-of-january-21-2019"></a>Тиждень 21 січня 2019
-
-
-| Опубліковано на |Назву теми | Зміна |
-|------|------------|--------|
-| 1/22/2019 | [Антиспам 1047 550 5.7.708 Служба недоступна. Відмовлено у доступі, трафік не приймаються у з цієї IP адреси](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | змінено |
-| 1/22/2019 | [1049 антиспам 4.5.3 занадто багато одержувачів (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | змінено |
-| 1/22/2019 | [1050 антиспам 4.7.500 сервер зайнятий. Будь ласка, спробуйте ще раз пізніше з [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | змінено |
-| 1/22/2019 | [1051 антиспам 4.7.500 відмовлено в доступі, будь ласка, спробуйте ще раз пізніше](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | змінено |
-| 1/22/2019 | [Email реле через Office 365](/AlchemyInsights/relay-email-through-office-365) | змінено |
-| 1/24/2019 | [Керування створення груп](/AlchemyInsights/control-creation-of-groups) | змінено |
-| 1/24/2019 | [Outlook проблеми з Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | додав |
-| 1/24/2019 | [Відновити до Office 365 групи за допомогою Центру адміністрування Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | перейменовано |
-| 1/24/2019 | [Усунення несправностей із Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | перейменовано |
-
-
 ## <a name="week-of-january-28-2019"></a>Тиждень з 28 січня 2019
 
 
@@ -734,3 +718,57 @@
 | 2/22/2019 | [Дозволи користувачів](/AlchemyInsights/user-permissions) | змінено |
 | 2/22/2019 | [Коли генерується білінгу заяву?](/AlchemyInsights/when-is-the-billing-statement-generated) | змінено |
 | 2/22/2019 | [Як перевірити домену у службі Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | змінено |
+
+
+## <a name="week-of-february-25-2019"></a>Тиждень 25 лютого 2019
+
+
+| Опубліковано на |Назву теми | Зміна |
+|------|------------|--------|
+| 2/25/2019 | [1800014 отримати в app підтримку для Outlook мобільний додаток](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | змінено |
+| 2/25/2019 | [1800014 Настроювання електронної пошти в Outlook мобільний додаток](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | змінено |
+| 2/25/2019 | [8000001 вимкнути спрямовані "Вхідні"](/AlchemyInsights/8000001-turn-off-focused-inbox) | змінено |
+| 2/25/2019 | [8000009 створення папки в Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | змінено |
+| 2/25/2019 | [8000012 видалити контакт в Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | змінено |
+| 2/25/2019 | [8000013 зміна шрифту в Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | змінено |
+| 2/25/2019 | [8000014 як змінити мову в Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | змінено |
+| 2/25/2019 | [8000015 заблокувати або розблокувати відправників](/AlchemyInsights/8000015-block-or-unblock-senders) | змінено |
+| 2/25/2019 | [8000015 отримання електронної пошти від заблокованих відправників в Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | змінено |
+| 2/25/2019 | [8000029 боротися з фішинг в Outlook.com](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | змінено |
+| 2/25/2019 | [8000029 мати справу з спам в Outlook.com](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | змінено |
+| 2/25/2019 | [8000029 боротьби зі спамом або фішингом, в Outlook.com](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | змінено |
+| 2/25/2019 | [8000033 як відповісти або пересилати повідомлення в бета-версії Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | змінено |
+| 2/25/2019 | [8000034 про прочитання в Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | змінено |
+| 2/25/2019 | [8000036 змінити ім'я електронної пошти в Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | змінено |
+| 2/25/2019 | [8000046 друк електронна пошта та календарі в Outlook.com](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | змінено |
+| 2/25/2019 | [8000047 як створити підпис електронної пошти в Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | змінено |
+| 2/25/2019 | [8000052 вкласти файли в Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | змінено |
+| 2/25/2019 | [8000059 як змінити тему дії (ФМС)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | змінено |
+| 2/25/2019 | [Рекомендований кроки зробити, якщо скомпрометований обліковий запис](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | змінено |
+| 2/26/2019 | [Відновлення видаленої Група Office 365](/AlchemyInsights/restore-a-deleted-office-365-group) | змінено |
+| 2/26/2019 | [9000215 Outlook.com підписки](/AlchemyInsights/9000215-outlook-com-subscriptions) | додав |
+| 2/27/2019 | [9000199 PST файлів в Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | додав |
+| 2/27/2019 | [9000202 параметри Outlook.com](/AlchemyInsights/9000202-outlook-com-options) | додав |
+| 2/27/2019 | [9000203 фільтри Outlook.com](/AlchemyInsights/9000203-outlook-com-filters) | додав |
+| 2/28/2019 | [8000036 змінити профіль pic/ім'я в Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | додав |
+| 2/28/2019 | [8000049 Skype значок зниклих без вести в Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | додав |
+| 2/28/2019 | [8000088 збереження електронної пошти в Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | додав |
+| 2/28/2019 | [9000071 неможливо ввести @ символом на Mac](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | додав |
+| 2/28/2019 | [9000193 скасування переміщення або видалення в Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | додав |
+| 2/28/2019 | [Бета 9000198 Outlook.com календар](/AlchemyInsights/9000198-outlook-com-calendar-beta) | додав |
+| 1/3/2019 | [8000035 з проханням відкотити від Outlook.com бета до класичних Outlook.com](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | додав |
+| 1/3/2019 | [8000035-як зробити новий вигляд Outlook.com, як старий](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | додав |
+| 1/3/2019 | [8000043 POP, IMAP і SMTP настройки для Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | додав |
+| 1/3/2019 | [8000090 Outlook.com виділити все](/AlchemyInsights/8000090-outlook-com-select-all) | додав |
+| 1/3/2019 | [8000091 Outlook.com реагувати спливаючих](/AlchemyInsights/8000091-outlook-com-react-pop-up) | додав |
+| 1/3/2019 | [8000092 Outlook.com перегляд повідомлення HTML-коду](/AlchemyInsights/8000092-outlook-com-view-message-source) | додав |
+| 1/3/2019 | [8000093 дозволи облікового запису Outlook.com, пов'язані](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | додав |
+| 1/3/2019 | [1800009Outlook для Mac-app підтримки](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | змінено |
+| 1/3/2019 | [8000057 безпечний посилання в Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | змінено |
+| 1/3/2019 | [9000232 Outlook.com адресної книги](/AlchemyInsights/9000232-outlook-com-address-book) | додав |
+| 1/3/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/9000233-outlook-com-pin) | додав |
+| 1/3/2019 | [9000234 Outlook.com внутрішня помилка сервера](/AlchemyInsights/9000234-outlook-com-internal-server-error) | додав |
+| 1/3/2019 | [9000236 Outlook.com додати обліковий запис](/AlchemyInsights/9000236-outlook-com-add-account) | додав |
+| 1/3/2019 | [9000238 Outlook.com додати псевдонім](/AlchemyInsights/9000238-outlook-com-add-alias) | додав |
+| 1/3/2019 | [9000239 перенаправлення Outlook.com](/AlchemyInsights/9000239-outlook-com-forwarding) | додав |
+| 1/3/2019 | [9000240 відповіді Outlook.com](/AlchemyInsights/9000240-outlook-com-replies) | додав |

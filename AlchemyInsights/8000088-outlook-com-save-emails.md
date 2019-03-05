@@ -10,12 +10,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
-ms.openlocfilehash: 800fde849db0f1d3673a7144bc83b83e0ee7ace8
-ms.sourcegitcommit: e3df67530bd5205410acf5beba4a07acab9692f0
+ms.openlocfilehash: 27f7c36576c7be4fab824df1a22bf0bde7047341
+ms.sourcegitcommit: b1fef941ee5c1392a6b05f6f1ba92080b99d8589
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30347428"
+ms.lasthandoff: 03/04/2019
+ms.locfileid: "30376093"
 ---
 # <a name="saving-messages-in-outlookcom"></a>Збереження повідомлення в Outlook.com
 
@@ -29,4 +29,4 @@ ms.locfileid: "30347428"
 4. Виберіть пункт **Друк**.
 5. Введіть ім'я файлу, а потім виберіть **зберегти**.
 
-Примітка: Це не рекомендується на спільні або громадські комп'ютери як інші користувачі можуть мати доступ до будь-якого PDF-файлів зберегти до комп'ютера а не видаляються.
+**Примітка:** Це не рекомендується на спільні або громадські комп'ютери як інші користувачі можуть мати доступ до будь-якого PDF-файлів зберегти до комп'ютера а не видаляються.
