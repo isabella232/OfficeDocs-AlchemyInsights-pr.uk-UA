@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904881"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30469008"
 ---
 # <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Оновлення до повної версії Microsoft команд
 
-Можна оновити із Microsoft команд (безкоштовно) на повну версію Microsoft команди кожного разу, коли ви будете готові.
-  
-Найкращий спосіб, щоб почати процес оновлення є команду **назвемо ви** нижче. 
-  
-Підтримка агент зв'яжеться Довідка виберіть план Office 365, введіть контакту та платіжної інформації, виберіть ім'я домену org і оновити ваш член реєстру.
-  
+Необхідно оновити до повної версії Microsoft команд у вільний? Переглянути [Оновлення Microsoft команд безкоштовну версію Office 365](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)
+
+Ви повинні будете відповідає цим вимогам:
+- Ви людина, хто підписався на поточну версію безкоштовно команд.
+- Якщо у вас є свій власний домен, це вже не можуть бути пов'язані з Azure Active Directory.
+- Для передачі даних під час оновлення, ви повинні підписатися під час оновлення. Якщо ви купили Office 365 за межами процес оновлення, не можна передавати дані.
+
 
