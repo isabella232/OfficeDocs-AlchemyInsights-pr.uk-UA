@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939332"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634525"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Необхідні Алхімія заголовка H1, H2, не працюють.
 Кращі практики і рекомендацій щодо авторинга алхімії:
 
 1. **Не гніздяться Алхімія Insights в папках**- це буде ламатися структуру URL-адреси. Ми дивимося на такі виправлення.
 1. Файли в папці **AlchemyInsights** повинна мати правило ID і ім'я правила з [алхімії партнер портал](https://alchemyportal.azurewebsites.net) в імені файлу.
-    1. EX. ***976-How-to-enable-litigation-hold***
+    1. EX. ***976-How-To-Enable-Litigation-Hold***
 1. Використання метаданих у верхній частині цього файлу як шаблону. Ніщо інше не потрібно.
 1. [Алхімія партнер портал](https://alchemyportal.azurewebsites.net), перейдіть до розділу **замовника Insight заголовок:** і використовувати його як відправна точка для H1 заголовок, за розуміння. 
     > [!NOTE]
@@ -36,6 +36,6 @@ ms.locfileid: "29939332"
 
 І це дійсно вже трохи занадто довго. Найкраща практика становить близько 400 символів--
 
-Як тільки ваш контент буде готовий, відповідне вікно виходить жити відділення. Потім перейдіть до [алхімії партнер портал](https://alchemyportal.azurewebsites.net) і введіть ім'я файлу в полі url. Переконайтеся, що Insight переглянуті та опубліковані каже "так" і виберіть правило оновлення. **(Це буде виглядати красивіше, до нової версії порталу - звільнення незабаром).** 
+Як тільки ваш контент буде готовий, відповідне вікно виходить жити відділення. Потім перейдіть до [алхімії партнер портал](https://alchemyportal.azurewebsites.net) і введіть ім'я файлу в полі url. Переконайтеся, що Insight переглянуті та опубліковані каже "так" і виберіть правило оновлення. **(Це буде виглядала до нової версії порталу - незабаром випускати.)** 
  ![поле url](media/for-content-team.PNG)
 
