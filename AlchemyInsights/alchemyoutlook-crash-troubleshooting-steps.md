@@ -9,25 +9,25 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 5e54975a9783490c406a15e6572f3858c7123bb7
-ms.sourcegitcommit: 6bd248764239282688cac98347c2356b701389e4
+ms.openlocfilehash: 096e98335f99a28a9d7dba215ccc5334caf9f137
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29968438"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758379"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a><span data-ttu-id="4084c-102">Outlook аварії методи виправлення неполадки</span><span class="sxs-lookup"><span data-stu-id="4084c-102">Outlook crash troubleshooting steps</span></span>
+# <a name="outlook-crash-troubleshooting-steps"></a><span data-ttu-id="7b98d-102">Outlook аварії методи виправлення неполадки</span><span class="sxs-lookup"><span data-stu-id="7b98d-102">Outlook crash troubleshooting steps</span></span>
 
-<span data-ttu-id="4084c-103">Якщо виникають проблеми Outlook робочого стола аварії, почніть з нижченаведені 3 кроки, що всі перелічені в деталях в цій статті: [як виправити неполадки, які викликають Outlook до збою або зависає під час використання з Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)</span><span class="sxs-lookup"><span data-stu-id="4084c-103">If you are having Outlook desktop crash issues, start by following the 3 steps below, which are all listed in detail in this article: [How to troubleshoot issues that cause Outlook to crash or hang when used with Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)</span></span>
+<span data-ttu-id="7b98d-103">Якщо виникають проблеми Outlook робочого стола аварії, почніть з нижченаведені 3 кроки, що всі перелічені в деталях в цій статті: [як виправити неполадки, які викликають Outlook до збою або зависає під час використання з Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)</span><span class="sxs-lookup"><span data-stu-id="7b98d-103">If you are having Outlook desktop crash issues, start by following the 3 steps below, which are all listed in detail in this article: [How to troubleshoot issues that cause Outlook to crash or hang when used with Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)</span></span>
   
-<span data-ttu-id="4084c-104">Крок 1: Досліджувати можливі проблеми з надбудови.</span><span class="sxs-lookup"><span data-stu-id="4084c-104">Step 1: Investigate possible issues with add-ins.</span></span>
+<span data-ttu-id="7b98d-104">Крок 1: Досліджувати можливі проблеми з надбудови.</span><span class="sxs-lookup"><span data-stu-id="7b98d-104">Step 1: Investigate possible issues with add-ins.</span></span>
   
-<span data-ttu-id="4084c-105">Крок 2: Ремонт Outlook і запустити [підтримку і помічник відновлення інструмент для виправлення помилки запуску Outlook](https://aka.ms/SaRA-OutlookWontStart) на уражені машині.</span><span class="sxs-lookup"><span data-stu-id="4084c-105">Step 2: Repair Outlook and run the [Support and Recovery Assistant tool to troubleshoot Outlook startup errors](https://aka.ms/SaRA-OutlookWontStart) on the affected machine.</span></span> 
+<span data-ttu-id="7b98d-105">Крок 2: Ремонт Outlook і запустити [підтримку і помічник відновлення інструмент для виправлення помилки запуску Outlook](https://aka.ms/SaRA-OutlookWontStart) на уражені машині.</span><span class="sxs-lookup"><span data-stu-id="7b98d-105">Step 2: Repair Outlook and run the [Support and Recovery Assistant tool to troubleshoot Outlook startup errors](https://aka.ms/SaRA-OutlookWontStart) on the affected machine.</span></span> 
   
-<span data-ttu-id="4084c-106">Крок 3: Створити новий профіль Outlook, або ви можете запустити [засіб профіль Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на уражені машина.</span><span class="sxs-lookup"><span data-stu-id="4084c-106">Step 3: Create a new Outlook profile or you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> 
+<span data-ttu-id="7b98d-106">Крок 3: Створити новий профіль Outlook, або ви можете запустити [засіб профіль Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на уражені машина.</span><span class="sxs-lookup"><span data-stu-id="7b98d-106">Step 3: Create a new Outlook profile or you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> 
   
-<span data-ttu-id="4084c-p101">Якщо проблеми виникли після оновлення і вище кроки не працюють, може знадобитися повернутися до попередніх побудувати. Подивимося, [як повернутися до попередньої версії Office 2013 або натисніть 2016 Office-Office умить](https://support.microsoft.com/help/2770432).</span><span class="sxs-lookup"><span data-stu-id="4084c-p101">If the issue occurred after an update and the above steps don't work, you might need to revert to a previous build. See [How to revert to an earlier version of Office 2013 or Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).</span></span>
+<span data-ttu-id="7b98d-107">Якщо проблеми виникли після оновлення і вище кроки не працюють, може знадобитися повернутися до попередніх побудувати.</span><span class="sxs-lookup"><span data-stu-id="7b98d-107">If the issue occurred after an update and the above steps don't work, you might need to revert to a previous build.</span></span> <span data-ttu-id="7b98d-108">Подивимося, [як повернутися до попередньої версії Office 2013 або натисніть 2016 Office-Office умить](https://support.microsoft.com/help/2770432).</span><span class="sxs-lookup"><span data-stu-id="7b98d-108">See [How to revert to an earlier version of Office 2013 or Office 2016 Click-to-Run](https://support.microsoft.com/help/2770432).</span></span>
   
 
