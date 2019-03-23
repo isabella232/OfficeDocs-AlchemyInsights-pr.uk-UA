@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208318"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752151"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Перемикач планує збільшити розмір поштової скриньки
 
@@ -34,4 +34,4 @@ ms.locfileid: "30208318"
     
 Для більш детальної інформації дивіться [Переключитися на інший план Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+Якщо у вас є [O365 план в місце Архів, що підтримує](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), ви також можете отримати додаткові адреси електронної пошти для зберігання, дозволяючи поштової скриньки архіву.  Поштової скриньки архіву дає вам додаткові зберігання і дозволяє переміщатися, копія та Пошук повідомлень в обох початкових і поштової скриньки архіву. Кроки на увімкнення поштової скриньки архіву у розділі [увімкнення поштової скриньки архіву](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
