@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: a1eb23c097e8540856df9d350798a0cdfeb73f15
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ac2e27eac4110def1ab91e5124b21b216ddbc178
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29932493"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747691"
 ---
 # <a name="how-to-use-the-sharepoint-online-term-store"></a>Використання сховища SharePoint онлайн термін
 
-Цьому сховищі термінів до Office 365 глобального адміністратора, адміністратор SharePoint та адміністраторів сховища термін і ви знайдете класичний центру адміністрування SharePoint Online. 
+Сховищі термінів до Office 365 глобального адміністратора, адміністратор SharePoint та адміністраторів сховища термін і ви знайдете нових центру адміністрування SharePoint на сайті. 
   
 Для отримання додаткової інформації про те, як використовувати SharePoint Online сховищі термінів і таксономія в межах SharePoint Online див [введення в керованих метаданих](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   

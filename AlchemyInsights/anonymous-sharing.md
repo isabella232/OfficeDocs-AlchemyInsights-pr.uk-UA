@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: ee558542fe692e5dd637a2943b8b8b436b329ef5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 402e10c131a0c331938854e2176983f1007fb315
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29914349"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747439"
 ---
 # <a name="anonymous-sharing"></a>Анонімні обміну
 
  **Увімкнення анонімного доступу**
   
-Класичний центру адміністрування SharePoint натисніть кнопку **спільний доступ** на панелі ліворуч. 
+Нові центру адміністрування SharePoint натисніть кнопку **спільний доступ** на панелі ліворуч. 
   
 - Виділити наступні: **Дозволити спільний доступ для зовнішніх користувачів автентифіковано і за допомогою анонімного доступу.**
   
