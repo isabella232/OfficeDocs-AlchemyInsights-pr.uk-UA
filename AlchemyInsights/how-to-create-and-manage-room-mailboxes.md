@@ -13,17 +13,15 @@ ms.custom:
 - "614"
 - "956"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: bd0962455f197594ff3c9a205dc8b64ff0e6b46f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 332c255427932c4d8c0d1c41f3d0dd683e05dae2
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781667"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858009"
 ---
 # <a name="how-to-create-and-manage-room-mailboxes"></a>Як створювати та керувати поштові скриньки кімнат
 
 Створювати та змінювати поштові скриньки кімнат, побачити [створити та керувати поштовими скриньками кімнату](https://technet.microsoft.com/library/jj215781.aspx).
-  
-Щоб дізнатися більше про поштові скриньки кімнат та обладнання (також відомий як поштові скриньки ресурсів), побачити [поштові скриньки кімнат та обладнання](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).
-  
 
+Щоб дізнатися більше про поштові скриньки кімнат та обладнання (також відомий як поштові скриньки ресурсів), побачити [поштові скриньки кімнат та обладнання](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b).

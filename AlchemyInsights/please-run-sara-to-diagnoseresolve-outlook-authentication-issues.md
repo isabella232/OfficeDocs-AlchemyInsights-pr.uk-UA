@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 6ec4ef9a59319731a80c77ef865fa0c265e918c5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 549805ddc255df5292d0f3c4e31bc055e611c7bf
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772637"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858333"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Використовувати Сара діагностувати та усунути проблеми аутентифікації Outlook
 
-Ми рекомендуємо вам використовувати в [Outlook зберігає просять мій пароль](https://aka.ms/SaRA-OutlookPwdPrompt) діагностичних на уражені машина для виправлення неполадок де Outlook постійно потребує вводу пароля. Цей [Сара](https://diagnostics.office.com/#/) діагностичних робить автоматизованої перевірки і повертає можливих рішень для вас використовувати для вирішення будь-які виявлені проблеми. 
-  
-
+Ми рекомендуємо вам використовувати в [Outlook зберігає просять мій пароль](https://aka.ms/SaRA-OutlookPwdPrompt) діагностичних на уражені машина для виправлення неполадок де Outlook постійно потребує вводу пароля. Цей [Сара](https://diagnostics.office.com/#/) діагностичних робить автоматизованої перевірки і повертає можливих рішень для вас використовувати для вирішення будь-які виявлені проблеми.
