@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000011
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 28266eff5fc77c855370f7fc75a7b7332d1e72e2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 7f18d2a5196234e450f7e639b6d63d1ddfcf411a
+ms.sourcegitcommit: 32ee065560611cd527754f482b9ad244878975a0
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773757"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31980651"
 ---
 # <a name="recover-deleted-email"></a>Відновити видалені повідомлення
 
@@ -26,7 +26,7 @@ ms.locfileid: "30773757"
   
  **Примітка**: ви можете вибрати тільки все, якщо відображаються всі повідомлення. Це для запобігання випадкового дії повідомлень, ви не можете бачити. **CTRL + CLICK** вибирає окремих повідомлень, **SHIFT + КЛАЦАННЯ** підбирає все між двома клацанням. 
     
-3. Якщо повідомлення не в видалені, виберіть пункт **відновити видалені елементи** у верхній частині вікна. 
+3. Якщо повідомлення не в видалені, виберіть пункт **відновити елементи, видалені з папки** у верхній частині вікна. 
     
  **Важлива інформація про видалені елементи:**
   
