@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: ffed863e8d44d2513fbcf53edd9bfa14b859b913
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
+ms.sourcegitcommit: e87b3f691444db3b9f460c9a3109146dc7ad4f80
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29900813"
+ms.lasthandoff: 04/15/2019
+ms.locfileid: "31869616"
 ---
 # <a name="dlp-policy-tip-issues"></a>Порада DLP політики питань
 
 При використанні **DLP політики**, користувачів може бути повідомлені про порушення політики з **політики поради**. Адміністратори можуть настроїти політики поради для відображення під час тестування їх DLP політики або під час політика в режимі повного виконання. 
   
-Для настроювання політики поради про ваш DLP політики в центрі безпека та відповідність вимогам у режимі повного виконання виконайте такі дії.
+Для настроювання політики поради про DLP політики в центрі безпека та відповідність вимогам у повного виконання режимі, виконайте такі дії.
   
 - Забезпечити політики поради був **включений** на DLP правило, виконавши дії, описані [тут](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
     
