@@ -1,5 +1,5 @@
 ---
-title: Перевірте, чи домену
+title: Підтвердження домену
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 99b4b225-38b3-4af2-afd7-29769ef5c2a0
-ms.openlocfilehash: be907ec3ef667e353561a832cee466699662440a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: aec50ebaee7561566721bd68fe309c0933d55617
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404876"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760431"
 ---
-# <a name="trying-to-verify-your-domain"></a>Намагаючись перевірити свій домен?
+# <a name="trying-to-verify-your-domain"></a>Підтвердження права власності на домен
 
-Вам потрібно додати запис TXT до реєстратора доменів, щоб переконатися, що ви є власником домену. Дотримуйтесь вказівок майстра додати домен, натиснувши на **налаштування** \> **домену**а потім **Додати домен**. 
+Щоб підтвердити право власності на домен, необхідно додати запис TXT на сайті його реєстратора. Запустіть майстер додавання доменів, вибравши **Параметри** \> **Домен** > **Додати домен**. 
   
-Дотримуйтесь інструкцій у статті нижче, щоб додати запис TXT для підтвердження вашого домену. Виберіть ваш реєстратор доменів для конкретних інструкцій для вашого домену.
+Виконайте вказівки зі статті нижче, щоб додати запис TXT для підтвердження права власності на домен. Виберіть свого реєстратора доменів, щоб отримати конкретні вказівки.
   
-[Створення записів DNS на Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Створення записів DNS для служби Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 

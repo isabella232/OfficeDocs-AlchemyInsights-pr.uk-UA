@@ -8,21 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405092"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758775"
 ---
 # <a name="update-dns-records"></a>Оновлення записів DNS
 
-Створення записів DNS важливо отримати підписку Office 365, робота з ім'я користувача домену. Використовуйте посилання нижче, щоб додати або оновити записи DNS.
+Щоб передплата на Office 365 працювала з іменем спеціального домену, важливо налаштувати записи DNS. Скористайтеся посиланнями нижче, щоб додати або оновити записи DNS.
   
-- [Оновлення записів DNS у службі Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
+- [Оновлення записів DNS в Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     
-- [Додавати та змінювати власні записи DNS.](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [Додавання або змінення спеціальних записів DNS](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 

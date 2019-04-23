@@ -1,5 +1,5 @@
 ---
-title: Змінити сервер імен
+title: Змінення серверів доменних імен
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: d011531a-0951-49c0-af30-40d2e765f381
-ms.openlocfilehash: 61c4c5e43a247679bf18fd3861dd98fbe9a7b3eb
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: ea25afd85e9ef1ae89f3a8908dc1e83a4433c890
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405344"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754707"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Оновлення сервера імен доменів до Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>Налаштування серверів доменних імен для роботи з Office 365
 
-Примітка: Зміни сервера імен іноді може зайняти до 48 годин для поширення.
+Примітка. Розповсюдження змін серверів імен може тривати до 48 годин.
   
-Для налаштування вашого домену у службі Office 365, сервери імен в реєстратора необхідно оновити. Створити або змінити записи імен на ваш реєстратор доменів.
+Щоб налаштувати домен в Office 365, потрібно оновити сервери імен на сайті реєстратора. Створіть або змініть записи серверів імен у свого реєстратора доменів.
   
-1. Ваш Реєстратор домену на веб-сайті та знайти область, де ви можете редагувати сервери імен.
+1. Перейдіть на веб-сайт реєстратора доменів і знайдіть область, де можна змінити сервери імен.
     
-2. Створення або редагування два сервера імен записи відповідно до цих значень:
+2. Створіть або змініть два записи серверів імен із такими значеннями:
     
-  - ns1.BDM.microsoftonline.com
+  - ns1.bdm.microsoftonline.com
     
-  - ns2.BDM.microsoftonline.com
+  - ns2.bdm.microsoftonline.com
     
-3. Зберегти зміни.
+3. Збережіть зміни.
     
-Ви також можете знайти докладні інструкції в цій статті: [змінити сервери імен для настроювання служби Office 365 з будь-якого реєстратор доменів](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+Докладні вказівки наведено в статті [Змінення DNS-серверів для налаштування Office 365, якщо використовується будь-який реєстратор доменів](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 
