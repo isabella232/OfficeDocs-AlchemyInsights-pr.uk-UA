@@ -1,5 +1,5 @@
 ---
-title: Намагаючись перевірити свій домен?
+title: Підтвердження права власності на домен
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
 ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29935157"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32420145"
 ---
-# <a name="trying-to-verify-your-domain"></a>Намагаючись перевірити свій домен?
+# <a name="trying-to-verify-your-domain"></a>Підтвердження права власності на домен
 
-Вам потрібно додати запис TXT до реєстратора доменів, щоб переконатися, що ви є власником домену. Дотримуйтесь вказівок майстра додати домен, натиснувши на **налаштування** \> **домену**а потім **Додати домен**. 
+Щоб підтвердити право власності на домен, необхідно додати запис TXT на сайті його реєстратора. Запустіть майстер додавання доменів, вибравши **Параметри** \> **Домен** > **Додати домен**. 
   
-Дотримуйтесь інструкцій у статті нижче, щоб додати запис TXT для підтвердження вашого домену. Виберіть ваш реєстратор доменів для конкретних інструкцій для вашого домену.
+Виконайте вказівки зі статті нижче, щоб додати запис TXT для підтвердження права власності на домен. Виберіть свого реєстратора доменів, щоб отримати конкретні вказівки.
   
-[Створення записів DNS на Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+[Створення записів DNS для служби Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
   
 
