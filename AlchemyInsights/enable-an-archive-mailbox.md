@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
 ms.openlocfilehash: d2d30d6f78c99fe11fcf77dc010e6eddf0ddb482
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927849"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32404106"
 ---
 # <a name="enable-an-archive-mailbox"></a>Увімкнення поштової скриньки архіву
 
@@ -33,7 +33,7 @@ ms.locfileid: "29927849"
     
 Ви можете також оптом увімкнути Архів поштових скриньок, вибравши кілька користувачів (за допомогою клавіші **Shift** або **Ctrl** ) і натисніть кнопку **Увімкнути** в області відомостей. 
   
-Докладніше про це див. у таких статтях:
+у перелічених нижче статтях.
   
 - [Увімкнути поштових скриньок архіву у службі Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
     
