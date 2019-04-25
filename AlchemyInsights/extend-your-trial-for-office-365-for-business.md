@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
 ms.openlocfilehash: 82644b45852a77739aa926a272338fc2662677fe
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754347"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402002"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Розширити ваш суд для Office 365 для бізнесу
 
 Якщо термін дії ознайомлювальної підписки протягом 15 днів з закінчується і суд не був продовжений до, можна розширити його випробування на інший протягом 30 днів. Можна робити, тільки цього разу.
   
-1. У центр адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Billing** \> **підписки**.
+1. У Центрі адміністрування перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Виставлення рахунків** \> **Передплати**.
     
 2. Вибрати судового розгляду підписки, що ви бажаєте збільшити.
     

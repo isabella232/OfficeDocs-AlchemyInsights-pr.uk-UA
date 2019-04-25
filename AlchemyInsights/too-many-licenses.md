@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
 ms.openlocfilehash: 584024a2acc3594722f80cb14e499a48d502d087
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767557"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32391459"
 ---
 # <a name="too-many-licenses"></a>Занадто багато ліцензій?
 
@@ -24,7 +24,7 @@ ms.locfileid: "30767557"
   
  **Зменшити кількість ліцензій, придбаних**
   
-1. У центр адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Billing** \> **підписки**.
+1. У Центрі адміністрування перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Виставлення рахунків** \> **Передплати**.
     
 2. Ліворуч виберіть передплати, з якого ви хотіли б видалити ліцензій.
     
