@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935622"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405645"
 ---
 # <a name="delete-a-sharepoint-site"></a>Видалення сайту SharePoint
 **Видалити сайти з нового центру адміністрування SharePoint** За допомогою нового центру адміністрування SharePoint, можна видалити класичних і сучасних сайтів. Оберіть **активні ділянки**, виберіть сайт та клацніть **Видалити**. [Перегляд та відновлення видалених сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)виберіть **Видалити сайти**. Для отримання додаткових відомостей див. [видалити сайт нового центру адміністрування SharePoint](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).

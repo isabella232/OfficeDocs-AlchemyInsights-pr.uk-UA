@@ -10,11 +10,11 @@ localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
 ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906753"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374344"
 ---
 Можна тільки перетворювати поштової скриньки користувача для спільної поштової скриньки, якщо користувач має ліцензію Exchange. Після того, як поштової скриньки перетворюється, він буде продовжувати відображатися у списку активних користувачів, оскільки цей список включає в себе спільні поштові скриньки. Однак, перетвореного поштової скриньки також з'являться у списку спільної поштової скриньки. 
   
