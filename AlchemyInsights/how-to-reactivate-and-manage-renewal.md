@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
 ms.openlocfilehash: 2d9eca47bae44034573844c16af17229e16871e5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30755247"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32416849"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="dcbcb-102">Як повторно активувати та керувати повторного виставлення рахунку</span><span class="sxs-lookup"><span data-stu-id="dcbcb-102">How to reactivate and manage recurring billing</span></span>
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="23961-102">Як повторно активувати та керувати повторного виставлення рахунку</span><span class="sxs-lookup"><span data-stu-id="23961-102">How to reactivate and manage recurring billing</span></span>
 
-<span data-ttu-id="dcbcb-103">Схоже, що ви маєте підписки, що минув.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="dcbcb-104">Якщо ж потрібно активувати її, тут як.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-104">If you would like to reactivate it, here's how.</span></span>
+<span data-ttu-id="23961-103">Схоже, що ви маєте підписки, що минув.</span><span class="sxs-lookup"><span data-stu-id="23961-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="23961-104">Якщо ж потрібно активувати її, тут як.</span><span class="sxs-lookup"><span data-stu-id="23961-104">If you would like to reactivate it, here's how.</span></span>
   
-1. <span data-ttu-id="dcbcb-105">Центру адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або перейдіть на **платіжну** \> **підписки**.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="23961-105">Центру адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або перейдіть на **платіжну** \> **підписки**.</span><span class="sxs-lookup"><span data-stu-id="23961-105">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="dcbcb-106">Виберіть підписку, тобто **Expired** або **стають інвалідами**.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-106">Choose the subscription that is **Expired** or **Disabled**.</span></span>
+2. <span data-ttu-id="23961-106">Виберіть підписку, тобто **Expired** або **стають інвалідами**.</span><span class="sxs-lookup"><span data-stu-id="23961-106">Choose the subscription that is **Expired** or **Disabled**.</span></span>
     
-3. <span data-ttu-id="dcbcb-107">Виберіть **активувати**.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-107">Choose **Reactivate**.</span></span>
+3. <span data-ttu-id="23961-107">Виберіть **активувати**.</span><span class="sxs-lookup"><span data-stu-id="23961-107">Choose **Reactivate**.</span></span>
     
-    <span data-ttu-id="dcbcb-108">Якщо ви не бачите **Повторна активація** як опція, скористайтеся параметром "назвемо ви" говорити до допоміжного інженер активувати вашу підписку.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-108">If you do not see **Reactivate** as an option, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span> 
+    <span data-ttu-id="23961-108">Якщо ви не бачите **Повторна активація** як опція, скористайтеся параметром "назвемо ви" говорити до допоміжного інженер активувати вашу підписку.</span><span class="sxs-lookup"><span data-stu-id="23961-108">If you do not see **Reactivate** as an option, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span> 
     
-4. <span data-ttu-id="dcbcb-109">Для того, щоб повторно активувати, зазначення оновити дані платежу.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-109">In order to reactivate, you'll be asked to update your payment details.</span></span> <span data-ttu-id="dcbcb-110">Вказати платіжні реквізити і виберіть **Надіслати**.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-110">Enter your payment details and choose **Submit**.</span></span>
+4. <span data-ttu-id="23961-109">Для того, щоб повторно активувати, зазначення оновити дані платежу.</span><span class="sxs-lookup"><span data-stu-id="23961-109">In order to reactivate, you'll be asked to update your payment details.</span></span> <span data-ttu-id="23961-110">Вказати платіжні реквізити і виберіть **Надіслати**.</span><span class="sxs-lookup"><span data-stu-id="23961-110">Enter your payment details and choose **Submit**.</span></span>
     
-<span data-ttu-id="dcbcb-111">Керувати, щомісяця або щороку виставлення рахунків, ви можна увімкнути або вимкнути **циклічна біллінг** або вимкнути.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-111">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span> 
+<span data-ttu-id="23961-111">Керувати, щомісяця або щороку виставлення рахунків, ви можна увімкнути або вимкнути **циклічна біллінг** або вимкнути.</span><span class="sxs-lookup"><span data-stu-id="23961-111">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span> 
   
-1. <span data-ttu-id="dcbcb-112">Центру адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або перейдіть на **платіжну** \> **підписки**.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-112">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="23961-112">Центру адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або перейдіть на **платіжну** \> **підписки**.</span><span class="sxs-lookup"><span data-stu-id="23961-112">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or go to **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="dcbcb-113">Виберіть підключення, для якого потрібно керувати повторного виставлення рахунку.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-113">Choose the subscription for which you want to manage recurring billing.</span></span>
+2. <span data-ttu-id="23961-113">Виберіть підключення, для якого потрібно керувати повторного виставлення рахунку.</span><span class="sxs-lookup"><span data-stu-id="23961-113">Choose the subscription for which you want to manage recurring billing.</span></span>
     
-3. <span data-ttu-id="dcbcb-114">**Циклічна біллінг** toggle переключатися в режим аркуша **на** **Off**.</span><span class="sxs-lookup"><span data-stu-id="dcbcb-114">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
+3. <span data-ttu-id="23961-114">**Циклічна біллінг** toggle переключатися в режим аркуша **на** **Off**.</span><span class="sxs-lookup"><span data-stu-id="23961-114">Switch the **Recurring billing** toggle to **On** or **Off**.</span></span>
     
-<span data-ttu-id="dcbcb-115">Докладніше, перегляньте статтю: [керування періодичних рахунків за підписку](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="dcbcb-115">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
+<span data-ttu-id="23961-115">Докладніше, перегляньте статтю: [керування періодичних рахунків за підписку](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span><span class="sxs-lookup"><span data-stu-id="23961-115">For more information, see: [Manage recurring billing for your subscription](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).</span></span>
   
 
