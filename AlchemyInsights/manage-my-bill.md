@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f844501a-e575-48b8-9c1b-9f800c7b89f8
 ms.openlocfilehash: eff17074de4c198ec475573081a01f4288dd3ecb
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759855"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409016"
 ---
-# <a name="manage-my-bill-and-payments"></a><span data-ttu-id="f8c82-102">Керування мого законопроекту та платежі</span><span class="sxs-lookup"><span data-stu-id="f8c82-102">Manage my bill and payments</span></span>
+# <a name="manage-my-bill-and-payments"></a><span data-ttu-id="f7430-102">Керування мого законопроекту та платежі</span><span class="sxs-lookup"><span data-stu-id="f7430-102">Manage my bill and payments</span></span>
 
-<span data-ttu-id="f8c82-103">Як адміністратор ви маєте доступ до всіх ваших біллінг і платежі параметри центру адміністрування.</span><span class="sxs-lookup"><span data-stu-id="f8c82-103">As an admin, you have access to all your billing and payments options in the admin center.</span></span>
+<span data-ttu-id="f7430-103">Як адміністратор ви маєте доступ до всіх ваших біллінг і платежі параметри центру адміністрування.</span><span class="sxs-lookup"><span data-stu-id="f7430-103">As an admin, you have access to all your billing and payments options in the admin center.</span></span>
   
-- <span data-ttu-id="f8c82-104">Переглянути законопроект або рахунка-фактури.</span><span class="sxs-lookup"><span data-stu-id="f8c82-104">View your bill or invoice.</span></span>
+- <span data-ttu-id="f7430-104">Переглянути законопроект або рахунка-фактури.</span><span class="sxs-lookup"><span data-stu-id="f7430-104">View your bill or invoice.</span></span>
     
-- <span data-ttu-id="f8c82-105">Додавання, оновлення та видалення варіант оплати.</span><span class="sxs-lookup"><span data-stu-id="f8c82-105">Add, update, or remove your payment option.</span></span>
+- <span data-ttu-id="f7430-105">Додавання, оновлення та видалення варіант оплати.</span><span class="sxs-lookup"><span data-stu-id="f7430-105">Add, update, or remove your payment option.</span></span>
     
-- <span data-ttu-id="f8c82-106">Перейти до різних Office 365.</span><span class="sxs-lookup"><span data-stu-id="f8c82-106">Switch to a different Office 365.</span></span>
+- <span data-ttu-id="f7430-106">Перейти до різних Office 365.</span><span class="sxs-lookup"><span data-stu-id="f7430-106">Switch to a different Office 365.</span></span>
     
-- <span data-ttu-id="f8c82-107">Оновити вашу підписку.</span><span class="sxs-lookup"><span data-stu-id="f8c82-107">Renew your subscription.</span></span>
+- <span data-ttu-id="f7430-107">Оновити вашу підписку.</span><span class="sxs-lookup"><span data-stu-id="f7430-107">Renew your subscription.</span></span>
     
-- <span data-ttu-id="f8c82-108">Купити іншу підписки.</span><span class="sxs-lookup"><span data-stu-id="f8c82-108">Buy another subscription.</span></span>
+- <span data-ttu-id="f7430-108">Купити іншу підписки.</span><span class="sxs-lookup"><span data-stu-id="f7430-108">Buy another subscription.</span></span>
     
-- <span data-ttu-id="f8c82-109">Розширення вашого суду.</span><span class="sxs-lookup"><span data-stu-id="f8c82-109">Extend your trial.</span></span>
+- <span data-ttu-id="f7430-109">Розширення вашого суду.</span><span class="sxs-lookup"><span data-stu-id="f7430-109">Extend your trial.</span></span>
     
-- <span data-ttu-id="f8c82-110">Скасувати підписку.</span><span class="sxs-lookup"><span data-stu-id="f8c82-110">Cancel your subscription.</span></span>
+- <span data-ttu-id="f7430-110">Скасувати підписку.</span><span class="sxs-lookup"><span data-stu-id="f7430-110">Cancel your subscription.</span></span>
     
 

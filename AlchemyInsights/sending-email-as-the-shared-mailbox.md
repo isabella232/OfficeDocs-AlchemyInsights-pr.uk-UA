@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 190898bc-9644-480e-b535-25284aa09729
 ms.openlocfilehash: b8c6a5ba5ab28912ef09a4b17468a917534a54f0
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30752331"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421945"
 ---
-# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="9a3bb-102">Надсилання електронних листів, як спільну поштову скриньку</span><span class="sxs-lookup"><span data-stu-id="9a3bb-102">Sending email as the shared mailbox</span></span>
+# <a name="sending-email-as-the-shared-mailbox"></a><span data-ttu-id="b1016-102">Надсилання електронних листів, як спільну поштову скриньку</span><span class="sxs-lookup"><span data-stu-id="b1016-102">Sending email as the shared mailbox</span></span>
 
-<span data-ttu-id="9a3bb-103">Як тільки ви створили спільної поштової скриньки, користувачів, які є членами поштової скриньки мають можливість надсилання електронної пошти як посвідчення спільної поштової скриньки (наприклад, *info@contoso.com* ).</span><span class="sxs-lookup"><span data-stu-id="9a3bb-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="9a3bb-104">У статті:</span><span class="sxs-lookup"><span data-stu-id="9a3bb-104">For instructions, see:</span></span> 
+<span data-ttu-id="b1016-103">Як тільки ви створили спільної поштової скриньки, користувачів, які є членами поштової скриньки мають можливість надсилання електронної пошти як посвідчення спільної поштової скриньки (наприклад, *info@contoso.com* ).</span><span class="sxs-lookup"><span data-stu-id="b1016-103">Once you have created a shared mailbox, users who are members of the mailbox are able to send email as the shared mailbox identity (for example,  *info@contoso.com*  ).</span></span> <span data-ttu-id="b1016-104">У статті:</span><span class="sxs-lookup"><span data-stu-id="b1016-104">For instructions, see:</span></span> 
   
-[<span data-ttu-id="9a3bb-105">Відкриття й використання спільної поштової скриньки в Outlook 2016 та перспективи 2013 року</span><span class="sxs-lookup"><span data-stu-id="9a3bb-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+[<span data-ttu-id="b1016-105">Відкриття й використання спільної поштової скриньки в Outlook 2016 та перспективи 2013 року</span><span class="sxs-lookup"><span data-stu-id="b1016-105">Open and use a shared mailbox in Outlook 2016 and Outlook 2013</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-2016-and-outlook-2013-d94a8e9e-21f1-4240-808b-de9c9c088afd)
   
-[<span data-ttu-id="9a3bb-106">Додавання спільної поштової скриньки до Outlook в Інтернеті</span><span class="sxs-lookup"><span data-stu-id="9a3bb-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+[<span data-ttu-id="b1016-106">Додавання спільної поштової скриньки до Outlook в Інтернеті</span><span class="sxs-lookup"><span data-stu-id="b1016-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
   
 
