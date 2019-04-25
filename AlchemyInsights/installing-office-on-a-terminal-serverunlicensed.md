@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 971edd9c064b448446ba16361e99df4a2291c14f
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919005"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32410143"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Установка Office сервера терміналів
 
@@ -25,9 +25,9 @@ ms.locfileid: "29919005"
     
 Якщо потрібно інсталювати Office 365 ProPlus RDS на порталі Office 365, * * *який використовує за замовчуванням установки* * *, виконайте такі дії: 
   
-1. Перевірте, що плану Office 365. [ЖЖ як](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
+1. Перевірте, що плану Office 365. [Дізнайтеся, як](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
     
-2. Якщо необхідно, переключитися на різних Office 365 плану. [ЖЖ як](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+2. Якщо необхідно, переключитися на різних Office 365 плану. [Дізнайтеся, як](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
     
 3. Якщо Office уже інстальовано на сервері RDS, використовуючи будь-які інші плани Office 365, видалити цей пакет оновлень. Наприклад, перейшовши до панелі керування \> видалити програму. Видаляється за допомогою [служби підтримки Microsoft і помічник відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy) , якщо ви працюєте в питаннях. 
     

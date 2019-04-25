@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Тиждень 11 березня 2019
-
-
-| Опубліковано на |Назву теми | Зміна |
-|------|------------|--------|
-| 3/12/2019 | 8000054 скриньці Outlook.com не завантажується | додав |
-| 3/12/2019 | [8000078 скриньці Outlook.com не завантажується](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | перейменовано |
-| 3/12/2019 | [8000078 скриньці Outlook.com не завантажується](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | змінено |
-| 3/13/2019 | [Ретрансляція електронної пошти через Office 365](/AlchemyInsights/relay-email-through-office-365) | змінено |
-| 3/14/2019 | [так само, як ім'я файлу є кращим [правило #-Опис]](/AlchemyInsights/1-alchemy-insight-template) | змінено |
-| 3/14/2019 | [Збільшити розмір поштової скриньки](/AlchemyInsights/increase-mailbox-size) | змінено |
-| 3/15/2019 | [Outlook робочого стола відкликати або замінити повідомлення електронної пошти](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | додав |
-
-
 ## <a name="week-of-march-18-2019"></a>Тиждень 18 березня 2019
 
 
@@ -530,3 +516,47 @@
 | 4, 12, 2019 | [932 оновлення AADConnect](/AlchemyInsights/upgrading-aadconnect) | змінено |
 | 4, 12, 2019 | [725 використання псевдонім електронної пошти на мобільному пристрої](/AlchemyInsights/using-email-alias-on-mobile-device) | змінено |
 | 4, 12, 2019 | [1554 помилку Winsock 10061](/AlchemyInsights/winsock-error-10061) | змінено |
+
+
+## <a name="week-of-april-15-2019"></a>Тиждень 15 квітня 2019
+
+
+| Опубліковано на |Назву теми | Зміна |
+|------|------------|--------|
+| 4/15/2019 | [Алхімія - діагностувати та усунути неполадки підключення Outlook](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | змінено |
+| 4/15/2019 | [Алхімія - відтворити конфігурації Outlook](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | змінено |
+| 4/15/2019 | [DLP може знадобитися нестандартний тип](/AlchemyInsights/dlp-might-need-custom-type) | додав |
+| 4/15/2019 | [DLP не працює належним чином](/AlchemyInsights/dlp-not-working-as-expected) | змінено |
+| 4/15/2019 | [DLP політики поради не працює](/AlchemyInsights/dlp-policy-tips-not-working) | змінено |
+| 4/15/2019 | [Outlook.com помилки 550](/AlchemyInsights/outlook-com-error-550) | додав |
+| 4/15/2019 | [Outlook.com над квоти](/AlchemyInsights/outlook-com-over-quota) | додав |
+| 4/15/2019 | [Outlook.com видалити Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | додав |
+| 4/15/2019 | [Outlook.com видалити Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | додав |
+| 4/15/2019 | [182, запустіть Сара діагностувати &amp; вирішити проблеми аутентифікації Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | змінено |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | змінено |
+| 4/16/2019 | [Outlook.com видалити Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | змінено |
+| 4/16/2019 | [8000088 збереження електронної пошти в Outlook.com](/AlchemyInsights/outlook-com-save-emails) | змінено |
+| 4/16/2019 | [8000052 вкласти файли в Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | змінено |
+| 4/16/2019 | [8000015 заблокувати або розблокувати відправників](/AlchemyInsights/block-or-unblock-senders) | змінено |
+| 4/16/2019 | [8000014 як змінити мову в Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | змінено |
+| 4/16/2019 | [8000059 як свій розкладкою](/AlchemyInsights/how-to-change-your-layout) | змінено |
+| 4/16/2019 | [8000033 як відповісти або пересилати повідомлення в бета-версії Outlook.com](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | змінено |
+| 4/16/2019 | [8000055 статтю вхід до або з Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | змінено |
+| 4/16/2019 | [8000062 переміщення папки в Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | змінено |
+| 4/16/2019 | [Авто нанесення написів чутливість](/AlchemyInsights/auto-apply-sensitivity-labels) | додав |
+| 4/16/2019 | [Чутливість підписи не з'являється](/AlchemyInsights/sensitivity-labels-not-appearing) | додав |
+| 4/16/2019 | [Новий збереження підписи, створені автоматично](/AlchemyInsights/new-retention-labels-created-automatically) | додав |
+| 4/16/2019 | [SharePoint і журналів аудиту OneDrive](/AlchemyInsights/classic-sharepoint-audit-log-reports) | додав |
+| 4/16/2019 | [Визначити видалити повідомлення події в журнали аудиту](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | додав |
+| 4/16/2019 | [Визначити пересилання зовнішніх електронної пошти поштових скриньок у журнали аудиту](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | додав |
+| 4/16/2019 | [Визначити «вхідні» правилом активності в журнали аудиту](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | додав |
+| 4/16/2019 | [Визначити IP-адресу та клієнта в журнали аудиту](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | додав |
+| 4/16/2019 | [Ремонт PST-файлу Перед імпортуванням](/AlchemyInsights/repair-pst-before-importing) | додав |
+| 4/16/2019 | [Класичний SharePoint звіти журналу аудиту](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | додав |
+| 4/16/2019 | [Класичний SharePoint звіти журналу аудиту](/AlchemyInsights/classic-sharepoint-audit-log-reports) | змінено |
+| 4/16/2019 | [Визначити пересилання зовнішніх електронної пошти поштових скриньок у журнали аудиту](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | змінено |
+| 4/16/2019 | [Визначити «вхідні» правилом активності в журнали аудиту](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | змінено |
+| 4/16/2019 | [Класичний SharePoint звіти журналу аудиту](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | змінено |
+| 4/17/2019 | [Вирішення проблем із доставкою електронної пошти до пошти спільних папок](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | додав |
+| 4/17/2019 | [Команди зрушення](/AlchemyInsights/teams-shifts) | змінено |
+| 4/18/2019 | [8000011 відновити видалені повідомлення в Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | змінено |
