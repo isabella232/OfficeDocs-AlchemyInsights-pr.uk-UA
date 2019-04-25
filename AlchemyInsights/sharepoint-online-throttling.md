@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
 ms.openlocfilehash: f333957a585d16207aabe0f9de4d4b72b9e1ce63
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29913341"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32374093"
 ---
-# <a name="sharepoint-online-throttling"></a><span data-ttu-id="26934-102">Онлайн дроселювання SharePoint</span><span class="sxs-lookup"><span data-stu-id="26934-102">SharePoint Online Throttling</span></span>
+# <a name="sharepoint-online-throttling"></a><span data-ttu-id="1cf38-102">Онлайн дроселювання SharePoint</span><span class="sxs-lookup"><span data-stu-id="1cf38-102">SharePoint Online Throttling</span></span>
 
-<span data-ttu-id="26934-p101">SharePoint Online використовує дроселювання підтримувати оптимальну продуктивність і надійність служби SharePoint Online. Дроселювання межі кількість дій користувача одночасних заклики (сценарій або код) для запобігання надмірним використанням ресурсів. Якщо ви отримуєте задушив, 99% часу саме через власний код.</span><span class="sxs-lookup"><span data-stu-id="26934-p101">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service. Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources. If you do get throttled, 99% of the time it is because of custom code.</span></span>
+<span data-ttu-id="1cf38-103">SharePoint Online використовує дроселювання підтримувати оптимальну продуктивність і надійність служби SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="1cf38-103">SharePoint Online uses throttling to maintain optimal performance and reliability of the SharePoint Online service.</span></span> <span data-ttu-id="1cf38-104">Дроселювання межі кількість дій користувача одночасних заклики (сценарій або код) для запобігання надмірним використанням ресурсів.</span><span class="sxs-lookup"><span data-stu-id="1cf38-104">Throttling limits the number of user actions or concurrent calls (by script or code) to prevent overuse of resources.</span></span> <span data-ttu-id="1cf38-105">Якщо ви отримуєте задушив, 99% часу саме через власний код.</span><span class="sxs-lookup"><span data-stu-id="1cf38-105">If you do get throttled, 99% of the time it is because of custom code.</span></span>
   
-<span data-ttu-id="26934-106">Більш докладну інформацію про дроселювання див, [уникати отримання задушив або заблоковані в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span><span class="sxs-lookup"><span data-stu-id="26934-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
+<span data-ttu-id="1cf38-106">Більш докладну інформацію про дроселювання див, [уникати отримання задушив або заблоковані в SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span><span class="sxs-lookup"><span data-stu-id="1cf38-106">For more information on throttling see, [Avoid getting throttled or blocked in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)</span></span>
   
 
