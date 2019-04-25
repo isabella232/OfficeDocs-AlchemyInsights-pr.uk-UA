@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
 ms.openlocfilehash: a5d701f61b0987978c759aa27d8e4f06e4be2b92
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30760323"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371463"
 ---
 # <a name="question-about-licenses"></a>Питання про ліцензії
 
 Якщо ви хочете знати, скільки ліцензій, придбаних або скільки ліцензій призначаються від підписки:
   
-1. У центр адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Billing** \> **підписки**.
+1. У Центрі адміністрування перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Виставлення рахунків** \> **Передплати**.
     
 2. Виберіть передплати, ви хочете дізнатися більше про.
     
