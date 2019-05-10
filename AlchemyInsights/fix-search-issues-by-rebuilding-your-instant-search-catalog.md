@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401205"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867959"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Вирішення проблем із пошуку перебудування Миттєвий пошук каталог
+# <a name="troubleshoot-search-issues"></a>Усунення несправностей пошук
 
-1. Закрийте Outlook і відкрити **Панель керування**.
-    
-    > [!NOTE]
-    > Залежно від версії Microsoft Office, що використовується може знадобитися натисніть кнопку **Пуск** і у меню **Пуск** , клацніть правою кнопкою миші **На панелі керування**. 
-  
-2. Виконайте одну з таких дій:
-    
-  - Виберіть **Параметри індексування**.
-    
-  - У полі **пошуку** введіть *індексування* а потім виберіть **Параметри індексування**.
-    
-3. У діалоговому вікні **Індексованих розташувань** , в області **змінити вибрані розташування**установіть прапорець поруч із пунктом для розташування, які потрібно змінити і натисніть кнопку **ОК**.
-    
-4. У діалоговому вікні **Додаткові параметри** на вкладці **Параметри індексування** під **Виправлення неполадок**виберіть пункт **відновити**.
-    
-    > [!NOTE]
-    > Діалогове вікно **Перебудувати індекс** ящик відкриває попереджає, що в "індексу може тривати багато часу, щоб завершити." Виберіть **"OK"** , щоб почати Перебудова індексу. 
-  
-Докладніше перегляньте відома проблема [Пошук не дав результатів для облікових записів POP/IMAP](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Якщо у вас виникли проблеми з пошуком, будь ласка, див посилання нижче, за допомогою виправлення неполадок.
 
+Це найпоширеніший питання і є хорошим місцем для початку:
+- [Повертає Outlook пошук не дав результатів](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook пошук повертає неповні результати](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Пошук Outlook не вдається знайти старі листи](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Можливі рішення для менш поширені проблеми можна знайти тут:
+- [Outlook 2016 тільки: вкладку Пошук відображується сірим кольором](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Спільна поштова скринька: Проблеми з результатів пошуку](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Помилка: Продуктивність пошуку буде наноситися удар через проблему з як настройки в Microsoft Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Папки пошуку відображати несподіваних PersonMetadata елементи з немає теми](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
