@@ -2,7 +2,7 @@
 title: 614 як створювати та керувати поштові скриньки кімнат
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 3/23/2018
 ms.audience: Admin
 ms.topic: article
@@ -13,12 +13,12 @@ ms.custom:
 - "614"
 - "956"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: 332c255427932c4d8c0d1c41f3d0dd683e05dae2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc4b0b747769e97fa462d8151d4e9acf578f4655
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399576"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752366"
 ---
 # <a name="how-to-create-and-manage-room-mailboxes"></a>Як створювати та керувати поштові скриньки кімнат
 
