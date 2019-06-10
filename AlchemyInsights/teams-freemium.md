@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 997
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685
-ms.openlocfilehash: 65b953ef5c090b59aa2665e29ef3fda92adb8a30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 6913bee931574266d1464a9f7862393747fe3746
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420895"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34771435"
 ---
 # <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Я хотів би зареєструватися для команд вільний, але я не можу.
 
-- Якщо ви використовуєте Office 365 роботу або в школу обліковий запис, Ця безкоштовна пропозиція не доступна. Org, хоча, вже можуть використовуватися команд. Якщо ні, переходьте до [Microsoft команд](https://products.office.com/en-us/microsoft-teams/group-chat-software) , щоб побачити, якщо вона має право на безкоштовну пробну версію.
+- Якщо ви використовуєте Office 365 роботу або в школу обліковий запис, Ця безкоштовна пропозиція не доступна. Org, хоча, вже можуть використовуватися команд. Якщо ні, переходьте до [Microsoft команд](https://products.office.com/microsoft-teams/group-chat-software) , щоб побачити, якщо вона має право на безкоштовну пробну версію.
 
 - Академічні установи не мають право на цю пропозицію безкоштовний. Викладачі та студенти, хоча, можна отримати безкоштовну версію Office 365, яка включає в себе повну версію Microsoft команд. Переглянути [Office 365 ліцензування для Microsoft команд](https://docs.microsoft.com/microsoftteams/office-365-licensing).
 

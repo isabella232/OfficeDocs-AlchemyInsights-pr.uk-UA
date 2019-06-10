@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096670"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770829"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Відкликати або замінити повідомлення електронної пошти
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096670"
 
 ***Пошук і видалення повідомлень електронної пошти у вашій організації*** Пошук і видалення повідомлень електронної пошти у вашій організації, це найпростіший якщо ви глобального адміністратора. Якщо ви не глобального адміністратора, ваш обліковий запис слід додати, пошук необхідної менеджер рольової групи або ролі керування дотримання пошук. Видалити повідомлення, потрібно буде приєднатися до рольової групи керування організацією або пошуку і видалити роль керування. Дозволи на ці ролі призначаються у [центрі дотримання безпеки &](https://protection.office.com/).
 
-1. [Створення контент пошуку](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) , щоб знайти повідомлення яке слід видалити.
-2. [Підключитися до безпеки & центрі дотримання PowerShell](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Створення контент пошуку](https://docs.microsoft.com/office365/securitycompliance/content-search) , щоб знайти повідомлення яке слід видалити.
+2. [Підключитися до безпеки & центрі дотримання PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Якщо ви використовуєте МЗС, побачити [підключення до Office 365 безпеки & дотримання центр PowerShell за допомогою багатофакторну автентифікацію](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Якщо ви використовуєте МЗС, побачити [підключення до Office 365 безпеки & дотримання центр PowerShell за допомогою багатофакторну автентифікацію](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

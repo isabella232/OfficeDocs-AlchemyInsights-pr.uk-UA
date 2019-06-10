@@ -13,12 +13,12 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: ed0c679cf3ed9d363e552c04a5ae6d0fc72f88dd
-ms.sourcegitcommit: 6a229919cf67005e7e67841e9e45f2f3aa6833ef
+ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33630036"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770267"
 ---
 # <a name="how-to-import-nk2-files"></a>Як імпортувати файли .nk2 
 
@@ -37,4 +37,4 @@ ms.locfileid: "33630036"
 
 **Примітка**: .nk2 файл перейменував з на розширення імені. old під час наступного запуску Outlook 2013, Outlook 2016, Outlook 2019 або Outlook для служби Office 365. Якщо потрібно повторно імпортувати файл .nk2, спочатку видалити на розширення імені. old.
 
-Докладніше перегляньте [імпорту або копія список автозаповнення на інший комп'ютер](https://support.microsoft.com/en-us/help/2806550/how-to-import-nk2-files-into-outlook%).
+Докладніше перегляньте [імпорту або копія список автозаповнення на інший комп'ютер](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

@@ -10,19 +10,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ee05de080a9bde2dd150cdfe340dd29875242f71
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756662"
+ms.locfileid: "34770653"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Вмісту інструмент пошуку, щоб знайти актуальна інформація
 
 Використання засобу пошук за змістом в безпеки & центрі дотримання швидко знайти електронної пошти в поштових скриньок Exchange, документи в сайтів SharePoint і OneDrive місцях і миттєві повідомлення в Skype для бізнесу. За допомогою засобу пошук за змістом шукати електронну пошту, документи та миттєві повідомлення в Office 365 знаряддями, таких як Microsoft команд та Office 365 групи.
 
 
-Перш ніж використовувати [Пошук за змістом](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) від [безпеки & центрі дотримання](https://sip.protection.office.com/homepage), ви хочете завершити параметри конфігурації, включаючи [Настроювання дозволів](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [швидкість завантаження налаштування](https://docs.microsoft.com/en-us/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) та [параметри експорту](https://docs.microsoft.com/en-us/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Перш ніж використовувати [Пошук за змістом](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) від [безпеки & центрі дотримання](https://sip.protection.office.com/homepage), ви хочете завершити параметри конфігурації, включаючи [Настроювання дозволів](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [швидкість завантаження налаштування](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) та [параметри експорту](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
 Зрозуміти більше про пошук за змістом, переглянувши на [вимоги та обмеження](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [слідчий частково індексовані елементи](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) та інші результати бути в курсі.
 

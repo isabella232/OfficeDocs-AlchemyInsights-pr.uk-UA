@@ -9,12 +9,12 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 0890950c48ffae7cfc13c641446088819f1cf04c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e49caf53cfbd96704d048a899e123301525a8e6a
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418812"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769880"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft команд - гостьовий доступ
 
@@ -26,5 +26,5 @@ ms.locfileid: "32418812"
 1. Додати до вашій команді Відгуки користувачів.
 1. Настроювання дозволів Відгуки користувачів.
 
-Для отримання додаткової інформації, включаючи Відеопосібники побачити [Відгуки доступу в Microsoft команд](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
+Для отримання додаткової інформації, включаючи Відеопосібники побачити [Відгуки доступу в Microsoft команд](https://docs.microsoft.com/microsoftteams/guest-access).
 
