@@ -1,26 +1,29 @@
 ---
-title: 8000075 Outlook.com змінити пароль - ФРАНЦУЗЬКА
+title: Змінити пароль Outlook.com - ФРАНЦУЗЬКА
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000075
-ms.openlocfilehash: b462177f44c23db07e3aca2b68e5fac20365e916
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000075"
+- "1153"
+- "1154"
+ms.openlocfilehash: 41eb60feb56008afafe51a686e663bf02458a248
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388494"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820205"
 ---
 # <a name="changer-votre-mot-de-passe-dans-outlookcom"></a>Changer ваше mot de паспарту dans Outlook.com
 
 Ваше mot de паспарту Outlook.com est le мем que ваше mot de паспарту Microsoft Compte.
 
-1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) і sélectionnez **модифікатор le mot de паспарту**.
+1. Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) і sélectionnez **Sécurité du mot de паспарту**.
 2. Номінальна mesure де sécurité, vous pouvez існування invité à confirmer ваше identité à l'aide d ' код de sécurité.
 3. Entrez ваше mot de паспарту actuel, ваше nouveau mot de паспарту, puis sélectionnez **Enregistrer**.
 
