@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765521"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883181"
 ---
 # <a name="activate-visio"></a>Активувати Visio
 
-Адміністратор повинен призначити [Visio ліцензію](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) користувача перед робочого стола Visio, входить до складу застосунку Visio онлайн план 2 програму робочого стола можна інсталювати й активувати. (Не включає десктоп-версією програми Visio Visio онлайн план 1).
+Перед тим, як користувач може встановити і активувати Visio робочого стола застосунку входить до складу їх Visio онлайн план 2, користувач повинен були призначені [ліцензії застосунку Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+
+**Примітка** Visio онлайн план 1 не включає десктоп-версією програми Visio.
+
+Щоб активувати Visio:
 
 1. [Встановити Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) якщо її попередньо не встановлено.
-2. Коли Установка завершиться, відкрити програму. У багатьох випадках застосунок автоматично активує і користувач може розпочати відразу ж за допомогою застосунку Visio.
-    Якщо запит на вхід, користувач повинні увійти до ж роботу або рахунку школу, яка була доручена ліцензії застосунку Visio. 
+2. Коли інсталяцію буде завершено, відкрийте Visio. У багатьох випадках застосунок автоматично активує, і ви можете почати прямо зараз за допомогою застосунку Visio. Якщо запит на вхід, переконайтеся, що увійдіть за допомогою ж роботи або школи обліковий запис, який був призначений ліцензії застосунку Visio. 
+
+Для проблем з активацією, запустіть [засіб усунення неполадок підключення](https://aka.ms/SARA-OfficeActivation-Alchemy) на комп'ютері, постраждалих.
 
 Для детальної інформації дивіться:<br>
 [Активувати Office на ПК](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
