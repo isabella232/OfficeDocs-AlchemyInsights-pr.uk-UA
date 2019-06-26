@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 425752ce9b25132005fcff503b90aac2b9130903
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 081c6f38247e1dcfb0aaf88f01e2661aad432b54
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760781"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223877"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Увімкнення зовнішніх обміну в SharePoint Online
 
@@ -21,22 +21,22 @@ ms.locfileid: "34760781"
 
 Більш докладну інформацію про зовнішні обмін будь ласка, відвідайте нижче посиланнями.
 
-[Що таке із зовнішнім користувачем?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Що таке із зовнішнім користувачем?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-[Що відбувається, коли спільний доступ до сайту або документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Що відбувається, коли спільний доступ до сайту або документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
 
-[Увімкнення зовнішніх обміну або вимкнути для SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)</
+- [Увімкнення зовнішніх обміну або вимкнути для SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-[Увімкнення зовнішніх обміну або вимкнути для сайту](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Увімкнення зовнішніх обміну або вимкнути для сайту](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-[За допомогою Sharepoint Online як екстранет рішення бізнес для бізнесу (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [За допомогою Sharepoint Online як екстранет рішення бізнес для бізнесу (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-[Частка SharePoint файли або папки](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Частка SharePoint файли або папки](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-[Закрити спільний доступ OneDrive або SharePoint файли або папки, або змінити дозволи](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Закрити спільний доступ OneDrive або SharePoint файли або папки, або змінити дозволи](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
 
-[Видалити із зовнішнім користувачем](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Видалити із зовнішнім користувачем](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
 Отримання повідомлення про помилку із зовнішнім користувачем? &nbsp;Перевірте нижче посиланнями.
 

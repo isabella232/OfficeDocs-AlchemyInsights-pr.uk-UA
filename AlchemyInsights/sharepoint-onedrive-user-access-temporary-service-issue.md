@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 745a62c917c0b94501843332d70609261c6d3b76
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9bb18196f38de473e4ee79d77bd43561ad9742e0
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759171"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35223301"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint або OneDrive повільно, недоступних або недоступні для кількох користувачів
 
 Якщо сайт OneDrive або SharePoint недоступний для декількох користувачів, які раніше мали доступ, може бути тимчасова служби питання. [Перевірте службу здоров'я приладної дошки](https://portal.office.com/adminportal/home#/servicehealth).
 
-Додати і Ліцензія користувача
+**Додати і Ліцензія користувача**
 
 Переконайтеся, що ви [призначити ліцензії для користувачів у службі Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
