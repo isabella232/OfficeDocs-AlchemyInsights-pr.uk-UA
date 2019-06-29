@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883181"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358922"
 ---
 # <a name="activate-visio"></a>Активувати Visio
 
@@ -27,8 +27,8 @@ ms.locfileid: "34883181"
 
 Щоб активувати Visio:
 
-1. [Встановити Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) якщо її попередньо не встановлено.
-2. Коли інсталяцію буде завершено, відкрийте Visio. У багатьох випадках застосунок автоматично активує, і ви можете почати прямо зараз за допомогою застосунку Visio. Якщо запит на вхід, переконайтеся, що увійдіть за допомогою ж роботи або школи обліковий запис, який був призначений ліцензії застосунку Visio. 
+1. Встановити Visio з [мого рахунку портал](https://portal.office.com/account#installs) , якщо її попередньо не встановлено. Допомога в розділі [Встановити Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. Коли інсталяцію буде завершено, відкрийте застосунок Visio. Visio швидше за все буде активувати автоматично, і ви можете почати використовувати його прямо зараз. Якщо цього не відбувається, може бути запит на вхід. Будьте впевнені, щоб увійти, використовуючи ж роботи або школи обліковий запис, який був призначений Visio ліцензії. Дотримуйтесь інструкцій на екрані, щоб продовжити з активацією. 
 
 Для проблем з активацією, запустіть [засіб усунення неполадок підключення](https://aka.ms/SARA-OfficeActivation-Alchemy) на комп'ютері, постраждалих.
 

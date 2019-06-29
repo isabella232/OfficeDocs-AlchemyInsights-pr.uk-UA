@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392572"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372570"
 ---
 # <a name="replying-in-outlookcom"></a>Відповіді в Outlook.com
 
 Щоб відповісти на одне повідомлення за один раз:
 
-1. У списку повідомлень виберіть повідомлення, яке потрібно Переслати.
+1. У списку повідомлень виберіть повідомлення, яке ви хочете, щоб відповісти.
 2. У верхній правій частині панелі повідомлення виберіть **відповідь** стрілку або стрілки **відповісти всім** .
 3. Введіть текст повідомлення а потім виберіть **Надіслати**.
 
 Щоб автоматично відповідати на всі повідомлення:
 
-1. Відкрийте [Параметри автовідповіді](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Виберіть **установки** > **Переглянути всі настройки Outlook** > **пошти** > **автоматичні відповіді** , щоб відкрити [Параметри автовідповіді](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Виберіть перемикач **Увімкнути автоматичні відповіді** .
 3. Установивши прапорець **надсилати відповіді тільки протягом періоду часу** дозволяє:
     - Лише надсилати відповіді, коли ви вибираєте. Якщо ви не встановите період часу, Автоматична відповідь залишається після вимкнення.
