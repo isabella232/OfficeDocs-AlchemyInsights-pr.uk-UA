@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "865"
+- "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 20f40841feae8962a2fbdaadad4f89c95f32acf4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418418"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379590"
 ---
 # <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Перегляд звітів про OneDrive і SharePoint діяльності та використання
 
-Перехід до [використання звітів сторінки центру адміністрування Microsoft Outlook 365](https://admin.microsoft.com/AdminPortal/Home). У розділі **Виберіть звіт**вибрати OneDrive або SharePoint діяльності або використання звіт. 
+Перехід до [використання звітів сторінки центру адміністрування Microsoft Outlook 365](https://admin.microsoft.com/AdminPortal/Home). У розділі **Виберіть звіт**вибрати OneDrive або SharePoint діяльності або використання звіт.
   
 [Детальніше про OneDrive звіти](https://go.microsoft.com/fwlink/?linkid=875239)
   
 [Детальніше про SharePoint звіти](https://go.microsoft.com/fwlink/?linkid=875240)
   
-

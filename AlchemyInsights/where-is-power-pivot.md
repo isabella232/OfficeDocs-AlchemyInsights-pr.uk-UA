@@ -9,35 +9,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "144"
+- "145"
+- "146"
+- "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31487d8ca65974497bb1edbf2b0204abd11cb87b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422808"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365150"
 ---
 # <a name="where-is-power-pivot"></a>Де — потужність Pivot?
 
 Є три причини, чому ви не бачите влади Pivot:
   
- **Вашій версії Excel не включати його**
+**Вашій версії Excel не включати його**
   
 Не всі версії Excel включають Pivot влади. Вам потрібно буде оновити до версії Office, яка включає в себе силу Pivot. [Перевірте Перелік підтримуваних версій.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
- **Вимкнено влади опорні**
+**Вимкнено влади опорні**
   
 Під час роботи у версії Excel, яка підтримує Pivot влади, перевірте, що надбудову ввімкнено:
   
 1. Виберіть " **файл** " \> **Параметри** \> **Надбудови**.
-    
+
 2. У **керування** спадного списку вибрати **надбудов COM** і натисніть кнопку **перейти**.
-    
-3. У діалоговому вікні **надбудови** встановіть прапорець поруч із **Microsoft влади опори для Excel**і натисніть кнопку **ОК**. 
-    
- **У вас є кілька підписки або облікові записи**
+
+3. У діалоговому вікні **надбудови** встановіть прапорець поруч із **Microsoft влади опори для Excel**і натисніть кнопку **ОК**.
+
+**У вас є кілька підписки або облікові записи**
   
 Ви можете мати різні підписки Office 365, призначені для різних облікових записів користувачів. Переконайтеся, що ви ввійшли в обліковий запис з версії Excel, яка підтримує Pivot влади. Перевірте перелік [підтримуваних версій](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)і дотримуйтесь інструкцій, щоб [переключатися між різними облікових записів Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
-  
-

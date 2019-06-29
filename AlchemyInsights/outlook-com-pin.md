@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392433"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373470"
 ---
 # <a name="change-your-pin"></a>Змінити PIN-код
 
 Outlook.com не використовувати PIN-код, але може ввійти до вашого комп'ютера за допомогою PIN-КОДУ або Windows Здравствуйте. Щоб змінити PIN-код у версії 10:
 
-1. Перейдіть на Стартовий екран і виберіть **налаштування** > **рахунків** > **Параметри входу**.
+1. Виберіть кнопку Пуск або натисніть клавішу Windows на клавіатурі, виберіть **Параметри** > **рахунків** > **Параметри входу**.
 2. Виберіть кнопку **змінити** під **PIN-код**.
 3. Введіть свій поточний PIN-код, а потім введіть і підтвердьте новий PIN-код під ним.
 

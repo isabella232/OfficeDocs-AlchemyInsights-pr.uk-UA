@@ -10,23 +10,25 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "567"
+- "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: f72c1d59dba7d742945ea5db0842f696825eb660
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ece52595fea4208f0ebb06cf39ea83e03d6534ba
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405210"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389994"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Видалити сайт SharePoint, який належить до Office 365 групи
 
 Глобальні адміністратори та адміністраторів SharePoint Тепер можна видалити сайтів, що належать до групи служби Office 365. Видалення цих сайтів призведе до видалення групи і всі його ресурсів, у тому числі поштової скриньки Outlook і календар і будь-які команди канали.
   
 Важливо:
-- Ви можете відновити видалену сайти 93 днів. Для отримання додаткової інформації перегляду та відновити видалену сайтів. Зверніть увагу, що видалені групи має бути відновлене протягом 30 днів. 
-- Якщо до сайту є частиною політики збереження, не можна видалити, поки сайт видаляється з у [безпеки &amp; центру адміністрування дотримання](https://protection.office.com/?rfr=AdminCenter#/retention). Переглянути [Огляд політики збереження](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) для отримання додаткової інформації. 
+
+- Ви можете відновити видалену сайти 93 днів. Для отримання додаткової інформації перегляду та відновити видалену сайтів. Зверніть увагу, що видалені групи має бути відновлене протягом 30 днів.
+- Якщо до сайту є частиною політики збереження, не можна видалити, поки сайт видаляється з у [безпеки &amp; центру адміністрування дотримання](https://protection.office.com/?rfr=AdminCenter#/retention). Переглянути [Огляд політики збереження](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) для отримання додаткової інформації.
   
 [Перегляд та відновлення видалених сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)виберіть **Видалити сайти**. Вибрати сайт, який було видалено та оберіть "відновлення" або "Delete, (що призведе до остаточного видалення сайту). Щоб видалити активний центр, виберіть **активних** сайти, виберіть сайт і виберіть **Видалити**. Для отримання додаткових відомостей див. [керування сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-
