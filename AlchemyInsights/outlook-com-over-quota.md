@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000084
-ms.openlocfilehash: 8f314b20f6095b83cb12b340f10aa04eb8f6dbc9
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.custom:
+- "1350"
+- "8000084"
+ms.openlocfilehash: d86f039cb0dba7cb7e4d21c0e43c1a3448265146
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33632100"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373686"
 ---
 # <a name="email-and-storage-quota-in-outlookcom"></a>Електронної пошти і зберігання квоти в Outlook.com
 
@@ -24,4 +26,6 @@ ms.locfileid: "33632100"
 
 **Зберігання межі**
 
-Якщо папку "Вхідні" заповнена, ви не зможете надсилати або отримувати будь-які повідомлення, і люди, які надсилати вам електронною поштою буде отримати повідомлення про помилку, що вашу поштову скриньку заповнено. Ви можете [побачити, скільки зберігання, що ви використовували](https://go.microsoft.com/fwlink/?linkid=2052089), або ви можете [дізнатися, як зробити кімнату вашої поштової скриньки](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+Якщо папку "Вхідні" заповнена, ви не зможете надсилати або отримувати будь-які повідомлення, і люди, які надсилати вам електронною поштою буде отримати повідомлення про помилку, що вашу поштову скриньку заповнено. Ви можете побачити, який обсяг сховища, у вас є доступним, перейшовши на [ **настройки** > **Переглянути всі настройки Outlook** > **загальні**> зберігання](https://outlook.live.com/mail/options/general/storage), або ви можете [дізнатися, як зробити кімнату вашої поштової скриньки](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e).
+
+Якщо у вас є преміум аккаунт, можна переглянути ваш зберігання збирається [ **настройки** > **Переглянути всі настройки Outlook** > **преміум**> особливості](https://outlook.live.com/mail/options/premium/features).

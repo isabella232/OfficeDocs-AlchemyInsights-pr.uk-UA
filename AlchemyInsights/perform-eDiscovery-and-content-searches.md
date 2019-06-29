@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1488
+ms.custom:
+- "1488"
+- "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5830f4ce5be6a5c10e0696a57f0b83b4c5606f2b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32373337"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35371454"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Як виконати вмісту пошукових запитів і пошук необхідної пошуки
 
@@ -26,8 +28,8 @@ ms.locfileid: "32373337"
 2. Натисніть кнопку **Пошук & розслідування > пошук за змістом**.
 3. Натисніть кнопку **новий пошук** , щоб створити новий пошук.
 4. Введіть необхідні пошуку умов, у тому числі ключові слова та вмісту розташувань.  
-5. Натисніть **зберегти & запустити** назвати пошук, запустіть його, після чого перегляньте результати. 
- 
+5. Натисніть **зберегти & запустити** назвати пошук, запустіть його, після чого перегляньте результати.
+
 Докладні інструкції про створення пошуків і експорт результатів перегляньте [цю статтю](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 **пошук необхідної пошуки**
