@@ -8,13 +8,15 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000345
-ms.openlocfilehash: ff194e3ec13fda9a409c6d932427385c74191ea6
-ms.sourcegitcommit: bd9292a797758d28e91f043bd77b2f7fe4993cf1
+ms.custom:
+- "1979"
+- "9000345"
+ms.openlocfilehash: f4af8679ac71ab15bd68a62e71143b14f8e20f97
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33510234"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373830"
 ---
 # <a name="account-locked"></a>Обліковий запис заблоковано
 
@@ -22,3 +24,5 @@ ms.locfileid: "33510234"
 
 1. Перейти на [account.microsoft.com](https://go.microsoft.com/fwlink/?linkid=2090484) і увійдіть у свій заблокований обліковий запис.Щоб розблокувати обліковий запис, необхідно ввести безпеки код, наданий у текстовому повідомленні від корпорації Майкрософт. Щоб отримати текстове повідомлення, ви повинні мати телефон, який підтримує обмін текстовими повідомленнями. Якщо ваш телефон не підтримує обмін текстовими повідомленнями, ви можете попросити друга або члена сім'ї, щоб використовувати свій телефон. Microsoft не зберегти цей номер телефону, номер телефону, ви використовуєте цей текст повідомлення не повинні бути пов'язані з вашим обліковим записом.
 2. Якщо ви бачите повідомлення "Перевищено обмеження використання", перейдіть до [Відновлення облікового запису](https://go.microsoft.com/fwlink/?linkid=2090483) і один з наших агентів зроблю огляд облікового запису.
+
+Щоб дізнатися більше, прочитайте [розблокувати обліковий запис Outlook.com](https://support.office.com/article/f4ad2701-d166-4d8b-8a6a-9af2a1f8a4c4) 

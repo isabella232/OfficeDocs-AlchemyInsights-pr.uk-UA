@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 71174bae-870a-4d5b-856b-891a054cf61e
-ms.openlocfilehash: 787037983d026fa159fc64f2f0bfc283462c291e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "781"
+- "6200002"
+ms.openlocfilehash: c4c9f87c1a5aaa995ad0f277d44c73fd17cf39d1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420301"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353594"
 ---
 # <a name="troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune"></a>Усунення несправностей із зарахування macOS пристроїв у Microsoft Intune
 
-Огляд ресурсів, перераховані нижче, щоб вирішити проблему, ваш тепер. 
+Огляд ресурсів, перераховані нижче, щоб вирішити проблему, ваш тепер.
   
-1. Використовувати [Intune виправлення неполадок портал](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) діагностувати та усунути поширені зарахування невдач. Огляд [цей документ](https://docs.microsoft.com/intune/help-desk-operators) для більш докладної інформації. 
-    
-2. Огляд [цей документ](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) список поширених помилок, які заважають заявки на участь та постанов до кожного. 
-    
+1. Використовувати [Intune виправлення неполадок портал](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) діагностувати та усунути поширені зарахування невдач. Огляд [цей документ](https://docs.microsoft.com/intune/help-desk-operators) для більш докладної інформації.
+
+2. Огляд [цей документ](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune) список поширених помилок, які заважають заявки на участь та постанов до кожного.
+
 3. [Дізнайтеся, як записатися macOS пристроїв у Microsoft Intune](https://docs.microsoft.com/intune/macos-enroll).
-    
+
 [Від'їзд керівництво ліцензійну записатися macOS пристрій у Microsoft Intune](https://docs.microsoft.com/intune-user-help/enroll-your-device-in-intune-macos-cp)
   
-

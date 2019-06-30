@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "267"
+- "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 301aedd5ba64561eda33a6bd2f2e89253d63a854
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84ff84ab5f4c43f45e64c542f1df3f3232ac986e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400378"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386286"
 ---
 # <a name="help-understanding-your-bill"></a>Довідки про ваш рахунок
 
@@ -25,11 +27,10 @@ ms.locfileid: "32400378"
 Якщо нарахованої до оплати суми відрізняється, то очікувалося, є кілька причин, це може статися:
   
 - Ліцензії або додавання передплати. Коли ліцензій змінених середньостроковій перспективі, це відображено в наступні рахунку. Ви можете побачити кредит і повторно законопроект для попереднього періоду обслуговування для врахування цих змін.
-    
+
 - Підписку було відмінено. Ви отримаєте рахунок-фактуру після скасування з будь-якого непогашений залишок мінус будь-які кредити.
-    
+
 - Підписки продовжений на новий термін і вартості ліцензії, змінено.
-    
+
 Щоб отримати додаткові відомості про рахунок-фактуру, побачити: [зрозуміти вашого рахунка-фактури](https://support.office.com/article/0724b428-fb59-4962-8c37-6674166d7507)
   
-

@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769489"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359393"
 ---
 # <a name="access-services-retirement"></a>Доступ до послуг виходу на пенсію
 
@@ -24,7 +27,7 @@ ms.locfileid: "34769489"
 
 **Що мені потрібно зробити, щоб підготуватися до цієї зміни?**
 
-Ми закликаємо вас створити план переходу для вашої організації веб-доступ до бази даних. Адміністратори можна використовувати [застосунок SharePoint доступу сканера](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) для отримання інвентаризація доступ застосунків, які використовують сайти. 
+Ми закликаємо вас створити план переходу для вашої організації веб-доступ до бази даних. Адміністратори можна використовувати [застосунок SharePoint доступу сканера](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) для отримання інвентаризація доступ застосунків, які використовують сайти.
 
 Існує кілька способів перенесення доступ до web баз даних:
 

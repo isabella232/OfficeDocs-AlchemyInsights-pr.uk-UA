@@ -1,24 +1,37 @@
 ---
-title: 8000078 скриньці Outlook.com не завантажується
+title: Не завантажується скриньці Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/12/2019
+ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000078
-ms.openlocfilehash: 0d08c38e624d293a58ddad0463016dace3283510
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1271"
+- "1963"
+- "8000078"
+ms.openlocfilehash: 3f881fd1f97c9abd771543271a0b6813e79e6e4f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418790"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374550"
 ---
-# <a name="inbox-not-loading-with-firefox"></a>Поштову скриньку не завантажується з Firefox
+# <a name="empty-inbox"></a>Порожні папки "Вхідні"
 
-Деякі додаткові компоненти браузера Firefox може перешкоджати поштовій скриньці Outlook.com навантаження.
-  
-Підтримки Фаєрфокс дізнатися як [Вимкнути](https://support.mozilla.org/kb/disable-or-remove-add-ons)чи видалити доповнення.
+**Пуста папка "Вхідні"**
 
+- Деякі додаткові компоненти браузера Firefox може перешкоджати поштовій скриньці навантаження. Підтримки Фаєрфокс дізнатися як [Вимкнути](https://support.mozilla.org/kb/disable-or-remove-add-ons)чи видалити доповнення.
+
+**Я хочу, щоб очистити мою поштову скриньку**
+
+Якщо ви хочете, щоб очистити папку "Вхідні" і видалити всю електронну пошту:
+
+1. Вибрати колі поруч із [папки "Вхідні"](https://outlook.live.com/mail/inbox) у верхній частині списку повідомлень виберіть всі ваші повідомлення.
+1. У верхній частині сторінки, виберіть пункт **Очистити папку** (або **Порожній зосереджено** / **порожні одного** якщо зосереджено поштову скриньку ввімкнуто).
+1. Виберіть **Видалити всі**.
+1. Щоб очистити всі видалені повідомлення, відкрийте вашу [папку "Видалені"](https://outlook.live.com/mail/deleteditems) і виберіть **порожню папку** > **Видалити всі**, потім виберіть **відновити елементи, видалені з папки** у верхній частині сторінки і виберіть **порожню папку** знову .
+
+Докладніше перегляньте [Видалити електронної пошти в Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)
