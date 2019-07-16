@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361010"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701344"
 ---
 # <a name="see-your-own-email-address"></a>Переглянути власну адресу електронної пошти
 
@@ -28,4 +28,4 @@ ms.locfileid: "35361010"
 1. Виберіть три крапки в нижній частині вікна Створити повідомлення і виберіть **Показати із** щоб побачити рядок From.
 2. Вище полі Кому виберіть **з** і вибрати яку адресу електронної пошти, ви хочете використовувати.
 
-Докладніше про [надсилання повідомлення з іншої адреси в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+Докладніше про [надсилання повідомлення з іншої адреси в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

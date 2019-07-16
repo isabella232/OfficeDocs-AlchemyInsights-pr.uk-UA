@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: dc8cbefba8e85fcf19ac09d3c1d469ae0db4bc03
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fa50002e6ceba625a0db1df407c0e750cd4a69c8
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390246"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35696996"
 ---
 # <a name="outlookcom-updates"></a>Outlook.com оновлення
 
 **Останні оновлення**
 
-- Отримайте більше від електронною поштою за допомогою Outlook.com нову. Ми вдосконалили пошуку, щоб зробити його простіше, ніж коли-небудь знайти те, що ви шукаєте. Нові функції, такі як фотографії та попередній перегляд вкладення дають змогу бачити зображення та файли поштовій скриньці. І тепер ви можете додати emojis і GIF-зображення до повідомлень.  [Дізнатися більше про нові Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)
+- Отримайте більше від електронною поштою за допомогою Outlook.com нову. Ми вдосконалили пошуку, щоб зробити його простіше, ніж коли-небудь знайти те, що ви шукаєте. Нові функції, такі як фотографії та попередній перегляд вкладення дають змогу бачити зображення та файли поштовій скриньці. І тепер ви можете додати emojis і GIF-зображення до повідомлень.  [Дізнатися більше про нові Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
 **Оновлень по електронній пошті**
 
-- Якщо ваша поштова скринька Outlook.com не оновлював, переглянути [помилки синхронізації електронної пошти Outlook.com виправити](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642).
+- Якщо ваша поштова скринька Outlook.com не оновлював, переглянути [помилки синхронізації електронної пошти Outlook.com виправити](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
