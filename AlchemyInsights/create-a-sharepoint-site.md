@@ -13,18 +13,27 @@ ms.custom:
 - "2303"
 - "5200004"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: cc0218dd34844cc1fdeb55a6f84975311826c372
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 022f572aadae3b4d9f6665f9f8be871d79b51817
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364574"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802987"
 ---
 # <a name="create-a-sharepoint-site"></a>Створення сайту SharePoint
 
-Переглянути [керування сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation ) для створення варіантів сайту. Виберіть створити [сайт групи](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US) (що створить Office 365 Група) або [повідомлення сайту](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Для створення [класичний сайт](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site), або новий сайт групи не включає Office 365 Група виберіть пункт **інші параметри**.
+Ви можете побачити такі відомості про створення сайту SharePoint:
+- [Керування сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): дізнатися про створення варіантів сайту, включаючи те, як створити класичний сайту або команд сайт, який не включає Office 365 Група.
+- [Створити сайт групи в SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Дізнайтеся, як створити сайт групи.
+- [Створити повідомлення сайту в SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Дізнайтеся, як створити сайт комунікацій.
+- [Керування сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Дізнайтеся, як створити класичний сайту або сайту групи, яка не включає групу Office 365.
+
+
   
-Поради:
-- *Не вдалося створити сайт з однакову URL-адресу існуючого сайту. Якщо ви видалили сайт і бажає повторне використання URL-адреси, виключено, видалені сайт все ще існує під **Видалені сайтів**. Керувати видалено сайти див, [видалення сайту](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Щоб повністю видалити сайт з Powershell, дивіться приклад командлета [Видалити SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .*
-- *Деякі користувачі не можуть створити сайт. Переглянути [керування створення сайту в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).*
-- *Виключено, що сайт з'явиться застряг на **створення** довше, ніж очікувалося. Якщо більш ніж 24 години пройшло з тих пір ви вперше побачив це питання, будь ласка, увійдіть квиток підтримки. У багатьох випадках ми вже працюємо над вирішенням. Будь ласка, надайте нам принаймні за 24 години до виконання рішення.*
+> [! Поради]
+> - Не вдалося створити сайт з однакову URL-адресу існуючого сайту. Якщо ви видалили сайт і бажає повторне використання URL-адреси, виключено, видалені сайт все ще існує під **Видалені сайтів**. Керувати видалено сайти див, [видалення сайту](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Щоб повністю видалити сайт з Powershell, дивіться приклад командлета [Видалити SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+> - Деякі користувачі не можуть створити сайт. Переглянути [керування створення сайту в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - Виключено, що сайт з'явиться застряг на **створення** довше, ніж очікувалося. Якщо більш ніж 24 години пройшло з тих пір ви вперше побачив це питання, будь ласка, увійдіть квиток підтримки. У багатьох випадках ми вже працюємо над вирішенням. Будь ласка, надайте нам принаймні за 24 години до виконання рішення.
+> - Якщо потрібно створити новий сайт команди, яка не включає групу Office 365 
+
+
