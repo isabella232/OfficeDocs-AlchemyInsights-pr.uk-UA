@@ -1,7 +1,7 @@
 ---
-title: Рівні дозволів на сайті SharePoint
-ms.author: kirks
-author: Techwriter40
+title: SharePoint Designer і FTP-клієнти
+ms.author: efrene
+author: efrene
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
@@ -10,41 +10,35 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 356fef8e02f2c1fd9d209c68194685bb0acaa367
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 1d3f6ad3128292a9dbcc46cc7da23af59a63fbb4
+ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760713"
+ms.lasthandoff: 07/24/2019
+ms.locfileid: "35840572"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>SharePoint Designer і FTP-клієнти 
 
-Якщо SharePoint Designer переживає питання, підключення до сайтів SharePoint, будь ласка, спроба такі спільні рішення.
+Якщо SharePoint Designer переживає питання, підключення до сайтів SharePoint, будь ласка, спробуйте такі спільні рішення.
 
-Крок 1: Перевірте, чи оновлено SharePoint Designer.
+Крок 1: Переконайтеся, що SharePoint Designer 2013 оновлюється з [пакета оновлень 1 для SharePoint Designer](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1) і [2 серпня 2016 оновлення для SharePoint Designer 2013](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721).
 
-- [SharePoint Designer 2013](https://www.microsoft.com/download/details.aspx?id=35491)
 
-- [SharePoint Designer пакета оновлень 1 (SP1)](https://support.microsoft.com/help/2817441/description-of-microsoft-sharepoint-designer-2013-service-pack-1-sp1)
 
-- [Оновлення для SharePoint Designer 2013 (KB3114721)](https://support.microsoft.com/help/3114721/august-2-2016-update-for-sharepoint-designer-2013-kb3114721)
+Крок 2: Очистити кеш локальних файлів:
 
-Крок 2: Очистити кеш локальних файлів
+1. Закрийте SharePoint Designer 2013.
 
-- Закрийте SharePoint Designer 2013.
+2. На локальному комп'ютері видалити всі файли у кожному із таких папок.
 
-- На локальному комп'ютері перейдіть до таких папок, щоб видалити кешованих файлів.
+    - %AppData%\Microsoft\Web сервер Extensions\Cache
+    - %AppData%\Microsoft\SharePoint Designer\ProxyAssemblyCache
+    - %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
 
-- Натисніть кнопку Пуск, виконати і видалити всі файли, знайти під кожним з в нижче розташуваннях.
+3. Відкрити SharePoint Designer 2013 і введіть обліковий запис знову, щоб побачити, якщо вона працює.
 
-Сервер %AppData%\Microsoft\Web Extensions\Cache %APPDATA%\Microsoft\SharePoint Designer\ProxyAssemblyCache %USERPROFILE%\AppData\Local\Microsoft\WebsiteCache
+Крок 3: [ввімкнення сучасних автентифікації для Office 2013 на пристроях Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
 
-Відкрити SharePoint Designer 2013 і введіть обліковий запис знову, щоб побачити, якщо вона працює.
-
-Крок 3: [ввімкнення сучасних автентифікації для Office 2013 на пристроях Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide)
-
-Крок 4: Адміністратори повинні дозволити користувацький скрипт дозволити підключення застосунку SharePoint Designer.
-
-Докладно процедуру, приклади і міркування в розділі [дозволити або заборонити власний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Крок 4: Адміністратори повинні **Дозволити користувацький скрипт** в настройках центру адміністрування SharePoint дозволити підключення застосунку SharePoint Designer. Див [дозволити або заборонити власний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) для отримання додаткової інформації.
 
 
