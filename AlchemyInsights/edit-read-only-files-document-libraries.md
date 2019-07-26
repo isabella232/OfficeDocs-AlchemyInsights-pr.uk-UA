@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132743"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903959"
 ---
 # <a name="edit-a-read-only-file"></a>Редагувати файл лише для читання
 
@@ -25,7 +25,7 @@ ms.locfileid: "35132743"
 
 Примітки:
 
-- Якщо ви віддаєте перевагу документів, відкрито для редагування у Office Online, при натисканні на заголовок, можна настроїти бібліотеку для цього (оскільки у вас є дозвіл змінювати параметри бібліотеки).
+- Якщо ви віддаєте перевагу документів, відкрито для редагування у кабінеті, якщо клацнути назву, можна настроїти бібліотеку для цього (оскільки у вас є дозвіл змінювати параметри бібліотеки).
 
 - Якщо бібліотек з Checkout, указані стовпці або коли лише користувачі, які можна редагувати у версії установки SharePoint бібліотеки документів, ці елементи буде синхронізовано лише для читання.
 
