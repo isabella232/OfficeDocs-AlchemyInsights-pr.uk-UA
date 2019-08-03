@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: d0bacf2b5ca9dffcaa15e46520251f3adf3aaaf0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 40bdd0d5ecf6f96d7af95f39616c540470f1bdb6
+ms.sourcegitcommit: 7c0575fd30f0f4448e530e1ec40eabb362cb4670
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35374586"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35595275"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Як отримати підтримку в Outlook.com
 
 На жаль, Outlook.com не пропонують підтримку по телефону, але у нас є спеціальний команд, які можуть допомогти вам.
 Введіть своє запитання або описати вашу проблему, **допомогти** будо а потім виберіть **Довідка**.
 
-[Отримання довідки щодо Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d)
+[Отримання довідки щодо Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
