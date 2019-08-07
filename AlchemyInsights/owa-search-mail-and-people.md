@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1565"
 - "8000003"
-ms.openlocfilehash: f61e121f0593b0c40ee9acf77df81b1bcf636be6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1add9eec819ddaec54e30c581898989b55be316f
+ms.sourcegitcommit: 77f704672b7c7de541899e25c022ff10c111e304
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35390030"
+ms.lasthandoff: 08/05/2019
+ms.locfileid: "36204009"
 ---
 # <a name="search-mail-and-people-on-outlook-on-the-web"></a>Пошук пошти і людей на Outlook в Інтернеті
 
-1. У полі **Пошук** у верхній частині сторінки введіть те, що ви хочете, щоб шукати (контакт, електронної пошти суб'єкта або частину повідомлення) і натисніть клавішу Enter.
+1. У в <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ Вікно **пошуку** у верхній частині сторінки, введіть те, що ви хочете, щоб шукати (контакт, електронної пошти суб'єкта або частину повідомлення) і натисніть клавішу Enter.
 
-2. Коли ви закінчите з пошуку, виберіть стрілку назад в полі **пошуку** або будь-яку папку на лівій панелі, щоб вийти на пошук.
+2. Коли ви закінчите з пошуку, виберіть назад стрілка <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAQCAYAAADwMZRfAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgFEhguGsWa9wAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAs0lEQVQ4jaXUsQ2FIBQF0IsyADWNYQcbExezo3YVB3ADgkvY6AIu4P2VP1/lhwC3InnJKR43T5AkAiGJ4ziglAqNb6n+Ad57jOOIfd+jCPjIeZ50znEYBq7r+hwHc0NygBuSC3yREoAkUQqQpHDOcZomaK3RNE38J35S1zX6vkfFcE2SIruug5QS8zyjbVsYY9KVa7HLstBam7fY61ECvcqWAwVrnwq9kCe0bVsUEWT5KfgAOVW28oYTSmkAAAAASUVORK5CYII=' /> у **пошуку** полі, або вибрати будь-яку папку на лівій панелі, щоб вийти на пошук.
 
 Для отримання додаткової інформації читати [Пошук пошта та люди в Outlook в Інтернеті](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
