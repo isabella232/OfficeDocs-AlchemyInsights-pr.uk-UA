@@ -1,27 +1,37 @@
 ---
 title: OneDrive збереження і вилучення інформації
-ms.author: kirks
-author: Techwriter40
-ms.date: 6/20/2019
+ms.author: efrene
+author: efrene
+ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: ''
-ms.openlocfilehash: a98e7740fb6c921252da6f36bc9e20d7a2be0099
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.custom:
+- "2440"
+- "9000596"
+ms.openlocfilehash: 5e67d280b26512613dbe9ecc0cf8f18134f92686
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119709"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232638"
 ---
 # <a name="onedrive-retention-and-deletion"></a>OneDrive збереження і вилучення
 
-[У цій статті](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) описано, що відбувається з користувача OneDrive, після видалення Office 365 обліковий запис користувача для вашої організації.
+- Ви можете [відновити видалену користувачів OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) себе. Вони знаходяться в кошик для 93 днів. 
 
-Щоб отримати додаткові відомості про збереження OneDrive та видалення бачите:
+- Дивіться [цю статтю](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) , щоб дізнатися:
+    - Як надати іншому користувачу доступ до OneDrive видаленим користувачем.
+    - Що відбувається з OneDrive користувача під час видалення Office 365 обліковий запис користувача для вашої організації.
+    - Як настроїти автоматичний доступ делегації.
+    - Як працює процес видалення OneDrive.
 
-- [Надати іншому користувачу доступ до видаленим користувачем OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#give-another-user-access-to-a-deleted-users-onedrive)
-- [Настроювання автоматичного доступу делегування](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
-- [Опис процесу видалення OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#the-onedrive-deletion-process)
-- [Відновлення видаленої OneDrive](https://docs.microsoft.com/onedrive/retention-and-deletion#configure-automatic-access-delegation)
+- Зацікавлені в безпеки і відповідності центр збереження та утримання?:
+    - [Політики збереження для OneDrive та сайтом SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [пошук необхідної утримання для OneDrive та сайтом SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+
+
+

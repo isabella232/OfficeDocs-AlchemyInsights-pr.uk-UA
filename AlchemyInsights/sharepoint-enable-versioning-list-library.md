@@ -1,20 +1,24 @@
 ---
-title: Увімкнення відстеження версій у списку або бібліотеки
-ms.author: kirks
-author: Techwriter40
+title: Відстеження версій у SharePoint і OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223625"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232679"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Увімкнення відстеження версій для списку або бібліотеки
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Відстеження версій у SharePoint і OneDrive 
 
 
 Коли у вашому списку або бібліотеці SharePoint увімкнуто керування версіями, можна зберігати, відстежувати та відновлювати елементи у списку та файли в бібліотеці, кожного разу, коли вони змінюються. Керування версіями, у поєднанні з інших параметрів, таких як checkout, дає вам купу контролю вмісту, який публікується на ваш сайт і може забезпечити реальну цінність, якщо у вас коли-небудь необхідно поглянути на або відновлення старої версії елемента або файлу.
