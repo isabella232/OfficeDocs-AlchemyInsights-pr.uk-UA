@@ -1,5 +1,5 @@
 ---
-title: Створити застосунки в PowerApps
+title: Створення програм у PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404984"
 ---
-# <a name="create-apps-with-powerapps"></a><span data-ttu-id="f14f1-102">Створити застосунки з PowerApps</span><span class="sxs-lookup"><span data-stu-id="f14f1-102">Create apps with PowerApps</span></span>
+# <a name="create-apps-with-powerapps"></a><span data-ttu-id="f6a15-102">Створення програм за допомогою PowerApps</span><span class="sxs-lookup"><span data-stu-id="f6a15-102">Create apps with PowerApps</span></span>
 
-<span data-ttu-id="f14f1-p101">PowerApps — розробка платформа для бізнес-додатків. Вона має три основні компоненти:</span><span class="sxs-lookup"><span data-stu-id="f14f1-p101">PowerApps is a development platform for business apps. It has three major components:</span></span> 
+<span data-ttu-id="f6a15-103">PowerApps – це платформа для розробки бізнес-програм.</span><span class="sxs-lookup"><span data-stu-id="f6a15-103">PowerApps is a development platform for business apps.</span></span> <span data-ttu-id="f6a15-104">Вона містить три основні компоненти.</span><span class="sxs-lookup"><span data-stu-id="f6a15-104">It has three major components:</span></span> 
   
-- <span data-ttu-id="f14f1-p102">[Полотно apps](https://go.microsoft.com/fwlink/?linkid=874495) починаються з користувацького досвіду, crafting вузькоспеціалізованих інтерфейс з силою чисте полотно і підключити його до вашого вибору джерел 200 даних. Ви можете створити полотно додатків для web, мобільних і планшетних додатків.</span><span class="sxs-lookup"><span data-stu-id="f14f1-p102">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources. You can build canvas apps for web, mobile, and tablet applications.</span></span> 
+- <span data-ttu-id="f6a15-105">[Програми на основі полотен](https://go.microsoft.com/fwlink/?linkid=874495) розробленні для створення висококваліфікованого інтерфейсу на базі порожніх полотен. Все це доповнено можливістю обрати з 200 джерел даних.</span><span class="sxs-lookup"><span data-stu-id="f6a15-105">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources.</span></span> <span data-ttu-id="f6a15-106">Ви можете створювати такі програми для мобільних пристроїв, планшетів та інтернету.</span><span class="sxs-lookup"><span data-stu-id="f6a15-106">You can build canvas apps for web, mobile, and tablet applications.</span></span> 
     
-- <span data-ttu-id="f14f1-p103">[Модель driven apps](https://go.microsoft.com/fwlink/?linkid=874496) почати з вашої моделі даних - будівництво до з фігури з основних бізнес-дані та процеси в загальних даних служби форм моделі, представлення та інші компоненти. Модель driven застосунки автоматично генерувати великої користувальницький інтерфейс, яка є гнучкою через пристрої.</span><span class="sxs-lookup"><span data-stu-id="f14f1-p103">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components. Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
+- <span data-ttu-id="f6a15-107">[Програми на основі моделей](https://go.microsoft.com/fwlink/?linkid=874496) підтримують побудову моделювання даних на базі ключових даних вашого бізнесу та його процесів через службу Common Data Service для моделювання форм, подань та інших компонентів.</span><span class="sxs-lookup"><span data-stu-id="f6a15-107">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components.</span></span> <span data-ttu-id="f6a15-108">Ці програми автоматично генерують відмінний інтерфейс користувача, яким можна користуватися на різних пристроях.</span><span class="sxs-lookup"><span data-stu-id="f6a15-108">Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
     
-- <span data-ttu-id="f14f1-p104">[Загальні дані послуги](https://go.microsoft.com/fwlink/?linkid=874497) є дані платформи, яка поставляється з PowerApps і дозволяє зберігати і модель бізнес-даних. Це платформа, на якій Dynamics 365, що застосунки зібрані. Якщо ви динаміка замовника, даних уже спільних даних служби.</span><span class="sxs-lookup"><span data-stu-id="f14f1-p104">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data. It's the platform on which Dynamics 365 applications are built. If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
+- <span data-ttu-id="f6a15-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) – це платформа даних, яка постачається з PowerApps, і дає змогу зберігати й моделювати бізнес-дані.</span><span class="sxs-lookup"><span data-stu-id="f6a15-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data.</span></span> <span data-ttu-id="f6a15-110">Це платформа, на якій будуються програми Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="f6a15-110">It's the platform on which Dynamics 365 applications are built.</span></span> <span data-ttu-id="f6a15-111">Якщо ви – клієнт Dynamics, ваші дані вже доступні в Common Data Service.</span><span class="sxs-lookup"><span data-stu-id="f6a15-111">If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
     
-[<span data-ttu-id="f14f1-112">Детальніше про PowerApps</span><span class="sxs-lookup"><span data-stu-id="f14f1-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
+[<span data-ttu-id="f6a15-112">Докладні відомості про PowerApps</span><span class="sxs-lookup"><span data-stu-id="f6a15-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
   
 
