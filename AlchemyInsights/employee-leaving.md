@@ -13,21 +13,21 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 93e354494902d7ca52f5c3d6117be895975f52f0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388734"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386389"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a><span data-ttu-id="4fb13-102">Працівник залишаючи та необхідно заблокувати доступ до даних і електронної пошти?</span><span class="sxs-lookup"><span data-stu-id="4fb13-102">Have an employee leaving and need to block access to data and email?</span></span>
+# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a><span data-ttu-id="e30dd-102">Працівник залишаючи та необхідно заблокувати доступ до даних і електронної пошти?</span><span class="sxs-lookup"><span data-stu-id="e30dd-102">Have an employee leaving and need to block access to data and email?</span></span>
   
-1. <span data-ttu-id="4fb13-103">Перейти до [активних користувачів](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="4fb13-103">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
+1. <span data-ttu-id="e30dd-103">У центр адміністрування, перейдіть до розділу **користувачі** \> сторінці [Активних користувачів](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="e30dd-103">In the admin center, go to **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="4fb13-104">Виберіть користувача, якого потрібно блокувати.</span><span class="sxs-lookup"><span data-stu-id="4fb13-104">Select the user you want to block.</span></span>
+2. <span data-ttu-id="e30dd-104">Виберіть користувача, якого потрібно блокувати.</span><span class="sxs-lookup"><span data-stu-id="e30dd-104">Select the user you want to block.</span></span>
 
-3. <span data-ttu-id="4fb13-105">Біля входу в стан виберіть **редагувати**.</span><span class="sxs-lookup"><span data-stu-id="4fb13-105">Next to Sign-in status, choose **Edit**.</span></span>
+3. <span data-ttu-id="e30dd-105">Біля входу в стан виберіть **редагувати**.</span><span class="sxs-lookup"><span data-stu-id="e30dd-105">Next to Sign-in status, choose **Edit**.</span></span>
 
-4. <span data-ttu-id="4fb13-106">Виберіть **заблокувати користувача від підписання** \> **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="4fb13-106">Choose **Block the user from signing in** \> **Save**.</span></span>
+4. <span data-ttu-id="e30dd-106">Виберіть **заблокувати користувача від підписання** \> **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="e30dd-106">Choose **Block the user from signing in** \> **Save**.</span></span>
 
- <span data-ttu-id="4fb13-107">**Примітка**: знак відмови, деякі програми не може бути негайно.</span><span class="sxs-lookup"><span data-stu-id="4fb13-107">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="4fb13-108">Стежити з додаткові дії в цій статті: [Видалити колишнім співробітником з Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span><span class="sxs-lookup"><span data-stu-id="4fb13-108">Follow up with more actions in this article: [Remove a former employee from Office 365](https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)</span></span>
+<span data-ttu-id="e30dd-107">**Примітка**: знак відмови, деякі програми не може бути негайно.</span><span class="sxs-lookup"><span data-stu-id="e30dd-107">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="e30dd-108">Стежити з додаткові дії в цій статті: [Видалити колишнім співробітником з Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="e30dd-108">Follow up with more actions in this article: [Remove a former employee from Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)</span></span>
