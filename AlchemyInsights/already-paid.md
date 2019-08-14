@@ -13,18 +13,18 @@ ms.custom:
 - "466"
 - "1500024"
 ms.assetid: 091e3fa1-b67f-40a4-b72f-b69c9f2c741f
-ms.openlocfilehash: ec00594736ec3f4dab085127ffbd4fc688df7d01
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ca67a737bb7a5210e4ff76b80a694ea4740fd5d8
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357122"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386209"
 ---
 # <a name="already-paid"></a>Вже заплатили?
 
 Якщо ви вже послали платіж, ви можете повідомити:
   
-1. Перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **платіжну** \> **підписки**.
+1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Виберіть підписку та у розділі **рахунок** » виберіть **Подання законопроекту**.
 

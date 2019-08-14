@@ -13,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: ef09b8d69c41e4060bb948b0681f4a6543c74cc1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1dbf7035b3c21e744904a026d62c5cf3475cadc2
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360686"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387073"
 ---
 # <a name="buy-additional-licenses"></a>Придбати додаткові ліцензії
 
-1. У Центрі адміністрування перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Виставлення рахунків** \> **Передплати**.
+1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. На сторінці **підписки** виберіть передплати, який потрібно додати до ліцензії а потім виберіть **Додати/видалити ліцензій**.
 
-    [Що робити, якщо я не бачу додати/видалити посилання?](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1#bkmk_no_link)
+    [Що робити, якщо я не бачу додати/видалити посилання?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
 3. У полі **загальна ліцензій** введіть загальну кількість ліцензій, що вам потрібно для цього підключення а потім виберіть **Надіслати** \> **закрити**. Наприклад, якщо у вас є 100 ліцензії, ви повинні додати більше 5 введіть 105.
 
     > [!NOTE]
     > При оплаті за підписку кредитної карти або банківського рахунку, будь-якої нової ліцензії, що ви купуєте доступні відразу після того, як ви отримали підтвердження. Якщо ви платите за рахунок-фактуру, можливо, доведеться чекати для перевірки кредитоспроможності, перш ніж нової ліцензії доступні для використання.
   
- **Додаткові ресурси**
-  
-- [Купити ліцензій для Office 365](https://support.office.com/article/36081d8d-b3fa-4948-8c34-e217bba825e1)
+**Додаткові ресурси**
 
-- [Призначення ліцензії користувачам у службі Office 365 для бізнесу](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [Призначення ліцензії користувачам у службі Office 365 для бізнесу](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+
+Ви використовуєте центру адміністрування? Нові кроки в розділі [купити ліцензій для Office 365 для бізнес-підключення](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).

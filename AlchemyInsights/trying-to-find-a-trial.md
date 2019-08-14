@@ -13,18 +13,18 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: beed41b96dde1b120a98391187424367e868071e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d11e5e28dbc524e9e894c0d2e504495f3811a763
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366770"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387865"
 ---
 # <a name="trying-to-find-a-trial"></a>Намагаючись знайти судового процесу?
 
-Якщо ви хотіли б спробувати нову послугу ви знайдете список передплати доступна для судового розгляду центру адміністрування Microsoft Outlook 365.
+Якщо ви хотіли б спробувати нову послугу ви знайдете список передплати доступна для судового розгляду центру адміністрування.
   
-1. Перейдіть на сторінку [Покупки](https://go.microsoft.com/fwlink/p/?linkid=868433) , або вибрати **Billing** \> **купівлю послуг**.
+1. У центр адміністрування, перейдіть на **платіжний** \> [Купівлю послуг](https://go.microsoft.com/fwlink/p/?linkid=868433) сторінки.
 
 2. Знайти підписку, який відповідає вашим потребам, мишу над нею, і виберіть **почати безкоштовна пробна версія**.
 

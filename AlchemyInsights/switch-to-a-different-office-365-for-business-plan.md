@@ -13,18 +13,18 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: cfb1012b644d3fa54d385636642b8f7d02a09c0c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fd77590c36deff1dd6c82664988a1f459442f393
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367670"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388219"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Перейти до різних Office 365 для бізнес-плану
 
 Коли ваш бізнес-змін, або ви повинні більше функцій служби Office 365, може бути вимкненою планів.
   
-1. У Центрі адміністрування перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Виставлення рахунків** \> **Передплати**.
+1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Вибрати **перемикач плани** для перегляду списку нові плани, які доступні.
 
@@ -32,7 +32,6 @@ ms.locfileid: "35367670"
 
 Кнопки перемикання плани не підтримується у всіх ситуаціях. У деяких випадках можна перейти плани вручну.
   
-Якщо **переключення плани** кнопка недоступна, можна спробувати [переключити плани вручну](https://support.office.com/article/eb0d0680-5677-41a0-8c46-4b9d47f1c209) або використовувати опцію "назвемо ви" говорити до допоміжного інженер.
+Якщо **переключення плани** кнопка недоступна, можна спробувати [переключити плани вручну](https://docs.microsoft.com/en-us/office365/admin/misc/switch-plans-manually) або використовувати опцію "назвемо ви" говорити до допоміжного інженер.
   
-Для усіх варіантів перемикання плани побачити [Переключитися на різних 3635 Office для бізнес-плану](https://support.office.com/article/49d77463-d3da-4106-abcf-2d5209106ea2).
-  
+Ви використовуєте центру адміністрування? Нові кроки в розділі [оновлення до інший план](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

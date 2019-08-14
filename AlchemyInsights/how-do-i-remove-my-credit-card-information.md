@@ -13,16 +13,16 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: b91c6260542577c9cb4775eb3b518ee07e98b7f4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 65059f334e6a6d74c35324d2b10ca5c175398990
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35386106"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390317"
 ---
 # <a name="how-do-i-remove-my-credit-card-information"></a>Як видалити відомості моєї кредитної картки?
 
-1. У Центрі адміністрування перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) або виберіть **Виставлення рахунків** \> **Передплати**.
+1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Pick будь-якої передплати і виберіть пункт **Оновити дані платежу**.
 
@@ -32,3 +32,5 @@ ms.locfileid: "35386106"
 
 > [!NOTE]
 > Видалити кредитна карта або банківський рахунок, поки вас непогашений залишок на кредитна карта або банківський рахунок, і не використовуєте його платити за активну підписки.
+
+Ви використовуєте центру адміністрування? Нові кроки в розділі [Додавання, оновлення, або видалити кредитна карта або банківський рахунок у службі Office 365 для бізнесу](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

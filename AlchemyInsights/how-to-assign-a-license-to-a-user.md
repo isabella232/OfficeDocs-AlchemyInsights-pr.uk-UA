@@ -13,18 +13,18 @@ ms.custom:
 - "325"
 - "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 46f48dc401268599821df0fcd51fefa0b8968493
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385710"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386317"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Як призначити ліцензію користувача
 
 Користувач потрібна ліцензія мати доступ до послуг. Ось кроки, щоб додати, змінити або видалити ліцензію від користувача.
   
-1. У центр адміністрування, перейдіть на сторінку [Активних користувачів](https://go.microsoft.com/fwlink/p/?linkid=834822) або вибрати **користувачів** \> **активних користувачів**.
+1. У центр адміністрування, перейдіть на **користувачів** \> сторінці [Активних користувачів](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
 2. Установіть прапорець поруч із іменем користувача, якому ви хочете призначити, змінити або видалити ліцензію.
 
@@ -38,5 +38,4 @@ ms.locfileid: "35385710"
 
 5. У нижній частині області **ліцензії продукту** , виберіть **зберегти** \> **близько** \> **закрити**.
 
-Докладніше перегляньте [призначення ліцензії для користувачів у службі Office 365 для бізнесу](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)та [видалення ліцензії від користувачів у службі Office 365 для бізнесу](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
-  
+Докладніше перегляньте [призначення ліцензії для користувачів у службі Office 365 для бізнесу](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)та [видалення ліцензії від користувачів у службі Office 365 для бізнесу](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
