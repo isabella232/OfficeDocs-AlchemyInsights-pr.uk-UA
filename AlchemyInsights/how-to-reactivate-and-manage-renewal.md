@@ -13,18 +13,18 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 43689cd59be9838c7d4625ed74ef06a4e934517c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c049644fed3deca18968068afeaa0b7a490f9fe
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35383550"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36389957"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Як повторно активувати та керувати повторного виставлення рахунку
 
 Схоже, що ви маєте підписки, що минув. Якщо ж потрібно активувати її, тут як.
   
-1. Центру адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або перейдіть на **платіжну** \> **підписки**.
+1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Виберіть підписку, тобто **Expired** або **стають інвалідами**.
 
@@ -36,11 +36,10 @@ ms.locfileid: "35383550"
 
 Керувати, щомісяця або щороку виставлення рахунків, ви можна увімкнути або вимкнути **циклічна біллінг** або вимкнути.
   
-1. Центру адміністрування, перейдіть на сторінку [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) або перейдіть на **платіжну** \> **підписки**.
+1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Виберіть підключення, для якого потрібно керувати повторного виставлення рахунку.
 
 3. **Циклічна біллінг** toggle переключатися в режим аркуша **на** **Off**.
 
-Докладніше, перегляньте статтю: [керування періодичних рахунків за підписку](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e).
-  
+Докладніше перегляньте [чергу періодичних рахунків чи вимкнути](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
