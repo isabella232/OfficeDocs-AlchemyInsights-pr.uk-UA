@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364034"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516692"
 ---
-# <a name="control-creation-of-o365-groups"></a>Створення елемента керування O365 груп
+# <a name="control-creation-of-office-365-groups"></a>Керування створення груп Office 365
 
-За промовчанням всі користувачі в межах компанії здатні створювати групи O365. Якщо необхідно, ви в змозі змінити це і призначити право створювати групи O365 набору людей у вашій компанії. Зверніть увагу, що це позначиться на створення груп з будь-якого O365 служби (наприклад, Outlook, команд, планувальник тощо).
+За промовчанням усі користувачі в межах компанії здатні створювати групи. Якщо необхідно, ви в змозі змінити це і призначити право створювати групи набору людей у вашій компанії. Зверніть увагу, що це позначиться на створення груп з будь-якої служби Office 365 (наприклад, Outlook, команд, планувальник тощо).
   
 Інструкції: [керування, які можна створювати групи Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: f333957a585d16207aabe0f9de4d4b72b9e1ce63
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9e29823dd40cf9353ade9e32cf5ac4bc7794d154
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32374093"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503224"
 ---
-# <a name="sharepoint-online-throttling"></a>Онлайн дроселювання SharePoint
+# <a name="sharepoint-online-throttling"></a>SharePoint Online дроселювання
 
 SharePoint Online використовує дроселювання підтримувати оптимальну продуктивність і надійність служби SharePoint Online. Дроселювання межі кількість дій користувача одночасних заклики (сценарій або код) для запобігання надмірним використанням ресурсів. Якщо ви отримуєте задушив, 99% часу саме через власний код.
   

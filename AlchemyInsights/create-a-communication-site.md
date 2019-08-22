@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: b526a87740c44d2b247c202a92d9c35f85383500
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32407599"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516297"
 ---
 # <a name="create-a-communication-site"></a>Створити повідомлення сайту
 
-Щоб створити зв'язок сайту, виконайте такі кроки: 
+Щоб створити зв'язок сайту SharePoint Online, виконайте такі кроки: 
   
 1. У верхньому лівому кутку сторінки клацніть запускач app і виберіть іконку SharePoint. Якщо плитка SharePoint не відображається, натисніть кнопку **сайти** або **всі застосунки** якщо SharePoint не відображається. 
     

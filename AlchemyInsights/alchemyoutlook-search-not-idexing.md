@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397955"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505852"
 ---
 # <a name="outlook-search-not-indexing"></a>Пошук Outlook не індексування
 
 Ми усвідомлюємо, що Outlook пошук питань безпеки пов'язані з останніх оновлень для Windows.
   
-Під час пошуку у програмі Outlook, ви можете отримати цю помилку: * * щось пішло не так і пошуку не могла бути завершена * *, або **результати пошуку можуть бути неповними, оскільки елементи ще індексується**. Fix було видано як необов'язкові оновлення Windows. Будь ласка, встановіть той, який відповідає версії Windows, що ви бачите це питання на: 
+Під час пошуку у програмі Outlook, ви можете отримати одну з цих помилок: **щось пішло не так і пошуку не могла бути завершена**, або **результати пошуку можуть бути неповними, оскільки елементи ще індексується**. Fix було видано як необов'язкові оновлення Windows. Будь ласка, встановіть той, який відповідає версії Windows, що ви бачите це питання на: 
   
 > [Windows 7 - 27 червня 2017 оновлення](https://support.microsoft.com/kb/4022168.aspx)
     

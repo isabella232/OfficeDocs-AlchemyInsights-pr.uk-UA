@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270765"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501100"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap свій класичний кореневий сайт з сучасними сайту
 
 Ваше оточення було створено раніше квітня 2019, змініть кореневий сайт на сучасний сайт за допомогою Microsoft PowerShell:
 
 - Якщо у вас є інший сайт, який ви бажаєте використовувати як корінь сайту, можна замінити (свопу) кореневий сайт його. 
-    - Міняти місцями розташування сайт з іншого сайту час архівації на оригінальний сайт за допомогою [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) . Доступні для сайту групи (не підключено до групи) і повідомлення сайту. 
+    - Міняти місцями розташування сайт з іншого сайту час архівації на оригінальний сайт за допомогою [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) . Доступні для сайту групи (не підключено до групи) і повідомлення сайту. 
 
 - Додаткові можливості будуть введені незабаром що дасть змогу продовжувати використовувати вміст на сайті, але перетворити наявний сайт повідомлення сайту. 
 >[!Important]
