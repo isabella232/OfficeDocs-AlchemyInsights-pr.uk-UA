@@ -7,15 +7,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 108bed3dc8ca617abfaba2f7f1aa27a672f3d8c7
-ms.sourcegitcommit: 241e21b6da226563bf70bdb1f5bad3d91c38cd2c
+ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/05/2019
-ms.locfileid: "34736353"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36535169"
 ---
-"Налаштування"
-
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>На сайті SharePoint або OneDrive "Налаштування"
 
 Коли користувач до існуючих компонентів Office 365, може бачать SharePoint Online або OneDrive для бізнес ікони перераховані як "Настроювання", доки процес підготовки були завершені.
