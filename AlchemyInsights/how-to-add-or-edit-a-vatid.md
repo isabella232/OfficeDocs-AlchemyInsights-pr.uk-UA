@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386425"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522632"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Як додавати або редагувати на VatID
 
-- У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  У Microsoft Outlook 365 Центр адміністрування, перейдіть на **Billing** \> [продукція & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.
 
-- На сторінці **підписки** , виберіть підписку, потрібно змінити, а потім вибрати **Додаткові дії** \> **номер платника ПДВ, редагувати**.
+2. Знайти підписки картку для підписки, яку потрібно оновити.
 
-- У нижній частині області **редагування вашу адресу використання служби** вводити або редагувати ваш ідентифікаційний номер платника ПДВ у полі **номер платника ПДВ** а потім виберіть **Надіслати**.
+3. У розділі **настройки & дій** виберіть **змінити адресу використання служби**.
+
+4. На сторінці **змінити адресу використання служби** введіть ваш ідентифікаційний номер платника ПДВ у полі **номер платника ПДВ** і виберіть **зберегти**.
 
     Завершеним, ПДВ не стягується ваш наступний рахунок.
 
-Докладніше, перегляньте [те, що податок буде потрібно платити за Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Ви використовуєте центру адміністрування? Нові кроки в розділі [додати ваш ідентифікаційний номер платника ПДВ](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Докладніше, перегляньте [те, що податок буде потрібно платити за Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) або [додати ваш ідентифікаційний номер платника ПДВ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

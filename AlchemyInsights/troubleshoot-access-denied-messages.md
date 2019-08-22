@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420721"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500446"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Усунення проблем: відмовлено у доступі до повідомлення
 
-Якщо хтось отримав повідомлення "Немає доступу" до спільної папки, адміністратор колекції сайтів, можливо, ввімкнуто "обмеженим доступом користувача дозволу lockdown режим". Щоб вимкнути це: 
+Якщо хтось отримав повідомлення "Немає доступу" до спільної папки в SharePoint, адміністратор колекції сайтів, можливо, ввімкнуто "обмеженим доступом користувача дозволу lockdown режим". Щоб вимкнути це: 
   
 1. Перейдіть до веб-сайту, клацніть піктограму настройки та виберіть пункт **Параметри сайту**.
     

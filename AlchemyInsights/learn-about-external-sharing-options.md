@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 617
 ms.assetid: 35a22eeb-a426-4839-85b1-13745ed1d2c2
-ms.openlocfilehash: c17970359168a0ab90e2a0e424d4dcef37ea8637
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 121618982dbecd9c01b7082ed7f544386a5bf3aa
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751544"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36497788"
 ---
 # <a name="learn-about-external-calendar-sharing-options"></a>Дізнатися про зовнішні календар цю сторінку
 
-[Зовнішнім користувачам спільно користуватися календарями](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD)
+Якщо потрібно запланувати зустрічі з людьми поза межами вашої організації, Office 365 дає змогу надати календарі "зовнішнім користувачам," тих, хто потребує бачити вільний/зайнятий час, але не мають облікових записів користувачів на вашому середовищі Office 365. Докладніше перегляньте [частка календарів із зовнішніми користувачами](https://support.office.com/article/fb00dd4e-2d5f-4e8d-8ff4-94b2cf002bdd.aspx).

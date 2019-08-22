@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 6417ff45a94c7b8fb50c8a1f9f84873714e3eaaf
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 30f4b30a86f6c65ff1dc348c279341e299b0275b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059201"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507904"
 ---
-# <a name="external-sharing-settings-for-sharepoint--onedrive"></a>Зовнішні настройки спільного використання для SharePoint & OneDrive
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Попередження: політик організації не дозволяють ділитися цими користувачами
 
 Користувачі можуть виникнути попередження при спробі поділитися з зовнішнім користувачам вашої організації. Повідомлення є **політик організації не дозволяють ділитися цими користувачами. Перейти до зовнішнього спільного доступу до центру адміністрування служби Office 365 її**. Це часто відбувається вперше спробою поділитися із зовнішніми користувачами або коли обмін з новим зовнішнім користувачам.
 
