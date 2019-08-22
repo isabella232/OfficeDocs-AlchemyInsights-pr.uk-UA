@@ -13,19 +13,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387787"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506140"
 ---
-# <a name="view-my-bill"></a><span data-ttu-id="d8cfe-102">Переглянути мій рахунок</span><span class="sxs-lookup"><span data-stu-id="d8cfe-102">View my bill</span></span>
+# <a name="view-my-bill"></a><span data-ttu-id="b505e-102">Переглянути мій рахунок</span><span class="sxs-lookup"><span data-stu-id="b505e-102">View my bill</span></span>
 
-1. <span data-ttu-id="d8cfe-103">У центр адміністрування, перейдіть на **платіжний** \> [рахунки](https://go.microsoft.com/fwlink/p/?linkid=848039) сторінки.</span><span class="sxs-lookup"><span data-stu-id="d8cfe-103">In the admin center, go to the **Billing** \> [Bills](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="b505e-103">У Microsoft Outlook 365 Центр адміністрування, перейдіть на **Billing** \> [векселів & платежі](https://go.microsoft.com/fwlink/p/?linkid=848039) сторінки.</span><span class="sxs-lookup"><span data-stu-id="b505e-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="d8cfe-104">Виберіть місяць і дати виставлення рахунку, ви хочете а потім виберіть **подання**.</span><span class="sxs-lookup"><span data-stu-id="d8cfe-104">Choose the month and date of the invoice you want, and then choose **View**.</span></span>
+2. <span data-ttu-id="b505e-104">Виберіть діапазон дат розкривного списку а потім виберіть порядку, ви хочете переглянути.</span><span class="sxs-lookup"><span data-stu-id="b505e-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-3. <span data-ttu-id="d8cfe-105">Вибрати замовлення а потім виберіть **Переглянути відомості**.</span><span class="sxs-lookup"><span data-stu-id="d8cfe-105">Choose an order, and then choose **View Details**.</span></span>
-
-<span data-ttu-id="d8cfe-106">Для отримання додаткової інформації див. [подання законопроекту або рахунка-фактури](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="d8cfe-106">For more information see [View your bill or invoice](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
+<span data-ttu-id="b505e-105">Для отримання додаткової інформації див. [подання законопроекту або рахунка-фактури](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="b505e-105">For more information see [View your bill or invoice](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).</span></span>
