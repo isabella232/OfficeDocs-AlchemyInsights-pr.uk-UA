@@ -13,25 +13,25 @@ ms.custom:
 - "830"
 - "2000020"
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: 3869da94e8731f006295d7c9748d031219d965c5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d6e2bfd1348c01c6300044b69040142bd4489607
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35368426"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501925"
 ---
-# <a name="solutions-for-error-30015-25"></a><span data-ttu-id="27e41-102">Рішення за помилки 30015-25</span><span class="sxs-lookup"><span data-stu-id="27e41-102">Solutions for error 30015-25</span></span>
+# <a name="solutions-for-error-30015-25"></a><span data-ttu-id="7641d-102">Рішення за помилки 30015-25</span><span class="sxs-lookup"><span data-stu-id="7641d-102">Solutions for error 30015-25</span></span>
 
-<span data-ttu-id="27e41-103">Спробуйте ці рішення виправити помилки [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="27e41-103">Try these solutions to fix error [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
+<span data-ttu-id="7641d-103">Спробуйте ці рішення виправити помилки [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span><span class="sxs-lookup"><span data-stu-id="7641d-103">Try these solutions to fix error [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):</span></span>
   
-- <span data-ttu-id="27e41-104">Перезавантажте комп'ютер і спробуйте [встановити Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="27e41-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
+- <span data-ttu-id="7641d-104">Перезавантажте комп'ютер і спробуйте [встановити Office](https://portal.office.com/OLS/MySoftware.aspx).</span><span class="sxs-lookup"><span data-stu-id="7641d-104">Restart your computer and try [installing Office](https://portal.office.com/OLS/MySoftware.aspx).</span></span>
 
-- <span data-ttu-id="27e41-105">Завантажити та встановити на [підтримку і помічник відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="27e41-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
+- <span data-ttu-id="7641d-105">Завантажити та встановити на [підтримку і помічник відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7641d-105">Download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy).</span></span>
 
-1. <span data-ttu-id="27e41-106">Під час відкривання, **продуктів видалення Office** виберіть варіант ви хочете вилучити та оберіть **наступного**.</span><span class="sxs-lookup"><span data-stu-id="27e41-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
+1. <span data-ttu-id="7641d-106">Під час відкривання, **продуктів видалення Office** виберіть варіант ви хочете вилучити та оберіть **наступного**.</span><span class="sxs-lookup"><span data-stu-id="7641d-106">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span>
 
-2. <span data-ttu-id="27e41-107">Як і раніше переживає екранів і перезавантажте комп'ютер при появі запиту.</span><span class="sxs-lookup"><span data-stu-id="27e41-107">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="7641d-107">Як і раніше переживає екранів і перезавантажте комп'ютер при появі запиту.</span><span class="sxs-lookup"><span data-stu-id="7641d-107">Continue going through screens and restart your computer when prompted.</span></span>
 
-    <span data-ttu-id="27e41-108">Після перезавантаження, підтримка і відновлення помічник автоматично повторно відкривається для завершення процесу видалення.</span><span class="sxs-lookup"><span data-stu-id="27e41-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="7641d-108">Після перезавантаження, підтримка і відновлення помічник автоматично повторно відкривається для завершення процесу видалення.</span><span class="sxs-lookup"><span data-stu-id="7641d-108">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
 
-3. <span data-ttu-id="27e41-109">Дотримуйтесь залишилися підказок та [переінсталяції Office](https://portal.office.com/OLS/MySoftware.aspx) або закрити помічник.</span><span class="sxs-lookup"><span data-stu-id="27e41-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
+3. <span data-ttu-id="7641d-109">Дотримуйтесь залишилися підказок та [переінсталяції Office](https://portal.office.com/OLS/MySoftware.aspx) або закрити помічник.</span><span class="sxs-lookup"><span data-stu-id="7641d-109">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span>
