@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a6ff804fae307212c454b80ead863667dbdbe781
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35121420"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513128"
 ---
 # <a name="delete-a-site-collection"></a>Видалити колекцію сайтів
 
@@ -28,4 +28,4 @@ ms.locfileid: "35121420"
 
 Перед видаленням сайту, так що вони можна перемістити їх даних в інше місце а також сказати користувачам, коли сайти видаляються, необхідно попередити адміністрації сайту та будь-які власників підсайту. 
 
-Докладніше перегляньте статтю [видалити колекцію сайтів](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection). 
+Докладніше перегляньте статтю [видалити колекцію сайтів](https://docs.microsoft.com/sharepoint/delete-site-collection). 

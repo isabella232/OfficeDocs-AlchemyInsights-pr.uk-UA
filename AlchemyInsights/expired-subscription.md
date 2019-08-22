@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389106"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526700"
 ---
 # <a name="expired-subscription"></a>Прострочений підписки
 
@@ -26,18 +26,16 @@ ms.locfileid: "36389106"
   
 **Повторна активація**
   
-1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. У центр адміністрування, перейдіть на **платіжний** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.
 
 2. Виберіть підписку, яка буде відновлено одразу.
 
-3. Праворуч виберіть **активувати**.
+3. У розділі **виставлення рахунків** виберіть **активувати**.
 
-Ви використовуєте центру адміністрування? Нові кроки в розділі [повторно активувати вашу підписку](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Докладніше перегляньте статтю [повторно активувати вашу підписку](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Зробити нові придбання**
   
-1. У центр адміністрування, перейдіть на **платіжний** \> [Купівлю послуг](https://go.microsoft.com/fwlink/p/?linkid=868433) сторінки.
+1. У центр адміністрування, перейдіть на **платіжний** \> [купівлю послуг](https://go.microsoft.com/fwlink/p/?linkid=868433) сторінки.
 
-2. Виберіть підписку ви хотіли б придбати.
-
-3. Наведіть курсор на плитку і вибрати **купити зараз**.
+2. Виберіть підписку ви хотіли б придбати а потім виберіть **купити**.

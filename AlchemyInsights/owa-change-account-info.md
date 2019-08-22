@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 472386634e3a2c0b6f7886cc449df53fee313942
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.openlocfilehash: 71895ba9ab1f2ac78bbe59415dd59099c4270cc1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934326"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510608"
 ---
-# <a name="change-your-account-information"></a>Змінення відомостей облікового запису
+# <a name="change-account-information-in-outlook-on-the-web"></a>Змінити відомості облікового запису в Outlook в Інтернеті
 
 1. У верхній частині сторінки виберіть пункт ім'я або профіль зображення.
 1. Виберіть **обліковий запис**.
