@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: 595ed7b6cd27261de82e6d0a96a985a19383f4d3
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bcce81f304988e9f66512a19ec0ef0dcb6120eb5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32423888"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533396"
 ---
 # <a name="unable-to-send-group-emails"></a>Не вдається надіслати повідомлення електронної пошти групи
 
-Якщо не вдається надіслати повідомлення електронної пошти списки контактів або зверніться до групи, будь ласка, спробуйте наступне:
+Якщо не вдається надіслати повідомлення електронної пошти списки контактів або зверніться до групи в Outlook.com, будь ласка, спробуйте наступне:
   
 1. Використання Outlook.com бета-версії. Докладніше [дізнатися про бета Outlook.com](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
