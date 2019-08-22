@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389813"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542459"
 ---
 # <a name="manage-recurring-billing"></a>Керувати повторного виставлення рахунку
 
-Керувати повторюваних виставлення рахунків, можна переключати **повторювані білінгу** та вимкнення.
+Можна увімкнути повторення, виставлення рахунків та вимкнення центру адміністрування Microsoft Outlook 365.
   
-1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Перейти до **оплати** > [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.
 
-2. Виберіть підключення, для якого потрібно керувати повторного виставлення рахунку.
+2. У розділі **виставлення рахунків**, поруч із **Renews на** або **Expiring на**виберіть **змінити**.
 
-3. **Циклічна біллінг** toggle переключатися в режим аркуша **на** **Off**.
+3. В області **циклічна білінгу параметри** виберіть **циклічна billing OFF** вимкнути його. **Циклічна біллінг** вже вимкнуто, установіть **щомісяця** або **один раз** щоб її увімкнути.
 
-Докладніше перегляньте [чергу періодичних рахунків чи вимкнути](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Виберіть **Надіслати зміни**.
+
+Докладніше перегляньте [чергу періодичних рахунків чи вимкнути](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
