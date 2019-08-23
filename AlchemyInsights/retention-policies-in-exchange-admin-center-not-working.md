@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444829"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551364"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>Політики збереження Exchange центру адміністрування
 
@@ -58,7 +58,7 @@ ms.locfileid: "36444829"
  **Примітка:** Якщо поштової скриньки менше, ніж 10 МБ, помічник із керованих папок не буде автоматично оброблено поштової скриньки.
  
 Докладна інформація про політики збереження центру адміністрування Exchange див.
-- [Теги збереження й архівування](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Застосовувати політики збереження до поштових скриньок](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Додавання або видалення тегів збереження](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Як визначити тип утримання розміщені на поштову скриньку](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [Теги збереження й архівування](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Застосовувати політики збереження до поштових скриньок](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Додавання або видалення тегів збереження](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Як визначити тип утримання розміщені на поштову скриньку](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

@@ -12,18 +12,18 @@ ms.custom:
 - "1403"
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
-ms.openlocfilehash: 8ff512b1c5571c783ef56fff986533f3a4b4db68
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ecdbaeaa002a40a743d836ee50ccaaeda3426ec7
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361370"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36493820"
 ---
 # <a name="cant-add-default-2010-approval-workflow"></a>Не можна додати за промовчанням робочий процес затвердження 2010
 
 В колекції сайтів Microsoft SharePoint глобально для повторного використання робочого процесу (наприклад, "затвердження - SharePoint 2010") не можна додати до списку або бібліотеки. Робочий процес затвердження, можуть бути відсутні. Щоб вирішити цю проблему, зверніться до [не можна додати глобально для повторного використання робочого процесу у списку або бібліотеці SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).
 
-Детальніше про затвердження робочого циклу, в розділі [все про затвердження робочі цикли] (https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
+Для отримання додаткової інформації про затвердження робочого циклу побачити [все про робочих процесів затвердження](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742). 
  
-Дізнайтеся більше про [сучасних погоджень у потік] (https://flow.microsoft.com/blog/introducing-modern-approvals). 
+Дізнайтеся більше про [Сучасних погоджень в потік](https://flow.microsoft.com/blog/introducing-modern-approvals). 
   

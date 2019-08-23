@@ -1,5 +1,5 @@
 ---
-title: WD файл не відкривали на подвійного клацання
+title: Файл Word не відкривали на подвійного клацання
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752782"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558206"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>Рішення для файлів відкриття в неправильному додатків
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Документ Word відкрити у програмі неправильно або не відкривали
 
 Спробуйте один з цих пропозицій:
 
 **Вибрати Word за промовчанням**
 
-* Клацніть правою кнопкою миші на документ, виберіть **Відкрити за допомогою**а потім виберіть **слово**
+- Клацніть правою кнопкою миші на документ, виберіть **Відкрити за допомогою**а потім виберіть **слово**
 
 **Виконати швидке відновлення**
 
