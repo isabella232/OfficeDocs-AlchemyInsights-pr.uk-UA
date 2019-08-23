@@ -14,14 +14,14 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: 43224a8d0383033e74ed71e5cbb549ade8d4617d
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: a91a67bce775292bd33f25301ea379fba91fa541
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049269"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36545424"
 ---
-# <a name="print-email-and-calendars"></a>Друк електронної пошти та календарі
+# <a name="print-email-and-calendars-in-outlookcom"></a>Друкувати, електронної пошти та календарями в Outlook.com
 
 Щоб друкувати повідомлення електронної пошти:
   
