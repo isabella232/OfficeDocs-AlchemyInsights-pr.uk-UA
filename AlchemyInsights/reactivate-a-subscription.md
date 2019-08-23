@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391073"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553381"
 ---
-# <a name="reactivate-a-subscription"></a><span data-ttu-id="d3ad6-102">Повторно активувати підписку</span><span class="sxs-lookup"><span data-stu-id="d3ad6-102">Reactivate a subscription</span></span>
+# <a name="reactivate-an-office-365-subscription"></a><span data-ttu-id="b3271-102">Повторна активація Office 365 підписки</span><span class="sxs-lookup"><span data-stu-id="b3271-102">Reactivate an Office 365 subscription</span></span>
 
-<span data-ttu-id="d3ad6-103">Якщо термін чинності передплати мине, був вимкнений корпорацією Майкрософт, або скасовано в середині абонентського стажу, можна повторно активувати його центру адміністрування.</span><span class="sxs-lookup"><span data-stu-id="d3ad6-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
+<span data-ttu-id="b3271-103">Якщо термін чинності передплати мине, був вимкнений корпорацією Майкрософт, або скасовано в середині абонентського стажу, можна повторно активувати його центру адміністрування.</span><span class="sxs-lookup"><span data-stu-id="b3271-103">If your subscription expires, was disabled by Microsoft, or you cancelled it in the middle of a subscription term, you can reactivate it in the admin center.</span></span>
   
-1. <span data-ttu-id="d3ad6-104">У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="d3ad6-104">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="b3271-104">У центр адміністрування, перейдіть на **платіжний** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.</span><span class="sxs-lookup"><span data-stu-id="b3271-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="d3ad6-105">Виберіть підписку, які потрібно повторно активувати, а потім виберіть **активувати**.</span><span class="sxs-lookup"><span data-stu-id="d3ad6-105">Choose the subscription that you want to reactivate, then choose **Reactivate**.</span></span>
+2. <span data-ttu-id="b3271-105">Виберіть підписку, які потрібно повторно активувати.</span><span class="sxs-lookup"><span data-stu-id="b3271-105">Choose the subscription that you want to reactivate.</span></span> <span data-ttu-id="b3271-106">У розділі біллінг виберіть **активувати**.</span><span class="sxs-lookup"><span data-stu-id="b3271-106">In the Billing section, select **Reactivate**.</span></span>
 
-    <span data-ttu-id="d3ad6-106">Якщо ви не бачите **Повторна активація** як доступні дії, скористайтеся параметром "назвемо ви" говорити до допоміжного інженер активувати вашу підписку.</span><span class="sxs-lookup"><span data-stu-id="d3ad6-106">If you do not see **Reactivate** as an available action, use the "Let us call you" option to talk to a support engineer to reactivate your subscription.</span></span>
+    <span data-ttu-id="b3271-107">Якщо не відображається **повторно активувати** як доступні дії, [зателефонуйте підтримки](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) повторно активувати вашу підписку.</span><span class="sxs-lookup"><span data-stu-id="b3271-107">If you don't see **Reactivate** as an available action, [call support](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="d3ad6-107">Вказати платіжні реквізити.</span><span class="sxs-lookup"><span data-stu-id="d3ad6-107">Enter your payment details.</span></span> <span data-ttu-id="d3ad6-108">Ви можете оновити існуючий платіжну інформацію тут.</span><span class="sxs-lookup"><span data-stu-id="d3ad6-108">You can update your existing payment information here.</span></span>
+3. <span data-ttu-id="b3271-108">Підтвердити реквізити для оплати.</span><span class="sxs-lookup"><span data-stu-id="b3271-108">Confirm your payment details.</span></span> <span data-ttu-id="b3271-109">Ви можете оновити існуючий платіжну інформацію тут.</span><span class="sxs-lookup"><span data-stu-id="b3271-109">You can update your existing payment information here.</span></span> <span data-ttu-id="b3271-110">Закінчивши введення метод платежу, виберіть **активувати**.</span><span class="sxs-lookup"><span data-stu-id="b3271-110">When you're finished entering your payment method, select **Reactivate**.</span></span>
 
-<span data-ttu-id="d3ad6-109">Ви використовуєте центру адміністрування?</span><span class="sxs-lookup"><span data-stu-id="d3ad6-109">Are you using the new admin center?</span></span> <span data-ttu-id="d3ad6-110">Нові кроки в розділі [повторно активувати вашу підписку](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d3ad6-110">For new steps, see [Reactivate your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="b3271-111">Докладніше перегляньте статтю [повторно активувати вашу підписку](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="b3271-111">For more information, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
