@@ -13,27 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99102d883ae5c4fbb7af624b0b06e0313bd5f218
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388045"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549096"
 ---
-# <a name="too-many-licenses"></a><span data-ttu-id="75a80-102">Занадто багато ліцензій?</span><span class="sxs-lookup"><span data-stu-id="75a80-102">Too many licenses?</span></span>
+# <a name="too-many-licenses"></a><span data-ttu-id="7265e-102">Занадто багато ліцензій?</span><span class="sxs-lookup"><span data-stu-id="7265e-102">Too many licenses?</span></span>
 
-<span data-ttu-id="75a80-103">Якщо ви думаєте, що ви оплачували забагато ліцензій, це зазвичай пов'язано придбавши більше ліцензій, то вам потрібно.</span><span class="sxs-lookup"><span data-stu-id="75a80-103">If you think you're being billed for too many licenses, this is usually due to having purchased more licenses then you need.</span></span>
+<span data-ttu-id="7265e-103">Якщо ви думаєте, що ви оплачували забагато Office 365 ліцензій, це зазвичай пов'язано придбавши більше ліцензій, то вам потрібно.</span><span class="sxs-lookup"><span data-stu-id="7265e-103">If you think you're being billed for too many Office 365 licenses, this is usually due to having purchased more licenses then you need.</span></span>
   
-<span data-ttu-id="75a80-104">**Зменшити кількість ліцензій, придбаних**</span><span class="sxs-lookup"><span data-stu-id="75a80-104">**Reduce the number of licenses purchased**</span></span>
+<span data-ttu-id="7265e-104">**Зменшити кількість ліцензій, придбаних**</span><span class="sxs-lookup"><span data-stu-id="7265e-104">**Reduce the number of licenses purchased**</span></span>
   
-1. <span data-ttu-id="75a80-105">У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="75a80-105">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="7265e-105">У центр адміністрування, перейдіть на **платіжний** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.</span><span class="sxs-lookup"><span data-stu-id="7265e-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="75a80-106">Ліворуч виберіть передплати, з якого ви хотіли б видалити ліцензій.</span><span class="sxs-lookup"><span data-stu-id="75a80-106">On the left, choose the subscription from which you would like to remove licenses.</span></span>
+2. <span data-ttu-id="7265e-106">Знайти підписку, з якого потрібно видалити ліцензії, а потім виберіть **Додати/видалити ліцензій**.</span><span class="sxs-lookup"><span data-stu-id="7265e-106">Find the subscription from which you want to remove licenses, then select **Add/Remove licenses**.</span></span>
 
-3. <span data-ttu-id="75a80-107">Виберіть **Додати/видалити ліцензій**.</span><span class="sxs-lookup"><span data-stu-id="75a80-107">Choose **Add/Remove licenses**.</span></span>
+3. <span data-ttu-id="7265e-107">У полі **загальна ліцензій** введіть загальну кількість ліцензій, що вам потрібно для цього підключення а потім виберіть **Надіслати зміни**.</span><span class="sxs-lookup"><span data-stu-id="7265e-107">In the **Total licenses** box, enter the total number of licenses that you need for this subscription, and then select **Submit change**.</span></span> <span data-ttu-id="7265e-108">Наприклад, якщо у вас 110 ліцензій, видалити з них 5 введіть 105.</span><span class="sxs-lookup"><span data-stu-id="7265e-108">For example, if you have 110 licenses and you want to remove 5 of them, enter 105.</span></span>
 
-4. <span data-ttu-id="75a80-108">Введіть загальну кількість користувачів, які необхідні.</span><span class="sxs-lookup"><span data-stu-id="75a80-108">Enter the total number of users needed.</span></span> <span data-ttu-id="75a80-109">Наприклад, якщо в даний час 25 ліцензій і видалити 5, введіть 20 в цій галузі.</span><span class="sxs-lookup"><span data-stu-id="75a80-109">For example, if you currently have 25 licenses and you want to remove 5, enter 20 in this field.</span></span>
-
-5. <span data-ttu-id="75a80-110">Виберіть **Надіслати**.</span><span class="sxs-lookup"><span data-stu-id="75a80-110">Choose **Submit**.</span></span>
-
-<span data-ttu-id="75a80-111">Ви використовуєте центру адміністрування?</span><span class="sxs-lookup"><span data-stu-id="75a80-111">Are you using the new admin center?</span></span> <span data-ttu-id="75a80-112">Нові кроки в розділі [видалення ліцензії з Office 365 для бізнес-підключення](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="75a80-112">For new steps, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
+<span data-ttu-id="7265e-109">Докладніше перегляньте [Видалити ліцензії з Office 365 для бізнес-підключення](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span><span class="sxs-lookup"><span data-stu-id="7265e-109">For more information, see [Remove licenses from your Office 365 for business subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).</span></span>
