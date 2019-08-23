@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000031"
-ms.openlocfilehash: 1ef90f60d0a8d963d40a04ec78bd451b235e4d1b
-ms.sourcegitcommit: c65fb26afcaa8446c3e5490ed14c4f403b9d0945
+ms.openlocfilehash: 7e6a6d0fd6493a27908d3885eb90570dce54f3bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34683400"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557486"
 ---
-# <a name="cant-delete-files-or-photos-from-files"></a>Не можна видаляти файли або фотографії з файлів
+# <a name="cant-delete-files-or-photos-from-files-in-outlook-on-the-web"></a>Не можна видаляти файли або фотографії з файлів у Outlook в Інтернеті
 
 **Файлів** показує файли і фотографії додаються на повідомлення в поштовій скриньці. Щоб видалити файли та фотографії з файлів, необхідно видалити повідомлення електронної пошти, вони додаються. Після видалення повідомлень, також потрібно видалити їх з вашої папки "Видалені".

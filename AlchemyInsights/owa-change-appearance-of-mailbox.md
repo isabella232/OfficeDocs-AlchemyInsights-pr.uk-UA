@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171379"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557522"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Змінити вигляд вашої поштової скриньки
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Змінити вигляд вашої поштової скриньки Outlook
 
 Ви можете змінити вигляд панелі списку і читання повідомлень, вигляд і поведінку так як ви хочете. Вибирати чи ваші повідомлення буде відображатися індивідуально або у вигляді розмов, нові повідомлення має з'явитися у верхній або нижній частині списку повідомлень і багато іншого.
 

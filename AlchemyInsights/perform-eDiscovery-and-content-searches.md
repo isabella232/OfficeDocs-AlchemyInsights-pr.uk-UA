@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444793"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555254"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Як виконати вмісту пошукових запитів і пошук необхідної пошуки
 
@@ -32,6 +32,6 @@ ms.locfileid: "36444793"
 4. Введіть необхідні пошуку умов, у тому числі ключові слова та вмісту розташувань.  
 5. Натисніть **зберегти & запустити** назвати пошук, запустіть його, після чого перегляньте результати.
 
-Докладні інструкції про зміст пошуків Експорт результатів і створення випадках пошук необхідної для зберігання даних, див. [Пошук за змістом](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) і [пошук необхідної випадках](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+Докладні інструкції про зміст пошуків Експорт результатів і створення випадках пошук необхідної для зберігання даних, див. [Пошук за змістом](https://docs.microsoft.com/office365/securitycompliance/content-search) і [пошук необхідної випадках](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-Зрозуміти більше про пошук за змістом, переглянувши на [вимоги та обмеження](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) та [розслідування частково індексованих елементів](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) і інші результати, щоб бути в курсі.
+Зрозуміти більше про пошук за змістом, переглянувши на [вимоги та обмеження](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) та [розслідування частково індексованих елементів](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) і інші результати, щоб бути в курсі.
