@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 15cdb1130674e92d8a673453921dddb291c5971f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385886"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574491"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Активація ліцензії підписку Microsoft Office 365 обсяг
 
@@ -32,4 +32,4 @@ ms.locfileid: "36385886"
 
 5. Увійдіть до Office 365 ([https://portal.office.com](https://portal.office.com)) за допомогою облікових даних адміністратора існуючих Office 365. Після успішного входу, ви отримаєте ще один лист з підтвердженням вашої покупки.
 
-6. Після того, як ви ввійдете в, ви можете піти для **виставлення рахунків** \> [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінку, щоб переконатися, що ваш придбаного Office 365 підписки активовано протягом вашої орендаря. (Ви також можете вкладці **підписку** в VLSC для перегляду деталей, перевірки, що вашу підписку було здано.)
+6. Після того, як ви ввійдете в, ви можете піти для **виставлення рахунків** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінку, щоб переконатися, що ваш придбаного Office 365 підписки активовано протягом вашої орендаря. (Ви також можете вкладці **підписку** в VLSC для перегляду деталей, перевірки, що вашу підписку було здано.)

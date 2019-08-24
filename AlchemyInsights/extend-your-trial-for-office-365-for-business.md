@@ -13,23 +13,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 3963f9627da61e6b49f00593094084af3c2db5ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526160"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575665"
 ---
 # <a name="extend-your-trial-for-office-365-for-business"></a>Розширити ваш суд для Office 365 для бізнесу
 
 Якщо термін дії ознайомлювальної підписки протягом 15 днів з закінчується і суд не був продовжений до, можна розширити його випробування на інший протягом 30 днів. Можна робити, тільки цього разу.
   
-1. У центр адміністрування, перейдіть на **платіжний** \> сторінці [підписки](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. У центр адміністрування, перейдіть на **платіжний** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.
 
 2. Вибрати судового розгляду підписки, що ви бажаєте збільшити.
 
-3. Вибрати **Extend судового розгляду** та виконати решту дій.
+3. У розділі **розділи & дії** вибрати **Extend судового розгляду** та виконати решту дій.
 
 4. Вам потрібно надати дані кредитної картки для розширення вашого суду. Ми не стягує вашу кредитну картку для пробного розширення.
 
-Щоб дізнатися більше про розширення випробувань або покрокові інструкції, побачити [Extend вашого суду для Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Ви використовуєте старого центру адміністрування? Для старих кроків, або щоб дізнатися більше див [Extend вашого суду для Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

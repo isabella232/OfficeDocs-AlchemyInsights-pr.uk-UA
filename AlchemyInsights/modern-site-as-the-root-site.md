@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000265"
 - "1874"
-ms.openlocfilehash: 2f75f1e60af06da47fe846e84bbb370dd60084e9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5ea73c967013822854dbd408d4628d991c90378
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543874"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620780"
 ---
 # <a name="modern-site-as-root-site"></a>Сучасний сайт як корінь сайту
 
-Ми почали свиті нова функція, яка дозволить вам swap свій класичний сайт кореневий сайт з сучасними сайту. Міняти місцями розташування сайт з іншого сайту час архівації на оригінальний сайт за допомогою [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) . Доступні для сайту групи (не підключено до групи) і повідомлення сайту. 
+Ми почали свиті нова функція, яка дозволить вам swap свій класичний сайт кореневий сайт з сучасними сайту. Міняти місцями розташування сайт з іншого сайту час архівації на оригінальний сайт за допомогою [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) . Доступні для сайту групи (не підключено до групи) і повідомлення сайту. 
 
 >[!Important]
 > Не видалити ваш класичний кореневий сайт для створення сучасного повідомлення сайту. Це не підтримується корпорацією Майкрософт. Видалення кореневий сайт буде зробити всі сайти SharePoint у вашій організації недоступними для всіх користувачів, доки ви не відновити сайту або створіть новий сайт в той же URL. Ми будемо спілкуватися цю функцію через центр повідомлення. Ви повинні чекати, цю функцію можна ввімкнути у вашому орендар незабаром.
