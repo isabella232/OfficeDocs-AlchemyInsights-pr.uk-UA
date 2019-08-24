@@ -12,27 +12,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: cc232fba6f502e2b6f282a8c1a1e29221e36b70d
-ms.sourcegitcommit: a285c609319ade038461e090e14a701830031825
+ms.openlocfilehash: 5b1e56253d6deeb0f9ba2f753eff5c00ff9c51a2
+ms.sourcegitcommit: cd79ecca88b2cb166f78f44ab8bc4e8136729418
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/24/2019
-ms.locfileid: "35840536"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620744"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a><span data-ttu-id="2bb17-102">Читання для обслуговування повідомлення при спробі використовувати SharePoint або OneDrive</span><span class="sxs-lookup"><span data-stu-id="2bb17-102">Read-Only for Maintenance message when attempting to use SharePoint or OneDrive</span></span>
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a><span data-ttu-id="ba370-102">Читання для обслуговування повідомлення при спробі використовувати SharePoint або OneDrive</span><span class="sxs-lookup"><span data-stu-id="ba370-102">Read-Only for Maintenance message when attempting to use SharePoint or OneDrive</span></span>
 
-<span data-ttu-id="2bb17-103">Користувачі можуть отримувати **Читання для обслуговування** повідомлення при спробі використовувати SharePoint або OneDrive.</span><span class="sxs-lookup"><span data-stu-id="2bb17-103">Users may receive a **Read-Only for Maintenance** message when attempting to use SharePoint or OneDrive.</span></span>  <span data-ttu-id="2bb17-104">Якщо так, перевірте, чи є активним обслуговування, що відбуваються на ваш орендар, перейти на [повідомлення центру](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="2bb17-104">If so, check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span> <span data-ttu-id="2bb17-105">Також переконайтеся, що перевірити [Службу здоров'я](https://portal.office.com/adminportal/home#/servicehealth) dashboard перевірити наявність рекомендації/інцидентів, які можуть бути що відбуваються.</span><span class="sxs-lookup"><span data-stu-id="2bb17-105">Also, make sure to check the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) dashboard to check for any advisories/incidents that may be occurring.</span></span>
+<span data-ttu-id="ba370-103">Користувачі можуть отримувати **Читання для обслуговування** повідомлення при спробі використовувати SharePoint або OneDrive для одного з таких сценаріїв.</span><span class="sxs-lookup"><span data-stu-id="ba370-103">Users may receive a **Read-Only for Maintenance** message when attempting to use SharePoint or OneDrive for one of the following scenarios.</span></span> 
 
-<span data-ttu-id="2bb17-106">Якщо ні центрі повідомлень або служби охорони здоров'я dashboard зазначили, що-небудь про поточне утримання для вашого орендар, це може бути браузер кешування питання.</span><span class="sxs-lookup"><span data-stu-id="2bb17-106">If neither the Message Center or Service Health dashboard have noted anything about current maintenance for your tenant, this may be a browser caching issue.</span></span>
+-   <span data-ttu-id="ba370-104">Заплановані або активних технічне обслуговування діяльності.</span><span class="sxs-lookup"><span data-stu-id="ba370-104">A planned or active maintenance activity.</span></span>  <span data-ttu-id="ba370-105">Перевірте їх, навігації в [Центрі повідомлень](https://portal.office.com/adminportal/home#/messagecenter).</span><span class="sxs-lookup"><span data-stu-id="ba370-105">Check for them by navigating to the [Message Center](https://portal.office.com/adminportal/home#/messagecenter).</span></span>
+-   <span data-ttu-id="ba370-106">З високим пріоритетом, дійсній службі інцидент, який може бути, що відбуваються.</span><span class="sxs-lookup"><span data-stu-id="ba370-106">A high-priority, active service incident that may be occurring.</span></span> <span data-ttu-id="ba370-107">Перевірити будь-які рекомендації/інцидентів, перейти на [Службі охорони здоров'я](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="ba370-107">Check for any advisories/incidents by navigating to [Service Health](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+-   <span data-ttu-id="ba370-108">Незначні зцілення автоматичного відновлення сценарій, який може відбуватись через будь-які несподівані події на серверах, які можуть тривати протягом менш ніж за 30 хвилин або близько того.</span><span class="sxs-lookup"><span data-stu-id="ba370-108">A minor auto-healing recovery scenario that could be happening due to any unexpected events on the servers which might last for less than 30 min or so.</span></span> 
+    
+    <span data-ttu-id="ba370-109">Там не без повідомлення центр або служби охорони здоров'я повідомлення для цих незначних відшкодувань, але ви повинні бути в норму дуже скоро.</span><span class="sxs-lookup"><span data-stu-id="ba370-109">There are no Message Center or Service Health posts for these minor recoveries but you should be back to normal very soon.</span></span>
 
-<span data-ttu-id="2bb17-107">Будь ласка намагатися очистити кеш браузера, перш ніж переходити до сайту.</span><span class="sxs-lookup"><span data-stu-id="2bb17-107">Please attempt to clear the browser cache before navigating to the site.</span></span>
+<span data-ttu-id="ba370-110">В дуже небагатьох випадках ми спостерігали, що один з трьох сценаріїв, перерахованих вище були причиною і відновити службу, але кеш браузера користувачі не було з'ясовано.</span><span class="sxs-lookup"><span data-stu-id="ba370-110">On very few occasions we observed that one of the three scenarios listed above have been the cause, and service has been restored, but the users browser cache hasn’t been cleared up.</span></span>
 
-1. <span data-ttu-id="2bb17-108">Браузера Microsoft краю виберіть пункт **настройки**а потім виберіть **конфіденційності та безпеки**.</span><span class="sxs-lookup"><span data-stu-id="2bb17-108">In your Microsoft Edge browser, select **Settings**, and then select **Privacy and Security**.</span></span>
-2. <span data-ttu-id="2bb17-109">У розділі **чітких перегляду**виберіть **Вибрати дані для очищення**.</span><span class="sxs-lookup"><span data-stu-id="2bb17-109">Under **Clear browsing**, select **Choose what to clear**.</span></span>
-3. <span data-ttu-id="2bb17-110">Виберіть **файли cookie та дані збережені веб-сайтів**і виберіть **ясно**.</span><span class="sxs-lookup"><span data-stu-id="2bb17-110">Select **Cookies and saved website data**, and select **Clear**.</span></span>
+<span data-ttu-id="ba370-111">Будь ласка намагатися очистити кеш браузера, перш ніж переходити до сайту.</span><span class="sxs-lookup"><span data-stu-id="ba370-111">Please attempt to clear the browser cache before navigating to the site.</span></span>
+
+1. <span data-ttu-id="ba370-112">Браузера Microsoft краю виберіть пункт **настройки**а потім виберіть **конфіденційності та безпеки**.</span><span class="sxs-lookup"><span data-stu-id="ba370-112">In your Microsoft Edge browser, select **Settings**, and then select **Privacy and Security**.</span></span>
+2. <span data-ttu-id="ba370-113">У розділі **чітких перегляду**виберіть **Вибрати дані для очищення**.</span><span class="sxs-lookup"><span data-stu-id="ba370-113">Under **Clear browsing**, select **Choose what to clear**.</span></span>
+3. <span data-ttu-id="ba370-114">Виберіть **файли cookie та дані збережені веб-сайтів**і виберіть **ясно**.</span><span class="sxs-lookup"><span data-stu-id="ba370-114">Select **Cookies and saved website data**, and select **Clear**.</span></span>
 
 >[!Note] 
-> <span data-ttu-id="2bb17-111">Ці дії можуть відрізнятися при використанні інших браузерів, таких як Mozilla Firefox або Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="2bb17-111">These steps may differ when using other browsers such as Mozilla Firefox or Google Chrome.</span></span>
+> <span data-ttu-id="ba370-115">Ці дії можуть відрізнятися при використанні інших браузерів, таких як Mozilla Firefox або Google Chrome.</span><span class="sxs-lookup"><span data-stu-id="ba370-115">These steps may differ when using other browsers such as Mozilla Firefox or Google Chrome.</span></span>
 
 >[!Note] 
-> <span data-ttu-id="2bb17-112">Іншим варіантом було б відкрити сайт SharePoint або OneDrive в новому вікні InPrivate.</span><span class="sxs-lookup"><span data-stu-id="2bb17-112">Another option would be to open your SharePoint site or OneDrive in a new InPrivate window.</span></span>
+> <span data-ttu-id="ba370-116">Іншим варіантом було б відкрити сайт SharePoint або OneDrive в новому вікні InPrivate.</span><span class="sxs-lookup"><span data-stu-id="ba370-116">Another option would be to open your SharePoint site or OneDrive in a new InPrivate window.</span></span>
