@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544606"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666933"
 ---
 # <a name="migrate-email-from-g-suite-to-office-365"></a>Перенесення електронної пошти із G Suite до Office 365
 
-Для перенесення електронної пошти із G Suite Office 365, за допомогою наших інструментів міграції для перенесення електронної пошти, календаря та контактів: [виконати G Suite міграції](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+Для перенесення електронної пошти із G Suite Office 365, за допомогою наших інструментів міграції для міграція електронної пошти, календаря та контактів: [виконати G Suite міграції](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
   

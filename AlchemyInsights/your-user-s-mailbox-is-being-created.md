@@ -2,7 +2,6 @@
 title: Створення поштової скриньки користувача
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 3/27/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +10,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 01d13109604410ba8ca201acb7e3b3bc2aaf6cca
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 38741e07444474cf377aa69504b16764417d1d44
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557795"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665673"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Створення поштової скриньки користувачів
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Створення поштової скриньки користувача бере довго
 
 Це може зайняти до 24 годин, перш ніж нова поштова скринька готовий до використання.
   
-Якщо поштову скриньку користувача "готує" для більше години, спробуйте видалити Exchange ліцензію від користувача та повторного додавання його назад, або скористайтеся параметром "назвемо ви" говорити до допоміжного інженер.
+Якщо поштову скриньку користувача "готує" для більше години, спробуйте видалити Exchange ліцензію від користувача і знову додавати його назад або [зверніться до служби підтримки](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?tabs=online).

@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574563"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663981"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Як повторно активувати та керувати повторного виставлення рахунку
 
@@ -32,7 +32,7 @@ ms.locfileid: "36574563"
 
 3. Підтвердити реквізити для оплати. Ви можете оновити існуючий платіжну інформацію тут. Закінчивши введення метод платежу, виберіть **активувати**.
 
-Ви використовуєте старого центру адміністрування? Для старих кроки або дізнатися більше зверніться до [повторно активувати вашу підписку](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Щоб отримати додаткові відомості, див. [повторно активувати вашу підписку](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Керувати, щомісяця або щороку виставлення рахунків, ви можна увімкнути або вимкнути **циклічна біллінг** або вимкнути.
   
@@ -46,4 +46,4 @@ ms.locfileid: "36574563"
 
 5. Виберіть **Надіслати зміни**.
 
-Ви використовуєте старого центру адміністрування? Для старих кроків, або дізнатися більше див [чергу періодичних рахунків чи вимкнути](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Щоб дізнатися більше, див [чергу періодичних рахунків чи вимкнути](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

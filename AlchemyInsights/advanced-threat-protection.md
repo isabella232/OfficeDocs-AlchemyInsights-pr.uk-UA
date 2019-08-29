@@ -1,5 +1,5 @@
 ---
-title: Office 365 загроза розширений захист
+title: Розширений захист від загроз Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,23 +10,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c12d3c2a0e7037b609ed4b31ee893108869c9a56
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ec9e74a1c1054d45356b8347a87e36c592c47fbf
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765531"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664521"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 загроза розширений захист
+# <a name="office-365-advanced-threat-protection"></a>Розширений захист від загроз Office 365
 
-- Безпечний вкладення безпечний посилання та шахраїв входять до складу з Office 365 розширений загроза захист (АТФ). Підприємство E5, освіту А5 і Microsoft 365 бізнес включають АТФ. Всі інші плани вимагають послугами додаток АТФ підписки.
+- Безпечні вкладення, безпечні посилання та анти-фішинг є частиною Office 365 розширений захист від загроз (АТФ). Корпоративні E5, освіта a5 і Microsoft 365 Business включають АТФ. Для всіх інших планів потрібно додати підписку на АТФ.
 
-- Вам необхідно призначити відповідні ліцензії для захисту користувачів по Office 365 АТФ. Переглянути цю [тему](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) для отримання інструкцій про те, як Сипучі застосовуються ліцензій для ваших користувачів.
+- Вам потрібно призначити відповідні ліцензії для захисту користувачів від Office 365 АТФ. [У цьому розділі](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) наведено інструкції щодо групового застосування ліцензій для користувачів.
 
-- Глобальні адміністратори Office 365 або безпеки адміністратори можуть отримати доступ до Office 365 АТФ функції безпеки & центрі дотримання на **Загрози Managmeent** \> **політики**.
+- Служби Office 365 глобальні адміністратори або адміністратори безпеки можуть отримати доступ до функцій АТФ Office 365 в центрі безпеки _ amp_wordt \> в **політиці**керування **загрозами** .
 
-- Безпечний вкладення і безпечний зв'язок політики може бути в межах ви всієї організації, окремих доменів або невеликих груп користувачів.
+- Безпечні вкладення та політики безпечного посилання можуть бути в межах вашої організації всю організацію, певні домени або менші групи користувачів.
 
-- Немає ні політика за промовчанням АТФ безпечний вкладення. Ви повинні [створити політику](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) і застосувати його до ваших користувачів.
+- Політика безпечного вкладення за промовчанням не існує. Потрібно [створити політику](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-attachments-policies) та застосувати її до користувачів.
 
-- Існує замовчуванням АТФ безпечний посилання політика, що відноситься до всіх у вашій організації. Для редагування цієї політики або створювати користувацькі політики, побачити цю [тему](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies).
+- Існує типова політика щодо безпечних зв'язків АТФ, яка застосовується до всіх у вашій організації. Щоб змінити цю політику або створити настроювані політики [, див.](https://docs.microsoft.com/office365/securitycompliance/set-up-atp-safe-links-policies)

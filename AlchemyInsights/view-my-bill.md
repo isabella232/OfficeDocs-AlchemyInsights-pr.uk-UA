@@ -1,9 +1,8 @@
 ---
-title: Переглянути мій рахунок
+title: Переглянути мій законопроект
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +12,17 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 3583bf871a7325f0bb2a28d3ac1641fd5525d403
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506140"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665709"
 ---
-# <a name="view-my-bill"></a>Переглянути мій рахунок
+# <a name="view-my-bill"></a>Переглянути мій законопроект
 
-1. У Microsoft Outlook 365 Центр адміністрування, перейдіть на **Billing** \> [векселів & платежі](https://go.microsoft.com/fwlink/p/?linkid=848039) сторінки.
+1. У центрі адміністрування Microsoft 365 перейдіть на сторінку **рахунків** \> -платежах [_ amp_](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
-2. Виберіть діапазон дат розкривного списку а потім виберіть порядку, ви хочете переглянути.
+2. Виберіть діапазон дат у розкривному списку, а потім виберіть замовлення, яке потрібно переглянути.
 
-Для отримання додаткової інформації див. [подання законопроекту або рахунка-фактури](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+Для отримання додаткових відомостей перегляньте [Перегляд рахунка або рахунка-фактури](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

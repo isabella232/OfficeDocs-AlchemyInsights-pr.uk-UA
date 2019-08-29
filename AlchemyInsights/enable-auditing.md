@@ -3,7 +3,6 @@ title: Увімкнути та пошук журналу аудиту
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527744"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665097"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Увімкнути та пошуку журналу аудиту
+
+**Office 365**
 
 Щоб здійснити пошук Office 365 журналу аудиту, виконайте [такі дії](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ ms.locfileid: "36527744"
 
 - Адміністратор Exchange діяльності перевірені за замовчуванням.
 
-- Ми знаходимося в процесі, дозволяючи аудит поштової скриньки за промовчанням у Office 365. До тих пір щоб дозволити аудиту для окремої поштової скриньки, або для всіх поштових скриньок у вашій організації, перегляньте [цю статтю](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Аудит поштової скриньки ввімкнуто за промовчанням у Office 365. Докладніше перегляньте [цю статтю](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 Група поштових скриньок і поштових скриньок спільних папок в Exchange Online не підтримують журналювання аудиту.
 

@@ -1,9 +1,8 @@
 ---
-title: Як включити безшовні єдиного входу
+title: Як включити безшовні SSO
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +12,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 249d388564294f65e759f84b7fcb09278e05cc12
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540706"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663902"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Як включити безшовні єдиного входу
+# <a name="how-to-enable-seamless-sso"></a>Як включити безшовні SSO
 
-Увімкнути безшовні єдиного входу через [блакитні оголошення підключитися](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Увімкнення, безшовні SSO через [AZURE AD-підключення](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Якщо ви робите нову установку Azure оголошення підключитися, вибрати [настроювану інсталяцію шлях](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На сторінці **входу користувача** пункт **Увімкнути єдиного входу** .
+Якщо ви робите нову установку Azure AD-підключення, виберіть [шлях користувача для інсталяції](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На сторінці **входу користувача** виберіть параметр **Увімкнути єдиний вхід** .
   
-Щоб переконатися, що ввімкнення безшовні SSO правильно:
+Щоб переконатися, що ви ввімкнули безшовні SSO належним чином:
   
-1. Увійдіть на [адміністративний центр Azure Active Directory](https://aad.portal.azure.com) як глобального адміністратора.
+1. Увійдіть до центру адміністрування [Azure Active Directory](https://aad.portal.azure.com) як Глобальний адміністратор.
 
-2. В області ліворуч виберіть **Azure Active Directory** .
+2. Виберіть **Azure Active Directory** на лівій панелі.
 
-3. Переконайтеся, що безшовні єдиного входу **увімкнуто**.
+3. Переконайтеся, що **ввімкнуто**безшовний єдиного входу.
 
-Щоб дізнатися більше, перегляньте [Azure Active Directory безшовні єдиного входу: швидкий старт](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Щоб дізнатися більше, зверніться до [Azure Active Directory безшовні єдиного входу: швидкий старт](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   

@@ -3,19 +3,18 @@ title: 975 ви хочете повідомити корпорацію Майк�
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 53f91e40306ea1cc8bc37463db715d99ef004571
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: dcae6f9b0a98d360e541309fd7017d864ace5959
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391603"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666465"
 ---
 # <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Ви хотіли б повідомити корпорацію Майкрософт про спам помилкове спрацьовування?
 
