@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: fc58e79d98a8ec617d065f147d12171a472573b8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360002"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661425"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Зміна дозволів на поштову скриньку
 
-Якщо користувачам потрібно доступ до поштових скриньок, сувенірних листівках, вони повинні подаватись дозволів для роботи з тих поштових скриньок. Як призначити дозволи, залежить від типу поштових скриньок. Якщо користувачам потрібно доступ до:
+Якщо користувачам потрібно доступ до поштових скриньок служби Office 365, сувенірних листівках, вони повинні подаватись дозволів для роботи з тих поштових скриньок. Як призначити дозволи, залежить від типу поштових скриньок. Якщо користувачам потрібно доступ до:
   
 - Поштових скриньок інших користувачів - будь ласка, дивіться, [надати дозволи поштової скриньки іншого користувача, у службі Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
     
