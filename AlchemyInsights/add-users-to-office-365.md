@@ -12,22 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: fe5c4c7ca5fa5cce199c826f8488c564bf2cdef1
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: f6a0b4cd536abbcd407235ddd0eeced8721cd994
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903094"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660705"
 ---
 # <a name="add-a-user-to-office-365"></a>Додавання користувача до Office 365
 
-Щоб додати користувача до Office 365, виконайте такі дії:
-  
-1. Перейдіть на сторінку [Активні користувачі](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) або на панелі переходів ліворуч виберіть **Користувачі** \> **Активні користувачі**.
+1. У Центрі адміністрування Microsoft 365 виберіть **Користувачі** >  [Активні користувачі](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
 
 2. Натисніть кнопку **Новий користувач**.
 
-3. Введіть відомості про користувача. Коли все буде готово, натисніть кнопку **Додати**.
+3. Введіть відомості про користувача. Коли все буде готово, натисніть кнопку **Завершити додавання**.
 
-[Докладніше...](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec)
+Використовуєте старий Центр адміністрування? Додаткові відомості див. в статті [Додавання користувачів до Office 365 по черзі або разом](https://support.office.com/article/1970f7d6-03b5-442f-b385-5880b9c256ec).
   

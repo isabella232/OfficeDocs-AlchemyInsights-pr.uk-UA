@@ -1,5 +1,5 @@
 ---
-title: Проблема зі здійсненням покупки на порталі Office 365
+title: Проблема зі здійсненням покупки в Центрі адміністрування Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: bd6b3ed9354394761cb6168a538a5c8b46cf5459
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f343b5b8fc5361b845095667a46e609591f33a6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507256"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665889"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Проблема зі здійсненням покупки на порталі Office 365
+# <a name="trouble-completing-a-purchase-in-the-microsoft-365-admin-center"></a>Проблема зі здійсненням покупки в Центрі адміністрування Microsoft 365
 
-Під час спроби здійснити покупку система може багато разів пропонувати ввійти Центр адміністрування Microsoft 365 або може з’явитися повідомлення про помилку. У такому разі радимо спочатку спробувати перейти в режим приватності або анонімного перегляду в браузері. Відкривши приватне або анонімне вікно, перейдіть на сайт [portal.office.com](https://portal.office.com) і ввійдіть за допомогою облікових даних адміністратора. Потім завершіть покупку.
+Під час спроби здійснити покупку система може багато разів пропонувати ввійти в Центр адміністрування Microsoft 365 або може з’являтися повідомлення про помилку. У такому разі радимо спочатку спробувати перейти в режим приватності або анонімного перегляду в браузері. Відкривши приватне або анонімне вікно, перейдіть на сайт [admin.microsoft.com](https://admin.microsoft.com) і ввійдіть за допомогою облікових даних адміністратора. Потім завершіть покупку.
