@@ -10,17 +10,17 @@ ms.assetid: 3b01008b-f57d-4a82-837c-d22a0ac6a294
 ms.custom:
 - "29"
 - "10"
-ms.openlocfilehash: 20a9935d17a6797a1eda7f69da534e3287c3cea1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: c8be71fb3df6669587959a231b5de524ad17b861
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660741"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743042"
 ---
-# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="ef697-102">Домен уже використовується</span><span class="sxs-lookup"><span data-stu-id="ef697-102">The domain is already in use</span></span>
+# <a name="the-domain-is-already-in-use"></a><span data-ttu-id="d1473-102">Домен уже використовується</span><span class="sxs-lookup"><span data-stu-id="d1473-102">The domain is already in use</span></span>
 
-<span data-ttu-id="ef697-103">Домен, який ви намагаєтеся додати, уже належить іншій організації.</span><span class="sxs-lookup"><span data-stu-id="ef697-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="ef697-104">Необхідно вилучити домен із цієї організації, перш ніж ви зможете додати його до своєї.</span><span class="sxs-lookup"><span data-stu-id="ef697-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="ef697-105">Указівки з виконання цих дій наведено в статтях нижче.</span><span class="sxs-lookup"><span data-stu-id="ef697-105">The articles below will guide you through these processes.</span></span>
+<span data-ttu-id="d1473-103">Домен, який ви намагаєтеся додати, уже належить іншій організації.</span><span class="sxs-lookup"><span data-stu-id="d1473-103">The domain you're trying to add already belongs to another organization.</span></span> <span data-ttu-id="d1473-104">Необхідно вилучити домен із цієї організації, перш ніж ви зможете додати його до своєї.</span><span class="sxs-lookup"><span data-stu-id="d1473-104">You must first remove the domain from that organization before you can add it to this organization.</span></span> <span data-ttu-id="d1473-105">Указівки з виконання цих дій наведено в статтях нижче.</span><span class="sxs-lookup"><span data-stu-id="d1473-105">The articles below will guide you through these processes.</span></span>
   
-- [<span data-ttu-id="ef697-106">Вилучення домену з Office 365</span><span class="sxs-lookup"><span data-stu-id="ef697-106">Remove a domain from Office 365</span></span>](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)
+- [<span data-ttu-id="d1473-106">Вилучення домену з Office 365</span><span class="sxs-lookup"><span data-stu-id="d1473-106">Remove a domain from Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain)
 
-- [<span data-ttu-id="ef697-107">Додавання домену та створення записів DNS</span><span class="sxs-lookup"><span data-stu-id="ef697-107">Add a domain and create DNS records</span></span>](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx)
+- [<span data-ttu-id="d1473-107">Додавання домену та створення записів DNS</span><span class="sxs-lookup"><span data-stu-id="d1473-107">Add a domain and create DNS records</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

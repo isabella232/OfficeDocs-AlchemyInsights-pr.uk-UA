@@ -1,6 +1,6 @@
 ---
-title: Зміна доменне ім'я в SharePoint Online
-ms.author: kirks
+title: Змінити доменне ім'я в SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519212"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747661"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="ad380-102">Зміна доменне ім'я в SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ad380-102">Change domain name in SharePoint Online</span></span>
+# <a name="change-domain-name-in-sharepoint-online"></a><span data-ttu-id="381fd-102">Змінити доменне ім'я в SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="381fd-102">Change domain name in SharePoint Online</span></span>
 
-<span data-ttu-id="ad380-103">На жаль, не можна змінити доменне ім'я SharePoint Online вашої організації у службі Office 365.</span><span class="sxs-lookup"><span data-stu-id="ad380-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="ad380-104">Наприклад, якщо ім'я вашої організації зміниться з "Contoso" "Четвертий кава", змінити не contoso.sharepoint.com fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="ad380-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
+<span data-ttu-id="381fd-103">На жаль, не можна змінити ім'я домену SharePoint Online для вашої організації в Office 365.</span><span class="sxs-lookup"><span data-stu-id="381fd-103">Unfortunately, it isn't possible to change the SharePoint Online domain name for your organization in Office 365.</span></span> <span data-ttu-id="381fd-104">Наприклад, якщо назва вашої організації змінюється від "contoso" до "четвертої кави", ви не можете змінити contoso.sharepoint.com на fourthcoffee.sharepoint.com.</span><span class="sxs-lookup"><span data-stu-id="381fd-104">For example, if the name of your organization changes from "Contoso" to "Fourth Coffee," you can't change contoso.sharepoint.com to fourthcoffee.sharepoint.com.</span></span>
   
-<span data-ttu-id="ad380-105">Використовувати доменне ім'я fourthcoffee.sharepoint.com, буде потрібно придбати нове підключення служби Office 365 і перемістити всю пошту, файли та інші дані, які ви хочете зберегти нове підключення.</span><span class="sxs-lookup"><span data-stu-id="ad380-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
+<span data-ttu-id="381fd-105">Щоб використовувати доменне ім'я fourthcoffee.sharepoint.com, вам потрібно буде придбати нову передплату Office 365 і перемістити всю електронну пошту, файли та будь-які інші дані, які ви хочете зберегти до нової передплати.</span><span class="sxs-lookup"><span data-stu-id="381fd-105">To use the domain name fourthcoffee.sharepoint.com, you would need to purchase a new Office 365 subscription and move all email, files, and any other data you want to keep to the new subscription.</span></span>
   
- <span data-ttu-id="ad380-106">**Примітка**: наприклад, щоб змінити ім'я сайту з https://contoso.sharepoint.com/sites/sample1 до https://contoso.sharepoint.com/sites/sample2, створити новий сайт, а потім перемістіть весь вміст зі старого сайту в нову.</span><span class="sxs-lookup"><span data-stu-id="ad380-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
+ <span data-ttu-id="381fd-106">**Примітка**: наприклад, щоб змінити назву сайту https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, створіть новий сайт, а потім перемістіть весь вміст зі старого сайту на новий.</span><span class="sxs-lookup"><span data-stu-id="381fd-106">**Note**: For example, to change the name of a site from https://contoso.sharepoint.com/sites/sample1 to https://contoso.sharepoint.com/sites/sample2, create a new site, and then move all the content from the old site to the new one.</span></span>
   
-<span data-ttu-id="ad380-107">Інформація про переміщення елементів у бібліотеках документів див [переміщування і копіювання елементів із бібліотеки документів SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="ad380-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
+<span data-ttu-id="381fd-107">Відомості про переміщення елементів у бібліотеках документів наведено в [документі перемістити або скопіювати елементи з бібліотеки документів SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).</span><span class="sxs-lookup"><span data-stu-id="381fd-107">For info about moving items in document libraries, see [Move or copy items from a SharePoint document library](https://go.microsoft.com/fwlink/?linkid=2025831).</span></span>
   
