@@ -1,6 +1,6 @@
 ---
-title: 'Усунення проблем: відмовлено у доступі до повідомлення'
-ms.author: kirks
+title: Усунення несправностей у доступі повідомлення
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,34 +8,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 942374d29ca334181e5a397c88d912828f01e349
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 915476f92f150288666268f1647f3cae7e9001a4
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549132"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751801"
 ---
-# <a name="troubleshoot-access-denied-messages"></a><span data-ttu-id="7680f-102">Усунення проблем: відмовлено у доступі до повідомлення</span><span class="sxs-lookup"><span data-stu-id="7680f-102">Troubleshoot Access Denied messages</span></span>
+# <a name="troubleshoot-access-denied-messages"></a><span data-ttu-id="081d9-102">Усунення несправностей у доступі повідомлення</span><span class="sxs-lookup"><span data-stu-id="081d9-102">Troubleshoot Access Denied messages</span></span>
 
-<span data-ttu-id="7680f-103">Якщо ви отримуєте в доступі повідомлення під час спроби перегляду сайту Sharepoint на сайті, будь ласка, перегляньте в статті нижче.</span><span class="sxs-lookup"><span data-stu-id="7680f-103">If you are receiving an access denied message when attempting to browse a Sharepoint Online site, please see the below articles.</span></span>
+<span data-ttu-id="081d9-103">Якщо ви отримуєте повідомлення відмовлено в доступі під час спроби переглянути сайт SharePoint Online, будь ласка, перегляньте статті нижче.</span><span class="sxs-lookup"><span data-stu-id="081d9-103">If you are receiving an access denied message when attempting to browse a Sharepoint Online site, please see the below articles.</span></span>
 
-<span data-ttu-id="7680f-104">**Додати і Ліцензія користувача**</span><span class="sxs-lookup"><span data-stu-id="7680f-104">**Add and License the user**</span></span>
+<span data-ttu-id="081d9-104">**Додати та ліцензувати користувача**</span><span class="sxs-lookup"><span data-stu-id="081d9-104">**Add and License the user**</span></span>
 
-<span data-ttu-id="7680f-105">Переконайтеся, що ви [призначити ліцензії для користувачів у службі Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span><span class="sxs-lookup"><span data-stu-id="7680f-105">Ensure that you [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span></span>
+<span data-ttu-id="081d9-105">Переконайтеся, що ви [призначаєте ліцензії користувачам у Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span><span class="sxs-lookup"><span data-stu-id="081d9-105">Ensure that you [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).</span></span>
 
-<span data-ttu-id="7680f-106">**Призначте дозволи**</span><span class="sxs-lookup"><span data-stu-id="7680f-106">**Assign Permissions**</span></span>
+<span data-ttu-id="081d9-106">**Призначення дозволів**</span><span class="sxs-lookup"><span data-stu-id="081d9-106">**Assign Permissions**</span></span>
 
-<span data-ttu-id="7680f-107">Якщо користувач присвоїло Sharepoint ліцензії і як і раніше отримує повідомлення про відмову в доступі, переконайтеся, що у них [присвоюється відповідний рівень дозволів](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span><span class="sxs-lookup"><span data-stu-id="7680f-107">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level assigned](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span></span>
+<span data-ttu-id="081d9-107">Якщо користувач був призначений ліцензії SharePoint і як і раніше отримує повідомлення відмовлено в доступі, переконайтеся, що вони мають [відповідний рівень дозволів, призначених](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span><span class="sxs-lookup"><span data-stu-id="081d9-107">If the user has been assigned a Sharepoint license and is still receiving an access denied message, please ensure they have the [appropriate permission level assigned](https://docs.microsoft.com/sharepoint/understanding-permission-levels).</span></span>
 
-<span data-ttu-id="7680f-108">**Спробуйте використати функцію запиту доступу**</span><span class="sxs-lookup"><span data-stu-id="7680f-108">**Consider using the access request feature**</span></span>
+<span data-ttu-id="081d9-108">**Розгляньте можливість використання функції запиту доступу**</span><span class="sxs-lookup"><span data-stu-id="081d9-108">**Consider using the access request feature**</span></span>
 
-<span data-ttu-id="7680f-109">Функцію [запиту доступу](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) дозволяє людям запитують доступ до вмісту, що вони в даний час не мають дозволу переглядати.</span><span class="sxs-lookup"><span data-stu-id="7680f-109">The [access request](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) feature allows people to request access to content that they do not currently have permission to see.</span></span> 
+<span data-ttu-id="081d9-109">Функція [запиту доступу](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) дає змогу користувачам запитувати доступ до вмісту, який наразі не має дозволу на перегляд.</span><span class="sxs-lookup"><span data-stu-id="081d9-109">The [access request](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) feature allows people to request access to content that they do not currently have permission to see.</span></span> 
 
-<span data-ttu-id="7680f-110">**Дозволити власний сценарій може викликати проблеми в доступі**</span><span class="sxs-lookup"><span data-stu-id="7680f-110">**Allow custom script may cause access denied issues**</span></span>
+<span data-ttu-id="081d9-110">**Дозволити настроювані сценарії, може спричинити проблеми з відмовлено у доступі**</span><span class="sxs-lookup"><span data-stu-id="081d9-110">**Allow custom script may cause access denied issues**</span></span>
 
-<span data-ttu-id="7680f-111">Є певні сценарії, коли функцію "Дозволити власний сценарій" може представляти в доступі.</span><span class="sxs-lookup"><span data-stu-id="7680f-111">There are certain scenarios where the "Allow custom script" feature may be presenting an access denied.</span></span> <span data-ttu-id="7680f-112">Список функцій, які постраждали, міркування безпеки та можливість вимкнути цю функцію.</span><span class="sxs-lookup"><span data-stu-id="7680f-112">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="7680f-113">Будь ласка, відвідайте, [дозволити або заборонити власний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span><span class="sxs-lookup"><span data-stu-id="7680f-113">Please visit , [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span></span>
+<span data-ttu-id="081d9-111">Існують певні сценарії, де функція "Дозволити настроюваний сценарій" може представляти доступ заборонено.</span><span class="sxs-lookup"><span data-stu-id="081d9-111">There are certain scenarios where the "Allow custom script" feature may be presenting an access denied.</span></span> <span data-ttu-id="081d9-112">Список функцій, що впливають, міркувань безпеки та можливість вимкнути функцію.</span><span class="sxs-lookup"><span data-stu-id="081d9-112">For a list of features affected, security considerations and the ability to disable the feature.</span></span> <span data-ttu-id="081d9-113">Будь ласка, відвідайте, [дозвольте або заборонити користувацький скрипт](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span><span class="sxs-lookup"><span data-stu-id="081d9-113">Please visit , [Allow or prevent custom script](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)</span></span>
 
-<span data-ttu-id="7680f-114">Примітка: Якщо OneDrive або SharePoint сайт не буде доступним для декількох користувачів, які раніше мали доступ, може бути тимчасова служби питання.</span><span class="sxs-lookup"><span data-stu-id="7680f-114">Note: If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="7680f-115">[Перевірте службу здоров'я приладної дошки](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="7680f-115">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+<span data-ttu-id="081d9-114">Примітка: якщо сайт OneDrive або SharePoint не доступний для кількох користувачів, які раніше мали доступ, може виникнути проблема тимчасового обслуговування.</span><span class="sxs-lookup"><span data-stu-id="081d9-114">Note: If a OneDrive or SharePoint site is not available to multiple users who previously had access, there may be a temporary service issue.</span></span> <span data-ttu-id="081d9-115">[Перегляньте приладну дошку справності служб](https://portal.office.com/adminportal/home#/servicehealth).</span><span class="sxs-lookup"><span data-stu-id="081d9-115">[Check the service health dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
 
 
   
