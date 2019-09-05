@@ -1,5 +1,5 @@
 ---
-title: Зміна дозволів на поштову скриньку
+title: Змінення дозволів для поштової скриньки
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1674adcce4765f785797f15aa9ebab908f19c480
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e4349d78cf7b34fbf8429fbb482469861901ace1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661425"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734402"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>Зміна дозволів на поштову скриньку
+# <a name="changing-permissions-on-a-mailbox"></a>Змінення дозволів для поштової скриньки
 
-Якщо користувачам потрібно доступ до поштових скриньок служби Office 365, сувенірних листівках, вони повинні подаватись дозволів для роботи з тих поштових скриньок. Як призначити дозволи, залежить від типу поштових скриньок. Якщо користувачам потрібно доступ до:
+Якщо користувачам потрібен доступ до поштових скриньок Office 365, окрім власних, їм потрібно надати дозволи на роботу з цими поштовими скриньками. Спосіб призначення цих дозволів залежить від типу поштової скриньки. Якщо користувачам потрібен доступ до:
   
-- Поштових скриньок інших користувачів - будь ласка, дивіться, [надати дозволи поштової скриньки іншого користувача, у службі Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
+- Поштові скриньки інших користувачів-перегляньте, будь ласка [, надайте дозволи на доступ до іншого користувача в Office 365](https://docs.microsoft.com//office365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Спільна поштова скринька - будь ласка, дивіться [Додавання або видалення учасників зі спільної поштової скриньки](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Спільної поштової скриньки-будь ласка, див [Додавання або видалення учасників зі спільної поштової скриньки](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
     
-Якщо дозволи не роблять правильної роботи після того, як ви робити вище кроки, перейдіть до центру адміністрування Exchange і спробувати встановити дозволи звідти (див. [Керування дозволами для одержувачів](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Якщо дозволи не працюють належним чином після виконання наведених вище дій, перейдіть до центру адміністрування Exchange і спробуйте встановити дозволи звідти (див. [Керування дозволами для одержувачів](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   

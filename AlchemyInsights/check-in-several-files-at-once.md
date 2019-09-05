@@ -1,6 +1,6 @@
 ---
-title: Повернення декількох файлів одночасно
-ms.author: kirks
+title: Одночасно перевіряти декілька файлів
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 9b5d4de2a39e7af0a91c5de758f6f98c5fd8457a
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 70b441ca4c8751a84603e923adabd56c87f3ea92
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631756"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755041"
 ---
-# <a name="check-in-several-files-at-once"></a>Повернення декількох файлів одночасно
+# <a name="check-in-several-files-at-once"></a>Одночасно перевіряти декілька файлів
 
-Перевірте в декілька файлів в декількох папок у бібліотеці SharePoint, виберіть пункт **Показати всі елементи без папок** у розділі **папки** на сторінки **Змінення подання** . 
+Щоб перевірити наявність кількох файлів у кількох папках бібліотеки SharePoint, виберіть команду **Відображати всі елементи без папок** у розділі **папки** на сторінці **редагування подання** . 
   
- **Примітка**: SharePoint Online та Office 365 не в даний час дозволяють декілька файлів за допомогою сучасних режиму перевіряючи. 
+ **Примітка**: SharePoint Online та Office 365 наразі не дозволяють кілька файлів під час реєстрації в сучасних режимі. 
   
-Дивіться більш часті питання про реєстрація заїзду/виїзду з, переглянути [поширені запитання про взяття на редагування, перевірки та версії](https://go.microsoft.com/fwlink/?linkid=2018786).
+Дивіться більш поширені запитання про реєстрацію заїзду/виїзду, перегляньте [поширені запитання про Від'їзд, реєстрацію та версії](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

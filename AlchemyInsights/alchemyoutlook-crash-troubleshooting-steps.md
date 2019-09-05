@@ -1,5 +1,5 @@
 ---
-title: Алхімія - Outlook аварії виправлення неполадок
+title: Алхімія-Outlook, аварійне завершення роботи етапи виправлення неполадок
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664593"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737142"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook аварії методи виправлення неполадки
+# <a name="outlook-crash-troubleshooting-steps"></a>Outlook, аварійне завершення роботи кроки виправлення неполадок
 
-Якщо виникають проблеми Outlook робочого стола аварії, почати, виконавши три наведені нижче кроки, що всі перелічені в деталях в цій статті: [як виправити неполадки, які викликають Outlook до збою або зависають під час використання з Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+Якщо у вас виникли проблеми з аварійне завершення роботи Outlook, почніть з виконання трьох кроків нижче, які всі перераховані докладно в цій статті: [Виправлення неполадок, які призводять до аварійного завершення роботи або перестає реагувати на дії користувача під час використання з Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Крок 1: Досліджувати можливі проблеми з надбудови.
+Крок 1: дослідити, можливі проблеми з надбудови.
   
-Крок 2: Ремонт Outlook і запустити [підтримку і помічник відновлення інструмент](https://aka.ms/SaRA-OutlookWontStart) для виправлення помилки запуску Outlook на уражені машині.
+Крок 2: відновлення Outlook і запустити [засіб підтримки та відновлення помічника](https://aka.ms/SaRA-OutlookWontStart) для виправлення помилок запуску Outlook, на проблемному комп'ютері.
   
-Крок 3: Створити новий профіль Outlook, або запустити [засіб профіль Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на уражені машині.
+Крок 3: створіть новий профіль Outlook або запустіть [засіб профілю Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на проблемному комп'ютері.
   
-Якщо проблеми виникли після оновлення і вище кроки не працюють, може знадобитися повернутися до попередніх побудувати. Подивимося, [як повернутися до попередньої версії Office 2016 натисніть Office умить](https://support.microsoft.com/help/2770432).
+Якщо проблема виникала після оновлення, і наведені вище дії не працюють, можливо, знадобиться повернутися до попередньої збірки. Дізнайтеся [, як повернутися до попередньої версії Office 2016, натисніть і запустити](https://support.microsoft.com/help/2770432).
   

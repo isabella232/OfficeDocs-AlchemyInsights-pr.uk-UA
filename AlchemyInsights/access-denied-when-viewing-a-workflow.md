@@ -1,6 +1,6 @@
 ---
-title: Доступ заборонено під час перегляду робочого процесу
-ms.author: kirks
+title: Відмовлено в доступі під час перегляду робочого процесу
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 53bd9285e49e220f880eea21923f261302003127
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495844"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747769"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Доступ заборонено під час перегляду робочого процесу
+# <a name="access-denied-when-viewing-a-workflow"></a>Відмовлено в доступі під час перегляду робочого процесу
 
-SharePoint 2013 робочі процеси, що спроба надіслати електронне повідомлення групі SharePoint може не спрацювати і повідомлення про помилку "Немає доступу" Якщо участь у групі SharePoint не розташований кожному.
+SharePoint 2013 робочих циклів, які намагаються надіслати повідомлення електронної пошти до групи SharePoint може не з повідомлення про помилку "немає доступу", якщо членство групи SharePoint не встановлено для всіх.
   
  **Щоб вирішити цю проблему, виконайте такі дії:**
   
- 1. Дозволити всім переглядати учасників групи SharePoint.
+ 1. Дозволити всім користувачам бачити учасників групи SharePoint.
   
- 2. Видалення групи SharePoint із кому або копія лінія повідомлення електронної пошти.
+ 2. Видалити групу SharePoint, з до або копія рядок повідомлення електронної пошти.
   
- 3. Явно додайте користувачів до кому або копія лінії, якщо для групи SharePoint не можна змінити членство видимість.
+ 3. Явно додати користувачів до рядка кому або копія, якщо видимість членства не можна змінити для групи SharePoint.
   
-Для перегляду більш докладної інформації, будь ласка, зверніться до [HTTP-Unauthorized до /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Для перегляду більш докладної інформації, будь ласка, зверніться до [http несанкціонований/_vti_bin/Client.SVC/SP.utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

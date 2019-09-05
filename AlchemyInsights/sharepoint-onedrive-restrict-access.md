@@ -1,6 +1,6 @@
 ---
 title: Обмеження доступу в SharePoint або OneDrive
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559898"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750685"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Обмеження доступу в SharePoint або OneDrive
 
-Є багато способів для обмеження доступу до служб SharePoint на сайті/OneDrive. Ці різні методи обмеження доступу викладені нижче. 
+Існує багато способів обмежити доступ до служб SharePoint Online/OneDrive. Ці різні методи обмеження доступу викладені нижче. 
 
-**Обмеження дозволів**
+**Обмеження доступу**
 
-У SharePoint Online і OneDrive для бізнесу ми заборонити доступ до пунктам, як сайти, файли та папки, тільки надання доступу до цих груп/особи, які повинні мати доступ.
+У SharePoint Online та OneDrive для бізнесу ми обмежуємо доступ до таких елементів, як сайти, файли та папки, лише надаючи доступ до цих груп/осіб, які мають доступ.
 
-- [Настроювання дозволів для списку або бібліотеки](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Настроювання дозволів для списку або бібліотеки SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Настроїти дозволи сайту SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Настроювання дозволів сайту SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Змінити дозволи на вкладену папку](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Змінення дозволів у вкладеній папці](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [Керування доступом від некерованих пристроїв](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Керування доступом із некерованих пристроїв](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-SharePoint або глобального адміністратора, у службі Office 365, ви можете блокувати або обмежити доступ до SharePoint і OneDrive вміст від некерованих пристроїв (ті не гібридних оголошення об'єднуваних або сумісний в Intune).
+У SharePoint або Global Admin в Office 365 можна заблокувати або обмежити доступ до вмісту SharePoint і OneDrive з некерованих пристроїв (не сумісні або несумісні оголошення в InTune).
 
 **Обмеження розташування мережі**
 
-Як адміністратор можна контролювати доступ до SharePoint і OneDrive ресурсів на основі визначених мережних розташуваннях, яким ви довіряєте. Це також відомо як місцезнаходженням політики. Для отримання додаткової інформації будь ласка, дивіться [керування доступом до SharePoint Online і OneDrive даних на основі мережне розташування](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Як ІТ-адміністратор ви можете керувати доступом до ресурсів SharePoint і OneDrive на основі визначених мережевих розташувань, яким ви довіряєте. Це також відоме як політика на основі розташування. Для отримання додаткових відомостей зверніться до [керування доступом до SharePoint Online та OneDrive даних на основі мережного розташування](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Сайт блокування обмеження** 
+**Обмеження блокування сайту** 
 
-У SharePoint на сайті у вас є можливість блокування колекції сайтів, так що ніхто не має доступу. Це встановити за допомогою PowerShell і [SharePoint онлайн оболонки керування](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) властивістю - LockState [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) .
+У SharePoint Online у вас є можливість заблокувати колекцію сайтів, тому ніхто не має доступу. Це встановлено за допомогою PowerShell і [оболонки керування SharePoint Online](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) , використовуючи властивість [Set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -локстан.
 
-**Заборонити користувачам створення сайтів чи дочірні сайти**
+**Як заборонити користувачам створювати сайти або підсайти**
 
-Як адміністратор SharePoint або Office 365 глобального адміністратора, можна дозволити користувачам створювати і управляти свої власні сайти SharePoint, визначити, якого роду сайти вони можуть створити і вкажіть розташування сайтів. Для отримання додаткової інформації будь ласка, дивіться [Створення сайту керування в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Як адміністратор SharePoint або Office 365 Global Admin ви можете дозволити користувачам створювати та адмініструвати власні сайти SharePoint, визначати, які сайти вони можуть створювати, і вказати розташування сайтів. Для отримання додаткової інформації, будь ласка, дивіться [керування створенням сайту в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

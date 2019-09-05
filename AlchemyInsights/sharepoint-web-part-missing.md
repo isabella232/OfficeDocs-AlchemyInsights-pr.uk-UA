@@ -1,6 +1,6 @@
 ---
-title: Веб-застосунку Project Web App не вистачає від колекції сайтів SharePoint
-ms.author: kirks
+title: Проект веб-застосунку, відсутній у колекції сайтів SharePoint
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: a68fefa2f92ee43a6e26807fe89d034589b2476b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8c749ce5f7e6a00b990ca387833fac90f4e2ce17
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502608"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749677"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>Відсутні у колекції сайтів SharePoint веб-частини
+# <a name="missing-web-part-in-sharepoint-site-collection"></a>Відсутня веб-частина в колекції сайтів SharePoint
 
-Якщо вам не вистачає веб-частини, ви звикли бачити, цілком можливо, ви намагаєтеся додати [класичний веб-частини на сторінці сучасних](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Важливо відзначити, що сучасні використовувати сторінок сучасних веб-частин і класичний використовувати сторінок класичний веб-частини. Багато сучасних веб-частини виконати ж метою, що й класичні веб-частини, але ви побачите відмінності в вигляду та функціональності.
+Якщо у вас відсутня веб-частина, яку ви звикли бачити, можливо, ви намагаєтеся додати [класичну веб-частину на сучасній сторінці](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Важливо відзначити, що сучасні сторінки можуть використовувати тільки сучасні веб-частини і класичні сторінки можуть використовувати тільки класичні веб-частини. Багато сучасних веб-частин виконують ті ж самі цілі, що і класичні веб-частини, але ви побачите відмінності в зовнішньому вигляді та функціональності.
 
-Є багато веб-частини, які не припинено через [власний сценарій налаштування](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), який зазвичай вимкнено на сучасних сайтів. 
+Існує багато веб-частин, які не відображаються через [настройку користувацьких сценаріїв](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), які за промовчанням вимкнуто на сучасних сайтах. 
 
-Список веб-частин, які будуть недоступними, будь ласка, дивіться, [функцій, які постраждали при блокуванні власний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+Список веб-частин, які недоступні, будь ласка, дивіться, функції, які [впливають, коли настроюваний сценарій заблоковано](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- Для отримання додаткової інформації про наслідки для безпеки власний сценарій переглянути [міркування безпеки, що дозволяє власний сценарій](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+ Щоб отримати додаткові відомості про наслідки безпеки настроюваного сценарію, перегляньте [рекомендації щодо безпеки, що дозволяють користувацький скрипт](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).

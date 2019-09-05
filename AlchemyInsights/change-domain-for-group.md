@@ -1,5 +1,5 @@
 ---
-title: Зміни домену для служби Office 365 групи
+title: Змінити домен для Office 365 групи
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 2d08c3b4091274daee8e47527b14865574715176
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519752"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736850"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>Змінити область для Office 365 групи
+# <a name="change-the-domain-for-office-365-group"></a>Змінити домен для Office 365 групи
 
-Якщо ви хочете змінити область для групу Office 365 під час створення, виконайте [вибрати домен для використання під час створення групи Office 365](https://support.office.com/article/7cf5655d-e523-4bc3-a93b-3ccebf44a01a.aspx).
+Якщо потрібно змінити домен для групи Office 365 під час створення, виконайте дії, описані в [області виберіть домен для створення Office 365 груп](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-Після того, як група Office 365 вже створені, в даний час немає ніякого способу, щоб змінити домен. Єдиний спосіб — створити нову групу Office 365 а видаліть стару при необхідності (через [Центру адміністрування Exchange](https://outlook.office365.com/ecp.aspx)можна додати додаткові адреси електронної пошти).
+Після того, як групи Office 365 вже створено, наразі немає способу змінити домен. Єдиний спосіб полягає у створенні нової групи Office 365 і видалити стару, якщо необхідно (додаткові адреси електронної пошти можуть бути додані через [Центр адміністрування Exchange](https://outlook.office365.com/ecp.aspx)).

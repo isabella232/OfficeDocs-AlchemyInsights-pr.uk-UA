@@ -1,5 +1,5 @@
 ---
-title: 1081 календар - RBA CatchAll
+title: 1081 календар-RBA все
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505888"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737642"
 ---
-# <a name="create-and-manage-room-mailboxes"></a>Створюйте та керуйте поштові скриньки кімнат
+# <a name="create-and-manage-room-mailboxes"></a>Створення та керування поштовими скриньками кімнати
 
-Створювати та змінювати поштові скриньки кімнат, побачити [створити та керувати поштовими скриньками кімнату](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Для створення та змінення поштових скриньок номерів зверніться до [створення та керування поштовими скриньками номерів](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Щоб дізнатися більше про поштові скриньки кімнат та обладнання (також відомий як поштові скриньки ресурсів), побачити [поштові скриньки кімнат та обладнання](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).
+Щоб дізнатися більше про поштові скриньки для кімнати та обладнання (також відомі як поштові скриньки ресурсів), перегляньте [поштові скриньки кімнати та обладнання](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).

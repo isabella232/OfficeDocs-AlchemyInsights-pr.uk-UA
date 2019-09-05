@@ -1,5 +1,5 @@
 ---
-title: Роль адміністратора та призначення
+title: Роль адміністратора і як призначити
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36493937"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737112"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Які ролей адміністратора, і як ви призначите їм?
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>Що таке ролі адміністратора і як їх призначати?
 
-Схоже, що у вас є деякі питання щодо ролей адміністратора. Ці статті повинні відповісти на всі ваші запитання.
+Схоже, у вас є деякі питання про ролі адміністратора. Ці статті повинні відповідати на всі ваші запитання.
   
-- [Про Office 365 ролей адміністратора](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [Про ролі адміністратора](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [Призначення ролей адміністратора](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [Призначення ролей адміністратора](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-Не відповів на ваше запитання? Жодних проблем! Скористайтеся параметром "назвемо ви" говорити до допоміжного інженер.
+Не відповіли на ваше запитання? Жодних проблем! Скористайтеся параметром "зателефонуйте вам", щоб поговорити з інженером підтримки.
   

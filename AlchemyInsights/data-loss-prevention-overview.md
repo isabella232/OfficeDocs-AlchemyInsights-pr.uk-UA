@@ -1,30 +1,30 @@
 ---
-title: Дані запобігання втрати (DLP) Огляд
-ms.author: kirks
+title: Огляд запобігання втраті даних (ЗВД)
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: cd73bc8f4e56f6fdc6e3e09d87eb4ff55523ca92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 96d9ecb3cd927946d6a5381fd6fd3a88fe67ac91
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514424"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755149"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>Дані запобігання втрати (DLP) Огляд
+# <a name="data-loss-prevention-dlp-overview"></a>Огляд запобігання втраті даних (ЗВД)
 
-З DLP політики ви можете:
+За допомогою політики ЗВД можна:
 
-- Визначити конфіденційну інформацію по багато місць, таких як Exchange Online SharePoint Online та OneDrive для бізнесу.
-
-
-Наприклад, можна визначити будь-який документ, що містить номер кредитної картки, яка зберігається в будь-який OneDrive для бізнес-сайт, або ви можете контролювати на OneDrive сайтах конкретних людей.
-
-- Запобігти випадковим обміну конфіденційною інформацією.
+- Визначення конфіденційної інформації в багатьох розташуваннях, таких як Exchange Online, SharePoint Online та OneDrive для бізнесу.
 
 
-Для отримання додаткової інформації, будь ласка, перегляньте наступні [статті](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+Наприклад, можна визначити будь-який документ, який містить номер кредитної картки, який зберігається в будь-якому веб-сайті OneDrive для бізнесу, або ви можете відстежувати лише сайти OneDrive певних користувачів.
+
+- Запобігання випадковому обміну конфіденційної інформації.
+
+
+Для отримання додаткової інформації, будь ласка, перегляньте наступну [статтю](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 

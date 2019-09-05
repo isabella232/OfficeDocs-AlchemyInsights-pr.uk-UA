@@ -1,6 +1,6 @@
 ---
-title: Використання сховища SharePoint онлайн термін
-ms.author: kirks
+title: Використання сховища термінів SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: 8c87a4ca51dae25a0cfec86d53bc45ec59f8962f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539662"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754861"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>Використання сховища SharePoint онлайн термін
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>Використання сховища термінів SharePoint Online
 
-Сховищі термінів до Office 365 глобального адміністратора, адміністратор SharePoint та адміністраторів сховища термін і ви знайдете нових центру адміністрування SharePoint на сайті.
+Термін сховище доступне для Office 365 Глобальний адміністратор, SharePoint Admin та терміну адміністратори сховища і можна знайти в новий Центр адміністрування SharePoint Online.
   
-Для отримання додаткової інформації про те, як використовувати SharePoint Online сховищі термінів і таксономія в межах SharePoint Online див [введення в керованих метаданих](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+Щоб отримати додаткові відомості про використання SharePoint Online термін зберігання та таксономії, у SharePoint Online, див [введення керованих метаданих](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-Якщо виникають проблеми з термінами не з'являтися або з'являтися з перервами, ми рекомендуємо чекати 24 годин а потім увійти запит підтримки, якщо вона повторилася. Незважаючи на те, що 24 години може бути давно, там може бути кешування питання або ми вже працюєте над рішенням цієї проблеми.
+Якщо у вас виникли проблеми з умовами, які не відображаються або з'являються періодично, радимо зачекати 24 години, а потім журнал підтримки запит, якщо проблема повторюється. Незважаючи на те, що 24 годин може бути тривалий час, може бути проблема кешування або ми вже можемо працювати над вирішенням цієї проблеми.
   
