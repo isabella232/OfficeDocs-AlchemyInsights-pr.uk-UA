@@ -1,5 +1,5 @@
 ---
-title: Створення списку розсилки або групу 711
+title: 711 створення списку розсилки або групи
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: d2fda9d8dd238b5c7881930b02bdd04de6bff3bf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665277"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740774"
 ---
-# <a name="create-distribution-groups"></a><span data-ttu-id="9f806-102">Створювати групи розсилки</span><span class="sxs-lookup"><span data-stu-id="9f806-102">Create distribution groups</span></span>
+# <a name="create-distribution-groups"></a><span data-ttu-id="b8da7-102">Створення груп розсилки</span><span class="sxs-lookup"><span data-stu-id="b8da7-102">Create distribution groups</span></span>
 
-<span data-ttu-id="9f806-103">За допомогою груп розсилки (також відомий як списки розсилки) у службі Office 365 доставки повідомлень електронної пошти до групи людей всередині і поза межами вашої організації.</span><span class="sxs-lookup"><span data-stu-id="9f806-103">You use distribution groups (also known as distribution lists) in Office 365 to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="9f806-104">Створення їх нескладно!</span><span class="sxs-lookup"><span data-stu-id="9f806-104">Creating them is easy!</span></span> <span data-ttu-id="9f806-105">Докладніше перегляньте [списки розсилань створення центру адміністрування Microsoft Outlook 365](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span><span class="sxs-lookup"><span data-stu-id="9f806-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).</span></span>
+<span data-ttu-id="b8da7-103">Ви використовуєте групи розсилки (також відомі як списки розсилки) в Office 365, щоб доставити повідомлення електронної пошти групам людей всередині організації та поза її межами.</span><span class="sxs-lookup"><span data-stu-id="b8da7-103">You use distribution groups (also known as distribution lists) in Office 365 to deliver email messages to groups of people inside and outside your organization.</span></span> <span data-ttu-id="b8da7-104">Їх створення легко!</span><span class="sxs-lookup"><span data-stu-id="b8da7-104">Creating them is easy!</span></span> <span data-ttu-id="b8da7-105">Вказівки наведено [в списку створення списків розсилки в центрі адміністрування Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="b8da7-105">For instructions, see [Create distribution lists in the Microsoft 365 admin center](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).</span></span>
 
-<span data-ttu-id="9f806-106">**Примітка**: адміністратор повинен керувати членство групи розсилки.</span><span class="sxs-lookup"><span data-stu-id="9f806-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="9f806-107">Щоб надати користувачам керувати членством власних списків, ви можете взяти до уваги [Office 365 груп](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) замість цього.</span><span class="sxs-lookup"><span data-stu-id="9f806-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
+<span data-ttu-id="b8da7-106">**Примітка**: адміністратору потрібно керувати членством групи розсилки.</span><span class="sxs-lookup"><span data-stu-id="b8da7-106">**Note**: An admin needs to manage the membership of a distribution group.</span></span> <span data-ttu-id="b8da7-107">Якщо потрібно, щоб користувачі могли керувати власними списками учасників групи, слід розглянути натомість [групи Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .</span><span class="sxs-lookup"><span data-stu-id="b8da7-107">If you want users to manage their own group membership lists, you might want to consider [Office 365 Groups](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) instead.</span></span>
