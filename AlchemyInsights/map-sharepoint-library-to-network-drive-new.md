@@ -1,5 +1,5 @@
 ---
-title: Карта бібліотеці SharePoint на мережному диску
+title: Зіставлення бібліотеки SharePoint із мережним диском
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 8226b88c0f472d0e35ff462dc5a5259487a8ef06
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7b16cb448684d3f68be84fda4d9de201b953ffb
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497055"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734906"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Карта бібліотеці SharePoint на мережному диску
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Зіставлення бібліотеки SharePoint із мережним диском
 
-Зіставлення бібліотеку як мережевий диск є тимчасовим і підтримуваних тільки за допомогою браузера Internet Explorer. Час від часу, слід відкрити сайт SharePoint у браузері Internet Explorer та вибрати **залишатися в системі** , щоб запобігти сесія закінчується. Замість цього, [Синхронізація файлів SharePoint з новим клієнтом синхронізації OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> яка надає [Файли на вимогу](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Отримувати доступ до ваших файлів у OneDrive за допомогою місцевих дискового простору.
+Зіставлення бібліотеки як мережного диска є тимчасовим і підтримується лише через браузер Internet Explorer. Іноді потрібно відкрити сайт SharePoint у браузері Internet Explorer і вибрати **залишатися в** мережі, щоб не допустити завершення сеансу. Натомість</a> [Синхронізуйте файли SharePoint з новим клієнтом синхронізації OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) , який надає [файли на вимогу](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Доступ до всіх файлів у OneDrive без використання локального простору для зберігання.
 
-Якщо ви вирішили зіставлення диска замість того щоб [використовувати новий клієнт OneDrive синхронізації](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), переконайтеся, що ви прямуєте дії, описані в статті нижче. 
-
-
-**Як налагодити та виправляти неполадки зіставлено мережеві диски**
+Якщо ви вирішите зіставити диск замість [використання нового клієнта синхронізації OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), переконайтеся, що ви виконайте дії, наведені в цій статті. 
 
 
-Переглянути [настройки і усунення зіставлено мережеві диски](https://support.office.com/article/troubleshoot-mapped-network-drives-that-connect-to-sharepoint-online-ef399c67-4578-4c3a-adbe-0b489084eabe?ui=en-US&amp;rs=en-US&amp;ad=US).
+**Настроювання та усунення неполадок підключених мережних дисків**
 
-Примітка: Якщо ви використовуєте Internet Explorer 10 з Windows 8 або Windows 7 і отримувати **доступ заборонено** або **контур не доступний** під час проекції ілюстрації на диску, інсталювати [це виправлення](https://support.microsoft.com/help/2846960) для усунення цієї проблеми. 
+
+Переглянути [вирішення проблем із зіставленими мережними дисками, які підключаються до SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+
+Зверніть увагу: Якщо використовується Internet Explorer 10 з ОС Windows 8 або Windows 7 і отримати **доступ заборонено** або **шлях** недоступний під час зіставлення диска, інсталюйте [це виправлення](https://support.microsoft.com/help/2846960) , щоб вирішити цю проблему. 

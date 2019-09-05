@@ -1,5 +1,5 @@
 ---
-title: 'Error 404: Файл не знайдено'
+title: 'Помилка 404: файл не знайдено'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527420"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740234"
 ---
-# <a name="error-404-file-not-found"></a>Error 404: Файл не знайдено
+# <a name="error-404-file-not-found"></a>Помилка 404: файл не знайдено
 
-**404 помилка: файл не знайдено** отримав, коли користувачі намагаються отримати доступ до сайту або файлів SharePoint або OneDrive. Це може бути спричинене сайту або txt або група отримання перейменовано, переміщено або видалено.
-Користувачі будуть випробовувати повідомлення про помилку під час спроби отримати доступ до кореневої колекції сайтів та її видалено.
+**Помилка 404: файл не знайдено** , отримані, коли користувачі намагаються отримати доступ до сайту або файлу в SharePoint або OneDrive. Це часто спричинено сайтом або файлом або групою, які отримують перейменовані, переміщені або видалені.
+Користувачі будуть виникати повідомлення про помилку під час спроби отримати доступ до кореневої колекції сайтів і видалено.
 
-Такі дії можуть допомогти з вирішення цієї проблеми:
-- [Перегляд і відновити видалені сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): для сучасних сайтів (зв'язку, підключених до групи, або інші сайти), які існують нові admin центр попереднього.
-- [Відновити елементи з кошика сайту SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): вирішити файл (або іншого пункту) що перейменував, переміщений або видалений перейти до сайту SharePoint або OneDrive та переглядати на Recycle Bin від змісту сайту.
-- [Пошуку журнал аудиту в Office 365 безпеки &amp; центрі дотримання](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): пошук журнал аудиту (Якщо журналювання ввімкнуто), якщо ви не можете знайти елемент.
+Наведені нижче дії можуть допомогти у вирішенні цієї проблеми:
+- [Перегляд і відновлення видалених сайтів у новому центрі адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): для сучасних сайтів (зв'язок, група, підключення або інші сайти), які існують в новий Центр адміністрування Preview.
+- [Відновіть елементи в кошику сайту SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): щоб виправити файл (або інший елемент), перейменований, переміщено або видалено, перейдіть на сайт SharePoint або OneDrive і перегляньте вміст кошика з вмісту сайту.
+- [Пошук журналу аудиту в центрі забезпечення безпеки &amp; ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance): пошук журналу аудиту (Якщо журналювання увімкнуто), якщо ви все ще не можете знайти елемент.

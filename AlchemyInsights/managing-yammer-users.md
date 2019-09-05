@@ -1,5 +1,5 @@
 ---
-title: Керуючий Yammer користувачів
+title: Керування користувачами Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497068"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734942"
 ---
-# <a name="managing-yammer-users"></a>Керуючий Yammer користувачів
+# <a name="managing-yammer-users"></a>Керування користувачами Yammer
 
-1. Докладніше про керування Yammer користувачів зі служби Office 365 будь ласка, дивіться [керувати нити користувачів по їх життєвого циклу зі служби Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). Це включає в себе деталі на:
+1. Щоб отримати відомості про керування користувачами Yammer з Office 365, перегляньте, будь ласка, [керування користувачами Yammer через свій життєвий цикл з office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). Це включає в себе докладну інформацію про:
 
   - Створення користувача
 
   - Видалення користувачів
 
-  - Керуючий Yammer користувачів зі служби Office 365
+  - Керування користувачами Yammer з Office 365
 
-2. Будь ласка, дивіться [Додавання, блокування, або видалити користувачів Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) відомості про керування користувачами з Yammer консолі адміністратора. Це включає в себе:
+2. Ознайомтеся з відомостями про [Додавання, блокування або видалення користувачів Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) для отримання відомостей про керування користувачами з консолі адміністратора Yammer. Це включає в себе:
 
-  - Запрошуючи або видалення користувачів
+  - Запрошення або видалення користувачів
 
-  - Запрошуючи Відгуки користувачів
+  - Запрошення запрошених користувачів
 
-  - Експорт списку користувачів
+  - Експортування списку користувачів
 
-3. Відомості про додавання, видалення та керування зовнішнім користувачам побачити [додати зовнішній повідомленнями учасників до Yammer мережі](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Для отримання відомостей про додавання, видалення та керування зовнішніми [користувачами див.](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants)

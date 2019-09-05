@@ -1,5 +1,5 @@
 ---
-title: 912 налаштувати Focused папки "Вхідні" для всіх, у вашій організації
+title: 912 налаштування цілеспрямованої папки "Вхідні" для всіх у вашій організації
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504736"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738434"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Перетворити спрямовані "Вхідні" або вимкнути для всіх
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Увімкніть або вимкніть сфокусовану поштову скриньку для всіх користувачів
 
-Докладніше перегляньте [Налаштувати спрямовані "Вхідні" для всіх, у вашій організації](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Для отримання вказівок перегляньте [налаштування сфокусовану поштову скриньку для всіх користувачів у вашій організації](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Примітка**: Ця процедура вимагає Exchange Online PowerShell. Ви хотіли б зробити це в Microsoft Outlook 365 центру адміністрування? [Голосувати тут!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Примітка**: Ця процедура вимагає Exchange Online PowerShell. Бажаєте зробити це в центрі адміністрування Microsoft 365 замість цього? [Голосувати тут!](https://go.microsoft.com/fwlink/p/?linkid=862489)

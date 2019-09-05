@@ -1,5 +1,5 @@
 ---
-title: Відновлення видаленої Yammer Група
+title: Відновлення видаленої групи Yammer
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: b3adc5045a7fa8abea04fd1a79466cb6f8fca1a7
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 467dc14be08410397e08d6d0a4c33bffc7aea80e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753273"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745166"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>Відновлення видаленої Yammer Група
+# <a name="restore-a-deleted-yammer-group"></a>Відновлення видаленої групи Yammer
 
-[Office 365 пов'язаних групах у Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) поновлюється протягом 30 днів із моменту видалення, виконавши кроки, щоб [відновити видалену Office 365 Група](https://support.office.com/article/restore-a-deleted-office-365-group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54).
-У деяких випадках Yammer групи не підключено до Office 365 групи. Якщо це так, це не можна автоматично відновити групі, але це може бути можливим доступ видалених даних у Yammer, [експорт даних](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) , якщо мережа [політика збереження даних](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) настроєно на *М'яких видалити*. Зверніться до [Адміністратора перевірити](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) мережними Yammer перевірити політику збереження даних, або для виконання експорту даних.
+[Office 365 пов'язані групи в Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) , можна відновити протягом 30 днів видалення, виконавши дії, щоб [відновити видалену Office 365 групи](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group).
+У деяких випадках Група Yammer не може бути підключена до групи Office 365. У такому випадку неможливо автоматично відновити групу, але можна отримати доступ до видалених даних у [експорті даних](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Yammer, якщо в [політиці збереження даних](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) мережі встановлено *м'яке видалення*. Зверніться до [підтвердженого адміністратора](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) для вашої мережі Yammer, щоб перевірити політику збереження даних або виконати експортування даних.

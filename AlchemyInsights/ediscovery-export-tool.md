@@ -1,5 +1,5 @@
 ---
-title: пошук необхідної експорту інструмент
+title: Витребування електронної інформації для експорту
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528284"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736346"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не вдалося інсталювати або запустити пошук необхідної експорту інструмент?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не вдається інсталювати або запустити засіб експортування необхідної інформації?
 
-Якщо не вдається інсталювати або запустити пошук необхідної Office 365 експорту інструмент, щоб завантажити результати пошуку, перевірте наступні речі:
+Якщо ви не можете встановити або запустити засіб експортування електронної інформації Office 365 для завантаження результатів пошуку, перевірте такі речі:
   
-- Ви використовуєте комп'ютер відповідає такі передумови:
+- Комп'ютер, який ви використовуєте, відповідає цим попередньо реквізитам:
 
-  - 32 - або 64-розрядної версії Windows 7 і пізніших версій
+  - 32-або 64-розрядних версій ОС Windows 7 і пізніших версій
 
-  - Microsoft .NET Framework 4.7
+  - Microsoft .NET Framework 4,7
 
   - Підтримуваний браузер:
 
-  - Microsoft краю
+  - Microsoft EDGE
 
     Або
 
   - Internet Explorer 10 і пізніших версій
 
-    Інших веб-переглядачах, наприклад Google Chrome і Mozilla Firefox не підтримуються.
+    Інші браузери, такі як Google Chrome і Mozilla Firefox, не підтримуються.
 
-- Ваша організація може підключатися до кінцевої точки в Azure, яка є ** \*. blob.core.windows.net** (символи узагальнення являє собою унікальний ідентифікатор для експорту роботу).
+- Ваша організація може підключатися до кінцевої точки в Azure, яка є ** \*. BLOB.Core.Windows.net** (у підстановці є унікальним ідентифікатором для завдання експорту).
 
-- Призначено роль експорту в Office 365 безпеки &amp; центрі дотримання. За промовчанням ця роль призначена тільки пошук необхідної менеджер рольовій групі. Переглянути [призначення пошук необхідної дозволів](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- Ви признаєтеся ролі експорту в центрі забезпечення дотримання безпеки &amp; Office 365. За промовчанням ця роль призначається лише для рольової групи «Витребування менеджера». Див [.](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-Докладніше перегляньте [результати експортування вмісту пошуку](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+Докладніші відомості наведено в [результатах пошуку в експортному вмісті](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
