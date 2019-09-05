@@ -1,5 +1,5 @@
 ---
-title: 613 календар Публікація інформації
+title: 613 відомості про публікацію календаря
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: 8ada76659ec34018fc7d7854fcc7f28f4f957c61
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c82eaa3717942ff223bb262f8fe7bdbe56cbb17a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517736"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737714"
 ---
-# <a name="calendar-publishing-information"></a><span data-ttu-id="a174b-102">Відомостей про публікацію календаря</span><span class="sxs-lookup"><span data-stu-id="a174b-102">Calendar publishing information</span></span>
+# <a name="calendar-publishing-information"></a><span data-ttu-id="1b7ad-102">Відомості про публікацію календаря</span><span class="sxs-lookup"><span data-stu-id="1b7ad-102">Calendar publishing information</span></span>
 
-- <span data-ttu-id="a174b-103">Microsoft Outlook 365 адміністраторів можна ввімкнути або вимкнути Публікування календаря і календар, спільний доступ для організації.</span><span class="sxs-lookup"><span data-stu-id="a174b-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="a174b-104">Докладніше перегляньте [перетворити на публікацію календаря, так що люди можуть обмінюватися інформацією](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) та [спільно користуватися календарями із зовнішніми користувачами](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD).</span><span class="sxs-lookup"><span data-stu-id="a174b-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://support.office.com/article/FB00DD4E-2D5F-4E8D-8FF4-94B2CF002BDD).</span></span>
+- <span data-ttu-id="1b7ad-103">Адміністратори Microsoft 365 можуть вмикати або вимикати публікацію календаря та спільний доступ до календаря для організації.</span><span class="sxs-lookup"><span data-stu-id="1b7ad-103">Microsoft 365 admins can enable or disable calendar publishing and calendar sharing for an organization.</span></span> <span data-ttu-id="1b7ad-104">Для отримання додаткових відомостей див. [Увімкнення публікації календаря, щоб люди могли обмінюватися інформацією](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) та [обмінюватися календарями з зовнішніми користувачами](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="1b7ad-104">For more information, see [Turn on calendar publishing so people can share information](https://support.office.com/article/EB432E21-AAF0-466B-BF85-CEFEC0C7C4FC) and [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
 
-- <span data-ttu-id="a174b-105">Користувачі Outlook можуть частку своїх власних календарів.</span><span class="sxs-lookup"><span data-stu-id="a174b-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="a174b-106">Докладніше перегляньте [Частка календаря Outlook з іншими людьми](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="a174b-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>
+- <span data-ttu-id="1b7ad-105">Користувачі Outlook можуть ділитися власними календарями.</span><span class="sxs-lookup"><span data-stu-id="1b7ad-105">Outlook users can share their own calendars.</span></span> <span data-ttu-id="1b7ad-106">Для отримання додаткових відомостей див. [спільний доступ до календаря Outlook з іншими людьми](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span><span class="sxs-lookup"><span data-stu-id="1b7ad-106">For more information, see [Share an Outlook calendar with other people](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88).</span></span>

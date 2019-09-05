@@ -1,5 +1,5 @@
 ---
-title: Перевірити стан синхронізації Identity сад
+title: Перевірка стану синхронізації сад ідентичності
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: eb69643f1760aa69ee45637b2099220ce4359692
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9d706021a6666270c8545b73e78abc56a3507f34
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520580"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738542"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="51889-102">Перевірити стан синхронізації Identity сад</span><span class="sxs-lookup"><span data-stu-id="51889-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="316da-102">Перевірка стану синхронізації сад ідентичності</span><span class="sxs-lookup"><span data-stu-id="316da-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="51889-103">Нескладно Перевірка стану синхронізації:</span><span class="sxs-lookup"><span data-stu-id="51889-103">Checking sync status is easy:</span></span>
+<span data-ttu-id="316da-103">Перевірка стану синхронізації проста:</span><span class="sxs-lookup"><span data-stu-id="316da-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="51889-104">Ввійдіть до центру адміністрування Microsoft Outlook 365 і вибрати **DirSync статус** на головній сторінці.</span><span class="sxs-lookup"><span data-stu-id="51889-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
+- <span data-ttu-id="316da-104">Ввійдіть до центру адміністрування Microsoft 365 і виберіть **стан DirSync** на головній сторінці.</span><span class="sxs-lookup"><span data-stu-id="316da-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
-- <span data-ttu-id="51889-105">По черзі, ви можете піти для користувачів \> активних користувачів і на сторінці активних користувачів виберіть більше \> синхронізації каталогів.</span><span class="sxs-lookup"><span data-stu-id="51889-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="316da-105">По черзі, ви можете перейти до \> користувачів активних користувачів, а на сторінці активних користувачів, виберіть більше \> синхронізації каталогів.</span><span class="sxs-lookup"><span data-stu-id="316da-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
 
-- <span data-ttu-id="51889-106">На області, синхронізацію каталогів виберіть Перейти до DirSync управління.</span><span class="sxs-lookup"><span data-stu-id="51889-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+- <span data-ttu-id="316da-106">На панелі синхронізації каталогів, виберіть Перейти до DirSync керування.</span><span class="sxs-lookup"><span data-stu-id="316da-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
 
-<span data-ttu-id="51889-107">Якщо є проблема з синхронізації каталогів, помилки, перераховані на цій сторінці.</span><span class="sxs-lookup"><span data-stu-id="51889-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="51889-108">Щоб отримати додаткові відомості про різні помилки, які можуть виникнути побачити [виявлення помилок синхронізації каталогів в Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span><span class="sxs-lookup"><span data-stu-id="51889-108">For more information about different errors you might encounter, see [Identify directory synchronization errors in Office 365](https://support.office.com/article/b4fc07a5-97ea-4ca6-9692-108acab74067).</span></span>
+<span data-ttu-id="316da-107">Якщо виникла проблема з синхронізацією каталогів, ці помилки буде вказано на цій сторінці.</span><span class="sxs-lookup"><span data-stu-id="316da-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="316da-108">Щоб отримати додаткові відомості про різні помилки можуть виникнути, перегляньте [Переглянути помилки синхронізації каталогу в Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="316da-108">For more information about different errors you might encounter, see [View directory synchronization errors in Office 365](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
   

@@ -1,19 +1,19 @@
 ---
-title: Застосунок робочого стола для SharePoint
-ms.author: kirks
+title: Застосунок для настільних комп'ютерів SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 29cf38b8fbf55a76fdf721d837efe16e3279a15e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f3c412932769d35ba79beed8065b866e12bc9bfa
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512768"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755545"
 ---
-# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="cd701-102">Застосунок робочого стола для SharePoint</span><span class="sxs-lookup"><span data-stu-id="cd701-102">Desktop app for SharePoint</span></span>
+# <a name="desktop-app-for-sharepoint"></a><span data-ttu-id="9b87f-102">Застосунок для настільних комп'ютерів SharePoint</span><span class="sxs-lookup"><span data-stu-id="9b87f-102">Desktop app for SharePoint</span></span>
 
-<span data-ttu-id="cd701-103">Організації вводиться в приватний перегляд програмою застосунок робочого стола для SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cd701-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span> <span data-ttu-id="cd701-104">Microsoft не в даний час підтримує настільний додаток для SharePoint (приватний перегляд).</span><span class="sxs-lookup"><span data-stu-id="cd701-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="cd701-105">Будь ласка, використовуйте ваш РНБО партнерів Microsoft приватного перегляду отримати допомогу з настільний додаток для SharePoint.</span><span class="sxs-lookup"><span data-stu-id="cd701-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
+<span data-ttu-id="9b87f-103">Ваша організація вводиться в приватну програму попереднього перегляду для настільних додатків для SharePoint.</span><span class="sxs-lookup"><span data-stu-id="9b87f-103">Your organization is entered in the Private Preview program for the Desktop App for SharePoint.</span></span> <span data-ttu-id="9b87f-104">Наразі корпорація Майкрософт не підтримує програму робочого стола для SharePoint (приватний перегляд).</span><span class="sxs-lookup"><span data-stu-id="9b87f-104">Microsoft does not currently support the Desktop App for SharePoint (Private Preview).</span></span> <span data-ttu-id="9b87f-105">Для отримання допомоги у програмі SharePoint для настільних комп'ютерів використовуйте власний попередній перегляд партнерів корпорації Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="9b87f-105">Please use your enlisted Microsoft Private Preview partners to get assistance with the Desktop App for SharePoint.</span></span>
