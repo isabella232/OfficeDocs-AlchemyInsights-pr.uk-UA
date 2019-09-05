@@ -1,6 +1,6 @@
 ---
 title: Видалення сайту SharePoint
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/24/2019
 ms.audience: ITPro
@@ -9,21 +9,21 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5ba1fee33c3edaed2c320250004a91160f870f8c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513704"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747913"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Видалення сайту з нового центру адміністрування SharePoint
 
-За допомогою нового центру адміністрування SharePoint, можна видалити класичних і сучасних сайтів. Оберіть **активні ділянки**, виберіть сайт та клацніть **Видалити**. [Перегляд та відновлення видалених сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)виберіть **Видалити сайти**. Для отримання додаткових відомостей див. [видалити сайт нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+За допомогою нового центру адміністрування SharePoint можна видалити як класичні, так і сучасні сайти. Виберіть **активні сайти**, виберіть сайт, а потім натисніть кнопку **Видалити**. Щоб [Переглянути та відновити видалені сайти в новому центрі адміністрування SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), виберіть пункт **Видалені сайти**. Для отримання додаткових відомостей див. [видалення сайту в новому центрі адміністрування SharePoint](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**Важливі:** Якщо до сайту є частиною політики збереження, не можна видалити, поки сайт видаляється з у [безпеки &amp; центру адміністрування дотримання політики](https://protection.office.com/?rfr=AdminCenter#/homepage). Переглянути [Огляд політики збереження](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) для отримання додаткової інформації. 
+**Важливо:** Якщо сайт є частиною політики збереження, можливо, його не вдасться видалити, доки сайт не буде видалено з [політики центру адміністрування вимог безпеки &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). Докладніше про це можна дізнатися [з огляду щодо правил збереження](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 
 Поради:
-- Адміністраторів SharePoint Тепер можна видалити сайтів, що належать до **Office 365 груп**. Буде видалено всі свої ресурси, включаючи поштової скриньки Outlook і календар і будь-які команди канали і групи. Для отримання додаткових відомостей див. [видалити сайт SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
-- Ви можете відновити видалену сайти 93 днів. Зверніть увагу, що видалені групи має бути відновлене протягом 30 днів. Для отримання додаткової інформації див [вигляд і відновити видалені сайтів](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
-- Щоб остаточно видалити сайт, побачити [остаточно видалити сайт](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site). Цей крок необхідно під час планування повторно використовувати URL-адресу. 
-- Щоб видалити підсайт, див. [видалити сайт чи підсайту quicksteps](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)
+- Адміністратори SharePoint Тепер можна видалити сайти, які належать до **групи Office 365**. Це видалить групу та всі її ресурси, зокрема поштову скриньку Outlook і календар, а також усі канали teams. Для отримання додаткових відомостей див [. видалення сайту SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Ви можете відновити видалені сайти протягом 93 днів. Зауважте, що видалені групи необхідно відновити протягом 30 днів. Для отримання додаткових відомостей див. [Перегляд і відновлення видалених сайтів](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- Щоб остаточно [видалити сайт, див.](https://docs.microsoft.com/sharepoint/delete-site-collection#permanently-delete-a-site) Цей крок буде потрібен, якщо ви плануєте повторно використовувати URL-адресу. 
+- Щоб видалити підсайт, див [.](https://support.office.com/article/Delete-a-SharePoint-site-or-subsite-bc37b743-0cef-475e-9a8c-8fc4d40179fb#__bkmkshortcut)

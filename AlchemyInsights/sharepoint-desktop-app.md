@@ -1,22 +1,22 @@
 ---
-title: Застосунок робочого стола для SharePoint
-ms.author: kirks
+title: Застосунок для настільних комп'ютерів SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 05a9c689424ccf8b4ed5dd8ee168e640d6bb48a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 036efbec52fecefe709bf8e50372adf380933a7f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504196"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751657"
 ---
-# <a name="desktop-app-for-sharepoint"></a>Застосунок робочого стола для SharePoint
+# <a name="desktop-app-for-sharepoint"></a>Застосунок для настільних комп'ютерів SharePoint
 
-Організації вводиться в приватний перегляд програмою застосунок робочого стола для SharePoint.
+Ваша організація вводиться в приватну програму попереднього перегляду для настільних додатків для SharePoint.
 
-Microsoft не в даний час підтримує настільний додаток для SharePoint (приватний перегляд). Будь ласка, використовуйте ваш РНБО партнерів Microsoft приватного перегляду отримати допомогу з настільний додаток для SharePoint.
+Наразі корпорація Майкрософт не підтримує програму робочого стола для SharePoint (приватний перегляд). Для отримання допомоги у програмі SharePoint для настільних комп'ютерів використовуйте власний попередній перегляд партнерів корпорації Майкрософт.
 

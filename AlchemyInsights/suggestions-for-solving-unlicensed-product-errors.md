@@ -1,5 +1,5 @@
 ---
-title: Поради щодо виправлення помилок "Неліцензовані продукту"
+title: Пропозиції щодо помилок у вирішенні "неліцензійного продукту"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501064"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743294"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Поради щодо виправлення помилок "Неліцензовані продукт"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Пропозиції щодо вирішення помилок "ліцензовано продукту"
 
-Переконайтеся, підписки, що дозволяє клієнтові ліцензій, наприклад Office 365 бізнесу або бізнес Premium і [гарантувати, що користувач має ліцензію призначено](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Деактивувати установку](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) для перевірки, якщо ви перевищили кількість встановлює підтримується вашу підписку.
+Переконайтеся, що у вас є підписка, яка дозволяє клієнтських ліцензій, таких як Office 365 Business або Business Premium, і [Переконайтеся, що користувач має ліцензію, призначену](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Вимкніть інсталяцію](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , щоб перевірити, чи перевищено кількість встановлень, підтримуваних передплатою.
   
-Переконайтеся, що користувач входу за допомогою той самий обліковий запис, який має ліцензію призначено.
+Переконайтеся, що користувач входу з одного облікового запису, який має ліцензію, призначені.
   
-Запустіть [засіб усунення неполадок підключення](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Запустіть [засіб усунення неполадок активації](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Перевірте, якщо ваш статус підписки минув
+Перевірте, чи минув термін дії передплати
   
-Перевірте [Office 365 служба охорони здоров'я сторінки](https://docs.microsoft.com/office365/enterprise/view-service-health) , щоб побачити, якщо є будь-які відомі проблеми зі службою.
+Перевірте [сторінку стану служби Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) , щоб дізнатися, чи є відомі проблеми із службою.
   
-[Виконувати онлайн ремонт офісу](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Виконання онлайн відновлення Office](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Додаткові виправлення неполадок рішень, див: [неліцензійне продукту й активації помилок у Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Додаткові рішення для виправлення неполадок див.: [ліцензовано продукту та помилки активації в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

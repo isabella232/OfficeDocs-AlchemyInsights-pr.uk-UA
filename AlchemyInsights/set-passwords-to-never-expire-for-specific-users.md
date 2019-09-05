@@ -1,5 +1,5 @@
 ---
-title: Настроювання SPF у службі Office 365
+title: Настроювання SPF, в Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -15,18 +15,18 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 166c7ab10e51d309b79ae8ef1a58116e90d4380b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d11c1c637761429c684875096397d03ac64a1b6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509129"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744806"
 ---
-# <a name="set-passwords-to-never-expire"></a>Встановлювати паролі ніколи не закінчується
+# <a name="set-passwords-to-never-expire"></a>Установлення паролів ніколи не закінчиться
 
-Встановити всі паролі ніколи не закінчується, центру адміністрування Microsoft Outlook 365, зайдіть в **настройки** > [безпеки &amp; конфіденційності](https://portal.office.com/adminportal/home#/settings/security) сторінки. Виберіть **редагувати** поруч із пунктом **пароль політики**і перетворити повзунок **на**.
+Щоб установити всі паролі, які ніколи не закінчуються, у центрі адміністрування Microsoft 365 перейдіть на сторінку **** > [конфіденційності параметрів &amp; безпеки](https://portal.office.com/adminportal/home#/settings/security) . Виберіть **редагувати** поруч із **політикою "пароль**" і ввімкніть повзунок **Далі**.
   
-Для більш детальної інформації дивіться: [встановити політики терміну дії пароля для вашої організації.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+Для отримання докладніших відомостей див [.: установлення політики терміну дії пароля для вашої організації.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[Встановити пароль ніколи не закінчується для конкретних користувачів](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[Установити пароль, який ніколи не закінчиться для певних користувачів](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

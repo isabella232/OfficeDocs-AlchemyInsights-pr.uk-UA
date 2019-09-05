@@ -1,46 +1,46 @@
 ---
-title: Зберегти як шаблон сайту або списку
-ms.author: kirks
+title: Зберегти сайт або список як шаблон
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: a74d14f1743b9a016346f7bf0943523b1ab21f91
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1fe0a2f5bf65ef4e8cabf3d05a701c8eff966435
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551652"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752053"
 ---
-# <a name="save-site-or-list-as-a-template"></a>Зберегти як шаблон сайту або списку
+# <a name="save-site-or-list-as-a-template"></a>Зберегти сайт або список як шаблон
 
-Шаблони сайтів SharePoint є готові визначень призначені навколо потреби конкретного бізнесу. Докладніше перегляньте статтю [використання шаблонів для створення різних видів сайтів SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Шаблони сайтів SharePoint – це заздалегідь створені визначення, створені навколо певної бізнес-потреби. Для отримання додаткових відомостей див. [використання шаблонів для створення різних типів сайтів SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
 
-Нижче наведено деякі поширені питання/рішення щодо збереження через сайт або список як шаблон у SharePoint Online.
+Нижче наведено деякі поширені проблеми/рішення щодо збереження сайту або списку як шаблону в SharePoint Online.
 
-**Зберегти сайт/список шаблон кнопку несе не доступні без вісті**. 
+**Зберегти сайт/шаблон списку кнопка недоступна або відсутня**. 
 
-- Адміністратори повинні дозволити користувацький скрипт для ввімкнення функції шаблон. Докладно процедуру, приклади і міркування в розділі [дозволити або заборонити власний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- Сайт зберегти як шаблон команда не підтримується і може викликати проблеми на сайтах, які використовують Видавничий інфраструктури SharePoint Server.
+- Адміністраторам потрібно буде дозволити користувацький скрипт для ввімкнення функцій шаблону. Докладні кроки, приклади та [міркування див.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
 
-**Шаблон сайту неможливо створити або працює неправильно**
-
-- Шаблон може бути відсутня [функція](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) і не буде активувати. Якщо функція недоступна для активації в поточній колекції сайтів, це неможливо використовувати шаблон сайту для створення сайту.
+- Команда Зберегти як шаблон не підтримується і може спричинити проблеми на веб-сайтах, які використовують видавничу інфраструктуру SharePoint Server.
 
 
-- Перевірте, якщо будь-які списки або бібліотеки перевищує [Ліміт граничне значення подання списку](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) з 5000 пунктів, як це може блокувати створення шаблон сайту.
+**Не вдалося створити шаблон сайту або не працює належним чином**
+
+- Можливо, шаблон відсутній, а [функція](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) не активується. Якщо функція недоступна для активації в поточній колекції сайтів, не можна використовувати шаблон сайту для створення сайту.
 
 
-- Можливо, сайт використовує забагато ресурсів і тому шаблон сайту перевищує обмеження в 50 мегабайт (МБ).
+- Перевірте, чи будь-які списки або бібліотеки перевищують [граничне значення обмеження подання списку](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 елементів, оскільки це може блокувати створення шаблону сайту.
 
 
-- Є проблеми відображення даних зі списку, який використовує стовпець підстановки. Докладніше перегляньте [створеного шаблону списку не відображаються дані зі списку правильний підстановки в SharePoint Online](https://support.office.com/article/template-generated-list-doesn-t-display-correct-data-for-a-column-in-sharepoint-online-20430b62-e40c-4f6f-8889-aa24e80d605a).
+- Можливо, сайт використовує забагато ресурсів, і тому шаблон сайту перевищує ліміт 50 мегабайт (МБ).
 
 
-Для більш докладної інформації про типові проблеми та рішення будь ласка посилання, [створення і використання шаблонів сайтів](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- Є проблеми з відображенням даних зі списку, який використовує стовпець підстановки. Для отримання додаткових відомостей див. у [списку шаблон не відображаються дані зі списку правильні підстановки в SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+Для отримання більш детальної інформації про загальні проблеми та рішення, будь ласка, посилання, [створювати і використовувати шаблони сайту](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

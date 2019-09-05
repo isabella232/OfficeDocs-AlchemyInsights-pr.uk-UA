@@ -1,24 +1,24 @@
 ---
-title: На сайті SharePoint або OneDrive 'Налаштування'
-ms.author: kirks
+title: Налаштування SharePoint Online або OneDrive "вгору"
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535169"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750469"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>На сайті SharePoint або OneDrive "Налаштування"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online або OneDrive "налаштування"
 
-Коли користувач до існуючих компонентів Office 365, може бачать SharePoint Online або OneDrive для бізнес ікони перераховані як "Настроювання", доки процес підготовки були завершені.
+Після того, як користувач додається до існуючого клієнта Office 365, вони можуть бачити SharePoint Online або OneDrive, для бізнесу піктограми, перелічених як "налаштування" до завершення процесу підготовки.
 
-Якщо більш ніж 24 години пройшло з тих пір ви вперше побачив це питання, будь ласка, увійдіть інциденту до служби підтримки.
+Якщо Минуло більше 24 годин після того, як ви вперше побачили цю проблему, будь ласка, увійдіть у справу підтримки.
 
-Ми розуміємо, що 24 години може здатися багато часу. У багатьох випадках ми вже працюємо над вирішенням. Будь ласка, надайте нам принаймні за 24 години до виконання рішення.
+Ми розуміємо, що 24 години можуть здатися дуже довго. У багатьох випадках ми вже працюємо над вирішенням. Будь ласка, дайте нам принаймні 24 годин, щоб завершити рішення.
 

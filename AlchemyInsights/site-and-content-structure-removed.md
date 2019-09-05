@@ -1,26 +1,26 @@
 ---
-title: Сайт і структура змісту видалено
-ms.author: kirks
+title: Вилучено структуру сайту та вмісту
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502288"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749497"
 ---
-# <a name="site-and-content-structure-removed"></a>Сайт і структура змісту видалено
+# <a name="site-and-content-structure-removed"></a>Вилучено структуру сайту та вмісту
 
-Починаючи з жовтня 2018 року сторінки вмісту та структури сторінки більше не підтримуватиметься або функцію оновлення. Параметри посилання на SiteManager.aspx сторінці буде видалено з SharePoint Online та прямий доступ буде обмежений адміністратори колекції сайтів до 2019 березня, після чого вміст і структура сайту сторінку буде повністю пенсію в. 
+Починаючи з 2018 жовтня, сторінка вмісту та структури сайту більше не підтримуватиметься або не отримуватиме оновлення функцій. Посилання "Параметри" на сторінці SiteManager. aspx буде видалено з SharePoint Online і прямий доступ буде обмежено адміністраторам колекції сайтів до березня 2019, на який час сторінка зміст і структура сторінку буде повністю припинено. 
 
-Примітка: Як обхідного шляху до повністю пішов функцію, адміністратори колекції сайтів можуть переміщатися на порталі Office 365-> натисніть на SharePoint черепиця - > додати або змінити URL-адресу, замінивши ' / Sharepoint.aspx' з ' / Sitemanager.aspx'. 
+Примітка: як обхідний шлях, поки функція повністю вийшли на пенсію, адміністратори колекції сайтів можна перейти до центру адміністрування Microsoft 365, виберіть плитку SharePoint, а також додати або змінити URL-адресу, замінивши '/Sharepe.RS ' з '/Sitefad.RS '. 
 
 
-Скористайтеся перемістити файл і копію вмісту сайту і структури. Докладніше перегляньте [копіювати файли та папки між OneDrive та сайтом SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Використовуйте переміщення файлів і копіювання для керування вмістом і структурою сайту. Для отримання додаткових відомостей див. [копіювання файлів і папок між сайтами OneDrive і SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
-Для отримання додаткової інформації будь ласка, зверніться до [роботи з сайту змісту та структури](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Для отримання додаткової інформації, будь ласка, зверніться до [роботи з контентом сайту і структури](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

@@ -1,32 +1,32 @@
 ---
-title: 'Усунення проблем: помилки 404, файл не знайдено'
-ms.author: kirks
+title: Виправлення неполадок помилка 404, файл не знайдено
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 3c5de2f9dc75b4da4db888c53be21710423b35df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 45e7269d474d51569a216e94c0175f0b1c72b220
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507292"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749029"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>Усунення проблем: помилки 404, файл не знайдено
+# <a name="troubleshoot-error-404-file-not-found"></a>Виправлення неполадок помилка 404, файл не знайдено
 
-Помилка 404 отримав, коли користувачі намагаються отримати доступ до сайту або файлів SharePoint або OneDrive. Це може бути спричинене сайту або txt або група отримання перейменовано, переміщено або видалено. Наприклад: користувачі будуть випробовувати помилки 404, намагається отримати доступ до кореневої колекції сайтів та її видалено.
+Повідомлення про помилку 404 отримано, коли користувачі намагаються отримати доступ до сайту або файлу в SharePoint або OneDrive. Це часто виникає через сайт або файл або групу, які отримують перейменовані, переміщені або видалені. Наприклад: користувачі будуть виникати 404 помилка під час спроби отримати доступ до кореневої колекції сайтів і видалено.
 
-Щоб усунути помилку 404 для сайту, який має перейменовано, переміщено або видалено:
+Щоб виправити помилку 404 для сайту, який було перейменовано, переміщено або видалено:
 
-Класичний сайтів, які існують в класичний центру адміністрування у розділі [відновлення видалених вузлів](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Для класичних сайтів, які існують у класичному центрі адміністрування [, див.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
 
-Сучасні сайтів (зв'язку, підключених до групи, або інші сайти) які існують нові центру адміністрування SharePoint у розділі [вигляд і відновити видалені сайтів нового центру адміністрування SharePoint](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+Для сучасних сайтів (зв'язок, група, пов'язані або інші сайти), які існують в новому центрі адміністрування SharePoint, перегляньте [Перегляд і відновлення видалених сайтів у новому центрі адміністрування SharePoint](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-Щоб усунути помилку 404 файлу (або іншого пункту), що має перейменовано, переміщено або видалено:
+Щоб виправити помилку 404 для файлу (або іншого елемента), який було перейменовано, переміщено або видалено:
 
-Перейти до веб-сайту SharePoint або OneDrive і переглянути кошика від змісту сайту. Бачите, [відновити елементи з кошика сайту SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+Перейдіть на сайт SharePoint або OneDrive і перегляньте кошик із вмісту сайту. Переглянути, [відновити елементи в кошику сайту SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
-Якщо ви не можете знайти елемент, можна здійснювати пошук у журналі аудиту Якщо журналювання ввімкнуто побачити, [Пошук аудиту увійти в Office 365 безпеки & центрі дотримання](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
+Якщо ви все ще не можете знайти елемент, який можна виконати пошук журналу аудиту Якщо журналювання увімкнуто, [Пошук журналу аудиту в центрі безпеки Office 365 _ amp_](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

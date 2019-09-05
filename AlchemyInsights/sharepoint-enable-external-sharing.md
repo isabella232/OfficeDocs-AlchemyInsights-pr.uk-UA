@@ -1,5 +1,5 @@
 ---
-title: Увімкнення зовнішніх обміну в SharePoint Online
+title: Увімкнути зовнішній доступ у SharePoint Online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503908"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744446"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>Увімкнення зовнішніх обміну в SharePoint Online
+# <a name="enable-external-sharing-in-sharepoint-online"></a>Увімкнути зовнішній доступ у SharePoint Online
 
-Якщо ваша організація виконує роботи, що включає в себе обмін документами або співпрацює безпосередньо з постачальниками, клієнтами або замовниками, то ви можете використовувати на [зовнішніх засобів SharePoint Online спільного використання](https://docs.microsoft.com/sharepoint/external-sharing-overview) обмінюватися контентом з людьми поза межами вашої організація.
+Якщо ваша організація виконує роботу, яка передбачає надання спільного доступу до документів або співпраці безпосередньо з постачальниками, клієнтами або клієнтами, можна скористатися [функціями зовнішнього спільного доступу SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) , щоб ділитися вмістом із людьми за межами Організації.
 
-Для більш докладну інформацію про зовнішні обміну (осіб), будь ласка, відвідайте нижче посиланнями.
+Для отримання додаткової інформації про зовнішній обмін (гості), будь ласка, відвідайте посилання нижче.
 
-- [Що таке із зовнішнім користувачем?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [Що таке зовнішній користувач?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Що відбувається, коли спільний доступ до сайту або документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Що станеться, коли я поділяю сайт або документ?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Увімкнення зовнішніх обміну або вимкнути для SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Увімкнення та вимкнення зовнішнього спільного доступу для SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Увімкнення зовнішніх обміну або вимкнути для сайту](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Увімкнення та вимкнення зовнішнього спільного доступу для сайту](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Керувати гостьовий доступ в Office 365 груп](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Керування доступом гостя в групах Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [За допомогою Sharepoint Online як екстранет рішення бізнес для бізнесу (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Використання SharePoint Online як бізнес-бізнесу (B2B) екстранет рішення](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Частка SharePoint файли або папки](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Обмін файлами або папкою SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Закрити спільний доступ OneDrive або SharePoint файли або папки, або змінити дозволи](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Припинення спільного доступу до файлів і папок у OneDrive або SharePoint або змінення дозволів](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Видалити із зовнішнім користувачем](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Видалення зовнішнього користувача](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Отримання повідомлення про помилку із зовнішнім користувачем (гість)?**
+**Отримання повідомлення про помилку з зовнішнім користувачем (гість)?**
 
-Перевірте нижче посиланнями. 
+Перевірте посилання нижче. 
 
-- [Компоненти OSE обміну помилки, Sharepoint і OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Спільне використання помилок у SharePoint або OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Повідомлення про помилку під зовнішнім користувачем приймає запрошення на сайті SharePoint за допомогою іншого облікового запису](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Повідомлення про помилку, коли зовнішній користувач приймає запрошення SharePoint Online за допомогою іншого облікового запису](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Доступ до спільної папки](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [Відмовлено в доступі до спільної папки](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

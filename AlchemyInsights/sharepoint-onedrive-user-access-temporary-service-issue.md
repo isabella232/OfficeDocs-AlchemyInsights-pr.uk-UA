@@ -1,6 +1,6 @@
 ---
-title: Продуктивність питань SharePoint або OneDrive
-ms.author: kirks
+title: Проблеми продуктивності-SharePoint або OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 880b2bdd7b74f4365bcbff73a709d42e72be0e3a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535196"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750577"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint або OneDrive повільно, недоступних або недоступні для кількох користувачів
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint або OneDrive, повільно, недоступний або недоступний для кількох користувачів
 
-Якщо сайт OneDrive або SharePoint недоступний для декількох користувачів, які раніше мали доступ, може бути тимчасова служби питання. [Перевірте службу здоров'я приладної дошки](https://portal.office.com/adminportal/home#/servicehealth).
+Якщо сайт OneDrive або SharePoint недоступний для кількох користувачів, які раніше мали доступ, може виникнути проблема з тимчасовим обслуговуванням. [Перегляньте приладну дошку справності служб](https://portal.office.com/adminportal/home#/servicehealth).
 
-**Додати і Ліцензія користувача**
+**Додати та ліцензувати користувача**
 
-Переконайтеся, що ви [призначити ліцензії для користувачів у службі Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+Переконайтеся, що ви [призначаєте ліцензії користувачам у Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
-**Призначте дозволи**
+**Призначення дозволів**
 
-Якщо користувач присвоїло Sharepoint ліцензії і як і раніше отримує повідомлення про відмову в доступі, переконайтеся, що вони мають [відповідний рівень дозволів](https://docs.microsoft.com/sharepoint/understanding-permission-levels) призначено.
+Якщо користувач був призначений ліцензії SharePoint і як і раніше отримує повідомлення відмовлено в доступі, переконайтеся, що вони мають [відповідний рівень дозволів](https://docs.microsoft.com/sharepoint/understanding-permission-levels) , призначених.
 
-**Спробуйте використати функцію запиту доступу**
+**Розгляньте можливість використання функції запиту доступу**
 
-[Запит доступу особливість](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) дозволяє людям запитують доступ до вмісту, що вони в даний час не мають дозволу переглядати.
+[Функція запиту доступу](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) дає змогу користувачам запитувати доступ до вмісту, який наразі не має дозволу на перегляд.
 
-**Дозволити власний сценарій може викликати проблеми в доступі**
+**Дозволити настроювані сценарії, може спричинити проблеми з відмовлено у доступі**
 
-Є певні сценарії, де функція *дозволити власний сценарій* може представляти в доступі. Список функцій, які постраждали, міркування безпеки та можливість вимкнути цю функцію. Будь ласка, відвідайте [дозволити або заборонити власний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+Існують певні сценарії, де *дозволити настроювані сценарії* функція може представляти доступ заборонено. Список функцій, що впливають, міркувань безпеки та можливість вимкнути функцію. Будь ласка, відвідайте [дозволити або заборонити користувацький скрипт](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

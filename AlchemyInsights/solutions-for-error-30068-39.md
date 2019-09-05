@@ -1,5 +1,5 @@
 ---
-title: Рішення за помилки 30068-39
+title: Рішення для помилки 30068-39
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,27 +13,27 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 0edb3f738f55406ba97872311f1bde907e0ed6c8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501712"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743366"
 ---
-# <a name="solutions-for-error-30068-39"></a>Рішення за помилки 30068-39
+# <a name="solutions-for-error-30068-39"></a>Рішення для помилки 30068-39
 
-Спробуйте ці рішення, щоб виправити помилки- [30068 39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
+Спробуйте ці рішення, щоб виправити помилку [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- Перезавантажте комп'ютер і спробуйте [встановити Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Перезавантажте комп'ютер і спробуйте [інсталювати Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Перевірте, якщо **Microsoft клацніть Office умить**[службу вимкнено](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , а якщо його вимкнуто, змінення стану на **ручний** або **Автоматична**.
+- Перевірте, якщо службу **Microsoft Click-to-Run** [вимкнено](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) , а якщо її вимкнено, змініть стан на **ручний** або **автоматичний**.
 
-- Завантажити та встановити на [підтримку і помічник відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Завантажте й інсталюйте [помічник із підтримки та відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Під час відкривання, **продуктів видалення Office** виберіть варіант ви хочете вилучити та оберіть **наступного**.
+1. Коли він відкриється, **Видалити продукти Office** виберіть версію, яку потрібно видалити, і натисніть кнопку **Далі**.
 
-2. Як і раніше переживає екранів і перезавантажте комп'ютер при появі запиту.
+2. Продовжуйте йти через екрани і перезавантажте комп'ютер, коли з'явиться запит.
 
-    Після перезавантаження, підтримка і відновлення помічник автоматично повторно відкривається для завершення процесу видалення.
+    Після перезапуску помічник з підтримки та відновлення автоматично відкриває для завершення процесу видалення.
 
-3. Дотримуйтесь залишилися підказок та [переінсталяції Office](https://portal.office.com/OLS/MySoftware.aspx) або закрити помічник.
+3. Виконуйте решту підказок, [Переінсталюйте Office](https://portal.office.com/OLS/MySoftware.aspx) або закрийте помічник.

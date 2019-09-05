@@ -1,6 +1,6 @@
 ---
-title: Зміна доменне ім'я в SharePoint Online
-ms.author: kirks
+title: Змінити доменне ім'я в SharePoint Online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519212"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747661"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Зміна доменне ім'я в SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Змінити доменне ім'я в SharePoint Online
 
-На жаль, не можна змінити доменне ім'я SharePoint Online вашої організації у службі Office 365. Наприклад, якщо ім'я вашої організації зміниться з "Contoso" "Четвертий кава", змінити не contoso.sharepoint.com fourthcoffee.sharepoint.com.
+На жаль, не можна змінити ім'я домену SharePoint Online для вашої організації в Office 365. Наприклад, якщо назва вашої організації змінюється від "contoso" до "четвертої кави", ви не можете змінити contoso.sharepoint.com на fourthcoffee.sharepoint.com.
   
-Використовувати доменне ім'я fourthcoffee.sharepoint.com, буде потрібно придбати нове підключення служби Office 365 і перемістити всю пошту, файли та інші дані, які ви хочете зберегти нове підключення.
+Щоб використовувати доменне ім'я fourthcoffee.sharepoint.com, вам потрібно буде придбати нову передплату Office 365 і перемістити всю електронну пошту, файли та будь-які інші дані, які ви хочете зберегти до нової передплати.
   
- **Примітка**: наприклад, щоб змінити ім'я сайту з https://contoso.sharepoint.com/sites/sample1 до https://contoso.sharepoint.com/sites/sample2, створити новий сайт, а потім перемістіть весь вміст зі старого сайту в нову.
+ **Примітка**: наприклад, щоб змінити назву сайту https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, створіть новий сайт, а потім перемістіть весь вміст зі старого сайту на новий.
   
-Інформація про переміщення елементів у бібліотеках документів див [переміщування і копіювання елементів із бібліотеки документів SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Відомості про переміщення елементів у бібліотеках документів наведено в [документі перемістити або скопіювати елементи з бібліотеки документів SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   

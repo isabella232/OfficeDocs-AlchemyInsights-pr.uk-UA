@@ -1,5 +1,5 @@
 ---
-title: Відстеження версій у SharePoint і OneDrive
+title: Керування версіями в SharePoint і OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,33 +12,33 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 9c1ffe8c384a76d3df425623285fa4f9ebf757f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 606dcbb1523e54d6edeeb59573d1e98dda0ac88e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503980"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744374"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>Відстеження версій у SharePoint і OneDrive 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Керування версіями в SharePoint і OneDrive 
 
 
-Коли у вашому списку або бібліотеці SharePoint увімкнуто керування версіями, можна зберігати, відстежувати та відновлювати елементи у списку та файли в бібліотеці, кожного разу, коли вони змінюються. Керування версіями, у поєднанні з інших параметрів, таких як checkout, дає вам купу контролю вмісту, який публікується на ваш сайт і може забезпечити реальну цінність, якщо у вас коли-небудь необхідно поглянути на або відновлення старої версії елемента або файлу.
+Коли керування версіями ввімкнуто у списку або бібліотеці SharePoint, можна зберігати, відстежувати та відновлювати елементи у списку та файлах у бібліотеці щоразу, коли вони змінюються. Керування версіями, у поєднанні з іншими настройками, наприклад, Checkout, дає вам багато контролю над вмістом, який розміщено на вашому сайті, і може надати дійсне значення, якщо ви коли-небудь маєте потребу подивитися або відновити стару версію елемента або файлу.
 
-Докладніше про керування версіями, будь ласка, завітайте на нижче статей.
+Для отримання додаткової інформації про керування версіями, будь ласка, відвідайте наведені нижче статті.
 
-- [Як працює керування версіями, у списку або бібліотеці](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [Як працює керування версіями у списку або бібліотеці SharePoint](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-- [Увімкнення та настроювання керування версіями для списку або бібліотеки](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Увімкнення та настроювання керування версіями для списку або бібліотеки](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
-- [Як переглянути журнал версій](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
+- [Як переглянути історію версій](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-- [Відновити попередню версію файлу в OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Відновлення попередньої версії файлу в службі OneDrive](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
 
 - [Перегляд попередніх версій файлів Office](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-- [Керування версіями меж](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [Обмеження версій](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Якщо ви Office 365 замовника, увімкнуто керування версіями тепер типово коли ви створюєте новий OneDrive бізнес бібліотек, і він буде автоматично зберігати останніх 500 версії документа. Це допоможе вам запобігти втратити важливі документи або дані. За наявності існуючих бібліотек на OneDrive для бізнес-сайт або на ваш сайт групи, які не мають керування версіями ввімкнуто, можна ввімкнути керування версіями для них в будь-який час.
+>Якщо ви Office 365 клієнта, керування версіями тепер увімкнуто за промовчанням під час створення нових OneDrive для бізнесу бібліотек і автоматично зберегти останні 500 версії документа. Це допоможе запобігти втраті важливих документів або даних. Якщо у вас є бібліотеки OneDrive для бізнесу або на сайті групи, на якому не ввімкнуто керування версіями, можна будь-коли ввімкнути керування версіями.
 
 
