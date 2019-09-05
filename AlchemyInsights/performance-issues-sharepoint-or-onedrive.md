@@ -1,6 +1,6 @@
 ---
-title: Продуктивність питань SharePoint або OneDrive
-ms.author: kirks
+title: Проблеми продуктивності-SharePoint або OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -12,20 +12,20 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 2f32319f5ffc2af8c7f260b8405d164d1195a6e5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 706d4b830710b2ecaa5877777003852d3d4bc95c
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666753"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752737"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint або OneDrive повільно, недоступних або недоступні для кількох користувачів
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint або OneDrive, повільно, недоступний або недоступний для кількох користувачів
 
-SharePoint або OneDrive може бути повільним, недоступних або недоступні з кількох причин:
+SharePoint або OneDrive можуть бути повільними, недоступними або недоступні з кількох причин:
   
-- Якщо ваш сайт SharePoint або OneDrive повільно або несвоєчасне для декількох користувачів, там може бути тимчасова служби питання де користувачів досвід тимчасовим затримкам або помилок навігації, коли доступ до сайтів SharePoint або OneDrive вміст. Перевірте [службу здоров'я dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) щоб побачити, якщо ваша організація є вплив.
+- Якщо ваш сайт SharePoint або OneDrive уповільнюється або затримується для кількох користувачів, може виникнути проблема тимчасового обслуговування, коли користувачі відчувають періодичні затримки або помилки навігації під час доступу до сайтів SharePoint або вмісту OneDrive. Перегляньте [приладну дошку стану служби](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , щоб дізнатися, чи впливає ваша організація.
   
-- Якщо у вас виникли повільної роботи з **класичних** сайту SharePoint або сторінки, використовувати [сторінки діагностичний інструмент](https://aka.ms/perftool) для аналізу сторінок.
+- Якщо спостерігається низька швидкодія за допомогою **класичного** сайту SharePoint або сторінки, використовуйте [засіб діагностики сторінок](https://aka.ms/perftool) для аналізу сторінок.
   
-- Якщо ви все ще відчувають загальну швидкодію, будь ласка, перегляньте ресурси в нижній частині цієї статті: [введення в виконання бюджету тюнінг для SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Якщо ви все ще відчуваєте загальне зниження продуктивності, будь ласка, перегляньте ресурси в нижній частині цієї статті: [вступ до налаштування продуктивності для SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

@@ -11,20 +11,20 @@ ms.custom:
 - "720"
 - "6000003"
 ms.assetid: 254b58a6-a85d-4c1c-b19f-de61b8f9a227
-ms.openlocfilehash: e3b1c8d7bfab350f2ee4bede0515c90be8c1fad3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 657e2f11a18d22e63765f3781c92aa4be42af40c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496996"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735050"
 ---
 # <a name="manage-groups-in-yammer"></a>Керування групами в Yammer
 
-- **Створення групи дозвіл.** Yammer не контролює, які можна створити групу. Однак, є можливість керувати створення групи для зв'язкових груп Office 365. Переглянути [керування, які можна створювати групи Office 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618)для отримання додаткової інформації.
+- **Дозвіл на створення групи.** Yammer не контролює, хто може створювати групу. Проте можна керувати створенням групи для підключених груп Office 365. Дивіться [керування, які можуть створювати групи Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups) для отримання додаткових відомостей.
 
-- **Динамічна Група членство.** Зверніться до [створення динамічний групування в Yammer](https://support.office.com/article/create-a-dynamic-group-in-yammer-6d2a6ec7-1d65-46bb-b253-1bf441ec80a5)інформацію про створення динамічних членство для Yammer пов'язаних групах Office 365.
+- **Членство в динамічних групах.** Будь ласка, зверніться до [створення динамічної групи в Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/create-a-dynamic-group) , щоб отримати відомості про створення динамічного членства Yammer для Office 365 груп.
 
-- **Відновлення видаленої груп.** Відновлення Office 365 зв'язкових груп Yammer можлива за допомогою [відновлення видалених Група Office 365](https://support.office.com/article/Restore-a-deleted-Office-365-Group-b7c66b59-657a-4e1a-8aa0-8163b1f4eb54) не підключений групи не відновлюється після видалення.
+- **Відновлення видалених груп.** Відновлення, пов'язані з Office 365, підключених групи Yammer можна через [відновлення видалених Office 365 групи](https://docs.microsoft.com/office365/admin/create-groups/restore-deleted-group) , не підключені групи не можна відновити після видалення.
 
-Щоб отримати додаткові відомості про керування групою див. [керування групою в Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Відомості про зв'язкових груп Office 365 розділі [Yammer та Office 365 групи](https://support.office.com/article/Yammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869)
+Для отримання додаткових відомостей про керування групою зверніться до [керування групою в Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). Для отримання відомостей про підключені групи Office 365 перегляньте [групи Yammer та office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups).
   

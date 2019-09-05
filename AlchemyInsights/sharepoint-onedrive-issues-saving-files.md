@@ -1,6 +1,6 @@
 ---
-title: Завантажити папки або файли в бібліотеці документів
-ms.author: kirks
+title: Завантаження папки або файлів до бібліотеки документів
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,27 +10,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
-ms.openlocfilehash: 7aa01f5190dc93382aba5c5490b9943da92de284
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e8f4bbcfc0b820af5ba54dd643c0e4451964f414
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503285"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750901"
 ---
-# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Не вдалося зберегти офісних документів до бібліотек документів SharePoint або OneDrive
+# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-libraries"></a>Не вдалося зберегти документи Office у бібліотеках документів SharePoint або OneDrive
 
-Якщо у вас є проблеми збереження офісних документів до бібліотек документів SharePoint або OneDrive, ось деякі відомості, які можуть допомогти.
+Якщо виникають проблеми з збереженням документів Office у бібліотеках документів SharePoint або OneDrive, Ось деяка інформація, яка може допомогти.
 
-[Збережіть файл (копія)](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
+[Збереження файлу (копії)](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)
 
-[Що таке автозбереження?](https://support.office.com/article/what-is-autosave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+[Що таке автозбереження](https://support.office.com/article/what-is-autosave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 
-[Перевірте файл обмеження для забезпечення файлу підтримується.](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+[Перевірте обмеження файлів, щоб переконатися, що файл підтримується.](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-[Видалення кеш документів office](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
+[Видалення кешу документів Office](https://support.office.com/article/Delete-your-Office-Document-Cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d)
 
-[Запустити процедуру відновлення Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
+[Запуск відновлення в офісі](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)
 
-Додаткову інформацію або інформацію перевірте статті [виправити проблеми, відкриття або збереження документів у бібліотеках SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
+Щоб отримати додаткові відомості або деталі, будь ласка, перевірте статтю [Виправлення неполадок відкриття або збереження документів у бібліотеках SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536)
 
 

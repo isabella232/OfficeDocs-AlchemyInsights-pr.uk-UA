@@ -1,5 +1,5 @@
 ---
-title: Чутливість підписи не з'являється
+title: Не відображаються позначки чутливості
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504556"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744842"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Чутливість підписи не з'являється
+# <a name="sensitivity-labels-not-appearing"></a>Не відображаються позначки чутливості
 
-Чутливість етикетки дозволяє класифікувати і захистити ваш чутливого вмісту. Щоб дізнатися більше про цю функцію, переглянути [Огляд чутливість етикетки](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+За допомогою міток чутливості можна класифікувати та захищати вміст делікатного характеру. Щоб дізнатися більше про цю функцію, перегляньте [Огляд міток чутливості](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Якщо ви настроїли чутливість етикетки, але вони не відображаються в застосунках Office, перевірте:
+Якщо ви налаштували Мітки чутливості, але вони не відображаються в застосунках Office, перевірте наступне:
 
-- Підтвердьте, що чутливість етикетці була [опублікована](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) користувачам і групам, які ви хочете.
+- Переконайтеся, що підпис чутливості [Опубліковано](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) користувачам і групам, які ви хочете.
 
-- Підтвердьте, що користувач використовує застосунок, що підтримує чутливість етикетки - побачити [чутливість підписи в документі](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Переконайтеся, що користувач використовує програму, яка [підтримує Мітки чутливості-див.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable)
 
-- Якщо ви [мігрує захист інформації Azure етикетки](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), бути в курсі на міркування перераховані [тут](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Якщо ви [переміщуєте підписи захисту інформації до Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), зверніть увагу на міркування, перелічені [тут](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Запобігання втрати даних (DLP) підтримують: на даний момент тільки утримання Мітки можуть бути використані як умову у DLP політики.  Підтримка чутливість підписів у політиці DLP ще не доступна, але ми над цим працюємо.
+- Підтримка запобігання втраті даних (ЗВД): наразі лише підписи збереження можуть використовуватися як умова в політиці ЗВД.  Підтримка Мітки чутливості у ЗВД політика ще недоступна, але ми працюємо над цим.
 
-Для отримання додаткової інформації про можливі проблеми побачити [відомі проблеми з чутливість етикетки](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Щоб отримати додаткові відомості про можливі проблеми, перегляньте [відомі проблеми з мітками чутливості](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
