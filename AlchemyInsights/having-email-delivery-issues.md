@@ -8,23 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7aefc3606bd81d5ce8b9cf9443e3c5deaade11ac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523424"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735798"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="d2166-102">Проблеми з доставкою електронної пошти?</span><span class="sxs-lookup"><span data-stu-id="d2166-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="39ada-102">Проблеми з доставкою електронної пошти?</span><span class="sxs-lookup"><span data-stu-id="39ada-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="d2166-103">Ми виявили, що ваші користувачі не можуть отримувати електронні листи, надіслані на такі домени:</span><span class="sxs-lookup"><span data-stu-id="d2166-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="39ada-103">Ми виявили, що ваші користувачі не можуть отримувати електронні листи, надіслані на такі домени:</span><span class="sxs-lookup"><span data-stu-id="39ada-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="d2166-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="d2166-104">{HealthCheckString}</span></span>
+<span data-ttu-id="39ada-104">{HealthCheckString}</span><span class="sxs-lookup"><span data-stu-id="39ada-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="d2166-105">Записи NS або MX у параметрах домену (DNS) не налаштовано належним чином для доставки електронної пошти до вашої служби Office 365.</span><span class="sxs-lookup"><span data-stu-id="d2166-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="d2166-106">Докладні вказівки наведено в статті про [оновлення записів DNS в Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).</span><span class="sxs-lookup"><span data-stu-id="d2166-106">You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="39ada-105">Записи NS або MX у параметрах домену (DNS) не налаштовано належним чином для доставки електронної пошти до вашої служби Office 365.</span><span class="sxs-lookup"><span data-stu-id="39ada-105">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service.</span></span> <span data-ttu-id="39ada-106">Докладні відомості про створення записів DNS для служби Office 365 на сайті будь-якого постачальника послуг розміщення DNS наведено в [цій статті](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="39ada-106">You can refer to [Create DNS records at any DNS hosting provider for Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) for detailed instructions.</span></span> 
   
-<span data-ttu-id="d2166-107">Щоб вирішити цю проблему, перейдіть на сторінку [Домени](https://admin.microsoft.com/adminportal/home#/Domains) в Центрі адміністрування Office 365, і ми вам допоможемо.</span><span class="sxs-lookup"><span data-stu-id="d2166-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
-  
-<span data-ttu-id="d2166-108">Дізнайтеся про інші типові способи вирішення на сторінці [запитань і відповідей про домени](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).</span><span class="sxs-lookup"><span data-stu-id="d2166-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
-  
+<span data-ttu-id="39ada-107">Щоб вирішити цю проблему, перейдіть на сторінку [Домени](https://admin.microsoft.com/adminportal/home#/Domains) в Центрі адміністрування Office 365, і ми вам допоможемо.</span><span class="sxs-lookup"><span data-stu-id="39ada-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
+
 
