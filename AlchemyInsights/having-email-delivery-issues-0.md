@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523388"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739802"
 ---
 # <a name="having-email-delivery-issues"></a>Проблеми з доставкою електронної пошти?
 
@@ -26,9 +26,8 @@ ms.locfileid: "36523388"
   
 {HealthCheckString}
   
-Записи NS або MX у параметрах домену (DNS) не налаштовано належним чином для доставки електронної пошти до вашої служби Office 365. Докладні вказівки наведено в статті про [оновлення записів DNS в Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Записи NS або MX у параметрах домену (DNS) не налаштовано належним чином для доставки електронної пошти до вашої служби Office 365. Докладні відомості про створення записів DNS для служби Office 365 на сайті будь-якого постачальника послуг розміщення DNS наведено в [цій статті](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Щоб вирішити цю проблему, перейдіть на сторінку [Домени](https://admin.microsoft.com/adminportal/home#/Domains) в Центрі адміністрування Office 365, і ми вам допоможемо.
   
-Дізнайтеся про інші типові способи вирішення на сторінці [запитань і відповідей про домени](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
   
