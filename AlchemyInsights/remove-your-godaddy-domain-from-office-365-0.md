@@ -1,5 +1,5 @@
 ---
-title: Видалення вашого домену на GoDaddy з Office 365
+title: Видаліть GoDaddy домену з Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -11,14 +11,14 @@ ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 95406b0f4858372a18638f9280feccea41ee2710
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c72f7232818765b6eb38cf3e6296822e01317a02
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552768"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822039"
 ---
-# <a name="remove-your-godaddy-domain-from-office-365"></a>Видалення вашого домену на GoDaddy з Office 365
+# <a name="remove-your-godaddy-domain-from-office-365"></a>Видаліть GoDaddy домену з Office 365
 
-Ми не можна видалити GoDaddy домену зі служби Office 365 для вас. [GoDaddy обслуговування клієнтів](https://www.godaddy.com/contact-us.aspx.aspx) покликати на допомогу.
+Ми не можемо видалити ваш домен GoDaddy з Office 365 для вас. Зателефонуйте [GoDaddy обслуговування клієнтів](https://aka.ms/contact-godaddy) за допомогою.
   

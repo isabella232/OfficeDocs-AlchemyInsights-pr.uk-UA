@@ -1,5 +1,5 @@
 ---
-title: Пересунути повідомлення електронної пошти до поштової скриньки архіву
+title: Переміщення повідомлень електронної пошти до поштової скриньки архіву
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,26 +12,26 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: ce52df446fc4c23c06476e8836ade6a6810d158f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5592bc7d4566e3498c33bbf9488db7f46ec58842
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549026"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822183"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Переміщення електронної пошти до поштової скриньки архіву
 
-1. Переконайтеся, що **архівувати поштової скриньки** ввімкнено. Якщо ні, скориставшись вказівками в [цій статті](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) увімкнення поштової скриньки архіву.
+1. Переконайтеся, що **архівну поштову скриньку** ввімкнено. Якщо ні, виконайте дії, описані в [цій статті](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) , щоб увімкнути архівну поштову скриньку.
 
-2. Щоб заархівувати повідомлення автоматично до поштової скриньки архіву, тег збереження з **перемістити до архіву** дії слід установити **застосовуються автоматично до всієї поштової скриньки (за замовчуванням) тег**. Виконайте дії тут, щоб створити тег: [Тег архіву за промовчанням](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Foffice365%2Fsecuritycompliance%2Fset-up-an-archive-and-deletion-policy-for-mailboxes%23create-a-custom-archive-default-policy-tag&data=04%7C01%7Cstephow%40microsoft.com%7C89934e16dbd84ebdef6708d6b319b348%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636893320296576506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=UibWi%2BtrO3ITZ6iF%2FtKQj5JyxzEb9Mu9frBJPT6FNFI%3D&reserved=0).
+2. Щоб автоматично архівувати повідомлення до поштової скриньки архіву, тег збереження з дією « **перемістити в архів** » має бути встановлено для **автоматичного застосування до всієї поштової скриньки (за промовчанням)**. Використовуйте кроки тут, щоб створити тег: [Архів за замовчуванням](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Далі, додати **Архів** тегів політики збереження. У центру адміністрування Exchange виберіть **Політики збереження** > доповнити **перемістити до архіву тег** політики > **зберегти**.
+3. Далі додайте тег **архіву** до політики збереження. У центрі адміністрування Exchange, виберіть політики **збереження** > додати **перемістити до архіву тег** політики > **зберегти**.
 
-4. Тепер [призначити політику збереження](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) конкретного користувача поштової скриньки. Ту ж політику буде застосовано до **первинної** і поштової скриньки **архіву** .
+4. Тепер [призначте політику збереження](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) для конкретної поштової скриньки користувача. Цю саму політику буде застосовано до **основної** та **архівної** поштової скриньки.
 
-Можливо, буде необхідно для примусового Керовані папки помічник (МЗС) для запуску і застосувати нові параметри для поштової скриньки користувача. Запустіть таку команду під час [підключення до EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) , щоб запустити помічник із керованих папок для певної поштової скриньки:
+Можливо, необхідно примусити помічника з керованих папок (МЗС) для запуску та застосування нових параметрів до поштової скриньки користувача. Виконайте таку команду під час [підключення до EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) , щоб запустити помічник із керованих папок для певної поштової скриньки:
   
-Start-ManagedFolderAssistant-ідентичності<name of the mailbox>
+Start-Управлінсья помічниці-тотожність<name of the mailbox>
 
-Щоб отримати додаткові відомості про налаштування політику архівування переглянути [набір до архіву і видалення політики поштових скриньок](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Для отримання додаткових відомостей про настроювання політики архівування зверніться до [налаштування політики архівування та видалення для поштових скриньок](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

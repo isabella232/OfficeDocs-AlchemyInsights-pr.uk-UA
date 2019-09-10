@@ -1,9 +1,8 @@
 ---
-title: Не завантажується скриньці Outlook.com
+title: Outlook.com папки "Вхідні" не завантажуються
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +11,26 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e53353949a37518b21b85a4786e443577cb88bda
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536456"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822363"
 ---
-# <a name="empty-inbox"></a>Порожні папки "Вхідні"
+# <a name="empty-inbox"></a>Пуста папка "Вхідні"
 
-**Пуста папка "Вхідні" Outlook.com**
+**Моя Outlook.com скринька порожня**
 
-- Деякі додаткові компоненти браузера Firefox може перешкоджати поштовій скриньці навантаження. Підтримки Фаєрфокс дізнатися як [Вимкнути](https://support.mozilla.org/kb/disable-or-remove-add-ons)чи видалити доповнення.
+- Деякі додатки в браузері Firefox можуть перешкоджати завантаженню вашої папки "Вхідні". Відвідайте сторінку підтримки Firefox, щоб дізнатися, як [вимкнути або видалити додатки](https://aka.ms/mozilla-add-ons).
 
-**Я хочу, щоб очистити мою поштову скриньку**
+**Я хочу очистити папку "Вхідні"**
 
-Якщо ви хочете, щоб очистити папку "Вхідні" і видалити всю електронну пошту:
+Якщо ви хочете очистити свою поштову скриньку і видалити всю свою електронну пошту:
 
-1. Вибрати колі <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> поруч із [папки "Вхідні"](https://outlook.live.com/mail/inbox) у верхній частині списку повідомлень виберіть всі ваші повідомлення.
-1. У верхній частині сторінки, виберіть пункт **Очистити папку** (або **Порожній зосереджено** / **порожні одного** якщо зосереджено поштову скриньку ввімкнуто).
-1. Виберіть **Видалити всі**.
-1. Щоб очистити всі видалені повідомлення, відкрийте вашу [папку "Видалені"](https://outlook.live.com/mail/deleteditems) і виберіть **порожню папку** > **Видалити всі**, потім виберіть **відновити елементи, видалені з папки** у верхній частині сторінки і виберіть **порожню папку** знову .
+1. Виберіть коло <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> біля [папки "Вхідні"](https://outlook.live.com/mail/inbox) у верхній частині списку повідомлень, щоб вибрати всі повідомлення.
+1. Угорі сторінки виберіть пункт **пуста папка** **(або** / порожній,**порожній** , якщо ввімкнено "Вхідні").
+1. Виберіть **Видалити все**.
+1. Щоб видалити всі видалені повідомлення, відкрийте [папку "Видалені об'єкти"](https://outlook.live.com/mail/deleteditems) та виберіть пункт **"Очистити папку"** > **Видалити все**, а потім виберіть **відновити елементи, видалені з цієї папки** вгорі сторінки, і знову виберіть **порожню папку** .
 
-Докладніше перегляньте [Видалити електронної пошти в Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)
+Для отримання додаткових відомостей див. [видалення електронної пошти в Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)

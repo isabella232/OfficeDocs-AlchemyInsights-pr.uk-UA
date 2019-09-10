@@ -1,5 +1,5 @@
 ---
-title: Повідомлення Outlook.com Facebook
+title: Outlook.com сповіщення Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: 80ddadfedb5a8a0dff2a7b9cf371e03fae58bdff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e389deb7347e13c0e4ba658da4d355ffe11049c
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536996"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822141"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>Повідомлення Facebook за допомогою Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>Facebook повідомлення за допомогою Outlook.com
 
-Якщо ви не бажаєте отримувати повідомлення від Facebook, можна змінити [налаштування Facebook](https://www.facebook.com/settings?tab=notifications) або створити правило для вхідних повідомлень.
+Якщо ви не хочете отримувати сповіщення від Facebook, ви можете змінити [налаштування Facebook](https://aka.ms/facebook-notifications-settings) або налаштувати правило для папки "Вхідні".
 
-1. Зайдіть в [настройки правил](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. Виберіть пункт **Додати нове правило**.
-1. Ім'я цього правила "Facebook".
-1. Додати умову "З" і введіть "notification@facebookmail.com"
-1. Додайте дію "Видалити". Вибираючи Delete означає повідомлення залишаються у вашому видалені і можуть бути відновлені. Якщо вибрано параметр "Позначити як небажана", повідомлення буде автоматично видалено і не можуть бути відновлені.
+1. Перейдіть до [налаштування правил](https://outlook.live.com/mail/options/mail/rules/inboxRules).
+1. Виберіть **Додати нове правило**.
+1. Назвіть своє правило "Фейсбук".
+1. Додайте умову "від" і введіть "notification@facebookmail.com"
+1. Додати дію "видалити". Вибір видалення означає, що повідомлення залишаються в видалених елементах і можуть бути відновлені. Якщо вибрати параметр "Позначити як спам", повідомлення буде автоматично видалено та не можна буде відновити.
 1. Виберіть **зберегти**.
