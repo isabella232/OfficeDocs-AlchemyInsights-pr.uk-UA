@@ -1,5 +1,5 @@
 ---
-title: Врегулювання 1374 два поштових скриньок howto
+title: 1374 вирішення двох поштових скриньок HOWTO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,16 @@ ms.custom:
 - "1374"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 10fae9040b1d5d75a318721f0300ba722361e8c7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1307e13bf76e0b2afc9038333533d708f5d12f7f
+ms.sourcegitcommit: 16f08d051afca3c6d0de32826324f91cf63ab5ba
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35369866"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36992090"
 ---
-# <a name="a-user-has-two-mailboxes"></a>Користувач має два поштових скриньок
+# <a name="a-user-has-two-mailboxes"></a>Користувач має два поштові скриньки
 
-Гібридні середовищах, які використовують Azure Active Directory підключення (сад підключення) або DirSync випадково може призвести до користувача мати два поштових скриньок: один в локальній організації та одне — у хмарі.
+Гібридні середовища, які використовують Azure Active Directory підключення (сад підключення), або DirSync може випадково призвести до того, що користувач має два поштові скриньки: один локальні та один у хмарі. Повторювані поштової скриньки може бути створено в будь-якому місці.
 
-Щоб вирішити цю проблему, побачити [Остаточно ясно попередній поштової скриньки Info](https://blogs.technet.microsoft.com/exchange/2018/01/17/permanently-clear-previous-mailbox-info/).
+Щоб вирішити цю проблему, Дізнайтеся, [як відновити, коли поштова скринька існує в обох Exchange Online та локальні](https://docs.microsoft.com/en-us/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Якщо ви хочете дізнатися більше про те, як уникнути цього в майбутньому, будь ласка, перегляньте [мій користувач має поштову скриньку як локально, так і в Exchange Online. Допоможіть!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+
