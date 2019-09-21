@@ -1,5 +1,5 @@
 ---
-title: Класичний SharePoint звіти журналу аудиту
+title: Класичні звіти журналу аудиту SharePoint
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504412"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068044"
 ---
 # <a name="sharepoint-and-onedrive-audit-logs"></a>Журнали аудиту SharePoint і OneDrive
 
-**SharePoint і OneDrive сучасних уніфікований аудиту журнали з дотримання**
+**Служби SharePoint і OneDrive сучасних Unified аудиту журнали відповідності**
 
-- [Включити/вимкнути уніфікований журналювання аудиту](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Увімкнення/вимкнення єдиного аудиту журналювання](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Не додаткового настроювання не потрібно в межах SharePoint або OneDrive.
+У SharePoint або OneDrive не потрібна додаткова конфігурація.
 
-- Використання пошуку журналювання аудиту, щоб перевірити діяльність файлів, папок, користувач (ів), дозволи:
+- Використання аудиту журналювання пошук для перевірки діяльності файлів (ів), папок (ів), користувачів (ів), дозволи:
 
-    - [Файл-сторінці діяльності](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Папка діяльності](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Спільний доступ і доступ до діяльності запит](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Синхронізації діяльності](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Сайт адміністрування заходах](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Щоб отримати додаткові відомості про те, як отримати ці події див. [Пошук журналу аудиту](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Файл і сторінка діяльність](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Папки діяльності](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Дії з надсилання й отримання доступу](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Дії синхронізації](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Діяльність адміністрування сайту](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- Щоб отримати додаткові відомості про отримання цих подій, перегляньте статтю [Пошук журналу аудиту](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**Класичний аудиту SharePoint журнали**
+**Журнали для класичного аудиту SharePoint**
 
-- [Переглянути і включити класичних журналів аудиту SharePoint](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+Ми перенесено спо-Legacy аудиту в уніфікований аудит журналу (АЛЬ). Це, по суті, означає, що всі звіти по аудиті аудиту тепер будуть проходити через АЛЬ, а застарілі аудиторські сигнали були перенесені в АЛЬ.
 
-Аудиту необхідності бути включена в кожній колекції сайтів. 
+Ключові зміни:
 
-**Примітка**: ми рекомендуємо використовувати сучасні уніфікований аудиту, журнали для краще і передові аудиту параметрів, ніж ці журнали аудиту класичний.
+- Обрізка як можливість недоступна.
+- Розділ, на якому ви вибираєте конкретні події для аудиту, недоступний. Перегляньте [цей документ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) , щоб отримати повний список відстежуваної події за промовчанням.
+- Параметр "розташування" під **настроюванними звітами** недоступний. 
+- "Відкриття або завантаження документів" події недоступні. 
 
