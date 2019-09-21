@@ -1,5 +1,5 @@
 ---
-title: Класичний SharePoint звіти журналу аудиту
+title: Класичні звіти журналу аудиту SharePoint
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504412"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068044"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="f3f4c-102">Журнали аудиту SharePoint і OneDrive</span><span class="sxs-lookup"><span data-stu-id="f3f4c-102">SharePoint and OneDrive audit logs</span></span>
+# <a name="sharepoint-and-onedrive-audit-logs"></a><span data-ttu-id="5b92d-102">Журнали аудиту SharePoint і OneDrive</span><span class="sxs-lookup"><span data-stu-id="5b92d-102">SharePoint and OneDrive audit logs</span></span>
 
-<span data-ttu-id="f3f4c-103">**SharePoint і OneDrive сучасних уніфікований аудиту журнали з дотримання**</span><span class="sxs-lookup"><span data-stu-id="f3f4c-103">**SharePoint and OneDrive Modern Unified Audit logs from compliance**</span></span>
+<span data-ttu-id="5b92d-103">**Служби SharePoint і OneDrive сучасних Unified аудиту журнали відповідності**</span><span class="sxs-lookup"><span data-stu-id="5b92d-103">**SharePoint and OneDrive Modern Unified Audit logs from compliance**</span></span>
 
-- [<span data-ttu-id="f3f4c-104">Включити/вимкнути уніфікований журналювання аудиту</span><span class="sxs-lookup"><span data-stu-id="f3f4c-104">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [<span data-ttu-id="5b92d-104">Увімкнення/вимкнення єдиного аудиту журналювання</span><span class="sxs-lookup"><span data-stu-id="5b92d-104">Turn on/off Unified Audit Logging</span></span>](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-<span data-ttu-id="f3f4c-105">Не додаткового настроювання не потрібно в межах SharePoint або OneDrive.</span><span class="sxs-lookup"><span data-stu-id="f3f4c-105">No additional configuration is required within SharePoint or OneDrive.</span></span>
+<span data-ttu-id="5b92d-105">У SharePoint або OneDrive не потрібна додаткова конфігурація.</span><span class="sxs-lookup"><span data-stu-id="5b92d-105">No additional configuration is required within SharePoint or OneDrive.</span></span>
 
-- <span data-ttu-id="f3f4c-106">Використання пошуку журналювання аудиту, щоб перевірити діяльність файлів, папок, користувач (ів), дозволи:</span><span class="sxs-lookup"><span data-stu-id="f3f4c-106">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
+- <span data-ttu-id="5b92d-106">Використання аудиту журналювання пошук для перевірки діяльності файлів (ів), папок (ів), користувачів (ів), дозволи:</span><span class="sxs-lookup"><span data-stu-id="5b92d-106">Use audit logging search to check activity of the file(s), folder(s), user(s), permissions:</span></span>
 
-    - [<span data-ttu-id="f3f4c-107">Файл-сторінці діяльності</span><span class="sxs-lookup"><span data-stu-id="f3f4c-107">File and page activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [<span data-ttu-id="f3f4c-108">Папка діяльності</span><span class="sxs-lookup"><span data-stu-id="f3f4c-108">Folder activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [<span data-ttu-id="f3f4c-109">Спільний доступ і доступ до діяльності запит</span><span class="sxs-lookup"><span data-stu-id="f3f4c-109">Sharing and access request activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [<span data-ttu-id="f3f4c-110">Синхронізації діяльності</span><span class="sxs-lookup"><span data-stu-id="f3f4c-110">Synchronization activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [<span data-ttu-id="f3f4c-111">Сайт адміністрування заходах</span><span class="sxs-lookup"><span data-stu-id="f3f4c-111">Site administration activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- <span data-ttu-id="f3f4c-112">Щоб отримати додаткові відомості про те, як отримати ці події див. [Пошук журналу аудиту](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="f3f4c-112">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
+    - [<span data-ttu-id="5b92d-107">Файл і сторінка діяльність</span><span class="sxs-lookup"><span data-stu-id="5b92d-107">File and page activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [<span data-ttu-id="5b92d-108">Папки діяльності</span><span class="sxs-lookup"><span data-stu-id="5b92d-108">Folder activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [<span data-ttu-id="5b92d-109">Дії з надсилання й отримання доступу</span><span class="sxs-lookup"><span data-stu-id="5b92d-109">Sharing and access request activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [<span data-ttu-id="5b92d-110">Дії синхронізації</span><span class="sxs-lookup"><span data-stu-id="5b92d-110">Synchronization activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [<span data-ttu-id="5b92d-111">Діяльність адміністрування сайту</span><span class="sxs-lookup"><span data-stu-id="5b92d-111">Site administration activities</span></span>](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- <span data-ttu-id="5b92d-112">Щоб отримати додаткові відомості про отримання цих подій, перегляньте статтю [Пошук журналу аудиту](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span><span class="sxs-lookup"><span data-stu-id="5b92d-112">For more information about how to retrieve these events, see [Search the audit log](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).</span></span>
 
-<span data-ttu-id="f3f4c-113">**Класичний аудиту SharePoint журнали**</span><span class="sxs-lookup"><span data-stu-id="f3f4c-113">**SharePoint classic Audit logs**</span></span>
+<span data-ttu-id="5b92d-113">**Журнали для класичного аудиту SharePoint**</span><span class="sxs-lookup"><span data-stu-id="5b92d-113">**SharePoint classic Audit logs**</span></span>
 
-- [<span data-ttu-id="f3f4c-114">Переглянути і включити класичних журналів аудиту SharePoint</span><span class="sxs-lookup"><span data-stu-id="f3f4c-114">View and enable classic SharePoint Audit logs</span></span>](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+<span data-ttu-id="5b92d-114">Ми перенесено спо-Legacy аудиту в уніфікований аудит журналу (АЛЬ).</span><span class="sxs-lookup"><span data-stu-id="5b92d-114">We migrated SPO legacy auditing to Unified Audit Log (UAL).</span></span> <span data-ttu-id="5b92d-115">Це, по суті, означає, що всі звіти по аудиті аудиту тепер будуть проходити через АЛЬ, а застарілі аудиторські сигнали були перенесені в АЛЬ.</span><span class="sxs-lookup"><span data-stu-id="5b92d-115">This essentially means that all SPO legacy audit reports will now be powered through UAL, and the legacy audit signals have been migrated to UAL.</span></span>
 
-<span data-ttu-id="f3f4c-115">Аудиту необхідності бути включена в кожній колекції сайтів.</span><span class="sxs-lookup"><span data-stu-id="f3f4c-115">Auditing need to be enabled per each site collection.</span></span> 
+<span data-ttu-id="5b92d-116">Ключові зміни:</span><span class="sxs-lookup"><span data-stu-id="5b92d-116">Key changes:</span></span>
 
-<span data-ttu-id="f3f4c-116">**Примітка**: ми рекомендуємо використовувати сучасні уніфікований аудиту, журнали для краще і передові аудиту параметрів, ніж ці журнали аудиту класичний.</span><span class="sxs-lookup"><span data-stu-id="f3f4c-116">**Note**: We recommend using Modern Unified Audit logs for better and advanced audit options than these classic audit logs.</span></span>
+- <span data-ttu-id="5b92d-117">Обрізка як можливість недоступна.</span><span class="sxs-lookup"><span data-stu-id="5b92d-117">Trimming as a capability is NOT available.</span></span>
+- <span data-ttu-id="5b92d-118">Розділ, на якому ви вибираєте конкретні події для аудиту, недоступний.</span><span class="sxs-lookup"><span data-stu-id="5b92d-118">The section where you choose specific events to audit is NOT available.</span></span> <span data-ttu-id="5b92d-119">Перегляньте [цей документ](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) , щоб отримати повний список відстежуваної події за промовчанням.</span><span class="sxs-lookup"><span data-stu-id="5b92d-119">Please refer to [this document](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) for a complete list of audited events available by default.</span></span>
+- <span data-ttu-id="5b92d-120">Параметр "розташування" під **настроюванними звітами** недоступний.</span><span class="sxs-lookup"><span data-stu-id="5b92d-120">The "Location" option under **Customized reports** is NOT available.</span></span> 
+- <span data-ttu-id="5b92d-121">"Відкриття або завантаження документів" події недоступні.</span><span class="sxs-lookup"><span data-stu-id="5b92d-121">“Opening or downloading documents” events is NOT available.</span></span> 
 
