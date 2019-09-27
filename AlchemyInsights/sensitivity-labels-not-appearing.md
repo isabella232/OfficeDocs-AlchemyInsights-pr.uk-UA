@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744842"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207246"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Не відображаються позначки чутливості
 
-За допомогою міток чутливості можна класифікувати та захищати вміст делікатного характеру. Щоб дізнатися більше про цю функцію, перегляньте [Огляд міток чутливості](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+За допомогою міток чутливості можна класифікувати та захищати вміст делікатного характеру. Вони можуть бути створені в Microsoft 365 центр відповідності, Microsoft 365 Центр безпеки, або офіс 365 безпеки & центр відповідності в класифікації > чутливість етикетки. Щоб дізнатися більше про цю функцію, перегляньте [Огляд міток чутливості](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Якщо ви налаштували Мітки чутливості, але вони не відображаються в застосунках Office, перевірте наступне:
 
@@ -32,5 +32,10 @@ ms.locfileid: "36744842"
 - Якщо ви [переміщуєте підписи захисту інформації до Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), зверніть увагу на міркування, перелічені [тут](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Підтримка запобігання втраті даних (ЗВД): наразі лише підписи збереження можуть використовуватися як умова в політиці ЗВД.  Підтримка Мітки чутливості у ЗВД політика ще недоступна, але ми працюємо над цим.
+
+- Коли шифрування ввімкнено для Мітки чутливості, ви можете вибрати один із таких:
+    - Призначити дозволи зараз
+    - Дозволити користувачам призначати дозволи
+
 
 Щоб отримати додаткові відомості про можливі проблеми, перегляньте [відомі проблеми з мітками чутливості](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

@@ -2,7 +2,6 @@
 title: Інсталяція Office на сервері терміналів-ліцензовано
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 53071224a7c33532d864cd70b84bf0e3cc6a992f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
+ms.sourcegitcommit: 5e6a805fb0b41d714ca1cf90e23b8e2daa90f90e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735410"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37205430"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Інсталяція Office на сервері терміналів
 
@@ -26,7 +25,10 @@ ms.locfileid: "36735410"
 
 - Потрібно ввімкнути [активацію спільної комп'ютера](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-Якщо потрібно інсталювати Office 365 ProPlus на RDS з центру адміністрування Microsoft 365, ***який використовує параметри інсталяції за промовчанням***, виконайте такі дії:
+Якщо потрібно інсталювати Office 365 ProPlus на RDS з центру адміністрування Microsoft 365, ***який використовує параметри інсталяції за промовчанням***, виконайте такі дії.
+
+> [!TIP]
+> Ви також можете завантажити та запустити [помічник з підтримки Microsoft і відновлення](https://aka.ms/SaRA_OfficeSCA_M365Portal) , щоб інсталювати Office 365 proplus у режим активації на спільному комп'ютері.
   
 1. Перевірте, який план Office 365 у вас є. [Дізнайтеся, як](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
