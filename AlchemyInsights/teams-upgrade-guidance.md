@@ -1,8 +1,7 @@
 ---
-title: Оновлення керівництва команди
+title: Команди оновлення керівництва
 ms.author: heidip
 author: microsoftheidi
-ms.date: 1/9/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,14 +11,24 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: fcea046a2ccd03c88fcbfe57a3980b70bd720072
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79c956bd01844d4234500d93d6e5458cc3bb84ad
+ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533900"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37305142"
 ---
-# <a name="upgrade-to-teams"></a>Оновлення до команди
+# <a name="microsoft-teams-upgrade"></a>Оновлення для Microsoft teams
 
-Ви знайдете крок за кроком керівництво для переміщення з Skype для бізнесу до Microsoft команд [тут](https://docs.microsoft.com/microsoftteams/journey-skypeforbusiness-teams).
-  
+Якщо ви тільки починаєте роботу з командами, вже використовуючи teams разом зі Skype для бізнесу або готові до оновлення, ми хочемо забезпечити, щоб у вас було все необхідне для навігації успішним шляхом до команд. Для отримання додаткової інформації, будь ласка, відвідайте посилання нижче.
+
+[Початок роботи з оновленням Microsoft teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+
+[План оновлення](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+
+[Зрозумійте Microsoft teams і Skype для бізнесу співіснування](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+
+[Виконання оновлення з Skype для бізнесу онлайн до команди](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[Виконання оновлення з Skype, для бізнесу на локальних команд](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+ 
