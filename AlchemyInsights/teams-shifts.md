@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1686
-ms.openlocfilehash: fe1d3d099cdd94923d4010b11c12af878f5b0348
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.custom:
+- "1686"
+- "9000161"
+ms.openlocfilehash: 7c5e736d0ac66fb5a1398494b9ffe1164324e344
+ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34771327"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37328691"
 ---
-# <a name="using-teams-shifts"></a>За допомогою команд зміни
+# <a name="using-teams-shifts"></a>Використання команд зміни
 
-У командах, застосунок зрушення дає швидкий та ефективний час керування і комунікації для Пріфронтових команд. Це дозволяє керівникам і співробітникам використовувати свої мобільні пристрої керування розкладами і залишатися на зв'язку.
+Щоб дізнатися більше про зміни в групах, зокрема про те, як перейти від Microsoft співробітника, перегляньте [зміни в групах](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). 
 
-Більше розділ [зсуває для команд](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page). Ви отримаєте інформацію про те, як отримати зміни і як його налаштувати.
-
-Якщо ви вже ввімкнено зрушення, читати, [почати роботу в зміни](https://support.office.com/article/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6) навчитися створювати графіки.
+Майкрософт може бути [припинено](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired) 31 грудня 2019. 
 
