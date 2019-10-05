@@ -1,5 +1,5 @@
 ---
-title: 976-How-To-Enable-Litigation-Hold
+title: 976-як увімкнути-судове утримання
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540778"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398648"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>Місце поштовій скриньці юридичні утримуються
+# <a name="place-a-mailbox-on-legal-hold"></a>Місце поштової скриньки на юридичному утриманні
 
-- Поставити поштову скриньку на судове утримання або на місці проводити, Exchange Online план 2 ліцензії [Exchange Online план 2 ліцензії](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) не потрібно. Якщо поштової скриньки призначено план 1 ліцензії, ви можете призначити окремої Exchange Online архівування додаток ліцензії [Exchange Online архівування додаток ліцензії](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- Щоб розмістити поштову скриньку, на судове утримання або утримання на місці, потрібно Exchange Online план 2 ліцензії [Exchange Online план 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . Якщо для поштової скриньки призначається ліцензія Plan 1, можна призначити окрему ліцензію для Exchange Online архівації в [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
 
-- Щоб увімкнути судове утримання для одного користувача, [виконайте такі дії](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Коли ввімкнено судове утримання, зберігається весь вміст в поштовій скриньці.
+- Щоб увімкнути судове утримання для одного користувача, [виконайте такі дії](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Коли увімкнуто судове утримання, весь вміст поштової скриньки зберігається.
 
-- Розмістити утримання на всіх поштових скриньок у вашій організації, можна використовувати політику збереження до Office 365, [виконавши такі дії](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Зверніть увагу, що для всієї організації політиками, нові користувачі будуть автоматично присвоюється до політики.
+- Щоб зберегти вміст у всіх поштових скриньках організації, можна використовувати [політику збереження Office 365 для всієї організації](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Зверніть увагу, що для політики збереження для всієї організації нові користувачі будуть автоматично присвоєні політиці.
