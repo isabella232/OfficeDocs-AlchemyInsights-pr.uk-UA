@@ -17,10 +17,10 @@ ms.contentlocale: uk-UA
 ms.lasthandoff: 08/22/2019
 ms.locfileid: "36520652"
 ---
-# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="62ca7-102">Відомості про нову версію Outlook.com</span><span class="sxs-lookup"><span data-stu-id="62ca7-102">Learn about the new Outlook.com</span></span>
+# <a name="learn-about-the-new-outlookcom"></a><span data-ttu-id="df701-102">Відомості про нову версію Outlook.com</span><span class="sxs-lookup"><span data-stu-id="df701-102">Learn about the new Outlook.com</span></span>
 
-<span data-ttu-id="62ca7-103">[Дізнайтеся](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) про зміни в новій версії Outlook.com або знайдіть потрібні відомості за допомогою поля нижче.</span><span class="sxs-lookup"><span data-stu-id="62ca7-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
+<span data-ttu-id="df701-103">[Дізнайтеся](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) про зміни в новій версії Outlook.com або знайдіть потрібні відомості за допомогою поля нижче.</span><span class="sxs-lookup"><span data-stu-id="df701-103">[Learn more](https://go.microsoft.com/fwlink/?linkid=2039724&amp;clcid=0x409) about changes in the new Outlook.com or search in the box below.</span></span> 
   
-<span data-ttu-id="62ca7-104">Прокрутіть униз, щоб переглянути результати.</span><span class="sxs-lookup"><span data-stu-id="62ca7-104">Scroll down to see the results.</span></span>
+<span data-ttu-id="df701-104">Прокрутіть униз, щоб переглянути результати.</span><span class="sxs-lookup"><span data-stu-id="df701-104">Scroll down to see the results.</span></span>
   
 
