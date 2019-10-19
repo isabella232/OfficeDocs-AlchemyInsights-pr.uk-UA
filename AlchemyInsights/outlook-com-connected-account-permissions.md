@@ -1,5 +1,5 @@
 ---
-title: 8000093 дозволи облікового запису Outlook.com, пов'язані
+title: 8000093 Outlook.com дозволи на підключення до облікового запису
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,20 +12,20 @@ ms.custom:
 - "1431"
 - "8000093"
 ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546921"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Як виправити "Схоже, у нас немає дозволу"
 
-Якщо ви бачите повідомлення про помилку "це виглядає як у нас немає дозволу на отримання електронної пошти для..." будь ласка, виконайте такі дії.
+Якщо відображається повідомлення про помилку "Схоже, у нас немає дозволу на отримання електронної пошти для..." будь ласка, виконайте наступні дії:
 
-1. Відкрийте [Параметри підключених облікових записів](https://outlook.live.com/mail/options/mail/accounts) і видалити або видалити підключеного облікового запису, перелічені в описі помилки.
-2. Додати підключеного облікового запису.
-3. Перейдіть [до своєї поштової скриньки](https://outlook.live.com/mail/inbox).
+1. Відкрийте [підключені налаштування облікового запису](https://outlook.live.com/mail/options/mail/accounts) та видаліть або видаліть підключений обліковий запис, зазначений у повідомленні про помилку.
+2. Знову додайте підключений обліковий запис.
+3. Поверніться [до поштової скриньки](https://outlook.live.com/mail/inbox).
 
-Це може зайняти деякий час для всіх листів до повторної синхронізації з підключеного облікового запису.
+Це може зайняти деякий час для всіх електронних листів для повторної синхронізації з підключеного облікового запису.
 
-Дізнатися більше про [видалення](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) та [Додавання](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) підключених облікових записів.
+Докладніше про [видалення](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) та [Додавання](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) підключених облікових записів.

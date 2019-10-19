@@ -1,5 +1,5 @@
 ---
-title: Увімкнути Microsoft справ
+title: Увімкнути Microsoft To-Do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527564"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Як включити Microsoft справ
+# <a name="how-to-enable-microsoft-to-do"></a>Як увімкнути Microsoft To-Do
 
-Для того, щоб використовувати Microsoft справ, адміністратор потрібно ввімкнути app на кожному обліковому записі користувача. Зайдіть на [послуги &amp; надбудови сторінку](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) Office 365 адміністратора настройки сторінки, щоб увімкнути справ для кожного користувача. 
+Для того, щоб використовувати Microsoft To-Do, адміністратор повинен увімкнути додаток для кожного облікового запису користувача. Перейдіть до [сторінки надбудови &amp; служб](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) Office 365 сторінку настройок адміністратора, щоб увімкнути для кожного користувача. 
   
-Microsoft справ використовує функції в Exchange онлайн для синхронізації і магазин справ елементи від користувачів. Для того, щоб використовувати Microsoft справ, користувач повинен дійсні поштової скриньки Exchange Online.
+Microsoft To-Do використовує функції в Exchange Online для синхронізації і зберігання користувачів до елементів. Для того, щоб використовувати Microsoft для виконання, користувачу потрібна дійсна поштова скринька Exchange Online.
   
-Щоб отримати додаткові відомості див [Microsoft справ Preview адміністрації](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+[Щоб](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx)отримати додаткові відомості, див.
   
- **Примітка**: Якщо ви отримуєте 501 помилка при спробі увійти в [http://todo.microsoft.com](http://todo.microsoft.com), спробуйте [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Примітка**: Якщо з'являється помилка 501 при спробі увійти в [http://todo.microsoft.com](http://todo.microsoft.com)систему, спробуйте. [https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 

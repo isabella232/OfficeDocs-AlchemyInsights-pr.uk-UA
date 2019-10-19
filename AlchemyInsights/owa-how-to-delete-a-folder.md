@@ -14,17 +14,17 @@ ms.custom:
 - "2004"
 ms.assetid: ''
 ms.openlocfilehash: b42a0e3245e52557ec745e9148b1078c44f63a8b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36556550"
 ---
-# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Як видалити папки в Outlook, в Інтернеті
+# <a name="how-to-delete-a-folder-in-outlook-on-the-web"></a>Як видалити папку в Outlook, в Інтернеті
 
-1. На панелі папок клацніть правою кнопкою миші папку або вкладену папку, яку потрібно видалити.
+1. В області папки клацніть правою кнопкою миші папку або вкладену папку, яку потрібно видалити.
 2. Виберіть **видалити папку**.
-3. Виберіть **"OK"** для підтвердження.
+3. Натисніть **OK** для підтвердження.
 
-Щоб дізнатися більше, див. [Робота з теками повідомлень в Outlook, в Інтернеті](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+Щоб дізнатися більше, перегляньте відомості [про роботу з папками повідомлень у програмі Outlook в Інтернеті](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
 

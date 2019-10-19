@@ -1,5 +1,5 @@
 ---
-title: Межі і великі файли в SharePoint
+title: Обмеження та великі файли в SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497608"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файли, які не можна передати SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файли, які неможливо передати до SharePoint Online
 
-Якщо файл не буде завантажити на сайті SharePoint, переконайтеся, що:
+Якщо файл не завантажується до SharePoint Online, переконайтеся, що:
   
-- Це менш ніж за 15 ГБ за розміром.
+- Розмір не перевищує 15 ГБ.
     
-- Повний шлях, включно з іменем файлу, становить менше 400 символів.
+- Весь шлях, включаючи ім'я файлу, менше 400 символів.
     
-- Ім'я файлу не може містити символи " \* : \< \> ? / \ | і не на список [неприпустимих імен](https://go.microsoft.com/fwlink/?linkid=866430).
+- Ім'я файлу не містить символів " \* :? \< \> / \ | і немає в списку [недійсних імен](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Якщо ви намагаєтеся передати файл за допомогою застосунку OneDrive, переглянути [обмеження та обмеження під час синхронізації, файли та папки](http://go.microsoft.com/fwlink/p/?LinkID=717734) або [OneDrive виправити проблеми з синхронізацією](https://go.microsoft.com/fwlink/?linkid=866431).
+Якщо ви намагаєтеся завантажити файл за допомогою програми OneDrive Desktop, перегляньте [обмеження та обмеження під час синхронізації файлів і папок](http://go.microsoft.com/fwlink/p/?LinkID=717734) або [вирішення проблем із синхронізацією OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

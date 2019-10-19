@@ -1,5 +1,5 @@
 ---
-title: Microsoft команд - гостьовий доступ
+title: Microsoft teams – гостьовий доступ
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36667005"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590407"
 ---
-# <a name="microsoft-teams---guest-access"></a>Microsoft команд - гостьовий доступ
+# <a name="microsoft-teams---guest-access"></a>Microsoft teams – гостьовий доступ
 
-Вам потрібно допомогти Увімкнення та настроювання Microsoft команд, функція гостьовий доступ?
+Потрібна допомога Увімкнення та настроювання функції доступу гостя у Microsoft teams?  
 
-Ось що вам потрібно зробити:
+По-перше, переконайтеся, що ви виконали всі кроки в [контрольний список гість доступу](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist). Після того, як всі ці кроки будуть завершені, вам потрібно [почекати до 24 годин](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) , щоб налаштування набрали сили.
 
-1. Авторизувати гостьовий доступ.
-1. Додати до вашій команді Відгуки користувачів.
-1. Настроювання дозволів Відгуки користувачів.
+Якщо ви впевнені, що ви виконали всі кроки в контрольний список, і це було більше 24 годин, йти вперед і спробувати [Додати гостя у вашій команді](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-Для отримання додаткової інформації, включаючи Відеопосібники побачити [Відгуки доступу в Microsoft команд](https://docs.microsoft.com/microsoftteams/guest-access).
+Щоб отримати додаткові відомості, зокрема відео [, див.](https://docs.microsoft.com/microsoftteams/guest-access)

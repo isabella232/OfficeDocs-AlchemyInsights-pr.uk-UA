@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 форм бізнесу правило за допомогою Fullname поля не стрільби
+title: Dynamics 365 форм бізнес-правила, використовуючи поле FullName, не стрільби
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1928"
 - "6200018"
 ms.openlocfilehash: 91e091502f2b431c380663f3b938580b6cc963c4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529004"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Повне ім'я поля, не підтримуються з додатків єдиного inteface
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>Поле повного імені не підтримується в уніфікованих додатках
 
-Дії або умов, що використовують поля **Повного імені** (fullname) не підтримуються в додатків на основі єдиного інтерфейсу. Крім того, ви можете використовувати дії або умов з **ім'я** (ім'я) і **Прізвище** (прізвище) поля.
+Дії або умови, які використовують поле **повне ім'я** (FullName), не підтримуються в додатках, заснованих на єдиному інтерфейсі. Крім того, можна скористатися діями або умовами з полями **ім'я** **(ім'я) і прізвищем** (прізвище).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

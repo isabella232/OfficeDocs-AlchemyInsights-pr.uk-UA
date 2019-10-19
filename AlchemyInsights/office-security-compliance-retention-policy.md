@@ -14,10 +14,10 @@ ms.custom:
 - "9000048"
 - "1983"
 ms.openlocfilehash: edf14c3b8c23416157325c7c319e75bd318303ca
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36753781"
 ---
 # <a name="more-info-about-retention-policies"></a>Додаткові відомості про політики збереження
@@ -26,13 +26,13 @@ ms.locfileid: "36753781"
 
 ## <a name="a-from-security-and-compliance-center"></a>А) з центру безпеки та комплаєнсу
 
-- Перейти до системи безпеки та комплаєнсу _ Gt_ управління даними _ Gt_ утримання
+- Перейдіть до розділу Безпека й відповідність > керування даними > збереження
   - Переглянути [цю](https://docs.microsoft.com/office365/securitycompliance/retention-policies) статтю
 
-- Перейдіть до розділу Безпека та відповідність _ Gt_ eDiscovery> розширене Витребування електронної інформації 
+- Перейдіть до розділу Безпека й відповідність > Витребування електронної інформації> розширене Витребування електронної інформації 
   - Переглянути [цю](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) статтю
 
-- Перейдіть до розділу Безпека та відповідність _ Gt_ класифікації _ Gt_ утримання
+- Перейдіть до розділу Безпека й відповідність > класифікації > збереження
   - Переглянути ці статті
     - [Мітки чутливості](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
     - [Огляд наклейок](https://docs.microsoft.com/office365/securitycompliance/labels)

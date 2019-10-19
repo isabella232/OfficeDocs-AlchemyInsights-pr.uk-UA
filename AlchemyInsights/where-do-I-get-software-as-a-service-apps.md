@@ -1,5 +1,5 @@
 ---
-title: Де я можу отримати програмне забезпечення як послуга (SaaS) додатків?
+title: Де я можу отримати програмне забезпечення-як-послуги (SaaS) програми?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558566"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Де я можу отримати програмне забезпечення як послуга (SaaS) додатків від партнерів корпорації Майкрософт?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Де можна отримати програми з партнерами корпорації Майкрософт за програмами (SaaS)?
 
-Гості можуть шукати, вибрати та придбати застосунки SaaS від [AppSource](http://www.appsource.com/).
+Клієнти можуть шукати, досліджувати і купувати програми SaaS з [Appsource](http://www.appsource.com/).
