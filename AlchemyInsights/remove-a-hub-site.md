@@ -1,5 +1,5 @@
 ---
-title: Видалити сайт-концентратор
+title: Видалення сайту концентратора
 ms.author: kaarins
 author: kaarins
 ms.date: 12/28/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "866"
 - "5300012"
 ms.assetid: cebdac7f-fa90-4431-9a71-feb4104e479a
-ms.openlocfilehash: aacb11aa21adf704c89f7dd7a6a4006cfbf6e628
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ccd0bb32ea6b5a043412ba0040dfde78a672810a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552876"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745382"
 ---
-# <a name="remove-a-hub-site"></a><span data-ttu-id="85466-102">Видалити сайт-концентратор</span><span class="sxs-lookup"><span data-stu-id="85466-102">Remove a hub site</span></span>
+# <a name="remove-a-hub-site"></a><span data-ttu-id="14f96-102">Видалення сайту концентратора</span><span class="sxs-lookup"><span data-stu-id="14f96-102">Remove a hub site</span></span>
 
-<span data-ttu-id="85466-103">Скасування реєстрації сайт-концентратор у нового центру адміністрування SharePoint</span><span class="sxs-lookup"><span data-stu-id="85466-103">Unregister a hub site in the new SharePoint admin center</span></span>
+<span data-ttu-id="14f96-103">Скасування реєстрації сайту концентратора у новому центрі адміністрування SharePoint</span><span class="sxs-lookup"><span data-stu-id="14f96-103">Unregister a hub site in the new SharePoint admin center</span></span>
   
-1. <span data-ttu-id="85466-104">Нові центру адміністрування SharePoint під **сайти**, клацніть **активних ділянок**.</span><span class="sxs-lookup"><span data-stu-id="85466-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
+1. <span data-ttu-id="14f96-104">У новому центрі адміністрування SharePoint у розділі **сайти**виберіть пункт **активні сайти**.</span><span class="sxs-lookup"><span data-stu-id="14f96-104">In the new SharePoint admin center, under **Sites**, click **Active sites**.</span></span>
 
-2. <span data-ttu-id="85466-105">Виберіть сайт, натисніть кнопку **сайт-концентратор**і натисніть кнопку **Unregister як сайт-концентратор**.</span><span class="sxs-lookup"><span data-stu-id="85466-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
+2. <span data-ttu-id="14f96-105">Виберіть сайт, натисніть **сайт-концентратор**і натисніть кнопку **скасувати реєстрацію як концентратор сайту**.</span><span class="sxs-lookup"><span data-stu-id="14f96-105">Select the site, click **Hub site**, and then click **Unregister as hub site**.</span></span>
 
-3. <span data-ttu-id="85466-106">Натисніть кнопку **OK**.</span><span class="sxs-lookup"><span data-stu-id="85466-106">Click **OK**.</span></span>
+3. <span data-ttu-id="14f96-106">Натисніть кнопку **OK**.</span><span class="sxs-lookup"><span data-stu-id="14f96-106">Click **OK**.</span></span>
 
-[<span data-ttu-id="85466-107">Дізнайтеся більше про концентратор сайти</span><span class="sxs-lookup"><span data-stu-id="85466-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f?ui=en-US&amp;rs=en-US&amp;ad=US)
+[<span data-ttu-id="14f96-107">Докладніше про сайти-концентратор</span><span class="sxs-lookup"><span data-stu-id="14f96-107">Learn more about hub sites</span></span>](https://support.office.com/article/what-is-a-sharepoint-hub-site-fe26ae84-14b7-45b6-a6d1-948b3966427f)
   

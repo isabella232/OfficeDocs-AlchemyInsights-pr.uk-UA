@@ -1,5 +1,5 @@
 ---
-title: Змінити ім'я профілю, в Outlook.com
+title: Як змінити назву профілю в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,16 +14,16 @@ ms.custom:
 - "777"
 - "806"
 ms.openlocfilehash: e8b13f8b7a15fff520085e0644e4f8d9f732d92e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546741"
 ---
-# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="3b3a5-102">Змінити ім'я профілю, в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="3b3a5-102">Change your profile name in Outlook.com</span></span>
+# <a name="change-your-profile-name-in-outlookcom"></a><span data-ttu-id="7f957-102">Як змінити назву профілю в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7f957-102">Change your profile name in Outlook.com</span></span>
 
-1. <span data-ttu-id="3b3a5-103">Перейти до [вашої корпорації Майкрософт відомостей облікового запису](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="3b3a5-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-2. <span data-ttu-id="3b3a5-104">Виберіть **редагувати ім'я**.</span><span class="sxs-lookup"><span data-stu-id="3b3a5-104">Select **Edit name**.</span></span>
-3. <span data-ttu-id="3b3a5-105">Введіть ім'я та прізвище та виберіть **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="3b3a5-105">Enter a first name and last name, and select **Save**.</span></span>
+1. <span data-ttu-id="7f957-103">Перейдіть до [відомості про обліковий запис Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="7f957-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+2. <span data-ttu-id="7f957-104">Виберіть **редагувати ім'я**.</span><span class="sxs-lookup"><span data-stu-id="7f957-104">Select **Edit name**.</span></span>
+3. <span data-ttu-id="7f957-105">Введіть ім'я та прізвище, а потім виберіть **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="7f957-105">Enter a first name and last name, and select **Save**.</span></span>
 
-<span data-ttu-id="3b3a5-106">Будь ласка, дозвольте до 24 годин, щоб зміни ім'я профілю, вступити в силу.</span><span class="sxs-lookup"><span data-stu-id="3b3a5-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="7f957-106">Щоб перейти в дію, будь ласка, дозвольте до 24 годин, щоб змінити назву свого профілю.</span><span class="sxs-lookup"><span data-stu-id="7f957-106">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>

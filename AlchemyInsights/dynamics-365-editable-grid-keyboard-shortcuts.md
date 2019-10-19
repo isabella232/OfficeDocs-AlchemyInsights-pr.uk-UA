@@ -1,5 +1,5 @@
 ---
-title: Для редагування сітки Dynamics 365 сполучення клавіш
+title: Dynamics 365 з можливістю редагування комбінацій клавіш у сітці
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.custom:
 - "1708"
 - "6200013"
 ms.openlocfilehash: 030190352426de39cda53be3429e7bb8c2c42000
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529112"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="b9f85-102">Для редагування сітки Dynamics 365 сполучення клавіш</span><span class="sxs-lookup"><span data-stu-id="b9f85-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="4f81d-102">Dynamics 365 з можливістю редагування комбінацій клавіш у сітці</span><span class="sxs-lookup"><span data-stu-id="4f81d-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
 
-* [<span data-ttu-id="b9f85-103">Сполучення клавіш для редагування сітки</span><span class="sxs-lookup"><span data-stu-id="b9f85-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="4f81d-103">Сполучення клавіш із можливістю редагування сітки</span><span class="sxs-lookup"><span data-stu-id="4f81d-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)

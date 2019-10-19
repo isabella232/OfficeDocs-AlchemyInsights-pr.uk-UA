@@ -1,5 +1,5 @@
 ---
-title: Додати місць для передплаченої форми підключення
+title: Додавання місць до передплаченої передплати
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,27 +14,27 @@ ms.custom:
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
 ms.openlocfilehash: 5c01fa5ea22686c2c79e7678823ffa7fe31c3f89
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661029"
 ---
-# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="d20f8-102">Додати місць для передплаченої форми підключення</span><span class="sxs-lookup"><span data-stu-id="d20f8-102">Add seats to a prepaid subscription</span></span>
+# <a name="add-seats-to-a-prepaid-subscription"></a><span data-ttu-id="15dbc-102">Додавання місць до передплаченої передплати</span><span class="sxs-lookup"><span data-stu-id="15dbc-102">Add seats to a prepaid subscription</span></span>
 
-<span data-ttu-id="d20f8-103">Передплачені Office 365 ліцензій видаються ви як 25-символьний буквено-цифровий код.</span><span class="sxs-lookup"><span data-stu-id="d20f8-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="d20f8-104">Після того як ви купили ліцензії, ви повинні, їх можна додати до вашої підписки.</span><span class="sxs-lookup"><span data-stu-id="d20f8-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
+<span data-ttu-id="15dbc-103">Передплачені ліцензії Office 365 видаються вам як 25-символьний буквено-цифровий код.</span><span class="sxs-lookup"><span data-stu-id="15dbc-103">Prepaid Office 365 licenses are issued to you as a 25-character alphanumeric code.</span></span> <span data-ttu-id="15dbc-104">Після того, як ви придбали потрібні ліцензії, ви можете додати їх до своєї передплати.</span><span class="sxs-lookup"><span data-stu-id="15dbc-104">After you have purchased the licenses you need, you can add them to your subscription.</span></span> 
 
-1. <span data-ttu-id="d20f8-105">У центр адміністрування, перейдіть на **платіжний** > [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.</span><span class="sxs-lookup"><span data-stu-id="d20f8-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="15dbc-105">У центрі адміністрування перейдіть на сторінку " **платіжні** > [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) ".</span><span class="sxs-lookup"><span data-stu-id="15dbc-105">In the admin center, go to the **Billing** > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="d20f8-106">Знайти потрібно додати ліцензії на підписку.</span><span class="sxs-lookup"><span data-stu-id="d20f8-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="d20f8-107">У розділі **ліцензій** виберіть **додати більше ліцензій**.</span><span class="sxs-lookup"><span data-stu-id="d20f8-107">In the **Licenses** section, select **Add more licenses**.</span></span>
+2. <span data-ttu-id="15dbc-106">Знайдіть підписку, до якої потрібно додати ліцензії.</span><span class="sxs-lookup"><span data-stu-id="15dbc-106">Find the subscription you want to add licenses to.</span></span> <span data-ttu-id="15dbc-107">У розділі **ліцензії** виберіть **додати додаткові ліцензії**.</span><span class="sxs-lookup"><span data-stu-id="15dbc-107">In the **Licenses** section, select **Add more licenses**.</span></span>
 
-3. <span data-ttu-id="d20f8-108">В області **додати більше ліцензій** установіть прапорець **використовувати нові і не використовується ключ**, а потім виберіть **наступного**.</span><span class="sxs-lookup"><span data-stu-id="d20f8-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
+3. <span data-ttu-id="15dbc-108">В області **Додавання додаткових ліцензій** виберіть пункт **використовувати новий і невикористовуваний ключ продукту**, а потім натисніть кнопку **Далі**.</span><span class="sxs-lookup"><span data-stu-id="15dbc-108">In the **Add more licenses** pane, select **Use a new and unused product key**, then select **Next**.</span></span>
 
-4. <span data-ttu-id="d20f8-109">Введіть ключ продукту, а потім виберіть з **наступного**.</span><span class="sxs-lookup"><span data-stu-id="d20f8-109">Enter the product key, then select **Next**.</span></span>
+4. <span data-ttu-id="15dbc-109">Введіть ключ продукту, а потім натисніть кнопку **Далі**.</span><span class="sxs-lookup"><span data-stu-id="15dbc-109">Enter the product key, then select **Next**.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="d20f8-110">Якщо у вас є більш ніж один ключ продукту, ви можете вибрати **додати ще один ключ продукту** введіть їх.</span><span class="sxs-lookup"><span data-stu-id="d20f8-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
+    > <span data-ttu-id="15dbc-110">Якщо ви маєте більше одного ключа продукту, можна вибрати пункт **додати інший ключ продукту** , щоб ввести їх.</span><span class="sxs-lookup"><span data-stu-id="15dbc-110">If you have more than one product key, you can select **Add another product key** to enter them.</span></span>
 
-5. <span data-ttu-id="d20f8-111">Перегляньте відомості про замовлення, а потім виберіть **способам**.</span><span class="sxs-lookup"><span data-stu-id="d20f8-111">Review your order details, then select **Redeem**.</span></span>
+5. <span data-ttu-id="15dbc-111">Перегляньте відомості про замовлення, а потім виберіть **активувати**.</span><span class="sxs-lookup"><span data-stu-id="15dbc-111">Review your order details, then select **Redeem**.</span></span>
 
-<span data-ttu-id="d20f8-112">Щоб дізнатися більше, див. [Додати ліцензій або розширити підписка оплачена, використовується ключ продукту](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="d20f8-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>
+<span data-ttu-id="15dbc-112">Щоб дізнатися більше, перегляньте розділ [Додавання ліцензій або розширення передплати, сплаченої за використання ключа продукту](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span><span class="sxs-lookup"><span data-stu-id="15dbc-112">To learn more, see [Add licenses to or extend a subscription paid for using a product key](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).</span></span>

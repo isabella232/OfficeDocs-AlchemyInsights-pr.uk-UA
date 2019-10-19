@@ -13,14 +13,14 @@ ms.custom:
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
 ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737642"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="9b23b-102">Створення та керування поштовими скриньками кімнати</span><span class="sxs-lookup"><span data-stu-id="9b23b-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="fc8a7-102">Створення та керування поштовими скриньками кімнати</span><span class="sxs-lookup"><span data-stu-id="fc8a7-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="9b23b-103">Для створення та змінення поштових скриньок номерів зверніться до [створення та керування поштовими скриньками номерів](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="9b23b-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="fc8a7-103">Для створення та змінення поштових скриньок номерів зверніться до [створення та керування поштовими скриньками номерів](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="fc8a7-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="9b23b-104">Щоб дізнатися більше про поштові скриньки для кімнати та обладнання (також відомі як поштові скриньки ресурсів), перегляньте [поштові скриньки кімнати та обладнання](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="9b23b-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>
+<span data-ttu-id="fc8a7-104">Щоб дізнатися більше про поштові скриньки для кімнати та обладнання (також відомі як поштові скриньки ресурсів), перегляньте [поштові скриньки кімнати та обладнання](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="fc8a7-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).</span></span>
