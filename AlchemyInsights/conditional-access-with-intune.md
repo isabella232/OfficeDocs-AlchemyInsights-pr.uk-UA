@@ -1,5 +1,5 @@
 ---
-title: Умовного доступу з Intune
+title: Умовний доступ з InTune
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505015"
 ---
-# <a name="conditional-access-with-intune"></a>Умовного доступу з Intune
+# <a name="conditional-access-with-intune"></a>Умовний доступ з InTune
 
-За допомогою **Умовного доступу** з Intune вимагає 3 кроки: 
+За допомогою **умовного доступу** з InTune потрібно 3 кроки: 
   
-- Створити **Умовного доступу політику** , яка визначає, які ресурси захищений, і те, що умови повинні бути виконані для доступу до цих ресурсів. Наприклад, пристрій має бути сумісний перед отриманням доступу до корпоративної електронної пошти. 
+- Створіть **політику умовного доступу** , яка визначає, які ресурси захищено, і які умови повинні бути виконані для доступу до цих ресурсів. Наприклад, пристрій має відповідати вимогам, перш ніж отримати доступ до корпоративної електронної пошти. 
     
-- Створювати **Політику механізми** для визначення параметрів, які повинні бути виконані до пристрою вважається сумісний. Наприклад, пристрій має бути щонайменше 6 цифр PIN-коду до того вважається сумісний. 
+- Створіть **політику відповідності** , щоб визначити параметри, які повинні бути виконані перед тим, як пристрій вважається сумісним. Наприклад, пристрій повинен мати PIN-код принаймні 6 цифр, перш ніж він вважатиметься сумісним. 
     
-- Забезпечення **Дотримання політики** і **Політики умовного доступу** орієнтовані на бажаний груп користувачів. Це може зажадати, створюючи певними групами користувачів у Azure Active Directory. 
+- Забезпечення як **політики відповідності** , так і **політики умовного доступу** орієнтовані на потрібних груп користувачів. Це може знадобитися, створення певних груп користувачів у Azure Active Directory. 
     
 Читати далі:
   
-- [Умовного доступу кращі практики](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [Практичні поради щодо умовного доступу](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [Початок роботи з умовного доступу](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [Початок роботи з умовним доступом](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

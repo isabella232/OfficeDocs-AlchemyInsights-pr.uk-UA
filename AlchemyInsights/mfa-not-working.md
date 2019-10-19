@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545207"
 ---
 # <a name="issues-with-mfa"></a>Проблеми з МЗС
-Є кілька речей, щоб перевірити, якщо користувачі не можуть увійти, використовуючи багатофакторну автентифікацію (МЗС)
+Є кілька речей, щоб перевірити, якщо користувачі не можуть увійти з використанням декількох факторів аутентифікації (МЗС)
 
-1. Уражені користувача може бути заблоковано Azure Active Directory на порталі. Якщо це так, спроб автентифікації для цього конкретного користувача буде автоматично відмовлено. [Будь ласка, виконайте дії, описані в цій статті, щоб розблокувати їх.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. Відповідного користувача може бути заблоковано на порталі Azure Active Directory. Якщо це так, спроби автентифікації для конкретного користувача будуть автоматично відхилені. [Будь ласка, виконайте дії, описані в цій статті, щоб розблокувати їх.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. Якщо розблокування користувач не допомагає, або користувач не блокується спробуйте скинути МЗС для користувача, і вони будуть проходити Реєстрація процес знову. [Будь ласка, виконайте дії, описані в цій статті.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. Якщо розблокування користувача не допомогло, або користувач не заблоковано, можна спробувати скинути МЗС для користувача, і вони будуть проходити процес зарахування знову. [Будь ласка, дотримуйтесь інструкцій, наведених у цій статті.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-Якщо це перший раз із підтримкою МЗС і ваших користувачів, ти не дозволив вхід для клієнтів браузерів, таких як Outlook, Skype, і т. д, може бути ADAL (активних каталогів автентифікації бібліотека) не ввімкнуто O365 передплати. У цьому випадку вам потрібно буде підключитися до Exchange Online Powershell та запуску цього командлета:  *набір-Set-OrganizationConfig-OAuth2ClientProfileEnabled: $true*
+Якщо це перший раз, коли ви ввімкнули МЗС і ваші користувачі не в змозі увійти в систему не браузерів, таких як Outlook, Skype і т. д., можливо, ADAL (Active Directory автентифікації бібліотека) не включений на вашу передплату O365. У цьому випадку вам потрібно буде підключитися до Exchange Online PowerShell і запустити цю команду:  *Set-Організаціїconfig-OAuth2ClientProfileEnabled: $TRUE*

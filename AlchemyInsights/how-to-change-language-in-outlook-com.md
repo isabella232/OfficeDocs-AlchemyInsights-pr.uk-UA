@@ -14,18 +14,18 @@ ms.custom:
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
 ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36541687"
 ---
-# <a name="change-your-language"></a>Змініть мову
+# <a name="change-your-language"></a>Як змінити мову
 
-1. Чанг мови в Outlook, щоб перейти до настройки [**мови та часу**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**Параметри** \> **Переглянути всі настройки Outlook** > **загальні** > **мови і час**).
+1. Щоб Chang мову в Outlook, перейдіть до налаштування [**мови та часу**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**налаштування** \> **Переглянути всі налаштування** > Outlook**загальна** > **мова та час**).
 
-2. Вибери мову.
+2. Виберіть мову.
 
 3. Виберіть **зберегти**.
 
-Щоб дізнатися більше, див, [Змінення часового поясу та мовні настройки в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+Щоб дізнатися більше, перегляньте, як [Змінити налаштування часового поясу та мови в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

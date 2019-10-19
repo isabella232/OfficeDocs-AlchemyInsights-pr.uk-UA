@@ -1,5 +1,5 @@
 ---
-title: Змінити OneDrive для бізнесу квоту для дискового простору
+title: Змінити OneDrive, для бізнесу, квоти на зберігання
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519284"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Змінити за замовчуванням OneDrive приміщення для зберігання ваших користувачів
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Змініть стандартний простір зберігання OneDrive для користувачів
 
-1. Перейти на [зберігання сторінки центру адміністрування OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Перейдіть на [сторінку збереження даних у центрі адміністрування OneDrive](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Введіть суму зберігання за замовчуванням (у ГБ) у полі **зберігання за замовчуванням** і натисніть кнопку **зберегти**.
+2. Введіть обсяг сховища за промовчанням (у ГБ) у полі **сховище за промовчанням** і натисніть кнопку **зберегти**.
     
-Ця настройка простір зберігання застосовується до всіх користувачів, для яких ще не встановити конкретні зберігання обмеження. Щоб змінити дискового простору для певних користувачів, вам потрібно використовувати Microsoft PowerShell. Інформація про те, як це зробити див [зміни користувачів OneDrive дискового простору за допомогою PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Цей простір для зберігання застосовується для всіх користувачів, для яких ви не встановили певні обмеження на зберігання. Для змінення дискового простору для певних користувачів потрібно використовувати Microsoft PowerShell. Для отримання відомостей про те, як це зробити, див [.](https://go.microsoft.com/fwlink/?linkid=866402)
   
 

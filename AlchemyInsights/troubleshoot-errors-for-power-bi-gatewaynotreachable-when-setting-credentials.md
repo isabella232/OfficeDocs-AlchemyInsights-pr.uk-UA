@@ -1,5 +1,5 @@
 ---
-title: GatewayNotReachable при установці облікові дані
+title: GatewayNotReachable під час установлення облікових даних
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1321"
 - "2500002"
 ms.openlocfilehash: 599fb10eb557217c2de52bbab72784cd10bbe95c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507148"
 ---
-# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable при установці облікові дані
+# <a name="gatewaynotreachable-when-setting-credentials"></a>GatewayNotReachable під час установлення облікових даних
 
-Може скластися GatewayNotReachable при спробі встановити облікові дані для джерела даних у межах влади BI послуги. Це може бути результатом застарілі шлюз. Інсталюйте останні шлюзу та повторіть спробу.
+Під час спроби встановити облікові дані для джерела даних у службі Power BI можуть виникати GatewayNotReachable. Це може бути результатом застарілого шлюзу. Інсталюйте найновіший шлюз і повторіть спробу.
 
 Для отримання додаткової інформації:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

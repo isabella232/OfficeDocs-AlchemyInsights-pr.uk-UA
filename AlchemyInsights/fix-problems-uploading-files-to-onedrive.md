@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із завантаження файлів на OneDrive
+title: Як вирішити проблеми з завантаженням файлів у OneDrive
 ms.author: matteva
 author: pebaum
 ms.date: 5/18/2018
@@ -9,20 +9,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
 ms.openlocfilehash: d06445cf609b70e83701699082c43203270a0962
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525199"
 ---
-# <a name="fix-problems-uploading-files-to-onedrive"></a>Виправлення неполадок із завантаження файлів на OneDrive
+# <a name="fix-problems-uploading-files-to-onedrive"></a>Як вирішити проблеми з завантаженням файлів у OneDrive
 
-Спробуйте цей спосіб, якщо файл не буде завантажувати:
+Спробуйте це, якщо файл не завантажується:
   
-- Перейменуйте файл і повторіть спробу. Деякі імена файлів і символи в іменах файлів не допускається. 
+- Перейменуйте файл і повторіть спробу. Імена деяких файлів і символів у іменах файлів не дозволяються. 
     
-- Якщо ви маєте синхронізацію файлу, перемістити його з папки OneDrive (наприклад, перемістити його на робочому столі), і коли ваш OneDrive стан синхронізації відображається як "Оновлення," перемістити його назад. 
+- Якщо ви синхронізуєте файл, перемістіть його з папки OneDrive (наприклад, перемістіть її на робочий стіл), а коли стан синхронізації OneDrive відображається як "оновлено", перемістіть його назад. 
     
-[Додаткові поради щодо усунення несправностей](https://go.microsoft.com/fwlink/?linkid=873155)
+[Інші поради щодо усунення несправностей](https://go.microsoft.com/fwlink/?linkid=873155)
   
 

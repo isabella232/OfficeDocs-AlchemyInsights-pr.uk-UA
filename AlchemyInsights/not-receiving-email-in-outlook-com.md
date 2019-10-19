@@ -1,5 +1,5 @@
 ---
-title: 8000037 не отримання електронної пошти в Outlook.com
+title: 8000037 не отримує електронну пошту в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538582"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Не отримання пошти в Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Не отримувати пошту в Outlook.com
 
-Якщо ви не отримуєте електронної пошти від певного відправника, такі, як ваші банківські рахунки або пароль відновити повідомлення, потрібно буде зв'язатися з відправника і нехай вони знають, що ви не отримуєте електронної пошти на обліковий запис Outlook.com. Будь ласка, зверніться до відправника до [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135), де вони можуть знайти інформацію про кращі практики усунення несправностей рекомендувати та посилання зв'яжіться з нашою службою підтримки відправника.
+Якщо ви не отримуєте повідомлення від певного відправника, наприклад, виписки з банківського рахунку або повідомлення про скидання пароля, вам потрібно звернутися до відправника та повідомити, що ви не отримуєте електронну пошту в обліковому записі Outlook.com. Будь ласка, зверніться до [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)відправника, де вони можуть знайти інформацію про кращі практики, рекомендувати виправлення неполадок і посилання, щоб зв'язатися з нашою командою підтримки відправника.
   
-Якщо ваш обліковий запис Outlook.com не отримання електронної пошти на всіх, переглянути [помилки синхронізації електронної пошти Outlook.com виправити](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Якщо ваш обліковий запис Outlook.com не отримує повідомлення [електронної пошти взагалі, див.](https://go.microsoft.com/fwlink/p/?linkid=874363)
   
 

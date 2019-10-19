@@ -1,5 +1,5 @@
 ---
-title: Не вдалося прочитати електронної пошти Outlook.com в Google Chrome з AdBlock
+title: Не вдається прочитати Outlook.com електронну пошту в Google Chrome за допомогою AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ ms.custom:
 - "8000048"
 - "814"
 ms.openlocfilehash: e63e31ea008558d57b0582d306afd34df4715631
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36537680"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Не вдалося прочитати електронну пошту за допомогою Google Chrome з AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Не вдається прочитати електронну пошту в Google Chrome за допомогою AdBlock
 
-Якщо ви не можете прочитати або скласти електронної пошти під час використання Google Chrome розширення AdBlock:
+Якщо ви не можете читати або створювати електронну пошту під час використання Google Chrome з розширенням AdBlock:
 
-- За допомогою [Microsoft краю](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) або інший веб-браузер.
-- Виключити Outlook.com з AdBlock настройки. У верхньому правому куті Google Chrome оберіть **AdBlock** та клацніть **не працюють на сторінках на цьому домені**. Обнови свій браузер завантажити Outlook.com знову.
+- Використовуйте [Microsoft EDGE](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) або інший веб-переглядач.
+- Виключити Outlook.com з параметрів AdBlock. У верхньому правому куті Google Chrome виберіть **Adblock** , а потім виберіть пункт **не запускати на сторінках цього домену**. Оновіть свій браузер, щоб знову завантажити Outlook.com.

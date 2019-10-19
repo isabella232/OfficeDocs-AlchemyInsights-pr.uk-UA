@@ -1,5 +1,5 @@
 ---
-title: Видалення елементів у SharePoint
+title: Видалення елементів у програмі SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513668"
 ---
-# <a name="delete-items-in-sharepoint"></a>Видалення елементів у SharePoint
+# <a name="delete-items-in-sharepoint"></a>Видалення елементів у програмі SharePoint
 
-[Видалити список](https://go.microsoft.com/fwlink/?linkid=869393)
+[Видалення списку](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[Видалити бібліотеку документів](https://go.microsoft.com/fwlink/?linkid=869392)
+[Видалення бібліотеки документів](https://go.microsoft.com/fwlink/?linkid=869392)
   
 [Видалення елементів зі списку](https://go.microsoft.com/fwlink/?linkid=869397)
   
 [Видалення елементів із бібліотеки документів](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[Видалити стовпець на сторінці](https://go.microsoft.com/fwlink/?linkid=869394)
+[Видалення стовпця на сторінці](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[Видалити стовпець у списку або бібліотеки](https://go.microsoft.com/fwlink/?linkid=869396)
+[Видалення стовпця зі списку або бібліотеки](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

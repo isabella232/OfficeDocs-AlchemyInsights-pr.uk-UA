@@ -1,5 +1,5 @@
 ---
-title: 8000049 поговорити з родиною та друзями по Skype в Outlook.com
+title: 8000049 розмовляти з родиною та друзями по скайпу в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom: 8000049
 ms.assetid: b6878497-5885-4241-b2d0-e951817c48d2
 ms.openlocfilehash: 2f5dc69fec4ba01502bf0ee2110d503ab3fc8d6e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534296"
 ---
-# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Поговоріть з родиною та друзями по Skype в Outlook.com
+# <a name="talk-to-family-and-friends-on-skype-in-outlookcom"></a>Поговоріть з сім'єю та друзями по скайпу в Outlook.com
 
-Outlook.com клієнтами можете поговорити з друзями та родиною з чат, голосу та відео можливості в Skype. Коли ви [об'єднати ваші облікові записи Microsoft і Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), ви автоматично мати доступ до Skype на Інтернет в Outlook.com.
+Клієнти Outlook.com можуть розмовляти з друзями та рідними за допомогою функцій чату, голосу та відео в Skype. Коли ви [об'єднуєте облікові записи Microsoft і Skype](https://go.microsoft.com/fwlink/p/?linkid=2001101&amp;clcid=0x409), ви автоматично маєте доступ до Skype у веб-Outlook.com.
   
-Дізнайтеся більше про те, як [спілкуватися з сім'єю і друзями по Skype в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
+Дізнайтеся більше про те, як [розмовляти з родиною та друзями по скайпу в Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001407&amp;clcid=0x409).
   
 

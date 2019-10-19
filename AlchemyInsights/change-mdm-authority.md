@@ -1,5 +1,5 @@
 ---
-title: Змінити MDM авторитет
+title: Змінити MDM владу
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519320"
 ---
-# <a name="change-intune-mdm-authority"></a>Змінити Intune MDM авторитет
+# <a name="change-intune-mdm-authority"></a>Змінити InTune MDM сертифікації
 
-Ви можете змінити ваш авторитет MDM без відкриття інциденту до служби підтримки. Див наступні документи для отримання інструкцій:
+Ви можете змінити свою MDM владу, не відкриваючи справу підтримки. Перегляньте наступні документи для вказівки:
   
-- [Установлювання MDM повноваження від Диспетчер конфігурацій автономні Intune](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Змінити MDM сертифікації з Диспетчер конфігурацій InTune автономний](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Змінити MDM органу з Intune автономний до Диспетчер конфігурацій](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Змінити MDM сертифікації з InTune автономний Диспетчер конфігурацій](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM авторитет співіснування**
+ **MDM орган спільного існування**
   
-- Може у вас обох MDM влади, що одночасно, якщо ви вже маєте Office 365 MDM включений, але ви хочете спробувати Intune MDM.
+- Ви можете мати як MDM владу активним одночасно, якщо у вас вже є Office 365 MDM включений, але ви хочете спробувати InTune MDM.
     
-- Адміністратори, які вже мають O365 MDM активних просто можна позначити Intune MDM як активні з блакитні порталу.
+- Адміністратори, які вже мають O365 MDM Active можна просто позначити InTune MDM як активний з порталу Azure.
     
-- Якщо у вас є Intune MDM, але хочуть, щоб зробити використання Office 365 MDM: будь ласка відкрити квиток нижче і підтримку агента допоможе активувати це для вас.
+- Якщо у вас InTune MDM, але ви хочете використовувати Office 365 MDM: будь ласка, відкрийте квиток нижче, і агент підтримки допоможе вам включити це для вас.
     
 
