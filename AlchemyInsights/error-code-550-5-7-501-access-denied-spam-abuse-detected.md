@@ -12,16 +12,16 @@ ms.custom:
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
 ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740162"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="d5dd3-102">550 5.7.501 доступ заборонено, виявлено порушення спаму</span><span class="sxs-lookup"><span data-stu-id="d5dd3-102">550 5.7.501 Access denied, spam abuse detected</span></span>
+# <a name="550-57501-access-denied-spam-abuse-detected"></a><span data-ttu-id="f0dad-102">550 5.7.501 доступ заборонено, виявлено порушення спаму</span><span class="sxs-lookup"><span data-stu-id="f0dad-102">550 5.7.501 Access denied, spam abuse detected</span></span>
 
-<span data-ttu-id="d5dd3-103">Зазвичай це повідомлення виникає, коли користувачі надсилають повідомлення електронної пошти з IP-адрес за допомогою початкового домену *. onmicrosoft.com* , який призначається для нових орендарів у Office 365.</span><span class="sxs-lookup"><span data-stu-id="d5dd3-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="d5dd3-104">Найпростіший спосіб вирішити цю проблему:</span><span class="sxs-lookup"><span data-stu-id="d5dd3-104">The easiest way to resolve this problem is to:</span></span>
+<span data-ttu-id="f0dad-103">Зазвичай це повідомлення виникає, коли користувачі надсилають повідомлення електронної пошти з IP-адрес за допомогою початкового домену *. onmicrosoft.com* , який призначається для нових орендарів у Office 365.</span><span class="sxs-lookup"><span data-stu-id="f0dad-103">Typically, this message occurs when users send email messages from IP addresses using the initial *.onmicrosoft.com* domain that's assigned to new tenants in Office 365.</span></span> <span data-ttu-id="f0dad-104">Найпростіший спосіб вирішити цю проблему:</span><span class="sxs-lookup"><span data-stu-id="f0dad-104">The easiest way to resolve this problem is to:</span></span>
 
-1. <span data-ttu-id="d5dd3-105">[Додайте домен до свого клієнта](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="d5dd3-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
+1. <span data-ttu-id="f0dad-105">[Додайте домен до свого клієнта](https://docs.microsoft.com//office365/admin/setup/add-domain).</span><span class="sxs-lookup"><span data-stu-id="f0dad-105">[Add a domain to your tenant](https://docs.microsoft.com//office365/admin/setup/add-domain).</span></span>
 
-2. <span data-ttu-id="d5dd3-106">[Змініть основну адресу електронної пошти користувачів](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) на новий користувацький домен, який ви щойно додали.</span><span class="sxs-lookup"><span data-stu-id="d5dd3-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
+2. <span data-ttu-id="f0dad-106">[Змініть основну адресу електронної пошти користувачів](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) на новий користувацький домен, який ви щойно додали.</span><span class="sxs-lookup"><span data-stu-id="f0dad-106">[Change your users' primary email address](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) to the new custom domain you just added.</span></span>
