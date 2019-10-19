@@ -1,5 +1,5 @@
 ---
-title: Outlook.com персоналізованої електронної пошти адреса не є надсилання або отримання
+title: Outlook.com Персоналізована адреса електронної пошти не надсилає або не отримує
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545892"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Персоналізовані електронну адресу Outlook.com не надсилання або отримання
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Моя Персоналізована Outlook.com адреса електронної пошти не надсилає або не отримує
 
-Виберіть значок ромба, на панелі інструментів, щоб відкрити панель приладів преміум.
+Виберіть піктограму "алмаз" на панелі інструментів, щоб відкрити приладну дошку преміум-класу.
 
-Якщо ви не бачите значок ромба у вашу поштову скриньку (і ви бачите оголошення), це означає, що Office 365 підписки минув. Перейти до [https://account.microsoft.com/services](https://account.microsoft.com/services) знову активувати підписку, потім підключити ваш домен, виконавши дії, описані в "Початок роботи".
+Якщо ви не бачите піктограму "алмаз" у папці "Вхідні" (і ви бачите оголошення), це означає, що термін дії передплати Office 365 минув.  [https://account.microsoft.com/services](https://account.microsoft.com/services) Перейдіть до повторної активації передплати, а потім повторно підключіть домен, виконавши дії, описані в "Початок роботи".
 
-Якщо на вкладці "Персоналізований електронна адреса" має червону статусну бар, вашого домену, можливо, минув.
+Якщо на вкладці "Персоналізована адреса електронної пошти" має червону рядок стану, можливо, ваш домен минув.
 
-Читайте більше виправлення неполадок на [особисті електронні адреси у службі Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Додаткові дії для виправлення неполадок на [персоналізовані адреси електронної пошти в Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,5 +1,5 @@
 ---
-title: XML-схему форми Dynamics 365
+title: Dynamics 365 форми XML-схеми
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.custom:
 - "1473"
 - "6200020"
 ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528536"
 ---
-# <a name="webpage-html-web-resources-limitations"></a>Обмеження веб-сторінки (HTML)-веб-ресурси
+# <a name="webpage-html-web-resources-limitations"></a>Обмеження для веб-ресурсів (HTML)
 
-* В HTML веб-ресурс не може містити будь-який код, які повинні бути виконані на сервері. Не вдалося передати сторінки ASP.NET як HTML веб-ресурсів.
+* Веб-ресурс HTML не може містити будь-який код, який має виконуватися на сервері. ASP.NET сторінки не можуть бути завантажені як веб-ресурси HTML.
 
-* HTML веб-ресурсів можуть приймати тільки обмежена кількість параметри рядка запиту. Додаткові відомості: [передати параметри HTML веб-ресурси](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* Веб-ресурси HTML можуть приймати лише обмежену кількість параметрів рядка запиту. Додаткові відомості: [передайте параметри до веб-ресурсів HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Ресурси Інтернет веб-сторінки (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Ресурси веб-сторінки (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
