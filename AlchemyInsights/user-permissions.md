@@ -1,5 +1,5 @@
 ---
-title: Дозволи користувачів
+title: Дозволи користувача
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 5/21/2018
@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531956"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="cfe15-102">Дозволи користувачів SharePoint і OneDrive</span><span class="sxs-lookup"><span data-stu-id="cfe15-102">User permissions in SharePoint and OneDrive</span></span>
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="da38f-102">Дозволи користувачів у SharePoint і OneDrive</span><span class="sxs-lookup"><span data-stu-id="da38f-102">User permissions in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="cfe15-103">Якщо користувач в організації не мати доступ до SharePoint або OneDrive, переконайтеся, що вони мають ліцензії, що включає в себе SharePoint і OneDrive.</span><span class="sxs-lookup"><span data-stu-id="cfe15-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
+<span data-ttu-id="da38f-103">Якщо користувач у вашій організації не може отримати доступ до SharePoint або OneDrive, переконайтеся, що вони мають ліцензію, яка містить SharePoint і OneDrive.</span><span class="sxs-lookup"><span data-stu-id="da38f-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
   
-1. <span data-ttu-id="cfe15-104">Перейдіть на [сторінку активних користувачів Microsoft Outlook 365 центру адміністрування](https://portal.office.com/adminportal/home#/users) і виберіть користувача.</span><span class="sxs-lookup"><span data-stu-id="cfe15-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
+1. <span data-ttu-id="da38f-104">Перейдіть на [сторінку активні користувачі в центрі адміністрування Microsoft 365](https://portal.office.com/adminportal/home#/users) і виберіть користувача.</span><span class="sxs-lookup"><span data-stu-id="da38f-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
     
-2. <span data-ttu-id="cfe15-105">Переконайтеся, що під **продукту ліцензії**, отримує ліцензію і **SharePoint Online** вибрано.</span><span class="sxs-lookup"><span data-stu-id="cfe15-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="da38f-105">Переконайтеся, що в розділі **ліцензії на продукт**призначається ліцензія та вибрано **SharePoint Online** .</span><span class="sxs-lookup"><span data-stu-id="da38f-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
- <span data-ttu-id="cfe15-106">Щоб надати користувачеві дозвіл на доступ до сайту SharePoint:</span><span class="sxs-lookup"><span data-stu-id="cfe15-106">To give a user permission to access a SharePoint site:</span></span> 
+ <span data-ttu-id="da38f-106">Щоб надати користувачу дозвіл на доступ до сайту SharePoint:</span><span class="sxs-lookup"><span data-stu-id="da38f-106">To give a user permission to access a SharePoint site:</span></span> 
   
-1. <span data-ttu-id="cfe15-107">Відкрити сайт у браузері.</span><span class="sxs-lookup"><span data-stu-id="cfe15-107">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="da38f-107">Відкрийте сайт у веб-переглядачі.</span><span class="sxs-lookup"><span data-stu-id="da38f-107">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="cfe15-108">Якщо сайт належить Office 365 Група, клацніть піктограму "Параметри" у правому верхньому кутку та виберіть **дозволи сайту**.</span><span class="sxs-lookup"><span data-stu-id="cfe15-108">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="cfe15-109">Натисніть кнопку **запросити користувачів**а потім виберіть додавання членів до Office 365 групи або поділитися лише сайт.</span><span class="sxs-lookup"><span data-stu-id="cfe15-109">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="da38f-108">Якщо сайт належить до групи Office 365, клацніть значок "Параметри" у правому верхньому куті та виберіть пункт **дозволи сайту**.</span><span class="sxs-lookup"><span data-stu-id="da38f-108">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="da38f-109">Натисніть кнопку **запросити користувачів**, а потім виберіть Додати учасників до групи Office 365 або поділіться лише сайтом.</span><span class="sxs-lookup"><span data-stu-id="da38f-109">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="cfe15-110">Для повідомлення сайту натисніть кнопку **спільний доступ сайт** у верхньому правому, введіть ім'я користувача а потім виберіть рівень дозволу (читання, редагування або повний контроль).</span><span class="sxs-lookup"><span data-stu-id="cfe15-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="da38f-110">На сайті для зв'язку виберіть пункт **спільний доступ до сайту** у верхньому правому куті, введіть ім'я користувача, а потім виберіть рівень дозволів (читання, редагування або повний доступ).</span><span class="sxs-lookup"><span data-stu-id="da38f-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="cfe15-111">Сайт класичні групи натисніть кнопку **спільний доступ** у правому верхньому.</span><span class="sxs-lookup"><span data-stu-id="cfe15-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="cfe15-112">Введіть ім'я користувача ви хочете запросити або введіть усі поділитися з усіма у вашій організації.</span><span class="sxs-lookup"><span data-stu-id="cfe15-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="cfe15-113">Натисніть кнопку **спільний доступ**.</span><span class="sxs-lookup"><span data-stu-id="cfe15-113">Click **Share**.</span></span>
+    <span data-ttu-id="da38f-111">Для класичного сайту групи натисніть кнопку " **поділитися** " у верхньому правому куті.</span><span class="sxs-lookup"><span data-stu-id="da38f-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="da38f-112">Введіть ім'я особи, яку хочете запросити, або введіть всіх, щоб поділитися з усіма в організації.</span><span class="sxs-lookup"><span data-stu-id="da38f-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="da38f-113">Натисніть **поділитися**.</span><span class="sxs-lookup"><span data-stu-id="da38f-113">Click **Share**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="cfe15-114">Якщо ви є членом сайту, але не власник, ви можете запрошувати людей на сайт, але ваше запрошення призведе до створення запиту доступу, який може бути затверджений або знизився на власника сайту.</span><span class="sxs-lookup"><span data-stu-id="cfe15-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
+> <span data-ttu-id="da38f-114">Якщо ви є членом сайту, але не власник, ви можете запросити людей на сайт, але ваше запрошення створить запит на доступ, який може бути схваленим або відхилене власником сайту.</span><span class="sxs-lookup"><span data-stu-id="da38f-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
   
-[<span data-ttu-id="cfe15-115">Дізнатися, як дозволити спільний доступ до файлу або папки користувач</span><span class="sxs-lookup"><span data-stu-id="cfe15-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
+[<span data-ttu-id="da38f-115">Як спільно використовувати файл або папку з користувачем</span><span class="sxs-lookup"><span data-stu-id="da38f-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
   
 
