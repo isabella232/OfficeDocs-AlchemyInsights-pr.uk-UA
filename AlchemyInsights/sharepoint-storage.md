@@ -1,9 +1,8 @@
 ---
-title: SharePoint для зберігання
+title: Сховище SharePoint
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502754"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658278"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Керувати SharePoint Online зберігання
+# <a name="manage-your-sharepoint-online-storage"></a>Керування сховищем у SharePoint Online
 
-Для більшості організацій SharePoint для зберігання керується автоматично, так що вам не потрібно для встановлення обмежень на колекцію сайтів. Який обсяг сховища SharePoint, ви повинні перевірити:
-  
-- Нові центру адміністрування SharePoint, у верхньому правому куті сторінки сайтів шукати доступні та загальна зберігання.
+Дізнайтеся, як [сховище компонентів обчислюється](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) на основі вашого плану.
 
-Інформація про як розраховується свій ліміт дивіться [Онлайн межі SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=856113). Купити додаткового обсягу сховища, переглянути [зміни дискового простору для підписки](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Інформація про моніторинг зберігання окремі сайти за допомогою оболонки PowerShell та керування обсяг сховища колекції сайтів вручну, в розділі [керування сайт колекція зберігання межі](https://go.microsoft.com/fwlink/?linkid=867833)
+Для більшості організацій сховище SharePoint керує автоматично, тому не потрібно встановлювати обмеження на колекцію сайтів.
+
+Дізнайтеся, як [Переглянути загальний та доступний простір для зберігання даних організації](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Дізнайтеся, як [керувати окремими обмеженнями для зберігання колекції сайтів](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Якщо ваш сайт не має місця або ви хочете дізнатися, яка бібліотека або список використовує простір, перейдіть на **сайт налаштування** > **метрики зберігання** (права адміністратора колекції сайтів потрібно).
+
+Дізнайтеся, як [відстежувати обмеження сховища сайтів за допомогою PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Дізнайтесь, як [придбати додатковий обсяг сховища](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   
