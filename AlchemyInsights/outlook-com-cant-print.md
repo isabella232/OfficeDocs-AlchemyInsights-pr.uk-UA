@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36547944"
 ---
-# <a name="unable-to-print"></a><span data-ttu-id="5b22f-102">Не вдалося надрукувати</span><span class="sxs-lookup"><span data-stu-id="5b22f-102">Unable to print</span></span>
+# <a name="unable-to-print"></a><span data-ttu-id="b9c17-102">Не вдалося надрукувати</span><span class="sxs-lookup"><span data-stu-id="b9c17-102">Unable to print</span></span>
 
-<span data-ttu-id="5b22f-103">Ми знаємо про проблему, коли деякі користувачі не можуть друкувати під час використання браузерів Safari або EDGE.</span><span class="sxs-lookup"><span data-stu-id="5b22f-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="5b22f-104">Хоча ми працюємо над виправленням для цього, будь ласка, використовуйте інший браузер.</span><span class="sxs-lookup"><span data-stu-id="5b22f-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="5b22f-105">Перепрошуємо за незручності.</span><span class="sxs-lookup"><span data-stu-id="5b22f-105">We apologize for the inconvenience.</span></span>
+<span data-ttu-id="b9c17-103">Ми знаємо про проблему, коли деякі користувачі не можуть друкувати під час використання браузерів Safari або EDGE.</span><span class="sxs-lookup"><span data-stu-id="b9c17-103">We're aware of an issue where some users can't print when using Safari or Edge browsers.</span></span> <span data-ttu-id="b9c17-104">Хоча ми працюємо над виправленням для цього, будь ласка, використовуйте інший браузер.</span><span class="sxs-lookup"><span data-stu-id="b9c17-104">While we work on a fix for this, please use another browser.</span></span> <span data-ttu-id="b9c17-105">Перепрошуємо за незручності.</span><span class="sxs-lookup"><span data-stu-id="b9c17-105">We apologize for the inconvenience.</span></span>

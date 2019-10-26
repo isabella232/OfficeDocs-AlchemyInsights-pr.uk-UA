@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36515180"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a><span data-ttu-id="2c636-102">Створення або редагування профілю Outlook</span><span class="sxs-lookup"><span data-stu-id="2c636-102">Create or edit an Outlook profile</span></span>
+# <a name="create-or-edit-an-outlook-profile"></a><span data-ttu-id="3dc36-102">Створення або редагування профілю Outlook</span><span class="sxs-lookup"><span data-stu-id="3dc36-102">Create or edit an Outlook profile</span></span>
 
-<span data-ttu-id="2c636-103">Щоб створити новий профіль Outlook, змінити профіль або перейменувати профіль, виконайте наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="2c636-103">To create a new Outlook profile, edit a profile, or rename a profile, use the following steps.</span></span>
+<span data-ttu-id="3dc36-103">Щоб створити новий профіль Outlook, змінити профіль або перейменувати профіль, виконайте наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="3dc36-103">To create a new Outlook profile, edit a profile, or rename a profile, use the following steps.</span></span>
   
-1. <span data-ttu-id="2c636-104">У програмі **Outlook виберіть пункт** \> **Параметри** \> облікового запису для **керування профілями**.</span><span class="sxs-lookup"><span data-stu-id="2c636-104">In Outlook, select **File** \> **Account Settings** \> **Manage Profiles**.</span></span>
+1. <span data-ttu-id="3dc36-104">У програмі **Outlook виберіть пункт** \> **Параметри** \> облікового запису для **керування профілями**.</span><span class="sxs-lookup"><span data-stu-id="3dc36-104">In Outlook, select **File** \> **Account Settings** \> **Manage Profiles**.</span></span>
     
-2. <span data-ttu-id="2c636-105">У діалоговому вікні **Настроювання пошти** виберіть **Показати профілі**.</span><span class="sxs-lookup"><span data-stu-id="2c636-105">From the **Mail Setup** dialog, select **Show Profiles**.</span></span>
+2. <span data-ttu-id="3dc36-105">У діалоговому вікні **Настроювання пошти** виберіть **Показати профілі**.</span><span class="sxs-lookup"><span data-stu-id="3dc36-105">From the **Mail Setup** dialog, select **Show Profiles**.</span></span>
     
-3. <span data-ttu-id="2c636-106">Виконайте одну з таких дій:</span><span class="sxs-lookup"><span data-stu-id="2c636-106">Do one of the following:</span></span>
+3. <span data-ttu-id="3dc36-106">Виконайте одну з таких дій:</span><span class="sxs-lookup"><span data-stu-id="3dc36-106">Do one of the following:</span></span>
     
-  - <span data-ttu-id="2c636-107">Щоб створити новий профіль, виберіть **Додати**.</span><span class="sxs-lookup"><span data-stu-id="2c636-107">To create a new profile, select **Add**.</span></span>
+  - <span data-ttu-id="3dc36-107">Щоб створити новий профіль, виберіть **Додати**.</span><span class="sxs-lookup"><span data-stu-id="3dc36-107">To create a new profile, select **Add**.</span></span>
     
-  - <span data-ttu-id="2c636-108">Щоб відредагувати або перейменувати профіль, виберіть пункт **Властивості**.</span><span class="sxs-lookup"><span data-stu-id="2c636-108">To edit or rename a profile, select **Properties**.</span></span>
+  - <span data-ttu-id="3dc36-108">Щоб відредагувати або перейменувати профіль, виберіть пункт **Властивості**.</span><span class="sxs-lookup"><span data-stu-id="3dc36-108">To edit or rename a profile, select **Properties**.</span></span>
     
-<span data-ttu-id="2c636-109">Якщо у вас виникли проблеми зі створенням або редагуванням профілю Outlook, [засіб "профіль Outlook"](https://aka.ms/SaRA-OutlookSetupProfile) можна запустити на проблемному комп'ютері.</span><span class="sxs-lookup"><span data-stu-id="2c636-109">If you're having problems creating or editing an Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="2c636-110">Він виконає деякі перевірки, і коли ви будете готові створити профіль Outlook з вашою адресою електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="2c636-110">It will perform some checks, and when you're ready will create an Outlook profile with your email address.</span></span> 
+<span data-ttu-id="3dc36-109">Якщо у вас виникли проблеми зі створенням або редагуванням профілю Outlook, [засіб "профіль Outlook"](https://aka.ms/SaRA-OutlookSetupProfile) можна запустити на проблемному комп'ютері.</span><span class="sxs-lookup"><span data-stu-id="3dc36-109">If you're having problems creating or editing an Outlook profile, you can run the [Outlook profile tool](https://aka.ms/SaRA-OutlookSetupProfile) on the affected machine.</span></span> <span data-ttu-id="3dc36-110">Він виконає деякі перевірки, і коли ви будете готові створити профіль Outlook з вашою адресою електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="3dc36-110">It will perform some checks, and when you're ready will create an Outlook profile with your email address.</span></span> 
   
 
