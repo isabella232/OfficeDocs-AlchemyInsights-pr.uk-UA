@@ -1,5 +1,5 @@
 ---
-title: Відомості про підписку на
+title: Інформація про підписку
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501278"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576897"
 ---
-# <a name="subscription-information"></a>Відомості про підписку на
+# <a name="subscription-information"></a>Інформація про підписку
 
-Інформація про Office 365 підписки ви володієте, центру адміністрування, перейдіть на **платіжну** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.
+Щоб отримати відомості про підписку, перейдіть на сторінку " **платіжні** \> [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
   
-Основні відомості про кожну з передплат:
+Основні відомості про кожну передплату:
   
 - Статус кожного
 
@@ -32,10 +32,10 @@ ms.locfileid: "36501278"
 
 - Ліцензії, призначені
 
-- Повторювані білінгу статус
+- Стан повторюваного виставлення рахунків
 
 - Баланс
 
-- Метод оплати
+- Спосіб оплати
 
-- Наступної дати виставлення рахунку або терміну дії
+- Наступна дата виставлення рахунків або термін дії
