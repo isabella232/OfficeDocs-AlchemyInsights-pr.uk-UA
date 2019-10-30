@@ -1,9 +1,8 @@
 ---
-title: 718 додавання зовнішні контакти / люди поза межами організації до списку розсилки
+title: 718 додавання зовнішніх контактів/осіб за межами організації до списку розсилки
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494584"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766660"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a>Додати зовнішніми електронні адреси до групи розсилки
+# <a name="add-external-email-addresses-to-a-distribution-group"></a>Додавання зовнішніх адрес електронної пошти до групи розсилки
 
-Спочатку потрібно створити контакт у вашій організації для на зовнішні адреси електронної пошти. Потім ви можете додати контакт до групи розсилки. Докладніше, перегляньте [Додавання зовнішніх користувачів до групи розсилки?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
+По-перше, вам потрібно створити контакт у вашій організації для зовнішньої адреси електронної пошти. Після цього можна додати контакт до групи розсилки. Для отримання додаткових відомостей див. [Додавання зовнішніх користувачів до групи розсилки?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).
 
-За бажанням зовнішні користувачі могли надсилати повідомлення до групи розсилки, перевірте, чи групі налаштовано для прийому пошти від зовнішніх відправників. Докладніше перегляньте статтю [керування доставкою](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).
+Якщо потрібно, щоб зовнішні користувачі могли надсилати повідомлення до групи розсилки, переконайтеся, що група налаштована на прийом пошти від зовнішніх відправників. Щоб дізнатися більше, зверніться до [керування доставкою](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).

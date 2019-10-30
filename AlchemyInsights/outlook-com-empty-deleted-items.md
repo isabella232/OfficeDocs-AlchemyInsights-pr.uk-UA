@@ -3,7 +3,6 @@ title: Спорожнити папку "Видалені" в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 9/17/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: f60310161e25ca91b8bf7e33c3f06a1bc3c7873e
-ms.sourcegitcommit: b8b62ff3de7b7a21658d076e839d3263313e2a8f
+ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37021841"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768713"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Очищення папки «Видалені»
 
-Щоб видалити всі видалені повідомлення, перейдіть до [папки "](https://outlook.live.com/mail/deleteditems) Видалені" та виберіть **порожню папку**, а потім виберіть **відновити елементи, видалені з цієї папки** над списком повідомлень, і виберіть **порожню папку**   Знову.
+Щоб очистити всі видалені повідомлення Outlook, перейдіть до [папки "Видалені об'єкти"](https://outlook.live.com/mail/deleteditems) та виберіть **порожню папку**, а потім виберіть **відновити елементи, видалені з цієї папки** над списком повідомлень і виберіть **порожню папку**  знову.
 
 Якщо ви видалили багато повідомлень, це може зайняти деякий час для цих елементів, щоб перейти до або видалити з папки "Видалені". Будь ласка, залиште вікно браузера відкритим, поки елементи не будуть видалені.
 

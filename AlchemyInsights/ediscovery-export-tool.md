@@ -3,7 +3,6 @@ title: Витребування електронної інформації дл
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 8/3/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36736346"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769324"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не вдається інсталювати або запустити засіб експортування необхідної інформації?
 

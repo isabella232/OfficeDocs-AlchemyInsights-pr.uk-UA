@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5e61491b626bfe75fd26a15ee54be82d9efa19a7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751693"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766912"
 ---
 # <a name="workflows-in-sharepoint"></a>Робочі цикли в SharePoint
 
 Якщо SharePoint робочі цикли не надсилають повідомлення електронної пошти, можливо, ваша організація зіткнулася з меж відправника Exchange Online.
 
-"Робочий процес призупинено" повідомлення про помилку може виникнути, якщо у вас є один із таких елементів:
+Повідомлення про помилку "робочий процес призупинено" може виникнути, якщо один із таких елементів:
 
 - У вас є робочий цикл SharePoint Online, який використовує тип платформи робочого циклу SharePoint 2010 або SharePoint 2013.
 

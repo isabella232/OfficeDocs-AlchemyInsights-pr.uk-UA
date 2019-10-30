@@ -1,9 +1,8 @@
 ---
-title: Активувати нове підключення з ключем продукту
+title: Активація нової передплати з ключем продукту
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495664"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766408"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Активувати нове підключення з ключем продукту
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Активація нової передплати з ключем продукту
 
-1. Щоб активувати нове підключення з ключем продукту, перейдіть до на [https://office.com/setupkey](https://office.com/setupkey) сторінки.
+1. Щоб активувати нову передплату Office 365 з ключем продукту, перейдіть до [https://office.com/setupkey](https://office.com/setupkey).
 
-2. Введіть ключ продукту Office 365 і дотримуйтесь інструкцій на екрані, щоб активувати вашу підписку. Якщо у вас є проблеми з активацією, перевірити цей [список поширених продукту Основні помилки і рішення](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Введіть ключ продукту Office 365 і дотримуйтеся вказівок, щоб активувати підписку. Якщо у вас виникли проблеми з активацією, перегляньте цей [список поширених помилок і рішень](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

@@ -1,5 +1,5 @@
 ---
-title: Завантажити файли на OneDrive або SharePoint
+title: Завантаження файлів у OneDrive або SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532532"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769900"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Завантажити файли на OneDrive або SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Завантаження файлів у OneDrive або SharePoint
 
-1. У вашому веб-переглядачі перейдіть до розташування, де потрібно завантажувати файли.
+1. У веб-переглядачі перейдіть до потрібного місця для завантаження файлів.
     
-2. Відкрийте Файловий провідник і знайдіть файли, які ви хочете завантажити.
+2. Відкрийте Файловий провідник і перейдіть до файлів, які потрібно завантажити.
     
-3. Виберіть файли і перетягніть їх до розташування в OneDrive або SharePoint. Примітка: Якщо ви використовуєте Microsoft краю, Mozilla FireFox або Google Chrome, можна також завантажити папки і файли в ній.
+3. Виберіть файли та перетягніть їх до розташування в OneDrive або SharePoint. Примітка: Якщо ви використовуєте Microsoft EDGE, Mozilla FireFox або Google Chrome, ви також можете завантажити папку та всі файли в ньому.
     
-> [!NOTE]
->  Ви можете завантажувати файли до 15 ГБ за розміром. > повний шлях (включно з іменем файлу) файл не може бути більше, ніж 400 символів в довжину. > якщо вам необхідно завантажити більше 100 файлів, [використовувати клієнт OneDrive синхронізації](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Нотатки:**
+- Можна завантажувати файли розміром до 15 ГБ. 
+- Повний шлях до файлу (включно з іменем файлу) не може перевищувати 400 символів. 
+- Якщо потрібно завантажити більше 100 файлів, [використовуйте клієнт синхронізації OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 
