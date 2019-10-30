@@ -2,7 +2,6 @@
 title: Зовнішній користувач не може отримати доступ до вмісту
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +11,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d271206230148f2a6b95fb4e12682feefc02274f
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740054"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769216"
 ---
-# <a name="external-user-cannot-access-content"></a><span data-ttu-id="bad2f-102">Зовнішній користувач не може отримати доступ до вмісту</span><span class="sxs-lookup"><span data-stu-id="bad2f-102">External user cannot access content</span></span>
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a><span data-ttu-id="0290b-102">Зовнішній користувач не може отримати доступ до SharePoint або OneDrive вмісту</span><span class="sxs-lookup"><span data-stu-id="0290b-102">External user cannot access SharePoint or OneDrive content</span></span>
 
-<span data-ttu-id="bad2f-103">Якщо зовнішній користувач був запрошений і не може отримати доступ до контенту, будь ласка, спробуйте відвідати посилання нижче:</span><span class="sxs-lookup"><span data-stu-id="bad2f-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
+<span data-ttu-id="0290b-103">Якщо зовнішній користувач був запрошений і не може отримати доступ до контенту, будь ласка, спробуйте відвідати посилання нижче:</span><span class="sxs-lookup"><span data-stu-id="0290b-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
 
-- [<span data-ttu-id="bad2f-104">"Немає доступу", "вам потрібен дозвіл на доступ до цього сайту", або "користувач не знайдений в каталозі" помилки в SharePoint Online і OneDrive для бізнесу</span><span class="sxs-lookup"><span data-stu-id="bad2f-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="bad2f-105">"Політика організації не дозволяє надати спільний доступ до цих користувачів" помилка під час спільного використання елемента або сайту SharePoint Online або OneDrive, для бізнесу</span><span class="sxs-lookup"><span data-stu-id="bad2f-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="bad2f-106">Параметри спільного доступу виділено сірим, коли спільний доступ із SharePoint Online або OneDrive</span><span class="sxs-lookup"><span data-stu-id="bad2f-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="bad2f-107">Повідомлення про помилку, коли зовнішній користувач приймає запрошення SharePoint Online за допомогою іншого облікового запису</span><span class="sxs-lookup"><span data-stu-id="bad2f-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [<span data-ttu-id="bad2f-108">Спільне використання помилок у SharePoint і OneDrive</span><span class="sxs-lookup"><span data-stu-id="bad2f-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="0290b-104">"Немає доступу", "вам потрібен дозвіл на доступ до цього сайту", або "користувач не знайдений в каталозі" помилки в SharePoint Online і OneDrive для бізнесу</span><span class="sxs-lookup"><span data-stu-id="0290b-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="0290b-105">"Політика організації не дозволяє надати спільний доступ до цих користувачів" помилка під час спільного використання елемента або сайту SharePoint Online або OneDrive, для бізнесу</span><span class="sxs-lookup"><span data-stu-id="0290b-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="0290b-106">Параметри спільного доступу виділено сірим, коли спільний доступ із SharePoint Online або OneDrive</span><span class="sxs-lookup"><span data-stu-id="0290b-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="0290b-107">Повідомлення про помилку, коли зовнішній користувач приймає запрошення SharePoint Online за допомогою іншого облікового запису</span><span class="sxs-lookup"><span data-stu-id="0290b-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="0290b-108">Спільне використання помилок у SharePoint і OneDrive</span><span class="sxs-lookup"><span data-stu-id="0290b-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

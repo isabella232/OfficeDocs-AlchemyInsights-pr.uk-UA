@@ -1,5 +1,5 @@
 ---
-title: Office 365 URL та IP-адреси
+title: URL-адреси Office 365 і IP-адреси
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522056"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775336"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="e9f99-102">Office 365 URL та IP-адреса діапазонів</span><span class="sxs-lookup"><span data-stu-id="e9f99-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="3237c-102">URL-адреси Office 365 і діапазони IP-адрес</span><span class="sxs-lookup"><span data-stu-id="3237c-102">Office 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="e9f99-103">Office 365 потребує підключення до Інтернету.</span><span class="sxs-lookup"><span data-stu-id="e9f99-103">Office 365 requires connectivity to the Internet.</span></span> <span data-ttu-id="e9f99-104">Кінцевими точками в цій статті, [Office 365 URL-адреси та діапазони IP-адрес](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), потрібно бути досяжні для користувачам доступ до служби Office 365.</span><span class="sxs-lookup"><span data-stu-id="e9f99-104">The endpoints in this article, [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), need to be reachable for users to access Office 365.</span></span>
+<span data-ttu-id="3237c-103">Office 365 потребує підключення до Інтернету через певні IP-адреси, які називаються *кінцевими точками*.</span><span class="sxs-lookup"><span data-stu-id="3237c-103">Office 365 requires connectivity to the Internet via specific IP addresses called *endpoints*.</span></span>
+<span data-ttu-id="3237c-104">Список кінцевих точок, які потрібно досяжні, див. [URL-адреси Office 365 і діапазони IP-адрес](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span><span class="sxs-lookup"><span data-stu-id="3237c-104">For a list of endpoints that need to be reachable, see [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)</span></span> 
+
+<span data-ttu-id="3237c-105">Office 365 IP-адреса та URL веб-служба допоможе вам краще визначити і відрізнити Office 365 мережний трафік, що полегшує для вас оцінити, налаштувати і залишатися в курсі змін.</span><span class="sxs-lookup"><span data-stu-id="3237c-105">The Office 365 IP Address and URL web service helps you better identify and differentiate Office 365 network traffic, making it easier for you to evaluate, configure, and stay up to date with changes.</span></span> <span data-ttu-id="3237c-106">Дивіться [Office 365 IP-адресу та URL веб-служби](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span><span class="sxs-lookup"><span data-stu-id="3237c-106">See [Office 365 IP Address and URL web service](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).</span></span>
