@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36747769"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Відмовлено в доступі під час перегляду робочого процесу
@@ -27,5 +27,5 @@ SharePoint 2013 робочих циклів, які намагаються на�
   
  3. Явно додати користувачів до рядка кому або копія, якщо видимість членства не можна змінити для групи SharePoint.
   
-Для перегляду більш докладної інформації, будь ласка, зверніться до [http несанкціонований/_vti_bin/Client.SVC/SP.utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Для перегляду більш детальної інформації, будь ласка, зверніться до [http несанкціонованого доступу до/_vti_bin/Client.SVC/SP.utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
