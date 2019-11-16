@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
 ms.openlocfilehash: 54015c673e414772e9fd000f6bc012021852752b
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36529617"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a><span data-ttu-id="baddf-102">Завантаження та інсталяція або повторна інсталяція Office 365 або Office 2016 на ПК або Mac</span><span class="sxs-lookup"><span data-stu-id="baddf-102">Download and install or reinstall Office 365 or Office 2016 on a PC or Mac</span></span>
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a><span data-ttu-id="b3890-102">Завантаження та інсталяція або повторна інсталяція Office 365 або Office 2016 на ПК або Mac</span><span class="sxs-lookup"><span data-stu-id="b3890-102">Download and install or reinstall Office 365 or Office 2016 on a PC or Mac</span></span>
 
-<span data-ttu-id="baddf-103">Щоб завантажити й інсталювати продукти Office, які входять до передплати, перейдіть до розділу [моє програмне забезпечення](https://portal.office.com/OLS/MySoftware.aspx) \> **та натисніть** кнопку **інсталювати**.</span><span class="sxs-lookup"><span data-stu-id="baddf-103">To download and install Office products included in your subscription, go to [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** and click **Install**.</span></span> 
+<span data-ttu-id="b3890-103">Щоб завантажити й інсталювати продукти Office, які входять до передплати, перейдіть до розділу [моє програмне забезпечення](https://portal.office.com/OLS/MySoftware.aspx) \> **та натисніть** кнопку **інсталювати**.</span><span class="sxs-lookup"><span data-stu-id="b3890-103">To download and install Office products included in your subscription, go to [My Software](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** and click **Install**.</span></span> 
   
-<span data-ttu-id="baddf-104">Докладні інструкції можна переглянути, [завантажити та інсталювати або повторно інсталювати Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span><span class="sxs-lookup"><span data-stu-id="baddf-104">For detailed instructions, see [Download and install or reinstall Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span></span>
+<span data-ttu-id="b3890-104">Докладні інструкції можна переглянути, [завантажити та інсталювати або повторно інсталювати Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span><span class="sxs-lookup"><span data-stu-id="b3890-104">For detailed instructions, see [Download and install or reinstall Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).</span></span>
   
-<span data-ttu-id="baddf-105">Якщо потрібно інсталювати Office в автономному режимі, [2016](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business)див.</span><span class="sxs-lookup"><span data-stu-id="baddf-105">If you need to install Office offline, see [Use the Office 2016 offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span></span>
+<span data-ttu-id="b3890-105">Якщо потрібно інсталювати Office в автономному режимі, [2016](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business)див.</span><span class="sxs-lookup"><span data-stu-id="b3890-105">If you need to install Office offline, see [Use the Office 2016 offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).</span></span>
   
 
