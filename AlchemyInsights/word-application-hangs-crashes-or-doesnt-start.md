@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000584"
 - "2686"
-ms.openlocfilehash: 94fd306d7eb0de5f7a9eb90b92ae49bd80c50d38
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: 6c807dc8b05788baa71b302275523b64a311157a
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37027219"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39628191"
 ---
 # <a name="word-crashes-or-doesnt-respond"></a>Word аварійно завершує роботу або не відповідає
 
@@ -31,7 +31,7 @@ ms.locfileid: "37027219"
 1.   На робочому столі Windows закрийте Outlook і натисніть сполучення клавіш CTRL + ALT + DEL, щоб відкрити диспетчер завдань. 
 2. На вкладці " **процеси** ", якщо запущено Word процеси, виберіть їх і виберіть **завершити завдання**. Також рекомендується перезавантажити, щоб очистити все з пам'яті.
 
-    Якщо Microsoft Word продовжує аварійно завершувати роботу або зависнути під час запуску, див. [Відкрити програми Office у безпечному режимі на ПК з ОС Windows](https://support.office.com/en-us/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) , щоб запустити його в безпечному режимі.
+    Якщо Microsoft Word продовжує аварійно завершувати роботу або зависнути під час запуску, див. [Відкрити програми Office у безпечному режимі на ПК з ОС Windows](https://support.office.com/article/Open-Office-apps-in-safe-mode-on-a-Windows-PC-dedf944a-5f4b-4afb-a453-528af4f7ac72) , щоб запустити його в безпечному режимі.
 
 Якщо проблеми не виникають, перегляньте такі статті: 
 - [Я отримую помилку "перестав працювати" під час запуску програм Office на ПК](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa)

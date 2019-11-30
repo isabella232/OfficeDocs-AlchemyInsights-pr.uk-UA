@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2657"
 - "9000734"
-ms.openlocfilehash: dac06690b51459ca166c15a5ef0f4c7e7a6d36f0
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: b5599c9974eb1c112835a9f42e4ebdc926071ea2
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376892"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627595"
 ---
 # <a name="manage-meeting-policies-in-microsoft-teams"></a>Керування політиками нарад у Microsoft teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "37376892"
 
 Додаткові відомості про правила для нарад можна отримати в таких ресурсах:
 
-- Щоб дізнатися про створення політик, внесення змін і призначення користувачів політиці [, див.](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams)
+- Щоб дізнатися про створення політик, внесення змін і призначення користувачів політиці [, див.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
 - Щоб внести зміни до політики за допомогою командлети PowerShell [, див.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
     - Потрібно використовувати [Skype, бізнес-PowerShell модуль](https://www.microsoft.com/download/details.aspx?id=39366) для робочих груп, наради політики. 
