@@ -1,7 +1,7 @@
 ---
-title: Авто нанесення написів чутливість
-ms.author: stephow
-author: stephow-MSFT
+title: Автоматично застосовувати Мітки чутливості
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517412"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050330"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Авто нанесення написів чутливість
+# <a name="auto-apply-sensitivity-labels"></a>Автоматично застосовувати Мітки чутливості
 
-Чутливість підписи можна вручну застосувати до вмісту користувачами, або ви можете налаштувати їх, щоб автоматично застосувати до вмісту.
+Мітки чутливості можна вручну застосувати до вмісту користувачами, або їх можна настроїти на автоматичне застосування до вмісту.
 
-Автоматично застосування чутливість етикетки видаляє необхідності навчання користувачів про те, як класифікуйте вміст і потрібно повідомити їх про політику конфігурацій.
+Автоматичне застосування міток чутливості видаляє необхідність навчати користувачів про те, як класифікувати вміст і необхідність повідомляти їх про конфігурацію політики.
 
-Щоб автоматично застосувати етикетки, такі вимагається:
+Щоб автоматично застосувати підписи, потрібно вказати таке:
 
-- Блакитні підписки P2 захисту інформації
-- [Завантажити та встановити уніфікованих маркування клієнт Azure захисту інформації](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Підписка на захист інформації P2
+- [Завантажити та інсталювати Azure відомості про захист Unified маркування клієнта](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Ми працюємо над вбудована підтримка, які не вимагають єдиної маркування клієнт Azure захисту інформації в майбутньому.
+Ми працюємо над рідною підтримкою, яка не зажадає від клієнта Azure відомості про захист Unified маркування клієнт в майбутньому.
 
-На даний момент тільки Windows підтримує єдину маркування клієнта.  Ця функція не підтримується на Mac, iOS і Android.
+Наразі лише Windows підтримує уніфікований маркування клієнта.  Ця функція ще не підтримується на Mac, iOS і Android.
 
-Для отримання додаткової інформації на етикетках чутливість і їх застосування автоматично до змісту див.:
+Щоб отримати докладнішу інформацію про Мітки чутливості і автоматично застосовувати їх до вмісту, див.:
 
-- [Огляд чутливість етикетки](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [Застосувати позначку чутливість до вмісту автоматично](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Огляд позначок чутливості](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [Застосування Мітки чутливості до вмісту автоматично](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
