@@ -1,7 +1,7 @@
 ---
 title: Outlook.com Settings
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386386"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053282"
 ---
 # <a name="settings-in-outlookcom"></a>Налаштування в Outlook.com
 
-Якщо одержувач внутрішній або зовнішній у вашій організації, і якщо вони використовують обліковий запис електронної пошти Office 365 або Outlook.com, такі клієнти не повинні робити нічого особливого, щоб відкрити повідомлення: **Outlook 2016, Outlook, в Інтернеті/Outlook Web App, Outlook Mobile App**
+Якщо одержувач внутрішній або зовнішній у вашій організації, і якщо вони використовують обліковий запис електронної пошти Office 365 або Outlook.com, такі клієнти не повинні робити нічого особливого, щоб відкрити повідомлення: **outlook 2016, Outlook, в Інтернеті/Outlook Web App, Outlook для мобільних пристроїв**
 
 **Представники** користувачів, яким вдалося надіслати електронний лист, не можуть відкривати захищені повідомлення. Для перегляду інформації в електронному листі можуть бути надіслані лише оригінальні одержувачі (особа, що захищається електронною поштою).
 

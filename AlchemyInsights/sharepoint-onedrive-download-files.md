@@ -1,7 +1,7 @@
 ---
-title: Завантажити або заборонити завантаження файлів з OneDrive або SharePoint
-ms.author: efrene
-author: efrene
+title: Завантаження або заборона завантаження файлів із OneDrive або SharePoint
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
 ms.date: 8/07/2019
 ms.audience: Admin
@@ -13,24 +13,24 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 409845a2e62aaeb6027a4c9120f5fc84d9c9722a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3a71734876cd3563ff4284b8389db53cdef24c56
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503332"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051374"
 ---
-# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Завантажити або заборонити завантаження файлів з OneDrive або SharePoint
+# <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>Завантаження або заборона завантаження файлів із OneDrive або SharePoint
 
-Ви можете завантажити файли та папки з OneDrive, або на сайті SharePoint до комп'ютера за допомогою декількох кліків. Більш докладну інформацію про завантаження файлів, швидкості і граничного завантаження будь ласка, відвідайте нижче посиланнями.
+Ви можете завантажувати файли та папки з OneDrive або з SharePoint Online на комп'ютер за допомогою лише кількох клацань мишею. Для отримання додаткової інформації про завантаження файлів, швидкості і обмеження завантажень, будь ласка, відвідайте посилання нижче.
 
-- [Завантажити файли та папки з OneDrive або SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
-- [Завантаження файлу блок з блакитні оголошення умовного доступу](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Завантаження файлів і папок із OneDrive або SharePoint](https://support.office.com/article/Download-files-and-folders-from-OneDrive-or-SharePoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05)
+- [Блокувати завантаження файлів за допомогою умовного доступу Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 
-- [Максимізувати завантаження і швидкість завантаження](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [Максимізуйте швидкість завантаження та завантаження](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
-- [Виправити проблеми з синхронізацією OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [Вирішення проблем із синхронізацією OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [Завантажити OneDrive для бізнесу](https://onedrive.live.com/about/download/)
+- [Завантажити OneDrive, для бізнесу](https://onedrive.live.com/about/download/)
 

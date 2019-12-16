@@ -1,9 +1,8 @@
 ---
-title: Email Ліміт добової перевищено. Робочий процес буде призупинено.
-ms.author: efrene
-author: efrene
+title: Перевищено граничну кількість щоденних повідомлень електронної пошти. Робочий процес призупинено.
+ms.author: pebaum
+author: pebaum
 manager: pamgreen
-ms.date: 7/25/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: e3fbcd5bfc279847cfb39140c3689f5433b61509
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3cad5d8305da0a5db9a85888793350a062e6aed6
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514495"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053138"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Щоденне електронне повідомлення вичерпана. Робочий процес буде призупинено.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Перевищено граничну кількість щоденних повідомлень електронної пошти. Робочий процес призупинено.
 
-Ця помилка може бути отримана в таких випадках:
+Цю помилку можна отримати у таких випадках:
 
-- У вас робочий процес у SharePoint Online, що використовує SharePoint 2010 або тип платформи робочого циклу SharePoint 2013.
-- Робочий процес настроєний на надсилання повідомлення електронної пошти користувача більш ніж 200 користувачам час, більш ніж 10000 одержувачів на день або більше 30 повідомлень за хвилину.
-- Під час запуску робочого процесу, не буде надіслано сповіщення електронною поштою, а ви помітили, що така поведінка:
-    - Для робочого процесу за допомогою SharePoint 2013 тип платформи ви перейдіть до сторінки **Стану робочого процесу** . На сторінці стану робочих **Started**встановлено **Внутрішній світ** і повітряна куля інформації відображає **не вдалося надіслати одержувачу**.
+- У вас є робочий цикл SharePoint Online, який використовує тип платформи робочого циклу SharePoint 2010 або SharePoint 2013.
+- Робочий цикл налаштовано на надсилання настроюваного повідомлення електронної пошти більш ніж 200 користувачів одночасно, більше 10 000 одержувачів на день або більше 30 повідомлень за хвилину.
+- Під час запуску робочого циклу, повідомлення електронної пошти не надіслано, і ви помітите, що така поведінка:
+    - Для робочого циклу, використовуючи тип платформи SharePoint 2013, перейдіть на сторінку **стан робочого циклу** . На сторінці стан робочого циклу **внутрішній стан** налаштовано на **початок**, а інформаційна виноска **не може надіслати одержувачу**.
 
-Щоб вирішити цю проблему, настройте робочий процес надсилання повідомлень електронної пошти без перевищення [Exchange Online відправника меж](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Наприклад, використовуйте пауза робочого циклу, надіслати електронну пошту до Office 365 Група, групу розсилки або групу безпеки пошти ввімкнуто або відправити повідомлення до менше ніж 200 одержувачів одночасно.
+Щоб вирішити цю проблему, настройте робочий цикл для надсилання повідомлень електронної пошти без перевищення [меж відправника Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Наприклад, використовуйте паузу в робочому циклі, надішліть повідомлення електронної пошти на групу Office 365, групу розсилки або поштову групу безпеки або надішліть повідомлення менше ніж 200 одержувачам одночасно.
 
 
-Докладніше перегляньте наступні [статті](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
+Щоб отримати додаткові відомості, зверніться до такої [статті](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).
 
 ## <a name="related-topics"></a>Пов’язані теми
 - [Створити потік](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint і потік](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+- [SharePoint і Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
