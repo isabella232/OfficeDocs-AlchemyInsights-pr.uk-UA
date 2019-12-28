@@ -12,20 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ca5dc9041bad4da9353601bdc39ecf986356f1b1
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 8aa9ab5e6db0d434c13ed9e2d325d28552b7caeb
+ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741053"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40886422"
 ---
 # <a name="account-is-blocked-for-sending-too-much-spam"></a>Обліковий запис заблоковано внаслідок надсилання великої кількості спаму
 
-Якщо обліковий запис Office 365 заблоковано внаслідок надсилання великої кількості спаму, обліковий запис, з якого надсилають пошту, може бути зламано. Потрібно буде:
-  
-1. [Визначити, чи не зламано обліковий запис](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account#symptoms-of-a-compromised-office-365-email-account). Якщо це так, виконати вказівки в статті [Реагування на зламаний обліковий запис електронної пошти в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account).
+Якщо ви – адміністратор і одному з ваших користувачів заборонено надсилати повідомлення електронної пошти, ви можете [самостійно розблокувати обліковий запис](https://protection.office.com/?hash=/restrictedusers), **не надсилаючи запит до служби підтримки**. Користувач знову зможе надсилати повідомлення електронної пошти впродовж години після зняття обмеження.
 
-2. Перейти на сторінку "Обмежені користувачі" та **[розблокувати обліковий запис](https://protection.office.com/?hash=/restrictedusers)** у Центрі безпеки &amp; та відповідності. Коли це буде виконано, *впродовж 1 години* ви отримаєте змогу знову надсилати повідомлення.
-
-3. Щоб запобігти несанкціонованому доступу до облікових записів у майбутньому, дотримуйтеся рекомендацій зі статті [Стратегія розвитку системи безпеки Office 365](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
-  
+Служба не дає можливості користувачу надсилати повідомлення електронної пошти, якщо було встановлено, що обліковий запис зламано і/або з нього надсилається спам. З міркувань безпеки, виконайте вказівки, наведені в статті [Реагування на зламаний обліковий запис електронної пошти в Office 365](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) для користувача.
