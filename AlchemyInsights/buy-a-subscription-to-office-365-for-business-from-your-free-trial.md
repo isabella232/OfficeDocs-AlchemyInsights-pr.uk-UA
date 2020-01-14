@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e8e6d1829d60695d40036765c880533c2dfcc5b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b89f0c0e1c698137720c60900eeba562877d0d8d
+ms.sourcegitcommit: 8b3ffd019dfcaff8d2dbde9eb5320f30c135aaa3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664773"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41104678"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Придбайте передплату на Office 365 з безкоштовної пробної версії
 
@@ -25,7 +25,7 @@ ms.locfileid: "36664773"
   
  **Купуйте той самий план, що і ваш судовий розгляд**
   
-1. У центрі адміністрування перейдіть на сторінку **платіжні** \> [продукти _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. У Центрі адміністрування перейдіть на сторінку **Виставлення рахунків** \> [Товари та послуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
 2. Знайдіть підписку, яку хочете придбати. У розділі **ліцензії** виберіть **придбати передплату**та виконайте дії, які потрібно перевірити.
 
@@ -36,3 +36,7 @@ ms.locfileid: "36664773"
 3. Знайдіть підписку, яку потрібно придбати, виберіть **придбати**та виконайте дії, які потрібно перевірити.
 
 Щоб дізнатися більше, Дивись [купити передплату на Office 365 для бізнесу від безкоштовної пробної версії](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+
+**Виправлення неполадок**
+
+Якщо під час завантаження сторінки виникли проблеми, спробуйте відкрити її в іншому браузері або в приватному вікні, як-от вікно InPrivate у Microsoft Edge або анонімне вікно в Google Chrome.
