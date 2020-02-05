@@ -1,5 +1,5 @@
 ---
-title: Видалення колекції сайтів у програмі SharePoint
+title: Як видалити сайт
 ms.author: pebaum
 author: pebaum
 ms.date: 6/20/2019
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: e15682af9069f8cd9e8f2893100a0044a51b2f04
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8aa4c604c96e4bef0093ea4abc3cabd0c6a7d90e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053030"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770408"
 ---
-# <a name="delete-a-site-collection"></a>Як видалити колекцію сайтів
+# <a name="delete-a-site"></a>Як видалити сайт
 
-Коли ви, як глобальний або SharePoint Admin в Office 365, видаліть сайт (раніше називався "колекція сайтів"), він переміщується до кошика колекції сайтів і зберігається протягом 93 днів. 
+Коли ви видаляєте сайт, він переміщується на [Видалені сайти](https://admin.microsoft.com/sharepoint) і зберігається протягом 93 днів. Щоб видалити сайт, перейдіть до розділу [активні сайти](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Коли ви видаляєте сайт, все в ньому видаляється в тому числі:
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053030"
 - Налаштування сайту та історія.
 - Будь-які підсайти та їх вміст.
 
-Ви повинні повідомляти адміністраторів сайту та будь-які власники підсайтів, перш ніж видаляти сайт, щоб вони могли переміщати свої дані в інше місце, а також повідомляти користувачам, коли сайти будуть видалені. 
+Перш ніж видаляти сайт, ви повинні повідомити адміністраторів сайту та будь-яких власників сайту, щоб вони могли переміщати свої дані в інше місце, а також повідомляти користувачів про те, що сайти будуть видалені.
 
-Для отримання додаткових відомостей див. [видалення колекції сайтів](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+Для отримання додаткових відомостей див. [видалення сайту](https://docs.microsoft.com/sharepoint/delete-site-collection).

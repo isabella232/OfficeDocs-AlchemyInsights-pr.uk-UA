@@ -1,5 +1,5 @@
 ---
-title: Як закрити ваш обліковий запис Analytics робочий стіл
+title: Як закрити свій обліковий запис Analytics на робочому столі
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2499"
-ms.openlocfilehash: 8ca9b323800a43d968192cef39b2b84d4c38e762
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db22c9f8fd073825eb4d6901d9110e778e469936
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541750"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771056"
 ---
-# <a name="how-to-close-your-desktop-analytics-account"></a>Як закрити ваш обліковий запис Analytics робочий стіл
+# <a name="how-to-close-your-desktop-analytics-account"></a>Як закрити свій обліковий запис Analytics на робочому столі
 
-Якщо настроїти робочий стіл Analytics у вашому середовищі а потім вирішити, ви повинні видалити її, використовуйте процес в за наступним посиланням:
+Якщо ви налаштували Desktop Analytics у вашому середовищі, а потім вирішите, що потрібно видалити його, скористайтеся процесом в такому посиланні:
 
-[Як закрити свій обліковий запис](https://docs.microsoft.com/sccm/desktop-analytics/account-close)
+[Як закрити обліковий запис](https://docs.microsoft.com/configmgr/desktop-analytics/account-close)
 
-Першим кроком є звернення до служби підтримки Microsoft. Відкрити інциденту до служби підтримки, щоб закрити ваш обліковий запис Analytics робочий стіл. Не продовжити з додаткових заходів, поки ви отримаєте підтвердження, що Microsoft працює ваш обліковий запис.
+Перший крок-звернутися до служби підтримки Microsoft. Відкрийте інцидент підтримки, щоб закрити обліковий запис Analytics для настільних комп'ютерів. Не Продовжіть виконання додаткових дій, доки не отримаєте підтвердження, що Microsoft закрив ваш обліковий запис.

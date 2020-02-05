@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050942"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770480"
 ---
 # <a name="workflows-in-sharepoint"></a>Робочі цикли в SharePoint
 
-Робочі цикли SharePoint – це попередньо запрограмовані міні-застосунки, які спрощують та автоматизують різноманітні бізнес-процеси. Робочі цикли можуть варіюватися від збирання підписів, відгуків або тверджень для плану або документа, для відстеження поточного стану рутинної процедури.
+Робочі цикли SharePoint – це попередньо запрограмовані програми, які спрощують найрізноманітніші бізнес-процеси. Дивіться посилання нижче для отримання додаткової інформації.
 
-**Приступаючи до роботи:** Якщо ви тільки знайомиєтеся з робочими циклами SharePoint, перегляньте [інформацію про вступ до робочих циклів SharePoint для отримання додаткових відомостей](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>Знайомство
 
-**Microsoft Flow**: слід використовувати Microsoft Flow замість класичних рішень робочого циклу SharePoint. Для отримання додаткових відомостей див. [створення потоку для списку або бібліотеки в SharePoint Online або OneDrive](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+Якщо ви тільки знайомиєтеся з робочими циклами SharePoint, перегляньте [вступ до робочих циклів SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**Усунення несправностей і налагодження робочого циклу**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>Виправлення неполадок і налагодження робочого циклу SharePoint
 
-Налагодження робочих процесів подібне до попередніх версій. Для отримання додаткових [відомостей див.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows) Щоб отримати додаткові відомості про виправлення неполадок, дивіться [виправлення помилок перевірки робочого циклу SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Переглянути [вирішення проблем перевірки робочого циклу SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) і [налагодження робочих циклів SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>Потужність автоматизації
+
+Рекомендовано використовувати [живлення автоматизуйте](https://docs.microsoft.com/power-automate/modern-approvals) замість класичних рішень робочого циклу SharePoint.

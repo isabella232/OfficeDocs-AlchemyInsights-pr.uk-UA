@@ -1,5 +1,5 @@
 ---
-title: Пристрої знаходяться в очікуванні зарахування державного
+title: Пристрої в очікуванні реєстрації стану
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: 46bb390bd89d82bab8099f15f086746800cb4261
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: 52592a8f4ebac0a9b6c8105721e121a7e560853b
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800685"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770336"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Пристрої перебувають у стані "Очікує заявки на участь"
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Пристрої в "очікують зарахування" держава
 
-Робочий стіл Analytics не має даних для діагностики для цього пристрою. 
+На робочому столі Analytics не має діагностичних даних для цього пристрою. 
 
-Ця проблема може виникнути тому що нещодавно додавалося пристрій до цільової колекції, і це ще не надіслані дані. Це може також означати, пристрій не є належним чином спілкування зі службою, а також останні діагностичні дані більш ніж за 28 днів старий.
+Ця проблема може виникати через те, що ви нещодавно додали пристрій до колекції призначення і ще не надіслано дані. Це також може означати, що пристрій не належним чином спілкується з сервісом, а останні діагностичні дані більше, ніж 28 днів.
 
-Переконайтеся, що пристрій може спілкуватися зі службою. Докладніше перегляньте [кінцевих точок](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints).
+Переконайтеся, що пристрій може зв'язуватися з сервісом. Для отримання додаткових [відомостей див.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Щоб отримати додаткові відомості про стан подання заяв awainting побачити [Монітор підключення здоров'я](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Щоб отримати додаткові відомості про стан очікування [реєстрації див.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

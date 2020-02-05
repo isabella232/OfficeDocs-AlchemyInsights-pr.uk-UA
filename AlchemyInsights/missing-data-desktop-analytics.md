@@ -1,5 +1,5 @@
 ---
-title: Не вдалося створити оцінки сумісності
+title: Не вдається створити оцінювання сумісності
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800690"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771092"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Не вдалося створити оцінки сумісності
+# <a name="cant-create-a-compatibility-assessment"></a>Не вдається створити оцінювання сумісності
 
-Диспетчер конфігурацій успішно настроєно пристрій, але Analytics робочого стола неможливо оцінки сумісності. Він не має повний набір даних конфігурації пристрою (перепис) або встановлені програми (інвентаризації).
+Диспетчер конфігурацій Microsoft endPoint успішно настроєно на пристрій, але на робочому столі Analytics не вдалося створити оцінювання сумісності. Він не має повного набору даних для конфігурації пристрою (перепису) або встановлених додатків (інвентаризації).
 
-Ця проблема часто фіксується автоматично під час спроб пристрою. Якщо вона не зникає, переконайтеся, що пристрій може спілкуватися зі службою. Докладніше перегляньте [кінцевих точок](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) та [Відсутні дані](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Ця проблема часто фіксується автоматично, коли пристрій спроб. Якщо це повториться, переконайтеся, що пристрій може зв'язуватися з сервісом. Щоб отримати додаткові відомості, перегляньте [кінцеві точки](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) та [відсутні дані](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

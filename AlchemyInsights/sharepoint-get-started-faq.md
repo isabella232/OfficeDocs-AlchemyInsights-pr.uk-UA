@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051554"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771200"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Поширені проблеми та вирішення SharePoint в Інтернеті
 
 Ось кілька часто запитуваних тем для SharePoint Online проблеми:
+
+- **Початок роботи**: скористайтеся [книгою Look SharePoint](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , щоб створити красиву, потужну інтрамережу, яка з'єднує робоче місце. Ознайомтеся з [прикладами](https://lookbook.microsoft.com/) та отримайте [інструкції з проектування](https://spdesign.azurewebsites.net/). Переглянути [вступ до SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) для загального введення в SharePoint Online.
 
 - **Дозволи**: [створення стратегії дозволів](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) і [розуміння рівнів дозволів](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ ms.locfileid: "40051554"
 
 - **Модернізувати SharePoint**: перегляньте [посібник із сучасним досвідом SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) і [модернізувати класичні сайти SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) , щоб почати рухатися.
 
-- **Початок роботи**: Дізнайтеся, як [почати роботу з SharePoint Online](https://docs.microsoft.com/sharepoint/introduction) за допомогою стратегій керування сайтом.
+**Примітка:** Для більш конкретної відповіді про проблему SharePoint, коротко перефразувати ваше запитання, і включати будь-які помилки, які ви бачите або функції, які ви використовуєте.
