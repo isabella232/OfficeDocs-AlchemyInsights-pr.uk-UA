@@ -7,15 +7,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 2011d8d3435b57818e77f7f710cf0de5b38de09c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d66b9296005a1789203d2d9a1bed6f6816c38a8d
+ms.sourcegitcommit: e53aab43b6a31b7ab6a2c7dc4238c797ffb78d4c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052562"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41887186"
 ---
 # <a name="onedrive-troubleshoot-processing-changes"></a>OneDrive: виправлення неполадок "обробки"
 
-Якщо ви бачите "обробку змін" протягом тривалого періоду часу, це може бути тому, що у вас є онлайн-файл відкрито, багато файлів застрягли в черзі, або дуже великий синхронізації файлів, див [OneDrive застряг на обробці](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd).
+Якщо ви бачите "Обробка змін" протягом тривалого періоду часу, це може бути пов'язано з відкритим онлайн-файл, кілька файлів застрягли в черзі, або дуже великий синхронізації файлів, див [OneDrive: виправлення неполадок обробки](https://support.office.com/article/onedrive-is-stuck-on-processing-changes-b386b813-9b66-4e47-8c4c-2b45533edccd) , щоб допомогти вирішити цю проблему.
 
-Прочитайте цю статтю, щоб виправити неполадки "зміни обробки". Це повідомлення також відображатиметься, якщо у вас є файл, який змінює весь час (наприклад, Outlook. PST файл або база даних). Як [переміщувати файли даних Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) , які регулярно використовуються з OneDrive?
+Це повідомлення також відображатиметься, якщо у вас є файл, який змінює весь час (наприклад, Outlook. PST файл або база даних). Як [переміщувати файли даних Outlook](https://support.office.com/article/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e) , які регулярно використовуються з OneDrive?
