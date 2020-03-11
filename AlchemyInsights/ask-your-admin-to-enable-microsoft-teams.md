@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962318"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573153"
 ---
 # <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>Вам не вистачає! Зверніться до адміністратора, щоб увімкнути Microsoft teams
 
-Є викладачі та співробітники, які можуть отримати доступ до робочих груп, але студенти не можуть, або ваш F1 ліцензованих користувачів не в змозі отримати доступ до робочих груп?
+Якщо у вас є клієнт EDU, потрібно ввімкнути Microsoft teams вручну. Для цього перейдіть до центру адміністрування Microsoft 365 > **служби та надбудови > Microsoft teams**. Якщо ви використовуєте Центр адміністрування нових команд, вам доведеться вимкнути **спробу нового центру** адміністрування, щоб знайти **служби та**надбудови. 
 
-Команди мають бути явно увімкнені для студентів і ліцензій F1. Ви можете знайти більш детальну інструкцію про те, як включити команди для вашої школи в [налаштувати teams для освіти](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education). 
+**Важливо**: можливо, вам доведеться зачекати до 24 годин, щоб зміни набрали сили.
