@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157756"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600405"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Пенсійні інструменти для Витребування спадщини
 
@@ -37,7 +37,7 @@ ms.locfileid: "42157756"
     - [Поштові скриньки](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Office 365 розширене Витребування електронної інформації v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Office 365 розширене Витребування електронної інформації v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Терміни виходу на пенсію**:
 - 1 квітня 2020: ви не зможете створювати нові пошукові запити та утримані, але ви все одно можете запускати, редагувати та видаляти наявні пошукові запити на власний ризик. Служба підтримки Microsoft більше не буде підтримувати Витребування на місці, & утримуватиме на рівні.
@@ -46,9 +46,9 @@ ms.locfileid: "42157756"
 
 **Для отримання додаткових відомостей див**.:
 
- - [Міграція застарілих пошук Витребування та утримань до Microsoft 365 центр відповідності](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Пенсійні інструменти для Витребування спадщини](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Запитання й відповіді про місце Витребування на місці та утримань на місці](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Міграція застарілих пошук Витребування та утримань до Microsoft 365 центр відповідності](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Пенсійні інструменти для Витребування спадщини](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Запитання й відповіді про місце Витребування на місці та утримань на місці](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

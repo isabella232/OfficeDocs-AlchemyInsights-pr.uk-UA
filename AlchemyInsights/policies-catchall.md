@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38275009"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599973"
 ---
 # <a name="teams-policies"></a>Політики teams
 
@@ -27,7 +27,7 @@ ms.locfileid: "38275009"
 Політики команд поділяються на такі напрямки:
 
 - [Політика teams](https://docs.microsoft.com/MicrosoftTeams/teams-policies) контролює пошук користувачів приватних команд у пошуку та створенні приватних каналів.  
-- [Політики для нарад](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) контролюють те, що користувачі можуть робити з робочими зборами, включаючи керування фойє. За допомогою питань фойє, як налаштування команд, щоб визнати кожен, див [контроль настройки лобі і рівні участі](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Політики для нарад](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) контролюють те, що користувачі можуть робити з робочими зборами, включаючи керування фойє. За допомогою питань фойє, як налаштування команд, щоб визнати кожен, див [контроль настройки лобі і рівні участі](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Політики обміну повідомленнями](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) контролюють те, що користувачі можуть робити з чатом і повідомленнями, включаючи ввімкнення або вимкнення чату, видалення чатів, надсилання сповіщень про прочитання, використання гіперфіз та наклейки тощо.
 - [Політики настроювання програм](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) керують тим, які програми доступні для користувачів, включно з настроюванними та сторонніми програмами, а також порядок їх відображення.  
 - [Політики збереження](https://docs.microsoft.com/microsoftteams/retention-policies) даних для команд, які знаходяться в Office 365 безпеки та дотримання центру.

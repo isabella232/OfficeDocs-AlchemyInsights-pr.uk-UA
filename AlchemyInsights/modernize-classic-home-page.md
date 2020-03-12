@@ -11,18 +11,18 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 92da79ff6f5fe3bdb7810abae35482c8ecfc5efe
-ms.sourcegitcommit: 3da9d729256b978a95034fcf64b868fcc0e8012b
+ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42322775"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600585"
 ---
 # <a name="modernize-the-classic-home-page"></a>Модернізувати класичну головну сторінку
 
 Останнє оновлення для класичних сторінок сайту SharePoint Team Домашня сторінка впливає на домашню сторінку класичних сайтів груп (STS # 0), коли Домашня сторінка містить *тільки поза полем веб-частини за промовчанням* , такі як початок роботи, бібліотека документів і Стрічка новин.
 
-Відкрити прогулянку по зміні [тут](https://docs.microsoft.com/en-us/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Відкрити прогулянку по зміні [тут](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
 **Примітка: класичні сайти груп, які містять настроюваний вміст не буде автоматично оновлено.**
 

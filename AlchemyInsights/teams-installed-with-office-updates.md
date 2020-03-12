@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908765"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599505"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams, інстальованих за допомогою оновлень Office
 
@@ -32,6 +32,6 @@ Microsoft teams входить до складу ***нових установо�
 
 Щоб ***Видалити групи*** з пристрою під керуванням Windows [, див.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Щоб очистити Microsoft teams від кількох цільових машин або користувачів [, див.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Якщо ви користуєтеся спільними комп'ютерами, службами віддалених робочих столів (RDS) або інфраструктурою віртуального робочого стола (VDI), перегляньте [загальні комп'ютерні та VDI середовища у Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Якщо використовується Office for Mac [, див.](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+Якщо ви користуєтеся спільними комп'ютерами, службами віддалених робочих столів (RDS) або інфраструктурою віртуального робочого стола (VDI), перегляньте [загальні комп'ютерні та VDI середовища у Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Якщо використовується Office for Mac [, див.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
 
 **Примітка:** Після інсталяції команд [автоматично оновлюється](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) приблизно кожні два тижні з новими функціями та якісними оновленнями. 

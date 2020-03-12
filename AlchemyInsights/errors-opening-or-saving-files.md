@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031635"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600153"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Вирішення проблем із відкриттям або збереженням файлів Word
 
@@ -25,7 +25,7 @@ ms.locfileid: "42031635"
 - [Інсталювати оновлення для Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Список останніх оновлень для Office наведено в [останніх оновленнях](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Усунення пошкоджених документів у Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Відновлення програми Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Якщо документ містить записані виправлення, використання пропозицій у [Word сповільнює або перестає реагувати на дії користувача, якщо є надмірне записані виправлення або примітки](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) для вирішення проблеми.
+- Якщо документ містить записані виправлення, використання пропозицій у [Word сповільнює або перестає реагувати на дії користувача, якщо є надмірне записані виправлення або примітки](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) для вирішення проблеми.
 
 Якщо ви отримали повідомлення про помилку, як один із наведених нижче, скористайтеся пропозиціями у [повідомленні про помилку в Office, коли файл заблоковано настройками політики реєстру](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 
