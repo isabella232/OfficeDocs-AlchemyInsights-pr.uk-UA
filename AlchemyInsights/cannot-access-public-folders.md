@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959515"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891770"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook не вдалося підключитися до спільних папок
 
-Якщо доступ до спільних папок не працює для кількох користувачів, спробуйте виконати наведені нижче дії.
+Якщо доступ до спільних папок не працює для деяких користувачів, спробуйте виконати наведені нижче дії.
 
-Підключіться до EXO PowerShell і настройте DefaultPublicFolderMailbox на обліковий запис користувача, щоб відповідати один на робочий обліковий запис користувача.
+Підключіться до EXO PowerShell і настройте параметр DefaultPublicFolderMailbox на обліковий запис користувача, щоб зіставити параметр у робочий обліковий запис користувача.
 
 Приклад:
 
@@ -31,3 +31,5 @@ ms.locfileid: "39959515"
 Проблеми з настроювання поштової скриньки-DefaultPublicFolderMailbox \<значення з попередньої команди>
 
 Зачекайте принаймні одну годину, щоб зміни набрали сили.
+
+Якщо проблема залишається, будь ласка, дотримуйтесь [цієї процедури](https://aka.ms/pfcte) для усунення проблем із доступом до спільних папок, використовуючи Outlook.
