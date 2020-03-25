@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042901"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931319"
 ---
 # <a name="delete-a-site"></a>Як видалити сайт
 
-Коли ви видаляєте сайт, він переміщується на [Видалені сайти](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) і зберігається протягом 93 днів. Щоб видалити сайт, перейдіть до розділу [активні сайти](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Коли ви видаляєте сайт, він переміщується на видалені сайти і зберігається протягом 93 днів. Щоб видалити сайт, перейдіть до розділу [активні сайти](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-Коли ви видаляєте сайт, все в ньому видаляється в тому числі:
+Коли ви видаляєте сайт, все в ньому видаляється, в тому числі:
 
 - Бібліотеки документів і файли.
 - Списків і даних списку.

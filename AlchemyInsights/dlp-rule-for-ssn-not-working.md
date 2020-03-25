@@ -1,5 +1,5 @@
 ---
-title: DLP правило для SSN не працює
+title: ЗВД правило для SSN не працює
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -12,40 +12,46 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 757136c39700f12f40f839b29277a59b0e436f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b83a858975ffe1bb70f16a7452a13d57dff5340
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529896"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932559"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP проблеми з номера соціального страхування
+# <a name="dlp-issues-with-social-security-numbers"></a>ЗВД питання з номерами соціального страхування
 
-Вам мають проблеми з **Запобігання втрати даних (DLP)** не працює для вмісту, який містить **Номер соціального страхування Соціального страхування** при використанні конфіденційної інформації типу у службі Office 365 Якщо це так, переконайтеся, що ваш зміст містить необхідну інформацію за те, що політика DLP дивлячись. 
+**Важливо**: багато SharePoint Online і OneDrive клієнтів, запустіть бізнес-критичних програм від служби, які працюють у фоновому режимі. До них відносяться міграція вмісту, запобігання втрати даних (ЗВД) і рішення для резервного копіювання. У ці безпрецедентні часи Ми вживаємо заходів, щоб гарантувати, що служби SharePoint Online та OneDrive залишаються дуже доступними та надійними для користувачів, які залежать від служби, ніж будь-коли в віддалених сценаріях роботи.
+
+На підтримку цієї мети, ми реалізували жорсткі обмеження регулювання на фонових програм (міграція, ЗВД і резервне копіювання рішень) в будні дні вдень. Ви повинні очікувати, що ці програми будуть досягати дуже обмежену пропускну здатність в ці часи. Однак під час вечірніх та вихідних годин для регіону служба буде готова обробляти значно більший обсяг запитів від фонових програм.
+
+**ЗВД проблеми з SSNs**
+
+У вас виникли проблеми з **запобігання втрати даних (звд)** не працює для вмісту, який містить **номер соціального страхування (SSN)** під час використання тип конфіденційної інформації в Office 365? Якщо це так, переконайтеся, що вміст містить потрібну інформацію про те, що виглядає політика ЗВД. 
   
-Наприклад, для SSN політику настроєно з рівня довіри до 85%, такі оцінюються і повинні бути виявлені правило викликати:
+Наприклад, для політики SSN, настроєної на довірчий рівень 85%, обчислюються такі і повинні бути виявлені правила для запуску:
   
-- **[Формат:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 цифр, які можуть бути в форматований або неформатований візерунком
+- **[Формат:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 цифр, які можуть бути відформатовані або неформатованим візерунком
 
-- **[Моделі:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Чотири функції шукати SSNs в чотирьох різних моделей:
+- **[Візерунок:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Чотири функції Шукайте SSNs в чотирьох різних моделей:
 
-  - Func_ssn знаходить SSNs з попередньо-2011 сильний форматування, відформатовані з тире або пробілів (ddd dd dddd OR ddd dd dddd)
+  - Func_ssn знаходить SSNs з попередньо 2011 стійке форматування, відформатовані дефіси або пробіли (DDD-DD-DDDD або DDD DD DDDD)
 
-  - Func_unformatted_ssn знаходить SSNs з попередньо-2011 сильний форматування, які не було відформатовано як дев'ять послідовні цифри (ddddddddd)
+  - Func_unformatted_ssn знаходить SSNs з попередньо 2011 стійке форматування, неформатований як дев'ять цифр (ddddddddd)
 
-  - Func_randomized_formatted_ssn знаходить пост-2011 SSNs, які відформатовано з тире або пробілів (ddd dd dddd OR ddd dd dddd)
+  - Func_randomized_formatted_ssn знаходить Post-2011 SSNs, відформатовані за допомогою тире або пробілів (DDD-DD-DDDD або DDD DD DDDD)
 
-  - Func_randomized_unformatted_ssn знаходить пост-2011 SSNs, які є неформатований як дев'ять послідовні цифри (ddddddddd)
+  - Func_randomized_unformatted_ssn знаходить Post-2011 SSNs, які неформатовані як дев'ять цифр (ddddddddd)
 
-- **[Контрольна сума:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Ні, немає не контрольної суми
+- **[Контрольна сума:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** Ні, немає контрольної суми
 
-- **[Визначення:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** DLP політика – 85% впевнені, що вона виявила цей тип конфіденційну інформацію if, в безпосередній близькості від 300 символів:
+- **[Визначення:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** ЗВД політика 85% впевнений, що він виявлений цей тип конфіденційної інформації, якщо в безпосередній близькості від 300 символів:
 
-  - [Функція Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) знаходить вміст, який відповідає візерунку.
+  - [Функція Func_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) знаходить вміст, який відповідає шаблону.
 
-  - Ключове слово з [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) знайшов. Прикладами ключові слова: *соціальне забезпечення, соціальне забезпечення #, Soc сек, SSN* . Наприклад, у наведеному прикладі ініціює DLP SSN політики: **SSN: 36-489-8350**
+  - Знайдено ключове слово з [Keyword_ssn](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) . Приклади ключових слів включають: *соціальне забезпечення, соціальне забезпечення #, СНС, SSN* . Наприклад, наведений нижче зразок буде тригер за ЗВД SSN політики: **SSN: 489-36-8350**
   
-Більш докладну інформацію про те, що вимагається для SSNs бути виявлені за ваш контент у розділі нижче в цій статті: [Те, що конфіденційних відомостей, надання яких шукати SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+Для отримання додаткових відомостей про те, що потрібно для виявлення SSNs для вашого вмісту, див у розділі нижче в цій статті: [які типи конфіденційної інформації Шукайте SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
   
-За допомогою різних вбудований конфіденційної інформації типу, див. відомості про те, що вимагається для інших типів: [що конфіденційних відомостей, надання яких шукати](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Використовуючи інший вбудований тип конфіденційної інформації, зверніться до такої статті, щоб отримати відомості про те, що потрібно для інших типів: [які типи конфіденційних даних шукають](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
   
