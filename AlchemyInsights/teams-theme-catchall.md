@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856488"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030421"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Поширені проблеми та способи їх вирішення в Teams
+
+**Важливо**. Через підвищений попит на використання Teams може знадобитися приблизно 24 години на повне призначення ліцензії користувачеві Teams. До того моменту ви не зможете призначити такому користувачеві політики, а він не матиме доступу до деяких функцій Teams, як-от виклики та аудіоконференції.
+
+**Поширені проблеми та способи їх вирішення**
 
 Щоб отримати конкретнішу відповідь, спробуйте перефразувати ваше запитання й включити помилки, які ви бачите, або функції Teams, які ви використовуєте.
 
