@@ -1,5 +1,5 @@
 ---
-title: Як додавати або редагувати на VatID
+title: Як додати або змінити Ватд
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,27 +12,31 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664341"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059757"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>Як додавати або редагувати на VatID
+# <a name="how-to-add-or-edit-a-vatid"></a>Як додати або змінити Ватд
 
-1. У Microsoft Outlook 365 Центр адміністрування, перейдіть на **Billing** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.
+**Примітка**: Якщо ви перебуваєте в країні, яка використовує цінується податок на додану вартість (ПДВ), наприклад, Сполучене Королівство, Microsoft виставлення рахунків-ФАКТУР обчислює ПДВ для вас і застосовується сума до рахунків-фактур. Для отримання додаткової інформації див [змагається застереження](https://go.microsoft.com/fwlink/?LinkID=841741) , опубліковані Європейською комісією.
 
-2. Знайти підписки картку для підписки, яку потрібно оновити.
+**Додавання або редагування**
 
-3. У розділі **настройки & дій** виберіть **змінити адресу використання служби**.
+1. У центрі адміністрування Microsoft 365 перейдіть на сторінку продуктів для **виставлення рахунків** \> [& послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-4. На сторінці **змінити адресу використання служби** введіть ваш ідентифікаційний номер платника ПДВ у полі **номер платника ПДВ** і виберіть **зберегти**.
+2. Знайдіть передплачені картки для передплати, яку потрібно оновити.
 
-    Завершеним, ПДВ не стягується ваш наступний рахунок.
+3. У розділі **настройки & дії** виберіть **змінити адресу використання служби**.
 
-Щоб дізнатися більше, перегляньте [те, що податок буде потрібно платити за Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. На сторінці **змінити адресу використання служби** введіть ідентифікатор платника ПДВ у полі **номер платника ПДВ** , а потім виберіть **зберегти**.
+
+    У разі повної, ПДВ не буде стягнено на наступний рахунок.
+
+Щоб дізнатися більше, подивіться, [який податок я буду платити за Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Додаткові ресурси**
 
-[Додати ваш ідентифікаційний номер платника ПДВ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+[Додайте ідентифікаційний номер платника ПДВ](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
