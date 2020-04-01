@@ -1,5 +1,5 @@
 ---
-title: Оновлення відомостей про оплату
+title: Оновити відомості про свою кредитну картку
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921835"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059901"
 ---
-# <a name="update-payment-details"></a>Оновлення відомостей про оплату
+# <a name="update-credit-card-information"></a>Оновити відомості про свою кредитну картку
 
 1. У Центрі адміністрування Microsoft 365 перейдіть на сторінку **Виставлення рахунків** \> [Способи оплати](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
