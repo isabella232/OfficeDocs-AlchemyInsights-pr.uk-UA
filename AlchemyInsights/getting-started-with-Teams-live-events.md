@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034400"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143016"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Початок роботи з відеоподіями Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43034400"
 
 Для створення відеоподії необхідне наступне:
 
-- [Ліцензія на Office 365 для підприємств E1, E3 або E5 або Office 365 A3 чи A5.](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses)
+- [Ліцензія на Office 365 для підприємств E1, E3 або E5 або Office 365 A3 чи A5.](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) **Примітка**. Через підвищений попит на використання Teams може знадобитися приблизно 24 години на повне призначення ліцензії користувачеві Teams. До того моменту ви не зможете призначити такому користувачеві політики, а він не матиме доступу до деяких функцій Teams, як-от виклики та аудіоконференції.
 
 - Дозвіл на [створення відеоподій у центрі адміністрування Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
