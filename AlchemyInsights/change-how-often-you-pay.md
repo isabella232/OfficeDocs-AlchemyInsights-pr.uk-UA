@@ -12,13 +12,14 @@ ms.collection: Adm_O365
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
+- "4552"
 - "1500025"
-ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
+ms.openlocfilehash: ce85f413bab2725d82f7597ec46c5796374bc5d1
+ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195039"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43217885"
 ---
 # <a name="change-how-often-you-pay"></a>Змінити частоту оплати
 
@@ -28,4 +29,4 @@ ms.locfileid: "43195039"
 
 2. Знайдіть підписку, яку потрібно змінити. У розділі **платежі** , що знаходиться на **рахунку щомісяця** або після **виставлення**рахунка, натисніть **змінити**.
 
-3. Виберіть параметр, як часто ви хочете отримати рахунок, а потім виберіть **змінити**.
+3. Виберіть параметр, як часто ви хочете, щоб бути виставлений рахунок, а потім натисніть кнопку **змінити**.

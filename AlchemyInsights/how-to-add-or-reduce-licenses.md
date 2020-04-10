@@ -1,5 +1,5 @@
 ---
-title: Як додати або скоротити ліцензій
+title: Як додати або зменшити ліцензії
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664305"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207394"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>Як додати або скоротити ліцензій
+# <a name="how-to-add-or-reduce-licenses"></a>Як додати або зменшити ліцензії
 
-Ось як можна видалити Office 365 ліцензій або придбати більше ліцензій.
+Ось як додати або видалити ліцензії.
   
-1. У центр адміністрування, перейдіть на **платіжний** \> [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки.
+1. Перейдіть до ** [передплати](https://portal.office.com/adminportal/home#/subscriptions)> виставлення рахунків**.
 
-2. Виберіть підписку, з яких потрібно додати або видалити ліцензій.
+2. Виберіть підписку, з якої потрібно додати або видалити ліцензії.
 
-3. Виберіть **Додати/видалити ліцензій**.
+3. Натисніть кнопку **Додати/видалити ліцензії**.
 
-4. Введіть загальну кількість користувачів, які необхідні.
+4. Введіть загальну кількість потрібних користувачів. Наприклад, якщо в наявності є 25 ліцензій, і ви хочете видалити 5, введіть 20 в цьому полі.
 
-    Наприклад, якщо в даний час 25 ліцензій і видалити 5, введіть 20 в цій галузі.
+5. Натисніть **Надіслати зміни**.
 
-5. Виберіть **Надіслати зміни**.
+**Примітка**: будь-який новий заряд (збільшення ліцензії) або кредит (зниження ліцензії) буде відображатися на Ваш наступний законопроект.
 
-> [!NOTE]
-> Будь-який новий заряд (ліцензія збільшення) або кредит (ліцензія зменшення) буде відображатися на Ваш наступний рахунок.
+Для отримання відомостей про призначення ліцензій зверніться [до призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-Щоб дізнатися більше, див [купити ліцензій для Office 365 для бізнес-підключення](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **Додаткові ресурси**
+ **Ресурсів**
   
-- [Видалити ліцензії з Office 365 для бізнес-підключення](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Керування ліцензіями на передплату-придбати або видалити](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [Скасувати Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Скасувати Office 365 для бізнесу](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [Купити іншу Office 365 для бізнес-підключення](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Купити інший офіс 365 для бізнес-Підписка](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)
