@@ -1,5 +1,5 @@
 ---
-title: Як купити Office 365 навчальних планів
+title: Як придбати Office 365 плани навчання
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -14,19 +14,25 @@ ms.custom:
 - "370"
 - "1500009"
 ms.assetid: eabdc749-9ec5-4961-9adf-2e7e7d5fb330
-ms.openlocfilehash: 366299790a5cae04c2b5eabd9d7f48a65210a50e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 0c949a6e611fadc19340711d7fa9aa19dd602c6f
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390929"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286284"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a>Як купити Office 365 навчальних планів
+# <a name="how-to-purchase-office-365-education-plans"></a>Як придбати Office 365 плани навчання
 
-Ви були затверджені для Office 365 освіти. Придбати:
-  
-1. У центр адміністрування, перейдіть на **платіжний** \> [Купівлю послуг](https://go.microsoft.com/fwlink/p/?linkid=868433) сторінки.
+Ви отримали право на використання пропозицій Office 365 Education.  Щоб придбати, виконайте наведені нижче кроки.
 
-2. Виберіть у списку в розділі **Плани освіти**.
+1. Перейдіть до пунктів **[Виставлення рахунків > Придбання послуг](https://portal.office.com/AdminPortal/Home#/catalog)**.
 
-3. Наведіть на підписку ви хочете придбати і вибрати **Купити зараз**.
+2. Зі списку в розділі **Плани Education** виберіть потрібну передплату.
+
+3. Наведіть вказівник миші на передплату, яку потрібно придбати, і натисніть **Придбати зараз**.
+
+**Дистанційне викладання та навчання**
+
+- Див. статтю [Дистанційне викладання та навчання в Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4), щоб дізнатися найновіші рекомендації з планування шкільних занять, віртуальних нарад і надання студентам спільного доступу до вмісту.
+
+- Додаткові ІТ-поради наведено в статтях [Get started with Microsoft Teams for remote learning (Початок використання Microsoft Teams для віддаленого навчання)](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) та [Making the transition to remote learning (Перехід на віддалене навчання)](https://www.microsoft.com/education/remote-learning).
