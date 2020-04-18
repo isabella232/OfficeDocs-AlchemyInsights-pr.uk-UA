@@ -11,16 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: e3543815937c45323051171ea8be3c43e4ec7c89
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958667"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552942"
 ---
 # <a name="issues-while-migrating-data-to-sharepoint-online"></a>Проблеми під час міграції даних до SharePoint Online
-
-**Важливо**: у ці безпрецедентні часи Ми вживаємо заходів, щоб гарантувати, що служби SharePoint Online та OneDrive залишаються доступними – будь ласка, відвідайте [тимчасові функції SharePoint Online](https://aka.ms/ODSPAdjustments) для отримання додаткових відомостей.
 
 **Міграція понад 100 ТБ даних**
 
@@ -33,7 +31,3 @@ ms.locfileid: "42958667"
     - Передбачуваний розмір вашої міграції.
     - Оцінка, коли ви хотіли б почати і завершити міграцію.
     - Опишіть, де ви переміщуєте ваш вміст, наприклад, сервер SharePoint, коробка, GDrive, спільний доступ до файлів тощо.
-
-
-  
-
