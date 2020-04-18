@@ -1,0 +1,45 @@
+---
+title: Видалення номеру телеконференції Teams
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002248"
+- "4352"
+ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
+ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.translationtype: HT
+ms.contentlocale: uk-UA
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43541862"
+---
+# <a name="teams-dial-in-conferencing-number-removal"></a>Видалення номеру телеконференції Teams
+
+Чи потрібно видаляти номер телеконференції з конференц-моста? Номер, який ви намагаєтеся видалити наразі є номером за замовчуванням? Якщо так, то спочатку знадобиться змінити номер за замовчуванням конференц-моста.
+
+Номер конференц-моста за замовчуванням визначає ідентифікатор абонента, який використовується, коли вихідний виклик здійснюється учасником чи організатором наради.
+
+1. Увійдіть у службу Office 365 за допомогою робочого облікового запису.
+
+2. Перейдіть у **Центр адміністрування Microsoft 365**.
+
+3. Перейдіть у **Центри адміністрування > Teams і Skype**.
+
+4. Перейдіть у **Наради**.
+
+5. Перейдіть у **Конференц-мости**.
+
+6. Виділіть номер, який потрібно задати як номер за замовчуванням.
+
+7. Клацніть **Установити за замовчуванням**.
+
+Докладні відомості див. в статті [Змінення номерів телефону конференц-мосту аудіоконференцій](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
+
+**Пов’язані ресурси**
+
+[Змінення параметрів для конференц-мосту аудіоконференцій](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
