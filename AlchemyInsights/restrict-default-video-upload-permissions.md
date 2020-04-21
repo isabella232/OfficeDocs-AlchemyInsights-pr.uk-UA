@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: uk-UA
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591599"
+ms.locfileid: "43599409"
 ---
 # <a name="restrict-default-video-upload-permissions"></a>Обмеження дозволів на завантаження відео за промовчанням
 
