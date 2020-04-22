@@ -1,8 +1,8 @@
 ---
-title: Код помилки 550 5.7.705 відмовлено в доступі, орендар перевищив поріг
+title: Помилка з кодом 550 5.7.705 Access відмовлено, орендар перевищує граничне значення
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703011"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="09187-102">550 5.7.705 відмовлено в доступі, орендар перевищив поріг</span><span class="sxs-lookup"><span data-stu-id="09187-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="c619b-102">550 5.7.705 доступ заборонено, орендар перевищує граничне значення</span><span class="sxs-lookup"><span data-stu-id="c619b-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="09187-103">Це повідомлення з'являється, коли занадто багато спаму або об'ємних пошти був відправлений у вашій організації, і ми розміщуємо блок вихідної пошти.</span><span class="sxs-lookup"><span data-stu-id="09187-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="09187-104">Поширеними причинами є загрозою локальних серверів або порушення безпеки адміністратором рахунку, які були використані для створення сполучні лінії.</span><span class="sxs-lookup"><span data-stu-id="09187-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="09187-105">У будь-якому стані може дозволити спам пройти через вашу організацію.</span><span class="sxs-lookup"><span data-stu-id="09187-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="c619b-103">Це повідомлення виникає, коли ваша організація надіслала забагато спаму або розсилок, і ми розміщуєте блок на вихідній пошті.</span><span class="sxs-lookup"><span data-stu-id="c619b-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="c619b-104">Типові причини скомпрометовані локальних серверів або скомпрометовані облікові записи адміністратора, які використовувалися для створення роз'ємів.</span><span class="sxs-lookup"><span data-stu-id="c619b-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="c619b-105">Будь-яка умова може дозволити спаму проходити через вашу організацію.</span><span class="sxs-lookup"><span data-stu-id="c619b-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="09187-106">Щоб видалити цей блок, потрібно зрозуміти і пояснити причину підтримки агент, а також пов'язану з нею неполадку виправлення.</span><span class="sxs-lookup"><span data-stu-id="09187-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="09187-107">Натисніть кнопку **зв'язатися з нами** нижче, коли ви будете готові.</span><span class="sxs-lookup"><span data-stu-id="09187-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="c619b-106">Щоб видалити цей блок, потрібно зрозуміти і пояснити причину до агента підтримки, а також виправити основну проблему.</span><span class="sxs-lookup"><span data-stu-id="c619b-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="c619b-107">Натисніть **зв'язатися з нами** нижче, коли ви будете готові.</span><span class="sxs-lookup"><span data-stu-id="c619b-107">Click **Contact us** below once you're ready.</span></span>

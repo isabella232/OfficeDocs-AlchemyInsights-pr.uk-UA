@@ -1,8 +1,8 @@
 ---
-title: Тип сутності, який не відображається в категорії або релевантність пошукових результатів у Dynamics 365 єдиного інтерфейсу
+title: Тип сутності, не відображається в категорії або результати пошуку відповідності в Dynamics 365 єдиного інтерфейсу
 ms.author: pebaum
 author: pebaum
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: 31389ac7a39d07e9c0b0f4e3e8d398616c3fa210
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 5a96797ef03659bc6cab665f170dee9a9c62872f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697176"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703303"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a><span data-ttu-id="69798-102">Тип сутності, який не відображається в результатах пошуку</span><span class="sxs-lookup"><span data-stu-id="69798-102">Entity type not showing in search results</span></span>
+# <a name="entity-type-not-showing-in-search-results"></a><span data-ttu-id="37146-102">Тип сутності не відображається в результатах пошуку</span><span class="sxs-lookup"><span data-stu-id="37146-102">Entity type not showing in search results</span></span>
 
-<span data-ttu-id="69798-103">Для сутності типу відображення в категоріям Пошук або релевантність пошукових в Dynamics 365 єдиному інтерфейсі, він повинен бути перший додані app модуля.</span><span class="sxs-lookup"><span data-stu-id="69798-103">For an entity type to show in categorized search or relevance search in the Dynamics 365 Unified Interface, it must be first added to the app module.</span></span>
+<span data-ttu-id="37146-103">Для типу сутності, що відображається в пошуку за категоріями або пошуку відповідності в інтерфейсі Dynamics 365, його потрібно спочатку додати до модуля програми.</span><span class="sxs-lookup"><span data-stu-id="37146-103">For an entity type to show in categorized search or relevance search in the Dynamics 365 Unified Interface, it must be first added to the app module.</span></span>
 
-<span data-ttu-id="69798-104">Примітка: У пошуках вкладення в релевантність пошукових вкладення сутності слід додати до модуля app хоча батьківський запис пункти результати.</span><span class="sxs-lookup"><span data-stu-id="69798-104">Note: When searching for attachments in relevance search, the attachment entity must be added to the app module even though the parent record is what is shown in the results.</span></span>
+<span data-ttu-id="37146-104">Примітка: під час пошуку вкладень у пошуку відповідності, сутність вкладення має бути додано до модуля програми, навіть якщо батьківський запис є те, що показано в результатах.</span><span class="sxs-lookup"><span data-stu-id="37146-104">Note: When searching for attachments in relevance search, the attachment entity must be added to the app module even though the parent record is what is shown in the results.</span></span>

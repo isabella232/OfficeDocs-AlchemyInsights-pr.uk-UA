@@ -1,9 +1,9 @@
 ---
-title: Outlook.com не вдається ввійти
+title: Outlook.com не вдається вийти
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.custom:
@@ -11,17 +11,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0469aa53e031970ef295856619dbb59e0b95bf5a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d668960b463c7dd3d9731e4d7b52a7779331b034
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547836"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666870"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="9f9e4-102">Не вдається вийти зі служби Outlook.com</span><span class="sxs-lookup"><span data-stu-id="9f9e4-102">Unable to sign out of Outlook.com</span></span>
+# <a name="unable-to-sign-out-of-outlookcom"></a><span data-ttu-id="d8151-102">Не вдалося вийти з Outlook.com</span><span class="sxs-lookup"><span data-stu-id="d8151-102">Unable to sign out of Outlook.com</span></span>
 
-<span data-ttu-id="9f9e4-103">Вийдіть з Outlook.com, виберіть ім'я або зображення в правому верхньому куті екрана, виберіть **вийти**.</span><span class="sxs-lookup"><span data-stu-id="9f9e4-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
+<span data-ttu-id="d8151-103">Щоб вийти з Outlook.com, виберіть своє ім'я або зображення у верхньому правому куті екрана, а потім виберіть **вийти**.</span><span class="sxs-lookup"><span data-stu-id="d8151-103">To sign out of Outlook.com, select your name or picture at the top right corner of the screen, then select **Sign out**.</span></span>
 
-<span data-ttu-id="9f9e4-104">Якщо ви не бачите зображення у верхній частині екрана, перевірте, якщо блокування реклами увімкнуто.</span><span class="sxs-lookup"><span data-stu-id="9f9e4-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="9f9e4-105">Іноді це запобігає зображення показ.</span><span class="sxs-lookup"><span data-stu-id="9f9e4-105">Sometimes this prevents the picture from showing.</span></span>
+<span data-ttu-id="d8151-104">Якщо зображення не відображається вгорі екрана, перевірте, чи ввімкнено блокування оголошень.</span><span class="sxs-lookup"><span data-stu-id="d8151-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="d8151-105">Іноді це причина проблеми.</span><span class="sxs-lookup"><span data-stu-id="d8151-105">Sometimes this prevents the picture from showing.</span></span>
 
-<span data-ttu-id="9f9e4-106">Якщо ви ще не виходьте з Outlook.com, натисніть [https://login.live.com/logout.srf](https://login.live.com/logout.srf) потім закрийте всі вікна браузера.</span><span class="sxs-lookup"><span data-stu-id="9f9e4-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>
+<span data-ttu-id="d8151-106">Якщо ви все ще не можете вийти з Outlook.com, [https://login.live.com/logout.srf](https://login.live.com/logout.srf) клацніть потім закрийте всі вікна браузера.</span><span class="sxs-lookup"><span data-stu-id="d8151-106">If you still can't sign out of Outlook.com, click [https://login.live.com/logout.srf](https://login.live.com/logout.srf) then close all browser windows.</span></span>
