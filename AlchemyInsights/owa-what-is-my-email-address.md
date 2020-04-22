@@ -1,25 +1,25 @@
 ---
-title: Що таке мою адресу електронної пошти в Outlook в Інтернеті
+title: Що таке Моя електронна адреса в Outlook, в Інтернеті
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 0dffe1ca5aaf9627869db9d8f7ba50343edb7753
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555650"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768206"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Що таке мою адресу електронної пошти в Outlook в Інтернеті?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Яка моя адреса електронної пошти в Outlook в Інтернеті?
 
-Вашу адресу електронної пошти вам призначено на роботі або в школі. Це виглядає як ellen@contoso.onmicrosoft.com, ellen@contoso.edu або ellen@contoso.com. Цей обліковий запис роботи чи школи – адресу електронної пошти та облікового запису, ви використовуєте для входу до служби Office 365 для роботи або школи.
+Ваша електронна адреса призначається вам вашою роботою або школою. Це виглядає як ellen@contoso.onmicrosoft.com, ellen@contoso.edu або ellen@contoso.com. Цей робочий або навчальний обліковий запис – це адреса електронної пошти та обліковий запис, який ви використовуєте для входу в Microsoft 365 для роботи або навчання.
 
-Обліковий запис роботи чи школи, відрізняється від вашого облікового запису Microsoft. Використання облікового запису Microsoft для особистої служби, як Outlook.com, Xbox Live, Skype і так далі.
+Ваш робочий або навчальний обліковий запис відрізняється від облікового запису Microsoft. Ви використовуєте обліковий запис Microsoft для особистих служб, таких як Outlook.com, Xbox Live, Skype тощо.
 
-Докладніше, перегляньте [що таке мій Ідентифікатор користувача і навіщо це потрібно для Office 365 для бізнес?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Для отримання додаткових відомостей див. [що таке ідентифікатор користувача і для чого він потрібен для Microsoft 365 для бізнесу?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

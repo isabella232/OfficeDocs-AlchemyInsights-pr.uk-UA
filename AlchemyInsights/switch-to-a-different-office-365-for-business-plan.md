@@ -1,5 +1,5 @@
 ---
-title: Переключення до іншого Office 365 бізнес-план
+title: Переключення до іншого Microsoft 365 для бізнес-плану
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548019"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763814"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Переключення до іншого Office 365 бізнес-план
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Переключитися на іншу передплату Microsoft 365 для бізнесу
 
-Коли ваш бізнес змінюється, або вам потрібно більше функцій Office 365, ви можете перейти до нового плану.
+Коли ваш бізнес зміниться, або вам потрібно більше можливостей, ви можете перейти до нового плану.
   
 1. У центрі адміністрування перейдіть до розділу **продукти для \> виставлення рахунків [& послуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

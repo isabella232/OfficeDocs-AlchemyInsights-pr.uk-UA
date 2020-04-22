@@ -1,5 +1,5 @@
 ---
-title: 607 вільний/зайнятий час усунення неполадок
+title: 607 засіб вирішення проблем із зайнятість
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664881"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765073"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Питання, бачачи календар відомості про доступність
+# <a name="issues-seeing-calendar-freebusy-information"></a>Проблеми, які бачать відомості про зайнятість у календарі
 
-Якщо відомості про зайнятість не відображаються в інших календарях або інші користувачі не можуть переглядати ці дані у вашому календарі, скористайтеся [Помічником Microsoft із підтримки й відновлення для Office 365](https://diagnostics.office.com/).
+Якщо не вдається переглянути відомості про зайнятість у календарі в інших календарях або інші користувачі не бачитимуть відомості про зайнятість у календарі, скористайтеся [помічником із підтримки та відновлення Microsoft](https://diagnostics.office.com/).
   

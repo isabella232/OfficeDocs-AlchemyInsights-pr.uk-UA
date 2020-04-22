@@ -1,29 +1,29 @@
 ---
-title: Розширений захист загрози (АТФ) установки Office 365
+title: Налаштування розширеного захисту від загроз для Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 8dde7236bdee2bd0b83087282ff32b32af8bae30
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: dfd6e900bc364699c7c19bda795408d87ccb4333
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32419929"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761691"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 передові загроза захист (АТФ)
+# <a name="office-365-advanced-threat-protection-atp"></a>Office 365 розширений захист від загроз (АТФ)
 
-АТФ Office 365 включає в себе [Безпечний вкладення](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Безпечний посилання](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Передові Anti-Phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)та багато іншого. 
+Офіс 365 АТФ включає в себе [безпечні вкладення](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [безпечні посилання](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [передові анти-фішинг](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing), і більше. 
 
-АТФ включено підписки, наприклад Office 365 підприємство E5, Office 365 освіту А5 та Microsoft 365 бізнес. Якщо ваша підписка передбачає АТФ, потенційно можуть придбати АТФ як додатковий компонент. Щоб дізнатися більше, див [Office 365 АТФ описання послуг](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+АТФ входить до складу передплати, наприклад Office 365 Enterprise E5, Office 365 освіти A5 та Microsoft 365 Business Premium. Якщо ваша підписка не включає АТФ, ви можете придбати АТФ як доповнення. Додаткові відомості наведено в [описі служби Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
-## <a name="set-up-office-365-atp"></a>Настроювання АТФ Office 365
+## <a name="set-up-office-365-atp"></a>Створити Office 365 АТФ
 
-Охорони АТФ, щоб вступити в силу необхідно налаштувати політики. Див [у короткому посібнику: налаштувати Office 365 розширений загроза захист від](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Для захисту від АТФ потрібно настроїти політику. Див [короткий посібник з початку: настроювання Office 365 розширений захист від загроз](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

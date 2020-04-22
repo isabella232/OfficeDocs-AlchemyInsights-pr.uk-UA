@@ -1,9 +1,9 @@
 ---
-title: Outlook не синхронізації папки
+title: Outlook не синхронізовані папки
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: a3cf9193e9c9494ed6f00e3001dd57af591a9ff0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36557362"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43768710"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook не синхронізації папки
+# <a name="outlook-not-synching-folders"></a>Outlook не синхронізовані папки
 
-Якщо Outlook не синхронізація папок, як і очікувалося, є деякі речі, ви можете спробувати виправити її.
+Якщо Outlook не синхронізацію папок, як очікувалося, є деякі речі, які можна спробувати виправити.
 
-1. Зменшити кількість папок у основного або спільної поштової скриньки. [Проблеми з продуктивністю Outlook побачити коли є занадто багато елементів або папки в Cached режим .ost або папки PST файл](https://support.microsoft.com/help/2768656).
-2. Відключення кешування всіх спільних папок.
-3. Змінити конфігурацію вторинних поштових скриньок Exchange до другого облікового запису Exchange у вашому профілі.
+1. Зменште кількість папок у основній або спільній поштовій скриньці. [Перегляд проблем продуктивності Outlook за наявності забагато елементів або папок у папці з кешованими режимами. OST або. PST](https://support.microsoft.com/help/2768656).
+2. Вимкнути кешування всіх спільних папок.
+3. Змініть конфігурацію додаткової поштової скриньки Exchange на другий обліковий запис Exchange у вашому профілі.
 
-Докладніше перегляньте [продуктивність і синхронізації проблеми під час роботи з папок у вторинних поштової скриньки в Outlook](https://support.microsoft.com/help/3115602).
+Для отримання додаткових відомостей див. [проблеми з продуктивністю та синхронізацією під час роботи з папками у додатковій поштовій скриньці в Outlook](https://support.microsoft.com/help/3115602).
