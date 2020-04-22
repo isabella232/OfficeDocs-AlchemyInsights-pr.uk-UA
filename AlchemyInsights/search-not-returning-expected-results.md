@@ -1,9 +1,9 @@
 ---
-title: 1491-Search-Not-Returning-expected-results
+title: 1491-пошук-не-повернення-очікується-результати
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 094da9d75013aae56ca219b7ae03e85736ce5ee0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d0707af19b0299f7257a10a20ab38f47860308fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551436"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709248"
 ---
-# <a name="content-search-not-returning-expected-results"></a><span data-ttu-id="38850-102">Пошук за змістом не повертаючи очікувані результати</span><span class="sxs-lookup"><span data-stu-id="38850-102">Content Search not returning expected results</span></span>
+# <a name="content-search-not-returning-expected-results"></a><span data-ttu-id="75b01-102">Пошук вмісту, не повертаються очікуваних результатів</span><span class="sxs-lookup"><span data-stu-id="75b01-102">Content Search not returning expected results</span></span>
 
-<span data-ttu-id="38850-103">Під час пошуків вмісту з Office 365 безпеки & центрі дотримання, може з'явитися несподіваних результатів.</span><span class="sxs-lookup"><span data-stu-id="38850-103">When running Content Searches from the Office 365 Security & Compliance Center, you may receive unexpected search results.</span></span> <span data-ttu-id="38850-104">Розглянути наступні речі, які можуть вплинути на результати пошуку:</span><span class="sxs-lookup"><span data-stu-id="38850-104">Consider the following things that can affect your search results:</span></span>
+<span data-ttu-id="75b01-103">Під час запуску пошуку вмісту з Microsoft 365 безпеки & центру підтримки, може з'явитися неочікувані результати пошуку.</span><span class="sxs-lookup"><span data-stu-id="75b01-103">When running Content Searches from the Microsoft 365 security & Compliance Center, you may receive unexpected search results.</span></span> <span data-ttu-id="75b01-104">Розглянемо наступні речі, які можуть вплинути на результати пошуку:</span><span class="sxs-lookup"><span data-stu-id="75b01-104">Consider the following things that can affect your search results:</span></span>
 
-- <span data-ttu-id="38850-105">**Вмісту розташування та умови пошуку**: переконайтеся, що ви вибрали правильне розташування вмісту та умови пошуку.</span><span class="sxs-lookup"><span data-stu-id="38850-105">**Content locations and search conditions**: Make sure you have selected the proper content locations and search conditions.</span></span> <span data-ttu-id="38850-106">Якщо ви запускали великих пошукових (з багатьох місцях), розглянути, розділивши його на кілька пошуки.</span><span class="sxs-lookup"><span data-stu-id="38850-106">If you ran a large search (with many locations), consider splitting it into multiple searches.</span></span>
+- <span data-ttu-id="75b01-105">**Розташування вмісту та умови пошуку**: переконайтеся, що вибрано правильне розташування вмісту та умови пошуку.</span><span class="sxs-lookup"><span data-stu-id="75b01-105">**Content locations and search conditions**: Make sure you have selected the proper content locations and search conditions.</span></span> <span data-ttu-id="75b01-106">Якщо ви запустили великий Пошук (з багатьма розташуваннями), розглянемо розділення його на кілька пошуків.</span><span class="sxs-lookup"><span data-stu-id="75b01-106">If you ran a large search (with many locations), consider splitting it into multiple searches.</span></span>
 
-- <span data-ttu-id="38850-107">**Частково індексуватися елементи**: [частково індексуватися елементи](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) з поштових скриньок включені в результатах пошуку оцінками.</span><span class="sxs-lookup"><span data-stu-id="38850-107">**Partially indexed items**:  [Partially indexed items](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) from mailboxes are included in the estimated search results.</span></span> <span data-ttu-id="38850-108">Однак, частково індексовані елементів із сайтів SharePoint і OneDrive не включаються пошук оцінку.</span><span class="sxs-lookup"><span data-stu-id="38850-108">However, partially indexed items from sites in SharePoint and OneDrive aren't included in the search estimate.</span></span>
+- <span data-ttu-id="75b01-107">**Частково індексовані елементи**: [частково індексовані елементи](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) з поштових скриньок включаються до прогнозованого результату пошуку.</span><span class="sxs-lookup"><span data-stu-id="75b01-107">**Partially indexed items**:  [Partially indexed items](https://docs.microsoft.com/office365/securitycompliance/partially-indexed-items-in-content-search) from mailboxes are included in the estimated search results.</span></span> <span data-ttu-id="75b01-108">Проте частково індексовані елементи з сайтів у SharePoint і OneDrive не включаються в оцінку пошуку.</span><span class="sxs-lookup"><span data-stu-id="75b01-108">However, partially indexed items from sites in SharePoint and OneDrive aren't included in the search estimate.</span></span>
 
-- <span data-ttu-id="38850-109">**Пошуку невдачі**: під час пошуку великої кількості поштових скриньок (понад 100000 поштових скриньок), ви можете отримати пошук помилок, з кодів помилок, таких як CS008-009 і CS012-002).</span><span class="sxs-lookup"><span data-stu-id="38850-109">**Search failures**: When searching a large number of mailboxes (over 100,000 mailboxes), you may get search errors, with error codes such as CS008-009 and CS012-002).</span></span> <span data-ttu-id="38850-110">У цьому випадку, спробуйте повторити пошук лише невдалі вмісту місцях.</span><span class="sxs-lookup"><span data-stu-id="38850-110">In this case, retry the search only for the failed content locations.</span></span> <span data-ttu-id="38850-111">Дивіться [цю статтю](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) за додатковою інформацією.</span><span class="sxs-lookup"><span data-stu-id="38850-111">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
+- <span data-ttu-id="75b01-109">**Помилки пошуку**: під час пошуку великої кількості поштових скриньок (понад 100 000 поштових скриньок), ви можете отримати помилки пошуку, з кодами помилок, ТАКИМИ як CS008-009 і CS012-002).</span><span class="sxs-lookup"><span data-stu-id="75b01-109">**Search failures**: When searching a large number of mailboxes (over 100,000 mailboxes), you may get search errors, with error codes such as CS008-009 and CS012-002).</span></span> <span data-ttu-id="75b01-110">У такому разі повторіть пошук лише для місць, де не вдалося знайти вміст.</span><span class="sxs-lookup"><span data-stu-id="75b01-110">In this case, retry the search only for the failed content locations.</span></span> <span data-ttu-id="75b01-111">Докладнішу інформацію наведено в [цій статті](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .</span><span class="sxs-lookup"><span data-stu-id="75b01-111">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>

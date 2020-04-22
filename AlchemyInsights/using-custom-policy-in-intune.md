@@ -1,9 +1,9 @@
 ---
-title: За допомогою користувацьких профілів в Intune
+title: Використання настроюваних профілів у InTune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531776"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710500"
 ---
-# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="900ed-102">За допомогою користувацьких політику в Intune</span><span class="sxs-lookup"><span data-stu-id="900ed-102">Using custom policy in Intune</span></span>
+# <a name="using-custom-policy-in-intune"></a><span data-ttu-id="cd8df-102">Використання настроюваних політик у InTune</span><span class="sxs-lookup"><span data-stu-id="cd8df-102">Using custom policy in Intune</span></span>
 
-<span data-ttu-id="900ed-103">InTune є багато вбудовані параметри для пристроїв Android, iOS, macOS і Windows.</span><span class="sxs-lookup"><span data-stu-id="900ed-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="900ed-104">Можна також створити профіль і розгорнути ці Настроювані параметри на вашому пристрої за допомогою Intune.</span><span class="sxs-lookup"><span data-stu-id="900ed-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="900ed-105">Призначені для користувача профілі призначені для додавання параметрів пристрою та функції, які не призначених Intune.</span><span class="sxs-lookup"><span data-stu-id="900ed-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
+<span data-ttu-id="cd8df-103">InTune має безліч налаштувань, вбудованих для пристроїв Android, iOS, macOS і Windows.</span><span class="sxs-lookup"><span data-stu-id="cd8df-103">Intune has many settings built-in for Android, iOS, macOS and Windows devices.</span></span> <span data-ttu-id="cd8df-104">Можна також створити настроюваний профіль, а потім розгорнути ці Настроювані параметри до пристроїв за допомогою InTune.</span><span class="sxs-lookup"><span data-stu-id="cd8df-104">You can also create a custom profile, and then deploy these custom settings to your devices using Intune.</span></span> <span data-ttu-id="cd8df-105">Настроювані профілі призначені для додавання параметрів і функцій пристрою, які не вбудовано в InTune.</span><span class="sxs-lookup"><span data-stu-id="cd8df-105">Custom profiles are designed to add device settings and features that aren't built in to Intune.</span></span>
 
-[<span data-ttu-id="900ed-106">Користувацькі настройки для Android-пристроїв у Intune</span><span class="sxs-lookup"><span data-stu-id="900ed-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
+[<span data-ttu-id="cd8df-106">Користувацькі налаштування для пристроїв Android у InTune</span><span class="sxs-lookup"><span data-stu-id="cd8df-106">Custom settings for Android devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android)
 
-[<span data-ttu-id="900ed-107">Власні налаштування для пристроїв Android підприємства в Intune</span><span class="sxs-lookup"><span data-stu-id="900ed-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[<span data-ttu-id="cd8df-107">Користувацькі параметри для пристроїв Android Enterprise у InTune</span><span class="sxs-lookup"><span data-stu-id="cd8df-107">Custom settings for Android Enterprise devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[<span data-ttu-id="900ed-108">Користувацькі настройки для iOS пристроїв у Intune</span><span class="sxs-lookup"><span data-stu-id="900ed-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
+[<span data-ttu-id="cd8df-108">Користувацькі параметри для пристроїв iOS у InTune</span><span class="sxs-lookup"><span data-stu-id="cd8df-108">Custom settings for iOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[<span data-ttu-id="900ed-109">Користувацькі настройки для macOS пристроїв у Intune</span><span class="sxs-lookup"><span data-stu-id="900ed-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
+[<span data-ttu-id="cd8df-109">Користувацькі параметри для пристроїв macOS у InTune</span><span class="sxs-lookup"><span data-stu-id="cd8df-109">Custom settings for macOS devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[<span data-ttu-id="900ed-110">Власні налаштування для пристроїв Windows 10 в Intune</span><span class="sxs-lookup"><span data-stu-id="900ed-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[<span data-ttu-id="cd8df-110">Користувацькі параметри для пристроїв Windows 10 у InTune</span><span class="sxs-lookup"><span data-stu-id="cd8df-110">Custom settings for Windows 10 devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[<span data-ttu-id="900ed-111">Користувацькі настройки для Windows-голографічне для пристроїв бізнесу в Intune</span><span class="sxs-lookup"><span data-stu-id="900ed-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[<span data-ttu-id="cd8df-111">Настроювані параметри для Windows голографічне для бізнес-пристроїв у InTune</span><span class="sxs-lookup"><span data-stu-id="cd8df-111">Custom settings for Windows Holographic for Business devices in Intune</span></span>](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
