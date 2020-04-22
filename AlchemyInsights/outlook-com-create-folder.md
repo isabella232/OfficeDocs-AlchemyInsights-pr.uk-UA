@@ -1,9 +1,9 @@
 ---
-title: Створіть папку в Outlook.com
+title: Створення папки в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "219"
 - "8000009"
 ms.assetid: 3b8d2755-e80b-47fb-9c1a-35fe9cb30c04
-ms.openlocfilehash: d759ce00e47206d0d58bae771c962b408595416c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 01f2cb481f155e4e9ca958560aad96956b03c376
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536960"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760469"
 ---
-# <a name="create-a-folder-in-outlookcom"></a><span data-ttu-id="41435-102">Створіть папку в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="41435-102">Create a folder in Outlook.com</span></span>
+# <a name="create-a-folder-in-outlookcom"></a><span data-ttu-id="0917b-102">Створення папки в Outlook.com</span><span class="sxs-lookup"><span data-stu-id="0917b-102">Create a folder in Outlook.com</span></span>
 
-1. <span data-ttu-id="41435-103">У нижній частині панелі папок виберіть **нову папку**.</span><span class="sxs-lookup"><span data-stu-id="41435-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="41435-104">Може знадобитися Прокрутіть вниз, на панелі папок бачити кнопку **Нова папка** .</span><span class="sxs-lookup"><span data-stu-id="41435-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
-2. <span data-ttu-id="41435-105">У текстовому полі введіть ім'я для папки та натисніть клавішу Enter.</span><span class="sxs-lookup"><span data-stu-id="41435-105">In the text box, enter a name for the folder and then press Enter.</span></span>
+1. <span data-ttu-id="0917b-103">У нижній частині області папки виберіть **Створити папку**.</span><span class="sxs-lookup"><span data-stu-id="0917b-103">At the bottom of the folder pane, select **New folder**.</span></span> <span data-ttu-id="0917b-104">Можливо, потрібно буде прокрутити вниз в області папки, щоб побачити кнопку **Створити папку** .</span><span class="sxs-lookup"><span data-stu-id="0917b-104">You might need to scroll down in the folder pane to see the **New folder** button.</span></span>
+2. <span data-ttu-id="0917b-105">У текстовому полі введіть ім'я папки та натисніть клавішу ENTER.</span><span class="sxs-lookup"><span data-stu-id="0917b-105">In the text box, enter a name for the folder and then press Enter.</span></span>
 
-<span data-ttu-id="41435-106">Щоб отримати додаткові відомості, див. [Створення папки в Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="41435-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="0917b-106">Щоб дізнатися більше, див. [Створення папки в Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0917b-106">To learn more, see [Create a folder in Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

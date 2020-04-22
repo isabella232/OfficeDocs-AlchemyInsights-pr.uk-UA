@@ -1,9 +1,9 @@
 ---
-title: 'Усунення проблем: Intune політика та профілі'
+title: Виправлення неполадок із політикою та профілями InTune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533648"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766694"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a><span data-ttu-id="5ee04-102">Усунення Intune політика та профілі</span><span class="sxs-lookup"><span data-stu-id="5ee04-102">Troubleshooting Intune policy and profiles</span></span>
+# <a name="troubleshooting-intune-policy-and-profiles"></a><span data-ttu-id="6d501-102">Усунення несправностей політики та профілів InTune</span><span class="sxs-lookup"><span data-stu-id="6d501-102">Troubleshooting Intune policy and profiles</span></span>
 
-<span data-ttu-id="5ee04-103">Щоб побачити наявних політик, усунення конфліктів, перегляньте журнал дані і побачити і загальні питання, такі напрямні може допомогти.</span><span class="sxs-lookup"><span data-stu-id="5ee04-103">To see existing policies, troubleshoot conflicts, review log data, and see common questions and issues, the following guides may help.</span></span>
+<span data-ttu-id="6d501-103">Щоб переглянути наявні політики, усунути неполадки конфліктів, переглянути дані журналу, а також поширені запитання й проблеми, може допомогти такі посібники.</span><span class="sxs-lookup"><span data-stu-id="6d501-103">To see existing policies, troubleshoot conflicts, review log data, and see common questions and issues, the following guides may help.</span></span>
 
-- [<span data-ttu-id="5ee04-104">Усунення проблем: політика та профілі в Intune</span><span class="sxs-lookup"><span data-stu-id="5ee04-104">Troubleshoot policies and profiles in Intune</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [<span data-ttu-id="6d501-104">Виправлення неполадок із політиками та профілями у InTune</span><span class="sxs-lookup"><span data-stu-id="6d501-104">Troubleshoot policies and profiles in Intune</span></span>](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [<span data-ttu-id="5ee04-105">Загальні питання, питання та резолюції з політики пристроїв і профілі в Intune</span><span class="sxs-lookup"><span data-stu-id="5ee04-105">Common questions, issues, and resolutions with device policies and profiles in Intune</span></span>](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [<span data-ttu-id="6d501-105">Поширені запитання, проблеми та рішення з політиками і профілями пристроїв у InTune</span><span class="sxs-lookup"><span data-stu-id="6d501-105">Common questions, issues, and resolutions with device policies and profiles in Intune</span></span>](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [<span data-ttu-id="5ee04-106">Монітор пристрою конфігурації профілів і переглянути конфлікти в Intune</span><span class="sxs-lookup"><span data-stu-id="5ee04-106">Monitor device configuration profiles and view conflicts in Intune</span></span>](https://docs.microsoft.com/intune/device-profile-monitor)
+- [<span data-ttu-id="6d501-106">Монітор профілів конфігурації пристрою та перегляд конфліктів у InTune</span><span class="sxs-lookup"><span data-stu-id="6d501-106">Monitor device configuration profiles and view conflicts in Intune</span></span>](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [<span data-ttu-id="5ee04-107">Усунення проблем: пристрій дотримання та умовного доступу в Intune</span><span class="sxs-lookup"><span data-stu-id="5ee04-107">Troubleshoot device compliance and conditional access in Intune</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [<span data-ttu-id="6d501-107">Усунення проблем із відповідністю пристроїв і умовного доступу в InTune</span><span class="sxs-lookup"><span data-stu-id="6d501-107">Troubleshoot device compliance and conditional access in Intune</span></span>](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [<span data-ttu-id="5ee04-108">Контролювати дотримання політики і переглянути конфлікти в Intune</span><span class="sxs-lookup"><span data-stu-id="5ee04-108">Monitor compliance policies and view conflicts in Intune</span></span>](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [<span data-ttu-id="6d501-108">Моніторинг дотримання політики та перегляд конфліктів у InTune</span><span class="sxs-lookup"><span data-stu-id="6d501-108">Monitor compliance policies and view conflicts in Intune</span></span>](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [<span data-ttu-id="5ee04-109">Надсилати дані журналу Intune блакитні зберігання, концентратори подія, або увійти аналітика</span><span class="sxs-lookup"><span data-stu-id="5ee04-109">Send Intune log data to Azure storage, event hubs, or log analytics</span></span>](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [<span data-ttu-id="6d501-109">Надсилання даних журналу InTune до Azure Storage, вузлів подій або аналітики журналів</span><span class="sxs-lookup"><span data-stu-id="6d501-109">Send Intune log data to Azure storage, event hubs, or log analytics</span></span>](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-<span data-ttu-id="5ee04-110">Переглянути огляд для [налаштування пристроїв](https://docs.microsoft.com/intune/device-profiles) або [використовувати дотримання політики](https://docs.microsoft.com/intune/device-compliance-get-started).</span><span class="sxs-lookup"><span data-stu-id="5ee04-110">See the overview to [configure devices](https://docs.microsoft.com/intune/device-profiles) or [use compliance policies](https://docs.microsoft.com/intune/device-compliance-get-started).</span></span>
+<span data-ttu-id="6d501-110">Перегляньте огляд, щоб [настроїти пристрої](https://docs.microsoft.com/intune/device-profiles) або [використовувати політику відповідності](https://docs.microsoft.com/intune/device-compliance-get-started).</span><span class="sxs-lookup"><span data-stu-id="6d501-110">See the overview to [configure devices](https://docs.microsoft.com/intune/device-profiles) or [use compliance policies](https://docs.microsoft.com/intune/device-compliance-get-started).</span></span>
