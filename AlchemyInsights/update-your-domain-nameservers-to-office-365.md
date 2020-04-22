@@ -1,8 +1,8 @@
 ---
-title: Налаштування серверів доменних імен для роботи з Office 365
+title: Оновіть сервери імен доменів, щоб вказувати на Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742209"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720014"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Налаштування серверів доменних імен для роботи з Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Оновіть сервери імен доменів, щоб вказувати на Microsoft
 
 Примітка. Розповсюдження змін серверів імен може тривати до 48 годин.
   
-Щоб налаштувати домен в Office 365, потрібно оновити сервери імен на сайті реєстратора. Створіть або змініть записи серверів імен у свого реєстратора доменів.
+Щоб налаштувати домен з Microsoft, сервери імен у вашому реєстраторі повинні бути оновлені. Створіть або змініть записи серверів імен у свого реєстратора доменів.
   
 1. Перейдіть на веб-сайт реєстратора доменів і знайдіть область, де можна змінити сервери імен.
 
@@ -34,5 +34,5 @@ ms.locfileid: "36742209"
 
 3. Збережіть зміни.
 
-Докладні вказівки наведено в статті [Змінення DNS-серверів для налаштування Office 365, якщо використовується будь-який реєстратор доменів](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Ви також можете знайти докладні інструкції в цій статті: [змінити сервери імен для налаштування Microsoft 365 з будь-яким реєстратором домену](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

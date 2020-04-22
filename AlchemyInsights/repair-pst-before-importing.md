@@ -1,9 +1,9 @@
 ---
-title: Ремонт PST-файлу Перед імпортуванням
+title: Відновити PST-файл перед імпортом
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720158"
 ---
-# <a name="repair-pst-file-before-importing"></a>Ремонт PST-файлу Перед імпортуванням
+# <a name="repair-pst-file-before-importing"></a>Відновити PST-файл перед імпортом
 
-Перед імпортом PST-файлу в Outlook, переконайтеся, що файл не пошкоджено ремонту файл:
+Перш ніж імпортувати PST-файл у програмі Outlook, переконайтеся, що файл не пошкоджено, відновлюючи файл:
 
-1. Закрийте Outlook.
+1. Вийдіть із програми Outlook.
 
-2. Знайти і запустити `Scanpst.exe` в папці програми Office (файли C:\Program (x86) \Microsoft Office\root\Office\<версія\> або Office\root\Office відомості C:\Program\<версія\>).
+2. Пошук і запуск `Scanpst.exe` \<у папці програми Office (C:\progec\> \<\>файли (x86) \ Microsoft Office\stem\prosot версії
 
-3. У **Microsoft Outlook папки "Вхідні"**, натисніть кнопку **Огляд** , щоб знайти PST-файлу (наприклад, в C:\Users\\<username\>\AppData\Local\Microsoft\Outlook). Виберіть PST-файл і натисніть кнопку **Відкрити**.
+3. У **засобі відновлення папки «Вхідні» Microsoft Outlook**натисніть кнопку « **Огляд** », щоб знайти PST-файл (наприклад,\\ у c:\Users<ім'я _ користувача\>\ appde Виберіть PST-файл і натисніть кнопку **Відкрити**.
 
-4. Натисніть кнопку **почати** , щоб почати сканування.
+4. Натисніть кнопку **Пуск** , щоб почати сканування.
 
-5. Якщо виявлено помилки у файлі, натисніть кнопку **відновити**і натисніть кнопку **ОК** , під час ремонту не повний.
+5. Якщо у файлі виявлено помилки, натисніть кнопку **відновити**та натисніть кнопку **ОК** після завершення відновлення.
 
-6. Повторіть спробу імпорту PST-файлу в Outlook.
+6. Спробуйте імпортувати PST-файл у програмі Outlook ще раз.
 
-Докладніше перегляньте [файли даних Outlook ремонт](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) і [виправити проблеми імпортерів Outlook PST-файлу](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).
+Для отримання додаткових відомостей див. [відновлення файлів даних Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) і [вирішення проблем із імпортом файлу Outlook. PST](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).

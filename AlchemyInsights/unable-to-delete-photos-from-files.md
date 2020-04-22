@@ -3,7 +3,7 @@ title: 8000031 не вдалося видалити фотографії з фа
 ms.author: daeite
 author: daeite
 manager: dansimp
-ms.date: 10/11/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,20 +14,20 @@ ms.custom:
 - "1179"
 - "8000031"
 ms.assetid: 6486ce36-65dc-48dc-be19-52d6c7890956
-ms.openlocfilehash: 509c36f9f07c13ee27c83d7754da541879c7ca1b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1ceb489be5100a16eafdb9adb0f38eb472852e48
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731529"
 ---
 # <a name="unable-to-delete-photos-from-files"></a>Не вдалося видалити фотографії з файлів
 
-Видалення фотографій із файлів в Outlook.com.
+Щоб видалити фотографії з файлів у Outlook.com:
   
-1. Перейдіть до папки **Вхідні** або **Надіслані** а видаліть повідомлення електронної пошти, вони додаються.
+1. Перейдіть до папки **"Вхідні"** або " **надіслані** " та видаліть повідомлення електронної пошти, до якого вони прикріплені.
 
-2. Видалити елементи з вашої **Видалені елементи**.
+2. Видаліть **елементи з видалених елементів**.
 
-Для отримання додаткової інформації читав, [як видалити файли або фотографії в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
+Для отримання додаткової інформації, прочитайте, [як видалити файли або фотографії в Outlook.com](https://support.office.com/article/bae0531f-040f-4c42-90b9-786ca718c16d.aspx).
   

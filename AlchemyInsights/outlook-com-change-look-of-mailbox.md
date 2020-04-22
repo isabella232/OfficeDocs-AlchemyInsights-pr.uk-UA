@@ -1,28 +1,28 @@
 ---
-title: Outlook.com змінити вигляд вашої поштової скриньки
+title: Outlook.com змінення вигляду поштової скриньки
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547721"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722029"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Змінення вигляду поштовій скриньці Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Змінення вигляду поштової скриньки Outlook.com
 
-Ви можете змінити вигляд панелі списку і читання повідомлень в Outlook.com.
+Ви можете змінити вигляд списку повідомлень і панелі читання в Outlook.com.
 
-- Щоб змінити макет вікно повідомлення, відкрийте параметри [області читання](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Щоб змінити електронну адресу є сортуванням, у верхній частині списку повідомлень виберіть **фільтр** > **Сортувати за** та виберіть, як ви хочете, щоб упорядкувати електронну пошту.
-- Щоб згрупувати повідомлення за темою обговорення, відкрийте ваші варіанти [повідомлення організації](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Щоб увімкнути спрямовані "Вхідні", або вимкнути, відкрийте параметри [розмітки](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Щоб змінити макет вікна повідомлення, відкрийте параметри [області читання](https://outlook.live.com/mail/options/mail/layout/readingPane) .
+- Щоб змінити порядок сортування електронної пошти, угорі списку повідомлень виберіть елемент **фільтрувати** > **сортування за** і виберіть, як слід відсортувати електронну пошту.
+- Щоб згрупувати повідомлення за розмовами, відкрийте параметри [організації повідомлення](https://outlook.live.com/mail/options/mail/layout/conversations) .
+- Щоб увімкнути або вимкнути сфокусовану папку "Вхідні", відкрийте параметри [макета](https://outlook.live.com/mail/options/mail/layout/focused) .

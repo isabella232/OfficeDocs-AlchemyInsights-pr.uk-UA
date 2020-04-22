@@ -1,31 +1,31 @@
 ---
-title: POP, IMAP і SMTP настройки в Outlook, в Інтернеті
+title: Параметри POP, IMAP та SMTP в Outlook на веб-сайті
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556518"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721156"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>ПОП, IMAP & SMTP настройки для Outlook в Інтернеті
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & Параметри SMTP для Outlook в Інтернеті
 
-Якщо ви хочете, щоб додати обліковий запис служби Office 365 інший застосунок пошти, яка підтримує протокол POP, IMAP або SMTP, ось параметри вручну сервера, вам знадобиться:
+Якщо ви хочете додати свій обліковий запис Microsoft 365 до іншої поштової програми, яка підтримує POP, IMAP або SMTP, ось налаштування сервера вручну, які вам знадобляться:
   
-- **Ім'я сервера IMAP:** outlook.office365.com
+- **Ім'я сервера IMAP:** Outlook.office365.com
 - **Порт IMAP:** 993
 - **Метод шифрування IMAP:** SSL/TLS
-- **Ім'я сервера POP:** outlook.office365.com  
-- **Порт поп:** 995  
+- **Ім'я сервера POP:** Outlook.office365.com  
+- **Поп-порт:** 995  
 - **Метод шифрування POP:** SSL/TLS  
-- **Ім'я SMTP-сервера:** smtp.office365.com
-- **Порт SMTP:** 587
-- **Метод шифрування SMTP:** STARTTLS
+- **Ім'я сервера SMTP:** SMTP.office365.com
+- **SMTP-порт:** 587
+- **Метод шифрування SMTP:** Starttls

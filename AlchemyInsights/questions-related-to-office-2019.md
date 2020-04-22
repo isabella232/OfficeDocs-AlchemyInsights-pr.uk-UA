@@ -2,7 +2,7 @@
 title: Питання, пов'язані з Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553633"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719824"
 ---
 # <a name="about-office-2019"></a>Про Office 2019
 
-Офіс 2019 є для клієнтів, які ще не готові до хмари, чи не бачите особливої потреби для локальні або гібридного розгортання Office. Вона включає в себе значущого вкладеного набору функцій, які вже додано до Office 365 протягом останніх трьох років, але він не є частиною служби Office 365.
+Office 2019 призначений для клієнтів, які ще не готові до хмари або мають конкретну потребу в локальній або гібридного офісу розгортання. Вона включає в себе змістовний набір функцій, які вже були додані до Microsoft 365 протягом останніх трьох років, але це не є частиною Microsoft 365.
   
-Office 365 ProPlus, підключених до хмари версії Microsoft Office, забезпечує найбільш продуктивним і найбільш безпечний досвід Office. Він забезпечує доступ до пакету послуг поза межами локальної версії мають і отримує нову функцію оновлення на постійній основі.
+Microsoft 365 застосунки для підприємств, у хмарі версії Office, забезпечує найбільш продуктивним і безпечний Office досвід. Він надає доступ до комплекту послуг, крім того, що локальні версії і отримує нові функції оновлення на постійній основі.
   
-Таким чином, якщо у вас є програми робочого стола Office як частину вашої передплати Office 365 вже у вас остання версія Office.
+Таким чином, якщо у вас є програми Office Desktop, як частина передплати Microsoft 365 ви вже маєте найновішу версію Office.
   
-у перелічених нижче статтях.
+Докладні відомості див. у статтях:
   
-[Офіс 2019 комерційних для Windows і Mac запитання й відповіді](https://support.microsoft.com/help/4133312)
+[Комерційний офіс 2019 для Windows і Mac часті питання](https://support.microsoft.com/help/4133312)
   
-[Номер основної версії Office 2019 перебування в 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[Основна кількість версій Office 2019 перебуває в 16,0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[Позначення року в застосунках Office 2016 та Office 365 клієнт буде видалено з елементів меню Пуск](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[Рік призначення в Office 2016 і Microsoft 365 клієнтські застосунки буде видалено з меню "Пуск"](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

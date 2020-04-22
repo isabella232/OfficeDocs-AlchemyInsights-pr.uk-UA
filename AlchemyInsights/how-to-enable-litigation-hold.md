@@ -3,7 +3,7 @@ title: 976-як увімкнути-судове утримання
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
-ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
+ms.openlocfilehash: 688b5dd936b22ccfc2f556776a0362d179c37edf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37398648"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720753"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>Місце поштової скриньки на юридичному утриманні
 
@@ -26,4 +26,4 @@ ms.locfileid: "37398648"
 
 - Щоб увімкнути судове утримання для одного користувача, [виконайте такі дії](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). Коли увімкнуто судове утримання, весь вміст поштової скриньки зберігається.
 
-- Щоб зберегти вміст у всіх поштових скриньках організації, можна використовувати [політику збереження Office 365 для всієї організації](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Зверніть увагу, що для політики збереження для всієї організації нові користувачі будуть автоматично присвоєні політиці.
+- Щоб зберегти вміст у всіх поштових скриньках організації, можна скористатися [політикою збереження для всієї організації](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). Зверніть увагу, що для політики збереження для всієї організації нові користувачі будуть автоматично присвоєні політиці.

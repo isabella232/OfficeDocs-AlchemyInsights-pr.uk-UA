@@ -3,7 +3,7 @@ title: 8000088 збереження електронної пошти в Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,27 +14,27 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: de5147c772b499e6ac494ff17039d192c690b9b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b04901aa77135da48df9ce56f0af11b9ea77bbaf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521300"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759063"
 ---
-# <a name="saving-messages-in-outlookcom"></a>Збереження повідомлення в Outlook.com
+# <a name="saving-messages-in-outlookcom"></a>Збереження повідомлень у Outlook.com
 
-Неможливо зберегти повідомлення електронної пошти Outlook.com, але щоб друкувати їх до PDF-файлу, який можна зберегти на вашому ПК.
+Не можна зберігати повідомлення електронної пошти в Outlook.com, але їх можна надрукувати у PDF-файлі, який можна зберегти на ПК.
 
-Утиліта Microsoft друку до PDF, у версії 10 дозволяє друкувати будь-які повідомлення електронної пошти безпосередньо до PDF-ФАЙЛА.
+Програма Microsoft Print у форматі PDF, включена у Windows 10, дозволяє друкувати будь-яке повідомлення електронної пошти безпосередньо до PDF-файла.
 
 1. Виберіть повідомлення, яке потрібно зберегти.
 2. Виберіть три крапки <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- у верхній частині повідомлення а потім відкрийте <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
- **Друк**.
-3. Виберіть **Друк** знову і з розкривного меню принтер, виберіть **Microsoft друку до PDF**.
-4. Виберіть пункт **Друк**.
+ угорі повідомлення, а потім виберіть <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
+ **Друкувати**.
+3. Виберіть елемент **Друк** ще раз, а потім у спадному меню принтер виберіть пункт **Microsoft Print у форматі PDF**.
+4. Виберіть **друкувати**.
 5. Введіть ім'я файлу, а потім виберіть **зберегти**.
 
-**Примітка:** Це не рекомендується на спільні або громадські комп'ютери як інші користувачі можуть мати доступ до будь-якого PDF-файлів зберегти до комп'ютера а не видаляти.
+**Примітка:** Це не рекомендовано на спільних або публічних комп'ютерах, оскільки інші користувачі можуть мати доступ до будь-яких PDF-файлів, які ви зберігаєте на ПК, і не видаляйте їх.
 
-Щоб отримати додаткові відомості про друк див. [друк повідомлень електронної пошти, вкладення та календарями в Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+Щоб отримати додаткові відомості про друк, дивіться [друк повідомлень електронної пошти, вкладень і календарів у Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).

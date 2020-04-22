@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: d4ccaf4928fb041ec7914b95520c4e7ccdac208c
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: 5c247ab69c272d2d296f9602fc5246a08164da5e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741303"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726233"
 ---
 # <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Використання Microsoft EDGE на основі браузерів хрому для експорту електронної інформації
 
-У зв'язку з недавньою зміною, Microsoft EDGE браузери більше не будуть мати підтримку ClickOnce включений за замовчуванням. Щоб продовжити використання засобу експортування інформації в Microsoft Office 365, вам знадобиться використовувати Microsoft Internet Explorer або увімкнути підтримку ClickOnce у Microsoft EDGE. 
+У зв'язку з недавньою зміною, Microsoft EDGE браузери більше не будуть мати підтримку ClickOnce включений за замовчуванням. Щоб продовжити використання засобу збереження інформації Microsoft 365 для експорту, вам знадобиться використовувати Microsoft Internet Explorer або увімкнути підтримку ClickOnce у Microsoft EDGE. 
 
 Щоб увімкнути підтримку ClickOnce в Microsoft EDGE на основі хрому: 
 1. У вашому браузері Microsoft EDGE відвідайте edge://flags/#edge-Click-один раз.

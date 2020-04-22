@@ -3,7 +3,7 @@ title: Оновлення до Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903739"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720050"
 ---
 # <a name="upgrade-to-visio-2019"></a>Оновлення до Visio 2019
 
-Користувачі, які встановили застосунку Visio як частину Інтернет Visio підписку вже мають останню версію. 
+Користувачі, які інсталювали застосунок робочого стола Visio в рамках передплати Visio Online, уже мають найновішу версію. 
 
-Щоб оновити постійну версію Visio 2016, наприклад, вам потрібно купити Visio онлайн підписки або одноразову покупку Visio стандарт або бачення професійні 2019. Переглянути [опції порівняти Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
+Щоб оновити версію, яка не є підписками, наприклад Visio 2016, потрібно придбати передплату Visio Online або один раз придбати стандартну або візію Professional 2019. Перегляньте [порівняння параметрів Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-Якщо ви вже придбали новішу версію, ви зможете встановити його побачити [Встановити Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) та виконайте кроки для використовуваної версії. 
+Якщо ви вже придбали новішу версію, і ви готові його інсталювати [, див.](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) 
 
-Встановити Visio пліч о пліч з офісу, побачити [Підтримувані сценарії для встановлення різних версій Office, проект, і Visio на одному комп'ютері](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+Щоб інсталювати застосунок Visio поруч із Office, перегляньте [Підтримувані сценарії інсталяції різних версій Office, Project і Visio на одному комп'ютері](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-у перелічених нижче статтях.<br>
-[Посібник із розгортання для Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Номер основної версії Visio 2019 перебування в 16,0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[Позначення року в застосунках Office 2016 та Office 365 клієнт буде видалено з елементів меню Пуск](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[Офіс 2019 комерційних для Windows і Mac запитання й відповіді](https://support.microsoft.com/help/4133312) 
+Докладні відомості див. у статтях:<br>
+[Посібник із розгортання для програми Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Основна кількість версії Visio 2019 перебуває в 16,0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[Позначення року в Office 2016 і клієнтських програм буде видалено з записи меню "Пуск"](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Комерційний офіс 2019 для Windows і Mac часті питання](https://support.microsoft.com/help/4133312) 

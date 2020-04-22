@@ -1,9 +1,9 @@
 ---
-title: 1800014 отримати в app підтримку для Outlook мобільний додаток
+title: 1800014 отримати підтримку в програмі Outlook для мобільних пристроїв
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: d7c0acfa834f68977d2a04468fb39ac50e41023f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 42fcbe6f0e5433a60149a2b58b232e2ab895d7aa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759099"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Отримати підтримку в застосунку Outlook мобільний додаток
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Отримайте підтримку в додатку для мобільного додатка Outlook
 
-1. Мобільний додаток Outlook відкрийте **меню**.
+1. У додатку Outlook Mobile відкрийте **меню**.
 
-2. Виберіть пункт Відкрити, знак запитання на **допомогти &amp; зворотного зв'язку** екрану.
+2. Виберіть знак питання, щоб відкрити екран **відгуків &amp; про довідку** .
 
-3. Торкніться **Звернутися до служби підтримки** та пояснити свою проблему.
+3. Торкніться **зв'язатися зі службою підтримки** та поясніть проблему.
 
-4. Натисніть **Надіслати** і ви одержите в застосунку повідомлення підтримку агента контакти, які.
+4. Торкніться **Надіслати** , і ви отримаєте сповіщення в додатку, коли агент підтримки зв'язується з вами.
 
-Докладні вказівки наведено [отримання довідки у застосунку Outlook для iOS і Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
+Докладні інструкції можна [отримати в додатку Help для Outlook для IOS і Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).

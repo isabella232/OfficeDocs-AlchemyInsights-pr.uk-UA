@@ -3,7 +3,7 @@ title: Outlook.com видалити Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535124"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743834"
 ---
-# <a name="skype-icon-missing"></a>Skype значок відсутній
+# <a name="skype-icon-missing"></a>Піктограма Skype відсутня
 
-Ми тимчасово вилучені Skype значок з Outlook.com як частину дизайн оновлення і функція оновлення ми раді бути прокатки. Ми цінуємо ваше терпіння, хоча ми готуємо нові та вдосконалені досвід для вас.
+Ми тимчасово видалили іконку Skype з Outlook.com як частина оновлення дизайну і поновлення функцій, які ми раді бути прокатки. Ми цінуємо ваше терпіння, поки готуємо новий і покращений досвід для вас.
 
-Як і раніше, за допомогою Skype через ваш браузер на [web.skype.com](https://web.skype.com/).
+Ви все ще можете використовувати Skype через ваш браузер на [Web.Skype.com](https://web.skype.com/).

@@ -1,9 +1,9 @@
 ---
-title: Необхідні ліцензії на Microsoft ToDo
+title: Потрібні ліцензії для Microsoft завдань
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552192"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722677"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Необхідні ліцензії на Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Потрібні ліцензії для Microsoft завдань
 
-[Необхідні ліцензії на Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Потрібні ліцензії для Microsoft завдань](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-І користувач повинен мати одну з наведених ліцензій для використання Microsoft ToDo:
+Користувач повинен мати одну з таких ліцензій, щоб використовувати Microsoft до завдань:
   
-- Основи бізнесу
+- Бізнес-основи
 
-- Бізнес Premium
+- Бізнес преміум
 
-- Microsoft 365 Firstline F1
+- Microsoft 365 перший рядок F1
 
-- Будь-який план підприємства Office 365
+- Будь-який офіс 365 підприємства план
 
-- Забезпечити продуктивний бізнес
+- Безпечний продуктивний бізнес
 
-- Забезпечити продуктивний підприємство E3
+- Надійне продуктивне підприємство E3
 
-- Забезпечити продуктивний підприємство E5
+- Надійне продуктивне підприємство E5
 
-- Будь-який план Office 365 освіти
+- Будь-який офіс 365 навчальний план
 
-- Microsoft 365 A3
+- Microsoft 365 a3
 
-- Microsoft 365 A5
+- Microsoft 365 a5
 
-На додаток до ліцензії дійсні продукту один з наступних версіях Exchange Online потрібно для ToDo, щоб мати можливість синхронізації даних користувача:
+На додаток до дійсного ліцензії на продукт, одна з таких версій Exchange Online необхідна для завдань, щоб мати можливість синхронізувати дані користувача:
   
-- Exchange Online план 1
+- Exchange Online (план 1)
 
 - Exchange Online план 2
 
-- Обмін Essentials
+- Exchange Essentials
 
-- Кіоск Exchange Online
+- Онлайн-кіоск для Exchange
 
-- Exchange Online поп
+- Exchange Online POP
 
-[Призначити ліцензій для облікових записів Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Призначення ліцензій для облікових записів користувачів з Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

@@ -1,9 +1,9 @@
 ---
-title: Як вийти з Outlook в Інтернеті
+title: Як вийти з Outlook, в Інтернеті
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 6eac1462c26c1889d2e91ce336c88de0d221124b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556694"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742970"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Як вийти з Outlook в Інтернеті
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Як вийти з Outlook, в Інтернеті
 
-Вийдіть з Outlook в Інтернеті, виберіть ім'я або зображення в правому верхньому кутку та виберіть **вийти**.
+Щоб вийти з Outlook в Інтернеті, виберіть своє ім'я або зображення у верхньому правому куті та виберіть **вийти**.
 
-Щоб зупинити автоматично ввійшовши до облікового запису роботи чи школи:
+Щоб вимкнути автоматичне вхід у робочий або навчальний обліковий запис:
 
-1. Виберіть ім'я або зображення та виберіть **вийти**.
-1. Перейти до [Outlook.office.com](https://outlook.office.com/) і виберіть **використовувати інший обліковий запис**.
-1. Увійти, використовуючи адресу електронної пошти, який ви хочете використовувати.
+1. Виберіть своє ім'я або зображення і виберіть **вийти**.
+1. Перейдіть до [Outlook.Office.com](https://outlook.office.com/) і виберіть **використовувати інший обліковий запис**.
+1. Увійдіть за допомогою електронної адреси, яку хочете використовувати.
 
-Щоб дізнатися більше, див [статтю вхід до або з Outlook в Інтернеті](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Щоб дізнатися більше, Дізнайтеся, [як увійти в Outlook або в Інтернеті](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
