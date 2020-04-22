@@ -1,9 +1,9 @@
 ---
-title: Ремонт PST-файлу Перед імпортуванням
+title: Відновити PST-файл перед імпортом
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1226"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 3f273d9807a20048f33ce476e091ee2122a773d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 518543f664873c99d5f296284199cd417c620e00
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552444"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720158"
 ---
-# <a name="repair-pst-file-before-importing"></a><span data-ttu-id="ead9f-102">Ремонт PST-файлу Перед імпортуванням</span><span class="sxs-lookup"><span data-stu-id="ead9f-102">Repair .pst file before importing</span></span>
+# <a name="repair-pst-file-before-importing"></a><span data-ttu-id="22920-102">Відновити PST-файл перед імпортом</span><span class="sxs-lookup"><span data-stu-id="22920-102">Repair .pst file before importing</span></span>
 
-<span data-ttu-id="ead9f-103">Перед імпортом PST-файлу в Outlook, переконайтеся, що файл не пошкоджено ремонту файл:</span><span class="sxs-lookup"><span data-stu-id="ead9f-103">Before you import a .pst file in Outlook, verify the file is not corrupted by repairing the file:</span></span>
+<span data-ttu-id="22920-103">Перш ніж імпортувати PST-файл у програмі Outlook, переконайтеся, що файл не пошкоджено, відновлюючи файл:</span><span class="sxs-lookup"><span data-stu-id="22920-103">Before you import a .pst file in Outlook, verify the file is not corrupted by repairing the file:</span></span>
 
-1. <span data-ttu-id="ead9f-104">Закрийте Outlook.</span><span class="sxs-lookup"><span data-stu-id="ead9f-104">Exit Outlook.</span></span>
+1. <span data-ttu-id="22920-104">Вийдіть із програми Outlook.</span><span class="sxs-lookup"><span data-stu-id="22920-104">Exit Outlook.</span></span>
 
-2. <span data-ttu-id="ead9f-105">Знайти і запустити `Scanpst.exe` в папці програми Office (файли C:\Program (x86) \Microsoft Office\root\Office\<версія\> або Office\root\Office відомості C:\Program\<версія\>).</span><span class="sxs-lookup"><span data-stu-id="ead9f-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
+2. <span data-ttu-id="22920-105">Пошук і запуск `Scanpst.exe` \<у папці програми Office (C:\progec\> \<\>файли (x86) \ Microsoft Office\stem\prosot версії</span><span class="sxs-lookup"><span data-stu-id="22920-105">Find and run `Scanpst.exe` in your Office program folder (C:\Program Files (x86)\Microsoft Office\root\Office\<Version\> or C:\Program Files\Microsoft Office\root\Office\<Version\>).</span></span>
 
-3. <span data-ttu-id="ead9f-106">У **Microsoft Outlook папки "Вхідні"**, натисніть кнопку **Огляд** , щоб знайти PST-файлу (наприклад, в C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span><span class="sxs-lookup"><span data-stu-id="ead9f-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="ead9f-107">Виберіть PST-файл і натисніть кнопку **Відкрити**.</span><span class="sxs-lookup"><span data-stu-id="ead9f-107">Select the .pst file and then click **Open**.</span></span>
+3. <span data-ttu-id="22920-106">У **засобі відновлення папки «Вхідні» Microsoft Outlook**натисніть кнопку « **Огляд** », щоб знайти PST-файл (наприклад,\\ у c:\Users<ім'я _ користувача\>\ appde</span><span class="sxs-lookup"><span data-stu-id="22920-106">In the **Microsoft Outlook Inbox Repair tool**, click **Browse** to find the .pst file (for example, in C:\Users\\<username\>\AppData\Local\Microsoft\Outlook).</span></span> <span data-ttu-id="22920-107">Виберіть PST-файл і натисніть кнопку **Відкрити**.</span><span class="sxs-lookup"><span data-stu-id="22920-107">Select the .pst file and then click **Open**.</span></span>
 
-4. <span data-ttu-id="ead9f-108">Натисніть кнопку **почати** , щоб почати сканування.</span><span class="sxs-lookup"><span data-stu-id="ead9f-108">Click **Start** to begin the scan.</span></span>
+4. <span data-ttu-id="22920-108">Натисніть кнопку **Пуск** , щоб почати сканування.</span><span class="sxs-lookup"><span data-stu-id="22920-108">Click **Start** to begin the scan.</span></span>
 
-5. <span data-ttu-id="ead9f-109">Якщо виявлено помилки у файлі, натисніть кнопку **відновити**і натисніть кнопку **ОК** , під час ремонту не повний.</span><span class="sxs-lookup"><span data-stu-id="ead9f-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
+5. <span data-ttu-id="22920-109">Якщо у файлі виявлено помилки, натисніть кнопку **відновити**та натисніть кнопку **ОК** після завершення відновлення.</span><span class="sxs-lookup"><span data-stu-id="22920-109">If errors are found in the file, click **Repair**, and then click **OK** when the repair is complete.</span></span>
 
-6. <span data-ttu-id="ead9f-110">Повторіть спробу імпорту PST-файлу в Outlook.</span><span class="sxs-lookup"><span data-stu-id="ead9f-110">Try to import the .pst file in Outlook again.</span></span>
+6. <span data-ttu-id="22920-110">Спробуйте імпортувати PST-файл у програмі Outlook ще раз.</span><span class="sxs-lookup"><span data-stu-id="22920-110">Try to import the .pst file in Outlook again.</span></span>
 
-<span data-ttu-id="ead9f-111">Докладніше перегляньте [файли даних Outlook ремонт](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) і [виправити проблеми імпортерів Outlook PST-файлу](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span><span class="sxs-lookup"><span data-stu-id="ead9f-111">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
+<span data-ttu-id="22920-111">Для отримання додаткових відомостей див. [відновлення файлів даних Outlook](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) і [вирішення проблем із імпортом файлу Outlook. PST](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span><span class="sxs-lookup"><span data-stu-id="22920-111">For more information, see [Repair Outlook data files](https://support.office.com/article/25663bc3-11ec-4412-86c4-60458afc5253) and [Fix problems importing an Outlook .pst file](https://support.office.com/article/2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e).</span></span>
