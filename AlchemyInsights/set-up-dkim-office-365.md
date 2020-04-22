@@ -1,5 +1,5 @@
 ---
-title: Установки DKIM у службі Office 365
+title: Налаштування DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,43 +9,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: dd908db6a4bc1739b3c1cff059387034d67e093d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666285"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43645693"
 ---
-# <a name="setup-dkim-in-office-365"></a>Установки DKIM у службі Office 365
+# <a name="setup-dkim"></a>Налаштування DKIM
 
-Повна інструкція з налаштування DKIM, настроюваних доменів у службі Office 365 використовуються [тут](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Повні інструкції з налаштування DKIM для користувацьких доменів у Microsoft 365 є [тут](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
 
-1. Для **кожного** користувача домену вам потрібно створити **два** записи DKIM CNAME вашого домену службі розміщення DNS (зазвичай Реєстратор домену). Наприклад, contoso.com і fourthcoffee.com вимагає чотири записи DKIM CNAME: два на contoso.com і два для fourthcoffee.com.
+1. Для **кожного** настроюваного домену потрібно створити **два** записи DKIM CNAME у службі розміщення DNS вашого домену (зазвичай реєстратор доменів). Наприклад, contoso.com і fourthcoffee.com потрібні чотири записи DKIM CNAME: два для contoso.com і два для fourthcoffee.com.
 
-   На DKIM записи CNAME для **кожного** користувача домену за допомогою таких форматів:
+   Записи DKIM CNAME для **кожного** настроюваного домену використовують такі формати:
 
    - **Ім'я хоста**:`selector1._domainkey.<CustomDomain>`
 
-     **Пункту до значення або адресу**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
+     **Вказує на адресу або значення**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
    - **Ім'я хоста**:`selector2._domainkey.<CustomDomain>`
 
-     **Пункту до значення або адресу**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Вказує на адресу або значення**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\> текст ліворуч від `.mail.protection.outlook.com` в замовний запис MX для користувача домену (наприклад, `contoso-com` для домен contoso.com). \<InitialDomain\> є домен, які використовувалися під час реєстрації в Office 365 (наприклад, contoso.onmicrosoft.com).
+   \<Ідентифікатор\> домену — це текст зліва від `.mail.protection.outlook.com` настроюваного запису MX для настроюваного домену (наприклад, `contoso-com` для домену contoso.com). \<У Ініціатодомені\> є домен, який використовувався під час підписування для Microsoft 365 (наприклад, contoso.onmicrosoft.com).
 
-2. Після створення запису CNAME записів для настроюваних доменів, виконайте наступні інструкції.
+2. Після створення записів CNAME для настроюваних доменів виконайте наведені нижче вказівки.
 
-   муніципалітет. [Увійдіть до Office 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) з облікового запису роботи чи школи.
+   є. [увійдіть до Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) з робочим або навчальним обліковим записом.
 
-   b. Виберіть launcher піктограму у верхньому лівому і вибрати **адміністратора**.
+   B. Виберіть піктограму запуску програми у верхньому лівому куті та виберіть **адміністратор**.
 
-   c. У нижньому лівому навігації розширити **адміністратора** і виберіть **Exchange**.
+   C. У лівій частині навігації розгорніть **адміністратор** і виберіть **Exchange**.
 
-   d. Перейдіть до **захисту** > **DKIM**.
+   D. Перейти до **захисту** > **DKIM**.
 
-   e. Виберіть домен а потім виберіть **Увімкнути** для **підписати повідомлення для цього домену з DKIM підписами**. Повторіть цей крок для кожного користувача домену.
+   E. Виберіть домен, а потім виберіть **Увімкнути** для **підписування повідомлень для цього ДОМЕНУ з підписами DKIM**. Повторіть цей крок для кожного настроюваного домену.

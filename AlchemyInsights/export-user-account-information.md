@@ -1,9 +1,9 @@
 ---
-title: Експортувати дані облікового запису користувача
+title: Експортування відомостей про обліковий запис користувача
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b86887b5b4dc52c045c86ef2f6598a8e57df0a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526232"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702939"
 ---
-# <a name="export-user-account-information"></a>Експортувати дані облікового запису користувача
+# <a name="export-user-account-information"></a>Експортування відомостей про обліковий запис користувача
 
-Щоб експортувати дані облікового запису користувача в Microsoft Outlook 365 адміністратор центр, включаючи інформацію про ліцензії, пароль заблоковано рахунки, стан синхронізації сад, політики та багато іншого, перейдіть на **користувачів** > [активних користувачів](https://go.microsoft.com/fwlink/p/?linkid=834822) сторінки а потім встановіть прапорець **експорту Користувачі**.
+Щоб експортувати відомості облікового запису користувача до центру адміністрування Microsoft 365, включно з відомостями про ліцензії, політикою паролів, заблокованими обліковими записами, станом на сад синхронізації та іншими відомостями, перейдіть на сторінку **користувачі** > [активних користувачів](https://go.microsoft.com/fwlink/p/?linkid=834822) , а потім виберіть **експортувати користувачів**.

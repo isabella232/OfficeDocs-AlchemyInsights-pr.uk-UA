@@ -1,9 +1,9 @@
 ---
-title: 1314 дублікат об'єкта вказівки щодо виправлення системи
+title: 1314 повторювані відновлення об'єктів
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529466"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703988"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Дублікат об'єкта помилок синхронізації
+# <a name="duplicate-object-synchronization-errors"></a>Повторювані помилки синхронізації об'єктів
 
-Якщо з'являється одне з таких помилок під час синхронізація:
+Якщо під час синхронізації з'являється одна з таких помилок:
 
-- Синхронізовані об'єкта з однаковою адресою проксі уже існує у вашому каталозі Microsoft Online Services.
+- Синхронізований об'єкт з однаковою проксі-адресою вже існує у вашому каталозі служб Microsoft Online Services.
 
-- Подібне повідомлення для UserPrincipalName.
+- Аналогічне повідомлення для користувацького Принципальім'я.
 
-За допомогою нового AADConnect здоров'я діагностичні усунути помилки дублікат об'єкта. Докладніше, перегляньте [Діагностика та виправте помилки синхронізації дубльованого атрибут](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Використання нового AADConnect здоров'я діагностики для вирішення повторюваних об'єктів помилки. Щоб отримати додаткові відомості, [див.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)

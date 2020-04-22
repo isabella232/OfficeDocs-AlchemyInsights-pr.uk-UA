@@ -1,9 +1,9 @@
 ---
-title: Редагувати Платіжний профіль для додатків
+title: Як змінити Платіжний профіль для додатків
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35607007"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703916"
 ---
-# <a name="edit-billing-profile-for-apps"></a>Редагувати Платіжний профіль для додатків
+# <a name="edit-billing-profile-for-apps"></a>Як змінити Платіжний профіль для додатків
 
-## <a name="to-change-the-billing-profile-on-apps"></a>Щоб змінити білінгу профайл на додатків
+## <a name="to-change-the-billing-profile-on-apps"></a>Щоб змінити Платіжний профіль у додатках
 
-1. Перейти до **оплати** > [продукції & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) сторінки, а потім виберіть вкладку **застосунки** .
+1. Перейдіть до сторінки **платіжні** > [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) , а потім виберіть вкладку **програми** .
 
-2. Знайдіть і виберіть застосунок, щоб керувати.  
+2. Знайдіть і виберіть програму, яку хочете керувати.  
 
-3. Поруч із **Платіжний профіль**виберіть **змінити** і виберіть Платіжний профіль, ви хотіли б пов'язувати з додатком.
+3. Поруч із пунктом **Платіжний профіль**виберіть **редагувати** та виберіть Платіжний профіль, який потрібно пов'язати з додатком.
 
-## <a name="edit-billing-profiles"></a>Редагування профілів для виставлення рахунків
+## <a name="edit-billing-profiles"></a>Редагування профілів виставлення рахунків
 
-1. Перейти до **оплати** > [векселів & платежі](https://go.microsoft.com/fwlink/p/?linkid=848039) сторінки, а потім виберіть **Billing профілів**.
+1. Перейдіть до рахунків **за** > рахунками[&](https://go.microsoft.com/fwlink/p/?linkid=848039) платіжну сторінку, а потім виберіть **профілі виставлення рахунків**.
 
-2. Вибрати Платіжний профіль зі списку для редагування.
+2. Виберіть Платіжний профіль зі списку, щоб відредагувати його.

@@ -3,7 +3,7 @@ title: ЗВД не працює належним чином
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 574a8a43d8264e98c6af2bfeb1bb472475e6e334
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: efb4a19f345fe6b8a1e8bb72abeba4a923c05777
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "42977459"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704434"
 ---
 # <a name="dlp-not-working-as-expected"></a>ЗВД не працює належним чином
 
@@ -32,7 +32,7 @@ ms.locfileid: "42977459"
   
  **Що шукати ЗВД політики**
   
-Під час використання **вбудованих типів конфіденційної інформації** в Office 365 безпеки та комплаєнсу центр, звд політики, знайдіть конкретні шаблони та елементи, під час виявлення цих чутливих типів.
+Під час використання **вбудованих типів конфіденційної інформації** в центрах безпеки та КОМПЛАЄНСУ, звд політики шукають конкретні візерунки та елементи під час виявлення цих чутливих типів.
   
 - **Вбудовані типи конфіденційних даних**
 

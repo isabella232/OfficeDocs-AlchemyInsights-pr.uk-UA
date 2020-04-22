@@ -10,21 +10,21 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627867"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43655303"
 ---
 # <a name="data-location"></a>Розташування даних
 
-Ви можете переглянути розташування вашого клієнта Office 365 в центрі адміністрування або шляхом підключення до Exchange Online через PowerShell.
+Ви можете переглянути розташування вашого клієнта в центрі адміністрування або шляхом підключення до Exchange Online через PowerShell.
 
 
 **Центр адміністрування:**
 1. Увійдіть в [Центр адміністрування](https://admin.microsoft.com/Adminportal/Home).
-2. Виберіть **** > **профіль організації**настройки.
+2. Виберіть **Settings** > **профіль організації**настройки.
 3. У розділі **розташування даних**виберіть **переглянути деталі**.
 
 

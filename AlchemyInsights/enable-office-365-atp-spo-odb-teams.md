@@ -1,29 +1,29 @@
 ---
-title: Увімкнути АТФ Office 365 для SharePoint, OneDrive і Microsoft команд
+title: Увімкнення АТФ для Office 365 для SharePoint, OneDrive і Microsoft teams
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
-ms.date: 04/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: ae2f574663ae3233a056589c2d5a578171f3b2f4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fdfdc97a198898051a3388672d01994d96dd5e97
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403054"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703447"
 ---
-# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Увімкнути Office 365 передові загроза захист для SharePoint онлайн, OneDrive і Microsoft команд
+# <a name="enable-office-365-advanced-threat-protection-for-sharepoint-online-onedrive-and-microsoft-teams"></a>Увімкнути розширений захист від загроз Office 365 для SharePoint Online, OneDrive і Microsoft teams
 
-1. Перейти до https://protection.office.com та виконайте вхід.
-2. Вибрати **загрозу управління** > **політика** > **Безпечний вкладення**.
-3. Виберіть **Увімкнути АТФ для SharePoint, OneDrive та команди Microsoft**і натисніть кнопку **зберегти**.
-4. (Рекомендовано) Як глобальна адміністратора або адміністратор SharePoint Online запустити командлет [Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) із параметром **DisallowInfectedFileDownload** , встановіть значення *true*.
-5. (Рекомендовано) [Настроювання оповіщень](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) на виявлені файли.
+1. Перейдіть до https://protection.office.com входу та ввійдіть.
+2. Виберіть**безпечне вкладення** > **політики** >  **керування загрозами**.
+3. Виберіть **Увімкнути АТФ для SharePoint, OneDrive і Microsoft teams**і натисніть кнопку **зберегти**.
+4. Рекомендується Як Глобальний адміністратор або адміністратор SharePoint Online, запустити командлет [Set-Споживнент](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant?view=sharepoint-ps) з параметром **DisallowInfectedFileDownload** , встановлений на *True*.
+5. Рекомендується [Налаштуйте оповіщення](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams#set-up-alerts-for-detected-files) для виявлених файлів.
 
 > [!NOTE]
-> АТФ буде НТО сканування кожен окремий файл у SharePoint Online, OneDrive або Microsoft команд. Перевіряються при асинхронно, через процес, який використовує обміну і гостьова події діяльності, поряд з smart евристики і загроза сигнали для ідентифікації шкідливі файли. Див [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+> АТФ буде НТО сканувати кожен файл у SharePoint Online, OneDrive або Microsoft teams. Файли скануються асинхронно через процес, який використовує події спільного використання та гостьової активності, а також смарт-евристики та сигнали загрози для ідентифікації шкідливих файлів. Бачити [https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).

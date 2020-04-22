@@ -1,22 +1,22 @@
 ---
-title: Є ви проводи електронної пошти затримки, або в черзі mail?
+title: Ви бачите затримки електронної пошти або черги пошти?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: 285ad9e856390dc0cba10ebed9aae07461de3e14
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: ae90583cc93653a615b5f1abdaa699b52a8b8af5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765529"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703808"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Є ви проводи електронної пошти затримки, або в черзі mail?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ви бачите затримки електронної пошти або черги пошти?
 
-Ми недавно почали протестує старшого Office 365 SMTP кінцеві точки. Ці значення призначення Office 365 були доступні для використання в записи MX і розумна хостів до 2012 року. Якщо ви все ще використовуєте один із цих старих цінностей, потрібно буде оновити кінцевої точки служби Office 365 для підтримуваних значення. Докладніше перегляньте цю [підтримку КБ](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Нещодавно ми почали протестуючих старі кінцеві точки SMTP. Ці значення призначення були доступні для використання в записах MX і Smart hosts до 2012. Якщо ви все ще користуєтеся одним із цих старих значень, потрібно оновити кінцеву точку для підтримуваної величини. Для отримання додаткових відомостей зверніться до цієї [служби підтримки KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).

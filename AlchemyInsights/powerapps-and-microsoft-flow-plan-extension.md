@@ -1,9 +1,9 @@
 ---
-title: 1575-PowerApps і Microsoft потік плану розширення
+title: 1575-PowerApps і Microsoft потік план розширення
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667050"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps і потік Microsoft план розширення
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Розширення плану PowerApps і Microsoft Flow
 
-Якщо ви маєте намір запросити план розширення для **Microsoft потоку** або **PowerApps** , вашої вже орендар активних користувачів однієї з таких функцій немає необхідності подати запит на підтримку.
+Якщо ви маєте намір запросити розширення плану для **Microsoft Flow** або **PowerApps** , а ваш клієнт уже має активних користувачів однієї з таких функцій, не потрібно подавати запит на підтримку.
 
-- Створення та публікації настроюваних з'єднувачів в PowerApps і Microsoft потік
-- Настроювані дії HTTP інтегровані в потік за межами SharePoint і OneDrive
-- Інтеграції локальних даних через локальний шлюз даних
+- Створення та публікація користувацьких роз'ємів у PowerApps та Microsoft Flow
+- Настроювані дії HTTP, інтегровані в Flow за межами SharePoint і OneDrive
+- Інтеграція локальних даних через локальний шлюз даних
 
-Гості з активних користувачів в цих функцій отримає автоматичне продовження до 31 січня 2020 року, або закінчення дії своїх існуючих Office 365 абонентського стажу, тривалішим.
+Клієнти з активними користувачами цих функцій отримають автоматичне подовження до 31 січня 2020 року або закінчення терміну дії існуючого терміну передплати Microsoft 365, залежно від того, який термін довший.

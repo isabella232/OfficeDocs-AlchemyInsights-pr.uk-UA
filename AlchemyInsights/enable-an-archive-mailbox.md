@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: da1f12678dd1a508a24f02e73acb6d599eaff628
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: bf2526460ed8b2684ea3ad210f451180a6ca8014
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43132632"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703700"
 ---
 # <a name="enable-an-archive-mailbox"></a>Увімкнути архівну поштову скриньку
 
@@ -25,7 +25,7 @@ ms.locfileid: "43132632"
   
 1. Перейти [https://protection.office.com](https://protection.office.com).
 
-2. Увійдіть до Office 365, використовуючи обліковий запис адміністратора.
+2. Увійдіть до Microsoft 365 за допомогою облікового запису адміністратора.
 
 3. &amp; У лівій області центру дотримання безпеки виберіть пункт **Архів** **інформаційних управління** \> .
 
@@ -51,6 +51,6 @@ ms.locfileid: "43132632"
 
 Докладні відомості див. у статтях:
   
-- [Увімкнути поштові скриньки архіву в Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Увімкнути поштові скриньки архіву](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Настроювання політики архівування та видалення в Office 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [Настроювання політики архівування та видалення](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

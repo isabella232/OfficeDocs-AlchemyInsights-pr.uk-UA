@@ -2,18 +2,18 @@
 title: Обмеження доступу в SharePoint або OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053786"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692786"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>Обмеження доступу в SharePoint або OneDrive
 
@@ -31,7 +31,7 @@ ms.locfileid: "40053786"
 
 - [Керування доступом із некерованих пристроїв](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-У SharePoint або Global Admin в Office 365 можна заблокувати або обмежити доступ до вмісту SharePoint і OneDrive з некерованих пристроїв (не сумісні або несумісні оголошення в InTune).
+Як SharePoint або Глобальний адміністратор ви можете заблокувати або обмежити доступ до вмісту SharePoint і OneDrive з некерованих пристроїв (це не гібридні оголошення, які приєдналися або сумісні в InTune).
 
 **Обмеження розташування мережі**
 
@@ -43,5 +43,5 @@ ms.locfileid: "40053786"
 
 **Як заборонити користувачам створювати сайти або підсайти**
 
-Як адміністратор SharePoint або Office 365 Global Admin ви можете дозволити користувачам створювати та адмініструвати власні сайти SharePoint, визначати, які сайти вони можуть створювати, і вказати розташування сайтів. Для отримання додаткової інформації, будь ласка, дивіться [керування створенням сайту в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Як адміністратор SharePoint або Глобальний адміністратор ви можете дозволити користувачам створювати та адмініструвати власні сайти SharePoint, визначати, які сайти вони можуть створювати, і вказувати розташування сайтів. Для отримання додаткової інформації, будь ласка, дивіться [керування створенням сайту в SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 
