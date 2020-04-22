@@ -1,9 +1,9 @@
 ---
-title: Змінити ім'я електронної пошти в Outlook.com
+title: Як змінити назву електронної пошти в Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/11/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e1e6f476833bbb9f6830217c661176c15d440a4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537478"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712911"
 ---
-# <a name="change-your-email-name"></a><span data-ttu-id="9da75-102">Змінити ім'я електронної пошти</span><span class="sxs-lookup"><span data-stu-id="9da75-102">Change your email name</span></span>
+# <a name="change-your-email-name"></a><span data-ttu-id="2341b-102">Як змінити ім'я електронної пошти</span><span class="sxs-lookup"><span data-stu-id="2341b-102">Change your email name</span></span>
 
-<span data-ttu-id="9da75-103">Якщо у вас є один Outlook.com, адресу електронної пошти та змінити ім'я одержувачі побачать у ваших повідомлень:</span><span class="sxs-lookup"><span data-stu-id="9da75-103">If you have one Outlook.com email address and want to change the name recipients will see in your messages:</span></span>
+<span data-ttu-id="2341b-103">Якщо у вас є одна Outlook.com адреса електронної пошти і ви хочете змінити ім'я одержувачі побачать у ваших повідомленнях:</span><span class="sxs-lookup"><span data-stu-id="2341b-103">If you have one Outlook.com email address and want to change the name recipients will see in your messages:</span></span>
   
-1. <span data-ttu-id="9da75-104">Виберіть зображення облікового запису у правому верхньому куті сторінки.</span><span class="sxs-lookup"><span data-stu-id="9da75-104">Select your account picture at the top right corner of the page.</span></span>
-2. <span data-ttu-id="9da75-105">Виберіть **мій профіль**.</span><span class="sxs-lookup"><span data-stu-id="9da75-105">Select **My profile**.</span></span>
-3. <span data-ttu-id="9da75-106">Виберіть **редагувати ім'я** внесення змін та виберіть **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="9da75-106">Select **Edit name** to make changes and select **Save**.</span></span>
+1. <span data-ttu-id="2341b-104">Виберіть зображення облікового запису у верхньому правому куті сторінки.</span><span class="sxs-lookup"><span data-stu-id="2341b-104">Select your account picture at the top right corner of the page.</span></span>
+2. <span data-ttu-id="2341b-105">Виберіть **мій профіль**.</span><span class="sxs-lookup"><span data-stu-id="2341b-105">Select **My profile**.</span></span>
+3. <span data-ttu-id="2341b-106">Виберіть **змінити ім'я** , щоб внести зміни, і виберіть **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="2341b-106">Select **Edit name** to make changes and select **Save**.</span></span>
 
-<span data-ttu-id="9da75-107">Будь ласка, дозвольте до 24 годин, щоб зміни ім'я профілю, вступити в силу.</span><span class="sxs-lookup"><span data-stu-id="9da75-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
+<span data-ttu-id="2341b-107">Щоб перейти в дію, будь ласка, дозвольте до 24 годин, щоб змінити назву свого профілю.</span><span class="sxs-lookup"><span data-stu-id="2341b-107">Please allow up to 24 hours for changes to your profile name to go into effect.</span></span>
   
-<span data-ttu-id="9da75-108">За наявності кількох псевдонім електронної пошти або адресу, підключених до облікового запису Outlook.com можна надсилати електронну пошту з будь-якого з ваших адрес.</span><span class="sxs-lookup"><span data-stu-id="9da75-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
+<span data-ttu-id="2341b-108">Якщо у вас є більше одного псевдоніма або адреси електронної пошти, підключеного до вашого облікового запису Outlook.com, ви можете надіслати електронний лист із будь-якої адреси.</span><span class="sxs-lookup"><span data-stu-id="2341b-108">If you have more than one email alias or address connected to your Outlook.com account, you can choose to send email from any of your addresses.</span></span>
   
-1. <span data-ttu-id="9da75-109">При створенні листа, виберіть "..." у нижній частині вікна compose.</span><span class="sxs-lookup"><span data-stu-id="9da75-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
-1. <span data-ttu-id="9da75-110">Виберіть **Показати від** побачити рядок From.</span><span class="sxs-lookup"><span data-stu-id="9da75-110">Select **Show From** to see the From line.</span></span>
-1. <span data-ttu-id="9da75-111">Вище полі Кому **Виберіть** і вибрати яку адресу електронної пошти, ви хочете використовувати.</span><span class="sxs-lookup"><span data-stu-id="9da75-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
+1. <span data-ttu-id="2341b-109">Під час створення повідомлення виберіть "..." у нижній частині вікна створення.</span><span class="sxs-lookup"><span data-stu-id="2341b-109">When composing a message, select "..." at the bottom of the compose window.</span></span>
+1. <span data-ttu-id="2341b-110">Виберіть **Показати** , щоб побачити з рядка.</span><span class="sxs-lookup"><span data-stu-id="2341b-110">Select **Show From** to see the From line.</span></span>
+1. <span data-ttu-id="2341b-111">Над рядком, **Виберіть і виберіть** адресу електронної пошти, яку ви хочете використовувати.</span><span class="sxs-lookup"><span data-stu-id="2341b-111">Above the To line, select **From** and choose which email address you want to use.</span></span>
 
-<span data-ttu-id="9da75-112">Докладніше перегляньте [Надіслати повідомлення з іншої адреси в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9da75-112">For more information, see [Send email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="2341b-112">Для отримання додаткових відомостей див. [Надіслати повідомлення електронної пошти з іншої адреси в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2341b-112">For more information, see [Send email from a different address in Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>

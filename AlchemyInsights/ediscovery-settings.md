@@ -1,31 +1,31 @@
 ---
-title: Пошук необхідної настройки
+title: Параметри Витребування електронної інформації
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528248"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714423"
 ---
-# <a name="ediscovery-settings"></a><span data-ttu-id="2d81a-102">Пошук необхідної настройки</span><span class="sxs-lookup"><span data-stu-id="2d81a-102">Ediscovery settings</span></span>
+# <a name="ediscovery-settings"></a><span data-ttu-id="28772-102">Параметри Витребування електронної інформації</span><span class="sxs-lookup"><span data-stu-id="28772-102">Ediscovery settings</span></span>
 
-<span data-ttu-id="2d81a-103">пошук необхідної/зміст пошуків у службі Office 365 дають змогу шукати, утримуйте і експортувати вміст з поштових скриньок Exchange Online, SharePoint Online і OneDrive для бізнес сайтів, Skype для бізнесу розмов, Microsoft команд та Office 365 групи.</span><span class="sxs-lookup"><span data-stu-id="2d81a-103">eDiscovery/Content searches in Office 365 allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
+<span data-ttu-id="28772-103">Витребування електронної інформації та пошук вмісту дають змогу здійснювати пошук, утримання та експортування вмісту з поштових скриньок Exchange Online, SharePoint Online та OneDrive для бізнес-сайтів, Skype для ділових розмов, Microsoft teams і груп Office 365.</span><span class="sxs-lookup"><span data-stu-id="28772-103">eDiscovery/Content searches allow you to search, hold, and export content from Exchange Online mailboxes, SharePoint Online and OneDrive for Business sites, Skype for Business conversations, Microsoft Teams, and Office 365 groups.</span></span>
 
-- <span data-ttu-id="2d81a-104">Якщо ви шукаєте пошук необхідної або пошук за змістом меню параметрів, див. [пошук необхідної питань](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="2d81a-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
-- <span data-ttu-id="2d81a-105">Що таке дозволи, необхідні для здійснення пошуків пошук необхідної від [дозволів, необхідних для пошук необхідної пошуків](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)?</span><span class="sxs-lookup"><span data-stu-id="2d81a-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
-- <span data-ttu-id="2d81a-106">Якщо ваш пошук не є повернення очікуваних результатів, побачити, [Пошук, не повертаючи очікувані результати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="2d81a-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
+- <span data-ttu-id="28772-104">Якщо ви шукаєте параметри пошуку Витребування або вмісту, перегляньте [питання Витребування електронної інформації](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span><span class="sxs-lookup"><span data-stu-id="28772-104">If you're looking for the eDiscovery or Content Search menu options, see [eDiscovery Issues](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).</span></span>
+- <span data-ttu-id="28772-105">Відомості про дозволи, необхідні для виконання пошуку Витребування, від [дозволів, потрібних для пошуку Витребування](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span><span class="sxs-lookup"><span data-stu-id="28772-105">Learn about the permissions needed for performing eDiscovery searches from [Permissions required for eDiscovery searches](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).</span></span>
+- <span data-ttu-id="28772-106">Якщо пошук не повертається очікуваних результатів, див [Пошук не повертаються очікувані результати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span><span class="sxs-lookup"><span data-stu-id="28772-106">If your search isn't returning the expected results, see [Search not returning expected results](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).</span></span>
 
-<span data-ttu-id="2d81a-107">Щоб отримати додаткові відомості про пошук необхідної у службі Office 365 побачити [пошук необхідної в Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span><span class="sxs-lookup"><span data-stu-id="2d81a-107">For more information on ediscovery in Office 365, see [Ediscovery in Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>
+<span data-ttu-id="28772-107">Для отримання додаткових відомостей про [Витребування електронної інформації див.](https://docs.microsoft.com/office365/securitycompliance/ediscovery)</span><span class="sxs-lookup"><span data-stu-id="28772-107">For more information on ediscovery, see [Ediscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery).</span></span>

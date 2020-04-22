@@ -1,9 +1,9 @@
 ---
-title: Визначити пересилання зовнішніх електронної пошти поштових скриньок у журнали аудиту
+title: Визначення зовнішньої електронної пошти пересилання поштових скриньок у журналах аудиту
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,31 +12,31 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 7defd0902e8c8bebae9c7bfee72c3199cbc1909f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539122"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716481"
 ---
-# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a><span data-ttu-id="13b0a-102">Визначити коли пересилання електронної пошти зовнішніх налаштовано на поштові скриньки</span><span class="sxs-lookup"><span data-stu-id="13b0a-102">Identify when external email forwarding is configured on mailboxes</span></span>
+# <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a><span data-ttu-id="9b29f-102">Визначте, коли зовнішня пересилання електронної пошти налаштовано на поштових скриньках</span><span class="sxs-lookup"><span data-stu-id="9b29f-102">Identify when external email forwarding is configured on mailboxes</span></span>
 
-<span data-ttu-id="13b0a-103">Коли користувач служби Office 365 налаштовує пересилання зовнішніх електронної пошти в поштовій скриньці, діяльність аудит як частину на командлета **Set-Mailbox** .</span><span class="sxs-lookup"><span data-stu-id="13b0a-103">When an Office 365  user configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet.</span></span> <span data-ttu-id="13b0a-104">Ви можете побачити діяльності, використовуючи пошук журналу аудиту у безпеки & центрі дотримання.</span><span class="sxs-lookup"><span data-stu-id="13b0a-104">You can see the activity using audit log search in the Security & Compliance Center.</span></span>
+<span data-ttu-id="9b29f-103">Під час Microsoft 365 користувача, настроювання зовнішньої електронної пошти пересилання поштової скриньки, діяльність перевіряється, частина командлета **Set-поштової скриньки** .</span><span class="sxs-lookup"><span data-stu-id="9b29f-103">When a Microsoft 365 user configures external email forwarding on a mailbox, the activity is audited as part of the **Set-Mailbox** cmdlet.</span></span> <span data-ttu-id="9b29f-104">Можна переглянути дії за допомогою пошуку журналу аудиту в центрі підтримки & відповідності.</span><span class="sxs-lookup"><span data-stu-id="9b29f-104">You can see the activity using audit log search in the Security & Compliance Center.</span></span>
 
-1. <span data-ttu-id="13b0a-105">Увійдіть до [Office 365 безпеки & центрі дотримання](https://protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="13b0a-105">Log in to the [Office 365 Security & Compliance Center](https://protection.office.com/).</span></span>
+1. <span data-ttu-id="9b29f-105">Увійдіть до [Microsoft 365 безпеки & центр відповідності](https://protection.office.com/).</span><span class="sxs-lookup"><span data-stu-id="9b29f-105">Log in to the [Microsoft 365 Security & Compliance Center](https://protection.office.com/).</span></span>
 
-2. <span data-ttu-id="13b0a-106">Перейти до **пошуку** > сторінку**пошуку журналу аудиту** .</span><span class="sxs-lookup"><span data-stu-id="13b0a-106">Go to the **Search** > **Audit log search** page.</span></span>
+2. <span data-ttu-id="9b29f-106">Перейдіть на сторінку **Search** > **пошуку журналу аудиту** пошуку.</span><span class="sxs-lookup"><span data-stu-id="9b29f-106">Go to the **Search** > **Audit log search** page.</span></span>
 
-3. <span data-ttu-id="13b0a-107">Виберіть діапазон дат у полях **Дата початку** та **Дата завершення** .</span><span class="sxs-lookup"><span data-stu-id="13b0a-107">Select the date range in the **Start date** and **End date** fields.</span></span> <span data-ttu-id="13b0a-108">Вам не потрібно вказати ім'я користувача.</span><span class="sxs-lookup"><span data-stu-id="13b0a-108">You don't need to specify a username.</span></span> <span data-ttu-id="13b0a-109">Перевірте, чи **діяльність** поля вибрано **відображення результатів для всіх видів діяльності**.</span><span class="sxs-lookup"><span data-stu-id="13b0a-109">Verify the **Activities** field is set to **Show results for all activities**.</span></span>
+3. <span data-ttu-id="9b29f-107">Виберіть діапазон дат у полях Дата **початку** та **Дата завершення** .</span><span class="sxs-lookup"><span data-stu-id="9b29f-107">Select the date range in the **Start date** and **End date** fields.</span></span> <span data-ttu-id="9b29f-108">Вам не потрібно вказувати ім'я користувача.</span><span class="sxs-lookup"><span data-stu-id="9b29f-108">You don't need to specify a username.</span></span> <span data-ttu-id="9b29f-109">Переконайтеся, що поле **справи** налаштовано на **відображення результатів для всіх справ**.</span><span class="sxs-lookup"><span data-stu-id="9b29f-109">Verify the **Activities** field is set to **Show results for all activities**.</span></span>
 
-4. <span data-ttu-id="13b0a-110">Натисніть кнопку **Пошук**.</span><span class="sxs-lookup"><span data-stu-id="13b0a-110">Click **Search**.</span></span>
+4. <span data-ttu-id="9b29f-110">Натисніть кнопку **Пошук**.</span><span class="sxs-lookup"><span data-stu-id="9b29f-110">Click **Search**.</span></span>
 
-<span data-ttu-id="13b0a-111">В результатах пошуку клацніть **Фільтр результатів** і введіть **Set-Mailbox** у поле фільтр діяльності.</span><span class="sxs-lookup"><span data-stu-id="13b0a-111">In the results, click **Filter Results** and type **Set-Mailbox** in the activity filter box.</span></span> <span data-ttu-id="13b0a-112">Виберіть запис аудиту в результатах пошуку.</span><span class="sxs-lookup"><span data-stu-id="13b0a-112">Select an audit record in the results.</span></span> <span data-ttu-id="13b0a-113">У **деталі** спливаюче виберіть **додаткові відомості**.</span><span class="sxs-lookup"><span data-stu-id="13b0a-113">In the **Details** flyout, click **More information**.</span></span> <span data-ttu-id="13b0a-114">Ви повинні дивитися на деталі кожної аудиту запису, щоб визначити, якщо діяльність пов'язана з електронною поштою пересилання.</span><span class="sxs-lookup"><span data-stu-id="13b0a-114">You have to look at the details of each audit record to determine if the activity is related to email forwarding.</span></span>
+<span data-ttu-id="9b29f-111">У результатах пошуку натисніть кнопку **Фільтрувати результати** та введіть **набір-поштову скриньку** у полі фільтр активності.</span><span class="sxs-lookup"><span data-stu-id="9b29f-111">In the results, click **Filter Results** and type **Set-Mailbox** in the activity filter box.</span></span> <span data-ttu-id="9b29f-112">Виберіть запис аудиту в результатах.</span><span class="sxs-lookup"><span data-stu-id="9b29f-112">Select an audit record in the results.</span></span> <span data-ttu-id="9b29f-113">У спливаючому меню **відомості** натисніть кнопку **додаткові відомості**.</span><span class="sxs-lookup"><span data-stu-id="9b29f-113">In the **Details** flyout, click **More information**.</span></span> <span data-ttu-id="9b29f-114">Слід звернути увагу на відомості кожного запису аудиту, щоб визначити, чи справа пов'язана з пересиланнею електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="9b29f-114">You have to look at the details of each audit record to determine if the activity is related to email forwarding.</span></span>
 
-- <span data-ttu-id="13b0a-115">**ObjectId**: псевдонім значення поштової скриньки, яку було змінено.</span><span class="sxs-lookup"><span data-stu-id="13b0a-115">**ObjectId**: The alias value of the mailbox that was modified.</span></span>
+- <span data-ttu-id="9b29f-115">**Об'єктиідентифікатор**: псевдонім значення поштової скриньки, який було змінено.</span><span class="sxs-lookup"><span data-stu-id="9b29f-115">**ObjectId**: The alias value of the mailbox that was modified.</span></span>
 
-- <span data-ttu-id="13b0a-116">**Параметри**: _ForwardingSmtpAddress_ вказує цільову адресу електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="13b0a-116">**Parameters**: _ForwardingSmtpAddress_ indicates the target email address.</span></span>
+- <span data-ttu-id="9b29f-116">**Параметри**: _переадресації_ вказують на цільову адресу електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="9b29f-116">**Parameters**: _ForwardingSmtpAddress_ indicates the target email address.</span></span>
 
-- <span data-ttu-id="13b0a-117">**Ім'я користувача**: користувач, який налаштований пересилання електронної пошти для поштової скриньки в **ObjectId** області.</span><span class="sxs-lookup"><span data-stu-id="13b0a-117">**UserId**: The user who configured email forwarding on the mailbox in the **ObjectId** field.</span></span>
+- <span data-ttu-id="9b29f-117">**Userid**: користувач, який налаштував пересилання електронної пошти на поштову скриньку, у полі **ідентифікатор об'єкта** .</span><span class="sxs-lookup"><span data-stu-id="9b29f-117">**UserId**: The user who configured email forwarding on the mailbox in the **ObjectId** field.</span></span>
 
-<span data-ttu-id="13b0a-118">Докладніше перегляньте [Determining, яка настроювала електронної пошти пересилання для поштової скриньки](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span><span class="sxs-lookup"><span data-stu-id="13b0a-118">For more information, see [Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span></span>
+<span data-ttu-id="9b29f-118">Для отримання додаткових відомостей див. [визначення, які встановлюють пересилання електронної пошти для поштової скриньки](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span><span class="sxs-lookup"><span data-stu-id="9b29f-118">For more information, see [Determining who set up email forwarding for a mailbox](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).</span></span>
