@@ -1,24 +1,24 @@
 ---
-title: Створення поштової скриньки користувача
+title: Створюється поштової скриньки користувача
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6ad981b2-cb62-4495-b852-88df10299fe3
-ms.openlocfilehash: 4330242cfbc9c388477430b59e8d268af52a2e28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fdf420291f805c29d7277f2511b21fd7213ff326
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532244"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710572"
 ---
-# <a name="your-users-mailbox-is-being-created"></a>Створення поштової скриньки користувача
+# <a name="your-users-mailbox-is-being-created"></a>Створюється поштова скринька користувача
 
-Це може тривати близько години до нової поштової скриньки готовий до використання.
+Це може тривати до години, перш ніж нова поштова скринька готова до використання.
   
-Якщо поштову скриньку користувача "готує" для більше години, спробуйте видалення та повторне створення користувача або скористайтеся параметром "назвемо ви" говорити до допоміжного інженер.
+Якщо поштова скринька користувача «готується» більше години, ви можете спробувати видалити та повторно створити користувача або скористатися параметром «зателефонуйте вам», щоб поговорити з інженером підтримки.
   
 

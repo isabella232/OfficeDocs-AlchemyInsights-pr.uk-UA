@@ -1,9 +1,9 @@
 ---
-title: Шукати повідомлення у поштову скриньку архіву
+title: Пошук електронної пошти в поштовій скриньці архіву
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1055"
 - "3100008"
 ms.assetid: 7eda49d0-5b6e-4dba-a89e-1150b835a353
-ms.openlocfilehash: 3b6c15fccd375324583bf8249ad42879306a258c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6b829713cefd3c8b4bfe610e560469e6c646f59
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551616"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709284"
 ---
-# <a name="search-for-email-in-the-archive-mailbox"></a>Шукати повідомлення у поштову скриньку архіву
+# <a name="search-for-email-in-the-archive-mailbox"></a>Пошук електронної пошти в поштовій скриньці архіву
 
-Коли поштову скриньку архіву активовано для Office 365, дає змогу **пошук необхідної пошук та експорт** виявлення вмісту в первинної та Архів поштової скриньки. Інформацію щодо використання **eDiscovery експортувати пошук** щоб знайти його змісту слідувати за кроки викладених [тут](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Під час поштової скриньки архіву, увімкнуто для Microsoft 365, можна використовувати **Пошук Витребування та експорту** , щоб виявити вміст у основній і архівній поштовій скриньці. Щоб отримати відомості про використання **пошуку пошук Витребування** , щоб знайти цей вміст, виконайте дії, описані [тут](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   
-Також можна зберегти цей вміст, додавши до політики збереження до поштової скриньки. Це потребуватиме вміст у початковій та Архів поштової скриньки на утримання. Для отримання додаткових відомостей про створення політики збереження для збереження електронної пошти див на кроки викладених [тут](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
+Ви також можете зберегти цей вміст, додавши поштову скриньку до політики збереження. Це дозволить розмістити вміст як у основній, так і в архівній поштовій скриньці на утримані. Для отримання додаткової інформації про створення політики збереження для збереження електронної пошти див кроки, викладені [тут](https://docs.microsoft.com/Office365/securitycompliance/retention-policies).
   

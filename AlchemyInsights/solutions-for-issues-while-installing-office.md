@@ -1,8 +1,8 @@
 ---
-title: Рішення для вирішення проблем під час інсталяції Office
+title: Вирішення проблем під час інсталяції Office
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,30 +12,30 @@ ms.custom:
 - "852"
 - "2000020"
 ms.assetid: 26f1e0e6-7fbb-4c6d-aa31-eb60a2a77655
-ms.openlocfilehash: 496db627c9d56fb19322e2fda7d9733ded7407ce
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 40f5f691754469bc82a89a88407cf26d0134cc4a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501461"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709104"
 ---
-# <a name="solutions-for-issues-while-installing-office"></a>Рішення для вирішення проблем під час інсталяції Office
+# <a name="solutions-for-issues-while-installing-office"></a>Вирішення проблем під час інсталяції Office
 
-Спробуйте один з цих рішень виправити помилки Office:
+Спробуйте вирішити свою проблему з Office одним із наведених нижче способів.
   
-- Перезавантажте комп'ютер і спробуйте [встановити Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Перезавантажте комп'ютер і спробуйте [інсталювати Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- Завантажити та встановити на [підтримку і помічник відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Завантажте та інсталюйте [Помічник із підтримки й відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Під час відкривання, **продуктів видалення Office** виберіть варіант ви хочете вилучити та оберіть **наступного**.
+1. Коли він відкриється, **Видалити продукти Office** виберіть версію, яку потрібно видалити, і натисніть кнопку **Далі**.
 
-2. Як і раніше переживає екранів і перезавантажте комп'ютер при появі запиту.
+2. Виконайте вказівки та перезавантажте комп’ютер, коли з’явиться відповідний запит.
 
-    Після перезавантаження, підтримка і відновлення помічник автоматично повторно відкривається для завершення процесу видалення.
+    Після перезапуску помічник з підтримки та відновлення автоматично відкриває для завершення процесу видалення.
 
-3. Дотримуйтесь залишилися підказок та [переінсталяції Office](https://portal.office.com/OLS/MySoftware.aspx) або закрити помічник.
+3. Виконуйте решту підказок, [Переінсталюйте Office](https://portal.office.com/OLS/MySoftware.aspx) або закрийте помічник.
 
-- [Використання Office автономного інсталятора](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) встановити Office
+- Інсталяція Office [за допомогою автономного інсталятора Office](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-Щоб отримати додаткові відомості про помилки установки побачити [повідомлення про помилки під час інсталяції Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
+Щоб отримати додаткові відомості про помилки інсталяції, перегляньте [повідомлення про помилку під час інсталяції Office](https://support.office.com/article/35ff2def-e0b2-4dac-9784-4cf212c1f6c2#BKMK_ErrorMessages).
   

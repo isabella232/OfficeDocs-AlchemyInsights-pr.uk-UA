@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001724"
 - "3823"
-ms.openlocfilehash: d1625793baf17749415abc304d16e885ffffeeea
-ms.sourcegitcommit: 5aa4a4f40cf064f0cdb944ef35054719e87eeda3
+ms.openlocfilehash: 08a6cb319b3aea720178a8ef988482140fc44856
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42699818"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703339"
 ---
 # <a name="enabling-teams-and-office-365-a1"></a>Увімкнення Teams і Office 365 A1
 
@@ -25,6 +25,3 @@ ms.locfileid: "42699818"
 **Увага!** Щоб зміни набули сили, може знадобитися до 24 годин. 
 
 Додаткові відомості про [віддалене викладання та навчання в Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) та ІТ-довідник див. в статтях [Початок роботи з Microsoft Teams для віддаленого навчання](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) й [Перехід до віддаленого навчання](https://www.microsoft.com/education/remote-learning).
-
- 
-

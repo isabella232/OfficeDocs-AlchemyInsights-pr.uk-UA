@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: bc95cabc61266643b49777d21f4829fb1fcc1ea3
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: c83fa35f948456d0ee2a53621e9b4e7ad63b84f2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286938"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706884"
 ---
 # <a name="change-exchange-online-plans"></a>Змінення планів Exchange Online
 
@@ -24,7 +24,7 @@ ms.locfileid: "43286938"
 
 1. Придбання нового плану передплати. У Центрі адміністрування Microsoft 365 перейдіть до **Виставлення рахунків > [Придбання послуг](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Щоб знайти плани Exchange краще використати поле пошуку.
 
-2. Перевірка нової передплати та ліцензій. У Центрі адміністрування Microsoft 365 перейдіть до **Виставлення рахунків > [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Якщо нової передплати немає в списку, або вона неактивна, див. [цей розділ](https://docs.microsoft.com/en-us/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
+2. Перевірка нової передплати та ліцензій. У Центрі адміністрування Microsoft 365 перейдіть до **Виставлення рахунків > [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Якщо нової передплати немає в списку, або вона неактивна, див. [цей розділ](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide#the-new-subscription-isnt-listed-or-isnt-active).
 
 3. Повторне призначення ліцензій користувачам. У Центрі адміністрування Microsoft 365 виберіть **Користувачі > [Активні користувачі](https://go.microsoft.com/fwlink/p/?linkid=834822)**, та призначте ліцензії.
 

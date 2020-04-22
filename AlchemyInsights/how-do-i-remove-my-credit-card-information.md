@@ -1,9 +1,9 @@
 ---
-title: Як видалити відомості моєї кредитної картки?
+title: Як видалити дані кредитної картки?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "431"
 - "1500001"
 ms.assetid: 9d465c0b-d262-4c84-a0ee-76d0f18a24dc
-ms.openlocfilehash: 4f71ec857cb77a1146dcb060007594b0f115b6a5
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f8b44773767aa28750a7c444b22091359030c93f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664449"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709996"
 ---
-# <a name="how-do-i-remove-my-credit-card-information"></a>Як видалити відомості моєї кредитної картки?
+# <a name="how-do-i-remove-my-credit-card-information"></a>Як видалити дані кредитної картки?
 
-1. У Microsoft Outlook 365 Центр адміністрування, перейдіть на **Billing** \> [способів оплати](https://go.microsoft.com/fwlink/p/?linkid=2018806) сторінки.
+1. У Центрі адміністрування Microsoft 365 перейдіть на сторінку **Виставлення рахунків** \> [Способи оплати](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. На сторінці **оплати методи** вибрати кредитна карта або банківський рахунок для видалення.
+2. На сторінці **способи оплати** виберіть для видалення кредитну картку або банківський рахунок.
 
-3. Щоб видалити кредитної карти або банківського рахунку, виберіть **Видалити метод оплати.**
+3. Щоб видалити кредитну картку або банківський рахунок, виберіть **Видалити спосіб оплати.**
 
 > [!NOTE]
-> Не можна видалити кредитної карти або банківського рахунку, якщо він наразі використовується сплачувати за підписку.
+> Ви не зможете видалити кредитну картку або банківський рахунок, якщо він наразі використовується для оплати передплати.
 
-4. В області **Видалити метод оплати** виберіть **Видалити**.
+4. На панелі **Видалити спосіб оплати** виберіть **Видалити**.
 
-Щоб дізнатися більше, розділ [Додавання, оновлення, або видалити кредитна карта або банківський рахунок у службі Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Щоб дізнатися більше, перегляньте відомості про [Додавання, оновлення або видалення кредитної картки або банківського рахунку](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

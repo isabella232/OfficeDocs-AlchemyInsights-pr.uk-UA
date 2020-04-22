@@ -1,9 +1,9 @@
 ---
-title: 123, отримують обліковий запис вимкнуто помилка в OWA?
+title: 123 отримання облікового запису, вимкнуто помилка в OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523964"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708888"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Отримати обліковий запис вимкнуто помилка в Outlook в Інтернеті?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Отримання облікового запису з вимкненим помилкою в Outlook, в Інтернеті?
 
-Якщо ви отримуєте помилку, **ваш обліковий запис був відключений** з `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` під час спроби відкрити Outlook в Інтернеті (раніше відомий як веб-застосунок Outlook Web App), адміністратор організації може відключили доступ до Outlook в Інтернеті. Адміністратор може виправити цю помилку, виконавши дії, зазначені в розділі [дозволити або заборонити веб-застосунок Outlook Web App для поштової скриньки](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Якщо під `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` час спроби відкрити Outlook в Інтернеті (раніше відоме як веб-застосунок Outlook Web App **) сталася помилка** , адміністратор організації може вимкнути доступ до Outlook в Інтернеті. Адміністратор може виправити цю помилку, виконавши дії, описані в розділі [Увімкнення або вимкнення веб-застосунку Outlook Web App для поштової скриньки](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).

@@ -1,9 +1,9 @@
 ---
-title: Алхімія - діагностувати та усунути неполадки підключення Outlook
+title: Алхімія-діагностика та вирішення проблем із підключенням до Outlook
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: c1ea5e6b457b0ea7ee4656ee6e4b4ff2f77e2cb9
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 1c55dd357cbcdb3f9ff634e96f17139c3aeb56ba
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664629"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708434"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Діагностика та усунення неполадки підключення Outlook
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>Діагностика та вирішення проблем із підключенням до Outlook
 
-Щоб діагностувати й виправити неполадки підключення вашого Outlook, ви можете запустити [засіб підключення до Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) на уражені машина.
+Щоб діагностувати та виправити проблеми з підключенням до Outlook, можна запустити [засіб підключення Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) на проблемному комп'ютері.
   
-Цей інструмент буде виконання діагностичних перевірок і запропонувати можливі рішення для вас, щоб вирішити проблему підключення до Outlook.
+Цей засіб буде виконувати діагностичні перевірки та запропонувати можливі рішення для вирішення проблеми підключення до Outlook.
   

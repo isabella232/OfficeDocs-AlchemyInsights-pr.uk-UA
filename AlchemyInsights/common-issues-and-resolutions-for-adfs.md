@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286920"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706222"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Поширені проблеми та способи їх вирішення для ADFS
 
@@ -28,4 +28,4 @@ ms.locfileid: "43286920"
 
 - [2647020](https://support.microsoft.com/help/2647020) Помилки "Виникла проблема з входом" і "80041317" або "80043431", під час спроби входу федеративного користувача в Office 365, Azure або Intune.
 
-Докладні відомості див. в статті [Оновлення або відновлення параметрів федеративного домену в Office 365, Azure або Intune](https://docs.microsoft.com/uk-UA/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Докладні відомості див. в статті [Оновлення або відновлення параметрів федеративного домену в Office 365, Azure або Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

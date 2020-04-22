@@ -1,9 +1,9 @@
 ---
-title: За допомогою користувацьких профілів в Intune
+title: Використання настроюваних профілів у InTune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531776"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710500"
 ---
-# <a name="using-custom-policy-in-intune"></a>За допомогою користувацьких політику в Intune
+# <a name="using-custom-policy-in-intune"></a>Використання настроюваних політик у InTune
 
-InTune є багато вбудовані параметри для пристроїв Android, iOS, macOS і Windows. Можна також створити профіль і розгорнути ці Настроювані параметри на вашому пристрої за допомогою Intune. Призначені для користувача профілі призначені для додавання параметрів пристрою та функції, які не призначених Intune.
+InTune має безліч налаштувань, вбудованих для пристроїв Android, iOS, macOS і Windows. Можна також створити настроюваний профіль, а потім розгорнути ці Настроювані параметри до пристроїв за допомогою InTune. Настроювані профілі призначені для додавання параметрів і функцій пристрою, які не вбудовано в InTune.
 
-[Користувацькі настройки для Android-пристроїв у Intune](https://docs.microsoft.com/intune/custom-settings-android)
+[Користувацькі налаштування для пристроїв Android у InTune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Власні налаштування для пристроїв Android підприємства в Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Користувацькі параметри для пристроїв Android Enterprise у InTune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Користувацькі настройки для iOS пристроїв у Intune](https://docs.microsoft.com/intune/custom-settings-ios)
+[Користувацькі параметри для пристроїв iOS у InTune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Користувацькі настройки для macOS пристроїв у Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Користувацькі параметри для пристроїв macOS у InTune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Власні налаштування для пристроїв Windows 10 в Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Користувацькі параметри для пристроїв Windows 10 у InTune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Користувацькі настройки для Windows-голографічне для пристроїв бізнесу в Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Настроювані параметри для Windows голографічне для бізнес-пристроїв у InTune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

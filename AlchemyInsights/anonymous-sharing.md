@@ -2,18 +2,18 @@
 title: Анонімний обмін
 ms.author: pebaum
 author: pebaum
-ms.date: 9/18/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: 8a007821fb44544512ae5b9bf22ee9aba16e618c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f503564af9ccdd3e27f328a3f94a52eb9871d17d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050402"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708076"
 ---
 # <a name="anonymous-sharing"></a>Анонімний обмін
 
@@ -31,6 +31,6 @@ ms.locfileid: "40050402"
     
 - Кому б ви хотіли це посилання на роботу? клацніть **будь-кого.**
   
- **Примітка**: **будь-** який користувач створює посилання, яке можна використовувати для доступу до документа або папки, навіть якщо вони не ввійшли в Office 365 або OneDrive. Використовуйте це, щоб поділитися з ким завгодно, усередині або за межами вашої компанії. Це посилання також може бути переадресовані навколо нікому. 
+ **Примітка**: **будь-** який користувач створює посилання, яке можна використовувати для доступу до документа або папки, навіть якщо вони не ввійшли до Microsoft 365 або OneDrive. Використовуйте це, щоб поділитися з ким завгодно, усередині або за межами вашої компанії. Це посилання також може бути переадресовані навколо нікому. 
     
 

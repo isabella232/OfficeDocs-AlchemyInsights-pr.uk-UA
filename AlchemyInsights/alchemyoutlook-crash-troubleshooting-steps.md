@@ -13,16 +13,16 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737142"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708376"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>Outlook, аварійне завершення роботи кроки виправлення неполадок
+# <a name="outlook-crash-troubleshooting-steps"></a>Указівки з виправлення неполадок, що спричиняють аварійне завершення роботи Outlook
 
-Якщо у вас виникли проблеми з аварійне завершення роботи Outlook, почніть з виконання трьох кроків нижче, які всі перераховані докладно в цій статті: [Виправлення неполадок, які призводять до аварійного завершення роботи або перестає реагувати на дії користувача під час використання з Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Якщо у вас виникли проблеми з аварійне завершення роботи Outlook, почніть з виконання трьох кроків нижче, які всі перелічені докладно в цій статті: [Виправлення неполадок, які призводять до аварійного завершення роботи або зависання Outlook.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 Крок 1: дослідити, можливі проблеми з надбудови.
   
@@ -30,5 +30,5 @@ ms.locfileid: "36737142"
   
 Крок 3: створіть новий профіль Outlook або запустіть [засіб профілю Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на проблемному комп'ютері.
   
-Якщо проблема виникала після оновлення, і наведені вище дії не працюють, можливо, знадобиться повернутися до попередньої збірки. Дізнайтеся [, як повернутися до попередньої версії Office 2016, натисніть і запустити](https://support.microsoft.com/help/2770432).
+Якщо проблема виникла після оновлення та наведені вище кроки не допомогли, потрібно повернутися до попередньої збірки. Дізнайтеся [, як повернутися до попередньої версії Office 2016, натисніть і запустити](https://support.microsoft.com/help/2770432).
   
