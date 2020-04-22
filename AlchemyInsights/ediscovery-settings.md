@@ -1,31 +1,31 @@
 ---
-title: Пошук необхідної настройки
+title: Параметри Витребування електронної інформації
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.assetid: ''
-ms.openlocfilehash: 756473fc94a4c68d5cb1f4c390ecb810c3a8cf89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528248"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714423"
 ---
-# <a name="ediscovery-settings"></a>Пошук необхідної настройки
+# <a name="ediscovery-settings"></a>Параметри Витребування електронної інформації
 
-пошук необхідної/зміст пошуків у службі Office 365 дають змогу шукати, утримуйте і експортувати вміст з поштових скриньок Exchange Online, SharePoint Online і OneDrive для бізнес сайтів, Skype для бізнесу розмов, Microsoft команд та Office 365 групи.
+Витребування електронної інформації та пошук вмісту дають змогу здійснювати пошук, утримання та експортування вмісту з поштових скриньок Exchange Online, SharePoint Online та OneDrive для бізнес-сайтів, Skype для ділових розмов, Microsoft teams і груп Office 365.
 
-- Якщо ви шукаєте пошук необхідної або пошук за змістом меню параметрів, див. [пошук необхідної питань](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Що таке дозволи, необхідні для здійснення пошуків пошук необхідної від [дозволів, необхідних для пошук необхідної пошуків](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)?
-- Якщо ваш пошук не є повернення очікуваних результатів, побачити, [Пошук, не повертаючи очікувані результати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Якщо ви шукаєте параметри пошуку Витребування або вмісту, перегляньте [питання Витребування електронної інформації](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
+- Відомості про дозволи, необхідні для виконання пошуку Витребування, від [дозволів, потрібних для пошуку Витребування](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
+- Якщо пошук не повертається очікуваних результатів, див [Пошук не повертаються очікувані результати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Щоб отримати додаткові відомості про пошук необхідної у службі Office 365 побачити [пошук необхідної в Office 365](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Для отримання додаткових відомостей про [Витребування електронної інформації див.](https://docs.microsoft.com/office365/securitycompliance/ediscovery)

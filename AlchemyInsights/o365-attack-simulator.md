@@ -1,9 +1,9 @@
 ---
-title: 2681 напад симулятор в офісі 365
+title: 2681 напад симулятор в Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305352"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713487"
 ---
-# <a name="attack-simulator-in-office-365"></a>Атака симулятор в офісі 365
+# <a name="attack-simulator-in-microsoft-365"></a>Напад симулятор в Microsoft 365
 
-- Ви відсутня симулятор нападу? Напад симулятор вимагає **Office 365 розширений загрози захист план 2 (АТФ план 2)** або **Office 365 Enterprise E5**. Напад симулятор **не** входить до складу Office 365 розширений загрози захист план 1 (АТФ план 1), Office 365 Enterprise E3 або будь-який Office 365 бізнес-підписки.
+- Ви відсутня симулятор нападу? Напад симулятор вимагає **Office 365 розширений загрози захист план 2 (АТФ план 2)** або **Office 365 Enterprise E5**. Напад симулятор **не** входить до складу Office 365 розширений загрози захист план 1 (АТФ план 1), Office 365 Enterprise E3 або будь-які Microsoft 365 програми для бізнесу підписки.
 
 - Обліковий запис, який використовується для запуску імітаційні атаки, потребує глобального адміністратора або дозволів адміністратора безпеки та багатофакторної автентифікації (МЗС). Щоб отримати додаткові відомості про вимоги до симулятора атак, перегляньте [цю тему](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305352"
 
 - Звіти: після того, як моделюється атака завершена, ви можете натиснути **атакувати деталі** , щоб побачити звіт.
 
-- Докладні інструкції та нові можливості в симуляторі атак [365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)див.
+- Докладні інструкції та нові функції в симуляторі атак див. [у Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

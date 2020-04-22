@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053498"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713307"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Інструмент пошуку вмісту, щоб знайти релевантну інформацію
 
@@ -26,6 +26,6 @@ ms.locfileid: "40053498"
 
 Дізнайтеся більше про пошук контенту, переглянувши [вимоги та обмеження](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [досліджуючи частково індексовані елементи](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) та інші результати, які потрібно знати.
 
-Переглянувши параметри конфігурації та обмеження пошуку вмісту, зверніться до [використання пошуку</a> вмісту, щоб знайти на місці такі елементи, як електронна пошта, документи та миттєві повідомлення розмови в організації Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Переглянувши параметри конфігурації та обмеження пошуку вмісту, зверніться до [використання пошуку</a> вмісту, щоб знайти на місці такі елементи, як електронна пошта, документи та миттєві повідомлення розмов у вашій організації](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Повний крок за кроком пошуку вмісту, див [Пошук вмісту в Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) , щоб отримати додаткові відомості.

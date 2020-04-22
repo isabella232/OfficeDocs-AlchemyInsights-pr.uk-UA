@@ -1,9 +1,9 @@
 ---
-title: Перенесення електронної пошти із G Suite до Office 365
+title: Міграція електронної пошти з G Suite до Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ac8d61e2e5e56fa2df93ebb4c993f7f13bff104e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666933"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713919"
 ---
-# <a name="migrate-email-from-g-suite-to-office-365"></a>Перенесення електронної пошти із G Suite до Office 365
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>Міграція електронної пошти з G Suite до Microsoft 365
 
-Для перенесення електронної пошти із G Suite Office 365, за допомогою наших інструментів міграції для міграція електронної пошти, календаря та контактів: [виконати G Suite міграції](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+Щоб перенести електронну пошту з G Suite до Microsoft 365, скористайтеся нашими інструментами міграції для міграції електронної пошти, календаря та контактів: [виконайте міграцію G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
   

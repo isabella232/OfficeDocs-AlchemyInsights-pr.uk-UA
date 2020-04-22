@@ -14,16 +14,16 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 7e2964ef0a44ddf421e4aae007acbdbda196e20f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769324"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714791"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не вдається інсталювати або запустити засіб експортування необхідної інформації?
 
-Якщо ви не можете встановити або запустити засіб експортування електронної інформації Office 365 для завантаження результатів пошуку, перевірте такі речі:
+Якщо ви не можете встановити або запустити інструмент експорту Витребування для завантаження результатів пошуку, перевірте наступні речі:
   
 - Комп'ютер, який ви використовуєте, відповідає цим попередньо реквізитам:
 
@@ -43,7 +43,7 @@ ms.locfileid: "37769324"
 
 - Ваша організація може підключатися до кінцевої точки в Azure, яка є ** \*. BLOB.Core.Windows.net** (у підстановці є унікальним ідентифікатором для завдання експорту).
 
-- Ви признаєтеся ролі експорту в центрі забезпечення дотримання безпеки &amp; Office 365. За промовчанням ця роль призначається лише для рольової групи «Витребування менеджера». Див [.](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- Ви признаєтеся ролі експорту в центрі забезпечення безпеки &amp; Microsoft 365. За промовчанням ця роль призначається лише для рольової групи «Витребування менеджера». Див [.](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
 Докладніші відомості наведено в [результатах пошуку в експортному вмісті](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

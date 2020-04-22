@@ -1,34 +1,34 @@
 ---
-title: СПС за SharePoint, OneDrive і Microsoft команд
+title: АТФ для SharePoint, OneDrive і Microsoft teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: b304f6c7d9959e49a8152c03f11c6c864a154ea5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765520"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712479"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>СПС за SharePoint, OneDrive і Microsoft команд
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>АТФ для SharePoint, OneDrive і Microsoft teams
 
-Виконайте такі дії, щоб увімкнути додаткові загроза захист.
+Щоб увімкнути розширений захист від загроз, виконайте наведені нижче дії.
 
-1. Перейти до [https://protection.office.com](https://protection.office.com) та увійдіть за допомогою глобального адміністратора або безпеки облікового запису адміністратора.
+1. Перейдіть до [https://protection.office.com](https://protection.office.com) і ввійдіть за допомогою глобального адміністратора або облікового запису адміністратора безпеки.
 
-2. На лівій навігаційній панелі під **загрозу управління**, вибрати **політика** \> **Безпечний вкладення**.
+2. В області переходів ліворуч у розділі **керування загрозами**виберіть **політики** \> **безпечні вкладення**.
 
-3. Виберіть **Увімкнути АТФ для SharePoint, OneDrive і Microsoft команд**.
+3. Виберіть **Увімкнути АТФ для SharePoint, OneDrive і Microsoft teams**.
 
-4. [Створіть оповіщення про політику діяльності](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) отримувати сповіщення, коли ми виявити шкідливі файли.
+4. [Створення політики оповіщення про активність](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) для отримання сповіщень під час виявлення зловмисних файлів.
 
-Докладні вказівки наведено цю [тему](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
+Докладні інструкції наведено в цій [темі](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
 
-**Примітка**: дизайн, АТФ не сканує кожен окремий файл у SharePoint Online, OneDrive у справах, чи Microsoft команд. Перевіряються асинхронно, процес, який використовує спільне використання діяльності, Відгуки діяльності, і загроза сигналів для ідентифікації шкідливі файли. Докладніше перегляньте цю [тему](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+**Примітка**: за ДИЗАЙНОМ, АТФ не сканує кожен файл у SharePoint Online, OneDrive для бізнесу або Microsoft teams. Файли скануються асинхронно процесом, який використовує спільну діяльність, гостьовій активності та сигнали загрози для ідентифікації шкідливих файлів. Докладніші відомості наведено в цій [статті](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).

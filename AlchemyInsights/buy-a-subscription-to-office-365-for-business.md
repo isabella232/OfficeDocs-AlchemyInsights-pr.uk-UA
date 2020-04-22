@@ -1,5 +1,5 @@
 ---
-title: Придбайте передплату на Office 365 для бізнесу
+title: Придбайте підписку на Microsoft 365 для бізнесу від безкоштовної пробної версії
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: a8f44428363a2e507003b524b98a94748bdf5505
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218316"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712228"
 ---
-# <a name="buy-a-subscription-to-office-365-for-business"></a>Придбайте передплату на Office 365 для бізнесу
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Придбайте підписку на Microsoft 365 з безкоштовної пробної версії
 
-Ви пробували Office 365, і тепер ви готові купити. У вас є два варіанти при покупці Office 365 з пробної версії:
+Ви спробували Microsoft 365, і тепер ви готові купити. У вас є два варіанти при покупці Microsoft 365 з пробної версії:
   
  **Купуйте той самий план, що і ваш судовий розгляд**
   
@@ -35,7 +35,7 @@ ms.locfileid: "43218316"
 
 3. Знайдіть підписку, яку потрібно придбати, виберіть **придбати**та виконайте дії, які потрібно перевірити.
 
-Щоб дізнатися більше, Дивись [купити передплату на Office 365 для бізнесу від безкоштовної пробної версії](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Щоб дізнатися більше, Дізнайтеся, як [придбати підписку на Microsoft 365 для бізнесу від безкоштовної пробної версії](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
 
 **Виправлення неполадок**
 

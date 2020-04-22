@@ -1,9 +1,9 @@
 ---
-title: Скасування передплати Office 365?
+title: Скасування передплати Microsoft 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "53"
 - "1400001"
 ms.assetid: 09e255ce-ccf9-4804-91e7-c15590c3727b
-ms.openlocfilehash: 58c4de02cf6833b05cc0579e1e9df11226acb298
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f2525550ada33d33dddc391cb87080ba9af4a37b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520328"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711508"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Скасування передплати Office 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Скасування передплати Microsoft 365?
 
-Ми шкодуємо, що ви вирішили, але ось варіанти, щоб скасувати передплату:
+Вибачте, що ви йдете, але ось ваші варіанти, щоб скасувати вашу підписку:
   
-- **На основі даних організації, ми вважаємо, що всі поточні передплати в судового розгляду підписки. Немає необхідності явно скасувати судового розгляду підписки, тому що суд підписка вимагає ніяких виплат, і немає ніяких зобов'язань після завершення судового розгляду.**
+- **На основі даних вашої організації ми вважаємо, що всі ваші поточні передплати є Ознайомлювними підписками. Немає необхідності явно скасувати ознайомлювальну підписку, тому що пробні підписки не вимагають платежів, і немає ніяких зобов'язань після закінчення судового розгляду.**
 
-- Щоб дізнатися більше про скасування підписки або покрокові інструкції, перегляньте цю статтю: [скасувати підписку](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- Щоб дізнатися більше про скасування передплати або покрокові інструкції, перегляньте цю статтю: [скасування передплати](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

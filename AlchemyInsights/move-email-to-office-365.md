@@ -1,5 +1,5 @@
 ---
-title: Переміщення електронної пошти до Office 365
+title: Перемістити повідомлення до Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666897"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713631"
 ---
-# <a name="move-email-to-office-365"></a>Переміщення електронної пошти до Office 365
+# <a name="move-email-to-microsoft-365"></a>Перемістити повідомлення до Microsoft 365
 
-Ви маєте кілька можливостей для міграції електронної пошти до служби Office 365. [Office 365 mail міграція радник](https://aka.ms/alchemyinsight-mailmigrationadvisor) допоможе вам вибрати найкращий для вашого середовища та також допомогає у mail міграція.
+У вас є кілька варіантів для міграції електронної пошти до корпорації Майкрософт 365. [Порадник з міграції до Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) допоможе вам вибрати найкращий для вашого середовища, а також проведе вас через міграцію пошти.
   
-Прочитайте ваші варіанти, без запуску міграції, будь ласка, перегляньте [рішення на шляху міграції](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Щоб прочитати про варіанти, не почавши міграцію, перегляньте [рішення щодо шляху міграції](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Упевніться також [прийняти служби Office 365 з FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) сторінку про допомогу допомогу з міграції, якщо право.
+Будь ласка, також перевірте [прийняти Microsoft 365 з FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) сторінку для допомоги з міграцією, якщо це право.
   

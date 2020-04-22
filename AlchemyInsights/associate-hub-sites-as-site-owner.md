@@ -3,7 +3,7 @@ title: Пов'язати сайти-концентратор як власник
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 9/18/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000717"
 - "2638"
-ms.openlocfilehash: ecf505a0a3a7851c919f3949321c6b048b904780
-ms.sourcegitcommit: 6b102e079a7d30298105fd811a67efb707d6d5bf
+ms.openlocfilehash: fa9813ad8dd99777fb9c3c33b1bf83217f3e1c64
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "37122494"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712515"
 ---
 # <a name="associate-hub-sites-as-site-owner"></a>Пов'язати сайти-концентратор як власник сайту
 
 [Центр повідомлень 186626](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/MessageCenter?id=MC186626) загальні як приєднання до концентратора SharePoint тепер можуть виконуватися власниками сайтів. Якщо ваша організація хотіла б керувати конкретними особами, які можуть асоціювати з хабом, виконайте такі дії: 
 
-1. Увійдіть до Office 365 ([https://portal.office.com](https://portal.office.com)) з правами адміністратора.
+1. Увійдіть до ([https://portal.office.com](https://portal.office.com)) з правами адміністратора.
 2. Виберіть **запускач програми** (іконка з дев'ятьма квадратами) у верхньому лівому куті екрана, а потім виберіть **адміністратор**.
 3. Виберіть **Центр адміністрування** з меню в лівій частині екрана, а потім виберіть **SharePoint**.
 4. З синього банера у верхній частині екрана виберіть **запустити програму зараз** , щоб відобразити новий Центр адміністрування SharePoint.

@@ -1,8 +1,8 @@
 ---
-title: InTune розгортання застосунку правило Id 991
+title: InTune розгортання застосунку ідентифікатор правила 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498292"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714027"
 ---
-# <a name="intune-app-deployment"></a>InTune розгортання застосунку
+# <a name="intune-app-deployment"></a>InTune розгортання програм
 
-Розгортання додатків з Intune є три етапи:
+Розгортання програм за допомогою InTune – це процес із трьома етаками:
   
-1. **Додавання застосунку** - ви можете додати додаток App Store або завантажити app напрямки бізнесу.
+1. **Додавши додаток** -ви можете додати додаток App Store або завантажити лінійку бізнес-додатків.
 
-2. **Призначення app** - також окреслила розгортання додатків.
+2. **Призначення застосунку** -визначити область розгортання застосунку.
 
-3. **Моніторинг програм** - перегляд стану встановлення додатків, список виявлених програм та керувати застосунки, придбані у магазинах додатків.
+3. **Моніторинг додатків** -переглядайте стан інсталяції додатків, список виявлених програм і керуйте додатками, придбаними з магазинів додатків.
 
-Для читання [Intune додаток управління](https://docs.microsoft.com/intune/app-management) для покрокові керівництва і відомості про настройку та захист додатків.
+Прочитайте [, що таке InTune управління додатком](https://docs.microsoft.com/intune/app-management) для покрокові керівництва та інформації про налаштування та захист додатків.
   

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 84e3a7700558ad8a5fad5b7ded6354fe8736e0f7
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628263"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716193"
 ---
 # <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>Виправлення програми Office "не вдається підключитися зараз" повідомлення
 
 Якщо з'являється це повідомлення, спробуйте виконати наведені нижче дії.
 
-1. Перевірте брандмауер, антивірусне програмне забезпечення та настройки проксі-сервера, щоб підтвердити, що вони не блокують доступ до Інтернету до програм Office. Перегляньте [URL-адреси Office 365 і діапазони IP-адрес](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Перевірте брандмауер, антивірусне програмне забезпечення та настройки проксі-сервера, щоб підтвердити, що вони не блокують доступ до Інтернету до програм Office. Переглянути [URL-адреси Microsoft і діапазони IP-адрес](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 2. Перейдіть до **запуску** > **, а**потім введіть **Services. msc**. Переконайтеся, що виконуються такі служби:
     - Автоматичне настроювання мережних підключених пристроїв
@@ -36,4 +36,4 @@ ms.locfileid: "39628263"
 
 Після завершення цієї команди, перезавантажте комп'ютер.
 
-Докладні відомості наведено [в "Вибачте, ми не можемо підключитися до вашого облікового запису. Повторіть спробу пізніше "помилка під час активації Office з Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Докладні відомості наведено [в "Вибачте, ми не можемо підключитися до вашого облікового запису. Повторіть спробу пізніше "помилка під час активації Office з Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

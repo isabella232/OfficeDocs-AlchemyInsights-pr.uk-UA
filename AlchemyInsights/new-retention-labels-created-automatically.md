@@ -3,7 +3,7 @@ title: Нові Мітки збереження, створені автомат
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054687"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713523"
 ---
 # <a name="new-retention-labels-created-automatically"></a>Нові Мітки збереження, створені автоматично
 
-Ви можете побачити [три нові Office 365 Мітки збереження](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , створені автоматично у вашій організації в розділі **підписи збереження** в центрі адміністрування безпеки або комплаєнсу. Назви міток:
+Ви можете побачити [три нові Мітки збереження](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) , створені автоматично у вашій організації в розділі **підписи збереження** в центрі адміністрування безпеки або комплаєнсу. Назви міток:
 
 - Експлуатаційна процедура
 - Генеральний бізнес
@@ -29,7 +29,7 @@ ms.locfileid: "40054687"
 
 Це відбудеться під час першого вибору **плану файлів** , якщо не створено інші підписи збереження. Ці наклейки створюються автоматично і, при необхідності, можуть бути видалені, якщо вони ще не були застосовані до вмісту. Щоб видалити етикетки:
 
-1. У центрі адміністрування безпеки або відповідності вимогам виберіть вкладку **класифікація** > **** > **зберігання** міток.
+1. У центрі адміністрування безпеки або відповідності вимогам виберіть вкладку **класифікація** > **Labels** > **зберігання** міток.
 
 1. Виберіть підписи збереження, які потрібно видалити > **Видалити мітку** > **так** , щоб видалити мітку.
 
