@@ -1,22 +1,22 @@
 ---
-title: 2554 нова функція для допомоги в діагностиці EOP і ATP
+title: 2554 нова функція, яка допоможе діагностувати кінець періоду і АТФ
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2554
 ms.assetid: ''
-ms.openlocfilehash: 0d7990f78864882b3714b5e0bdacd6ecf7f373d4
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e5beb273d598ba81fe54e150f54d870c80f5eb22
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391609"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43718178"
 ---
-# <a name="new-feature-to-help-diagnose-eop-and-atp"></a><span data-ttu-id="54f98-102">Нова функція для допомоги в діагностиці EOP і ATP</span><span class="sxs-lookup"><span data-stu-id="54f98-102">New feature to help diagnose EOP and ATP</span></span>
+# <a name="new-feature-to-help-diagnose-eop-and-atp"></a><span data-ttu-id="77b89-102">Нова функція, яка допоможе діагностувати кінець періоду і АТФ</span><span class="sxs-lookup"><span data-stu-id="77b89-102">New feature to help diagnose EOP and ATP</span></span>
 
-<span data-ttu-id="54f98-103">Як адміністратор ви можете тепер легко підозрілої електронної пошти, URL-адреси та вмісту повідомити корпорацію Майкрософт про в [Уявленнях Explorer](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="54f98-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="54f98-104">Ви навіть можете використовувати його допомогти зрозуміти, чому законних повідомлення позначено неправильно.</span><span class="sxs-lookup"><span data-stu-id="54f98-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="54f98-105">Докладніше перегляньте цю [заяву](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="54f98-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
+<span data-ttu-id="77b89-103">Як адміністратор, тепер можна легко повідомляти підозрілі повідомлення електронної пошти, URL-адреси та вміст до корпорації Майкрософт у [провіднику подань](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="77b89-103">As an admin, you can now easily report suspicious email messages, URLs, and content to Microsoft in [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span> <span data-ttu-id="77b89-104">Ви навіть можете використовувати його, щоб допомогти зрозуміти, чому повідомлення було позначено неправильно.</span><span class="sxs-lookup"><span data-stu-id="77b89-104">You can even use it to help understand why a legitimate message was flagged incorrectly.</span></span> <span data-ttu-id="77b89-105">Докладніші відомості наведено в цьому [оголошенні](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span><span class="sxs-lookup"><span data-stu-id="77b89-105">For more information, see this [announcement](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).</span></span>
