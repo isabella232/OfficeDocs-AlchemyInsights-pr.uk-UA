@@ -1,31 +1,31 @@
 ---
-title: Усунення несправностей із реєстрації параметрів Microsoft Intune
+title: Усунення проблем із варіантами реєстрації Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: dfe6c90d0c370037c92df3a8ed01dcbec6ae9d50
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d7568f962f0bb0514ae7f78778151520c75f3d5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559358"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43734653"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Усунення несправностей із реєстрації параметрів Microsoft Intune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Усунення проблем із варіантами реєстрації Microsoft InTune
 
-Огляд ресурсів, перераховані нижче, щоб вирішити проблему, ваш тепер. Якщо ці ресурси не допомогли, зверніться до служби підтримки, натиснувши [тут](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) і вибравши "створити запит на підтримку.» 
+Перегляньте ресурси, перелічені нижче, щоб вирішити проблему зараз. Якщо ці ресурси не допомогли, зверніться до служби підтримки, натиснувши [тут](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) та вибравши "створити запит на підтримку". 
   
-- [Огляд Intune TechNet, щоб знайти рішення для загальних питань і відповідей](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Огляд InTune TechNet, щоб знайти відповіді та вирішення поширених проблем](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- Використовувати [Intune виправлення неполадок портал](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) діагностувати та усунути поширені зарахування невдач. Огляд [цей документ](https://docs.microsoft.com/intune/help-desk-operators) для більш докладної інформації. 
+- Для діагностики та вирішення поширених помилок реєстрації скористайтеся [InTune портал виправлення неполадок](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) . Перегляньте [цей документ](https://docs.microsoft.com/intune/help-desk-operators) , щоб отримати докладніші відомості. 
     
-- Огляд [цей документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) список поширених помилок, які заважають заявки на участь та постанов до кожного. 
+- Перегляньте [цей документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) для списку поширених помилок, які перешкоджають реєстрації та роздільності. 
     
-- [Дізнайтеся про параметри заявки на участь у Intune Майкрософт](https://docs.microsoft.com/intune/enrollment-options).
+- [Відомості про варіанти реєстрації в Microsoft InTune](https://docs.microsoft.com/intune/enrollment-options).
     
 

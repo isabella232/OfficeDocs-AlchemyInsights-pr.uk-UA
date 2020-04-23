@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-Email-contacts-Calendar
+title: 1221-імпорт-експорт-Outlook-електронна пошта-контакти-календар
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545206"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724685"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Імпортувати та експортувати електронну пошту, контакти та елементи календаря Outlook
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Імпорт повідомлень електронної пошти, контактів і елементів календаря до програми Outlook, а також експорт із неї
 
-1. В Outlook клацніть **файл**.
+1. В Outlook виберіть **Файл**.
 
-2. Натисніть кнопку **Відкрити & експорту**і натисніть кнопку **Імпорт/експорт**.
+2. Виберіть **Відкрити та експортувати**, а потім – **Імпорт/експорт**.
 
-    Запуститься майстер імпорту й експорту.
+    Так запускається майстер імпорту й експорту.
 
-Для повного набір імпорт і експорт інструкції для Outlook, перегляньте [цю статтю](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Повний набір інструкцій з імпорту та експорту для Outlook наведено в [цій статті](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Якщо ви адміністратор та хочете групового імпорту декілька PST файлів до поштових скриньок у службі Office 365, перегляньте [цю статтю](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Якщо ви адміністратор і хочете, щоб масове імпортування кількох PST-файлів до Microsoft 365 поштових скриньок, див у [цій статті](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

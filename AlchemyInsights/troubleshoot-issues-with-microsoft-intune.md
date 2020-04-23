@@ -1,25 +1,25 @@
 ---
-title: Усунення несправностей із Microsoft Intune
+title: Виправлення неполадок, пов'язаних із Microsoft InTune
 ms.author: pebaum
 author: pebaum
-ms.date: 10/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 0875105a99b5c85caaef96a61d6d6f23ae294116
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 916ce1fa20f8f12483b76a53eac4234849d48ce3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506608"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43733471"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Усунення несправностей із Microsoft Intune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Виправлення неполадок, пов'язаних із Microsoft InTune
 
-Огляд ресурсів, перераховані нижче, щоб вирішити проблему, ваш тепер.
+Перегляньте ресурси, перелічені нижче, щоб вирішити проблему зараз.
   
-1. Використовувати [Intune виправлення неполадок портал](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) діагностувати і вирішити деякі поширені помилки. Огляд [цей](https://docs.microsoft.com/intune/help-desk-operators) документ для більш докладної інформації.  
-2. Огляд [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), щоб знайти рішення для загальних питань і відповідей.  
-3. Від'їзд [Служби охорони здоров'я](https://portal.office.com/AdminPortal/Home#/servicehealth) , щоб побачити стан служби.   
-4. Огляд [Intune документації](https://docs.microsoft.com/intune/) для планування, як-к, усунення несправностей статті та багато іншого. 
+1. Скористайтеся [InTune для виправлення неполадок порталу](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) для діагностики та вирішення деяких поширених помилок. Перегляньте [цей](https://docs.microsoft.com/intune/help-desk-operators) документ, щоб отримати докладніші відомості.  
+2. Огляд [InTune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), щоб знайти відповіді та вирішення поширених проблем.  
+3. Перевірте [справність служби](https://portal.office.com/AdminPortal/Home#/servicehealth) , щоб переглянути статус послуги.   
+4. Огляд [документації InTune](https://docs.microsoft.com/intune/) для планування, способи виправлення неполадок і більше статей. 

@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599505"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737673"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams, інстальованих за допомогою оновлень Office
 
-Microsoft teams входить до складу ***нових установок*** Office 365 proplus, Office 365 Business і Office for Mac. Для отримання додаткових відомостей див. [коли Microsoft teams почне включати нові установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams входить до складу ***нових інсталяцій*** Microsoft 365 Apps для підприємств, Microsoft 365 Apps для бізнесу та Office for Mac. Для отримання додаткових відомостей див. [коли Microsoft teams почне включати нові установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Крім того, починаючи з версії 1906 в щомісячному каналі, команди будуть поступово додані до ***існуючих установок*** Office 365 proplus (і Office 365 Business) на пристроях під управлінням Windows, коли ви оновлюєте існуючу інсталяцію до останньої версії. Щоб дізнатися більше, перегляньте відомості [про існуючі інсталяції Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Крім того, починаючи з версії 1906 в щомісячному каналі, команди будуть поступово додані до ***існуючих установок*** Microsoft 365 додатків для підприємств (і Microsoft 365 Apps для бізнесу) на пристроях під управлінням Windows, коли ви оновлюєте існуючу інсталяцію до останньої версії. Щоб дізнатися більше, перегляньте відомості [про існуючі інсталяції Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Примітка:** Якщо ви не хочете чекати цього розкладу розгортання, ви можете розгорнути робочі групи як автономні для ваших користувачів, [дотримуючись цих вказівок](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), або ви можете мати користувачів встановлювати команди для себе https://teams.microsoft.com/downloads.
 
