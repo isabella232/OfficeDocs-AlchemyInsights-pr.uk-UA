@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4352"
-ms.openlocfilehash: 6b1d6043013fd90d2aa7e5688c25cc1186d734f1
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541862"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43789035"
 ---
 # <a name="teams-dial-in-conferencing-number-removal"></a>Видалення номеру телеконференції Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43541862"
 
 Номер конференц-моста за замовчуванням визначає ідентифікатор абонента, який використовується, коли вихідний виклик здійснюється учасником чи організатором наради.
 
-1. Увійдіть у службу Office 365 за допомогою робочого облікового запису.
+1. Увійдіть за допомогою робочого облікового запису.
 
 2. Перейдіть у **Центр адміністрування Microsoft 365**.
 

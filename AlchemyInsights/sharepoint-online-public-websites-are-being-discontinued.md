@@ -1,9 +1,9 @@
 ---
-title: Громадські веб-сайти SharePoint Online є відривом від виробництва
+title: Загальнодоступні веб-сайти SharePoint Online припинено
 ms.author: clake
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 1/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: db37089c11842c070b6bfbbb6f668aa392fd9b2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9327b7ba506790549ae3215cd84606d3645703a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507616"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764318"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Громадські веб-сайти SharePoint Online є відривом від виробництва
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Загальнодоступні веб-сайти SharePoint Online припинено
 
-Якщо ви створили SharePoint Online спільних веб-сайтів, ви можете продовжувати використовувати його до 31 березня 2018 року. Якщо ви хочете продовжити, маючи спільних веб-сайтів, вам потрібно створити нову з нового постачальника. Контент на вашому сайті SharePoint на сайті громадської, буде видалено, тому необхідно скопіювати будь-який зміст, що ви хочете зберегти.
+Якщо ви створили загальнодоступний веб-сайт SharePoint Online, його можна продовжити за допомогою до 31 березня 2018. Якщо ви хочете продовжувати мати загальнодоступний веб-сайт, вам потрібно створити нове з новим постачальником. Вміст на сайті веб-сайту SharePoint Online буде видалено, тому потрібно скопіювати будь-який вміст, який потрібно зберегти.
   
-Банер тепер відображається у верхній частині вашого сайту SharePoint на сайті громадської як сповіщення, що сайт буде видалено. Не вдалося вимкнути цей банер. Щоб отримати відомості про збереження і копіювання вмісту на веб-сайті партнера детальної інформації [щодо припинення процесу функцію](https://go.microsoft.com/fwlink/?linkid=866980).
+Банер тепер відображається у верхній частині веб-сайту SharePoint Online, як повідомлення про те, що сайт буде видалено. Ви не можете вимкнути цей банер. Щоб отримати відомості про збереження та копіювання вмісту на веб-сайті партнера, перегляньте [докладні відомості про процес припинення функції](https://go.microsoft.com/fwlink/?linkid=866980).
   
