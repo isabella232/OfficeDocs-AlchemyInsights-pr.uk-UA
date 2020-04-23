@@ -1,8 +1,8 @@
 ---
-title: Пробна Office 365 орендар заблокований Spamhaus
+title: Ознайомлювального клієнта Microsoft 365 заблоковано Спадхаус
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500451"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759893"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="81d11-102">Помилка під час судового розгляду користувач служби Office 365 надсилає повідомлення електронної пошти: клієнт хост заблоковано за допомогою Spamhaus</span><span class="sxs-lookup"><span data-stu-id="81d11-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="2e5ed-102">Помилка під час пробного користувача Microsoft 365 надсилає повідомлення електронної пошти: клієнт хоста заблоковано за допомогою Спадхаус</span><span class="sxs-lookup"><span data-stu-id="2e5ed-102">Error when a Microsoft 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="81d11-103">Схоже, що ви посилаєте електронною поштою з нового судового розгляду організації Office 365.</span><span class="sxs-lookup"><span data-stu-id="81d11-103">It appears that you are sending email from a new Office 365 trial organization.</span></span> <span data-ttu-id="81d11-104">Щоб запобігти зловживанням, ми блокуємо IP-адрес, які, як відомо, щоб бути скомпрометована раніше.</span><span class="sxs-lookup"><span data-stu-id="81d11-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="81d11-105">Цей конкретний перевірки більше не застосовується після того, як ви почнете використовувати заплатив ліцензій.</span><span class="sxs-lookup"><span data-stu-id="81d11-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="81d11-106">Ви може бути в змозі отримати тимчасове полегшення, попросивши для нову адресу IP від постачальника послуг Інтернету (ISP) або видаляючи блок з сайту [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .</span><span class="sxs-lookup"><span data-stu-id="81d11-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
+<span data-ttu-id="2e5ed-103">Схоже, що ви надсилаєте повідомлення електронної пошти з нової ознайомлювальної організації Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="2e5ed-103">It appears that you are sending email from a new Microsoft 365 trial organization.</span></span> <span data-ttu-id="2e5ed-104">Щоб запобігти зловживанням, ми блокуємо IP-адреси, які, як відомо, були скомпрометовані раніше.</span><span class="sxs-lookup"><span data-stu-id="2e5ed-104">To help prevent abuse, we block IP addresses that are known to have been previously compromised.</span></span> <span data-ttu-id="2e5ed-105">Ця конкретна перевірка більше не застосовується після того, як ви почнете використовувати платні ліцензії.</span><span class="sxs-lookup"><span data-stu-id="2e5ed-105">This specific check is no longer enforced after you start using paid licenses.</span></span> <span data-ttu-id="2e5ed-106">Ви могли б отримати тимчасове полегшення, попросивши нову IP-адресу від вашого інтернет-провайдера (ISP), або видаливши блок з сайту [Спадхаус](https://go.microsoft.com/fwlink/p/?linkid=123245) .</span><span class="sxs-lookup"><span data-stu-id="2e5ed-106">You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span>
