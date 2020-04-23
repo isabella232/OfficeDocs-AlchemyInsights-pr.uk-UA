@@ -1,9 +1,9 @@
 ---
-title: Отримувати електронною поштою копію вашого символу білінгу
+title: Отримайте копію виписки по рахунку в електронному листі
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510104"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724971"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a><span data-ttu-id="14117-102">Отримувати електронною поштою копію вашого символу Office 365 для виставлення рахунків</span><span class="sxs-lookup"><span data-stu-id="14117-102">Receive copy of your Office 365 billing statement in email</span></span>
+# <a name="receive-copy-of-your-billing-statement-in-email"></a><span data-ttu-id="030a8-102">Отримайте копію виписки по рахунку в електронному листі</span><span class="sxs-lookup"><span data-stu-id="030a8-102">Receive copy of your billing statement in email</span></span>
 
-<span data-ttu-id="14117-103">Ви можете отримувати копію вашого білінгу заяву як поштове вкладення.</span><span class="sxs-lookup"><span data-stu-id="14117-103">You can choose to receive a copy of your billing statement as an email attachment.</span></span> <span data-ttu-id="14117-104">Якщо вас Пам'ятайте, що:</span><span class="sxs-lookup"><span data-stu-id="14117-104">If you do, be aware that:</span></span>
+<span data-ttu-id="030a8-103">Ви можете отримати копію виписки з виставлення рахунків як вкладення електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="030a8-103">You can choose to receive a copy of your billing statement as an email attachment.</span></span> <span data-ttu-id="030a8-104">Якщо ви це зробите, знайте, що:</span><span class="sxs-lookup"><span data-stu-id="030a8-104">If you do, be aware that:</span></span>
   
-- <span data-ttu-id="14117-105">Електронною поштою надсилатиметься на первинні та альтернативний електронну адресу для кожної особи, зазначеної як одержувач повідомлення.</span><span class="sxs-lookup"><span data-stu-id="14117-105">An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.</span></span>
+- <span data-ttu-id="030a8-105">Електронний лист буде надіслано на основну та альтернативну електронну адресу для кожної особи, яка вказана як одержувач сповіщення.</span><span class="sxs-lookup"><span data-stu-id="030a8-105">An email will be sent to both the primary and alternate email address for every person listed as a notification recipient.</span></span>
 
-- <span data-ttu-id="14117-106">Ви отримаєте два окремих листів: один, який дозволяє дізнатися, що ваш рахунок готовий, з інструкціями для входу до центру адміністрування для його перегляду і другу по електронній пошті, що містить білінгу повідомленні як вкладення.</span><span class="sxs-lookup"><span data-stu-id="14117-106">You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.</span></span>
+- <span data-ttu-id="030a8-106">Ви отримаєте дві окремі електронні листи: один, що дозволяє вам знати, що ваш законопроект готовий, з інструкціями для входу в Центр адміністрування, щоб переглянути його, а другий лист, який містить платіжну виписку як вкладення.</span><span class="sxs-lookup"><span data-stu-id="030a8-106">You will receive two separate emails: one that lets you know that your bill is ready, with instructions to log on to the Admin center to view it, and a second email that contains the billing statement as an attachment.</span></span>
 
-<span data-ttu-id="14117-107">Отримувати білінгу заяви в електронній пошті:</span><span class="sxs-lookup"><span data-stu-id="14117-107">To receive your billing statement in email:</span></span>
+<span data-ttu-id="030a8-107">Щоб отримати платіжну виписку в електронному листі:</span><span class="sxs-lookup"><span data-stu-id="030a8-107">To receive your billing statement in email:</span></span>
   
-1. <span data-ttu-id="14117-108">У центр адміністрування, перейдіть на **платіжний** \> [Billing сповіщення](https://go.microsoft.com/fwlink/p/?linkid=853212) сторінки.</span><span class="sxs-lookup"><span data-stu-id="14117-108">In the admin center, go to the **Billing** \> [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
+1. <span data-ttu-id="030a8-108">У центрі адміністрування перейдіть на сторінку [сповіщення](https://go.microsoft.com/fwlink/p/?linkid=853212) про **виставлення** \> рахунків.</span><span class="sxs-lookup"><span data-stu-id="030a8-108">In the admin center, go to the **Billing** \> [Billing notifications](https://go.microsoft.com/fwlink/p/?linkid=853212) page.</span></span>
 
-2. <span data-ttu-id="14117-109">Під **білінгу виписку як поштове вкладення?**, переключитися перемикатися **на**.</span><span class="sxs-lookup"><span data-stu-id="14117-109">Under **Receive the billing statement as email attachment?**, switch the toggle to **On**.</span></span> <span data-ttu-id="14117-110">Ви можете зупинити прийому білінгу заяву електронної пошти в будь-який час шляхом перемикання за перемикання **Off**.</span><span class="sxs-lookup"><span data-stu-id="14117-110">You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.</span></span>
+2. <span data-ttu-id="030a8-109">У розділі **отримати платіжну виписку як вкладення електронної пошти?**, переключіть перемикач у положення **on**.</span><span class="sxs-lookup"><span data-stu-id="030a8-109">Under **Receive the billing statement as email attachment?**, switch the toggle to **On**.</span></span> <span data-ttu-id="030a8-110">Ви можете будь-коли припинити отримувати електронні листи з надсилання рахунків, переключивши перемикач у положення **Вимк**.</span><span class="sxs-lookup"><span data-stu-id="030a8-110">You can stop receiving the billing statement emails at any time by switching the toggle to **Off**.</span></span>

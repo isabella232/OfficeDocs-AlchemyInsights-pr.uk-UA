@@ -1,24 +1,24 @@
 ---
 ms.author: pebaum
-title: Outlook проблеми з Exchange 2007
+title: Проблеми Outlook з Exchange 2007
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: 1ebcbc27f1a508f56c82c7706be9209c22baa1c6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5fea63cad08955d340a0382145c433bbc48b40ea
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372833"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743330"
 ---
-# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a><span data-ttu-id="14fcc-102">Рішення для помилка "не можна отримувати пошту від поточної поштової скриньки"</span><span class="sxs-lookup"><span data-stu-id="14fcc-102">Solution for error “You won’t be able to receive mail from a current mailbox"</span></span>
-<span data-ttu-id="14fcc-103">Якщо ви намагаєтеся використовувати Outlook 365/2016 із сервером Exchange 2007, отримають наступні помилки:</span><span class="sxs-lookup"><span data-stu-id="14fcc-103">You will receive the following errors if you attempt to use Outlook 365/2016 with an Exchange 2007 server:</span></span>
+# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a><span data-ttu-id="6f4e0-102">Рішення про помилку "ви не зможете отримувати пошту з поточної поштової скриньки"</span><span class="sxs-lookup"><span data-stu-id="6f4e0-102">Solution for error “You won’t be able to receive mail from a current mailbox"</span></span>
+<span data-ttu-id="6f4e0-103">Під час спроби використання програми Outlook 365/2016 із сервером Exchange 2007 буде Отримано такі помилки:</span><span class="sxs-lookup"><span data-stu-id="6f4e0-103">You will receive the following errors if you attempt to use Outlook 365/2016 with an Exchange 2007 server:</span></span>
 
-<span data-ttu-id="14fcc-104">*Стоп, ви повинні почекати встановити Office 2016. Ви не зможете отримувати пошту від поточної поштової скриньки. Outlook 2016 несумісний із Exchange 2007. Ви можете зв'язатися з поштової скриньки провайдера або системного адміністратора про цю проблему. Ресурс, який ви намагаєтеся використати розташований на Непідтримувана версія Microsoft Exchange. Зверніться до електронної пошти адміністратора за допомогою.*</span><span class="sxs-lookup"><span data-stu-id="14fcc-104">*Stop, you should wait to install Office 2016. You won’t be able to receive mail from a current mailbox. Outlook 2016 is not compatible with Exchange 2007. You may want to contact your mailbox provider or system administrator about this issue. The resource that you are trying to use is located on an unsupported version of Microsoft Exchange. Contact your e-mail administrator for assistance.*</span></span>
+<span data-ttu-id="6f4e0-104">*Зупинити, слід чекати, щоб інсталювати Office 2016. Ви не зможете отримувати пошту з поточної поштової скриньки. Outlook 2016 несумісний із Exchange 2007. Можливо, ви захочете звернутися до постачальника поштової скриньки або системного адміністратора про цю проблему. Ресурс, який ви намагаєтеся використати, розташовано на непідтримуваному версії Microsoft Exchange. Зверніться по допомогу до адміністратора електронної пошти.*</span><span class="sxs-lookup"><span data-stu-id="6f4e0-104">*Stop, you should wait to install Office 2016. You won’t be able to receive mail from a current mailbox. Outlook 2016 is not compatible with Exchange 2007. You may want to contact your mailbox provider or system administrator about this issue. The resource that you are trying to use is located on an unsupported version of Microsoft Exchange. Contact your e-mail administrator for assistance.*</span></span>
 
-<span data-ttu-id="14fcc-105">Для використання Outlook із Exchange 2007, ви можете встановити Outlook 2013, якщо ви оновлено з попередньої версії Outlook.</span><span class="sxs-lookup"><span data-stu-id="14fcc-105">To use Outlook with Exchange 2007, you can install Outlook 2013 if you upgraded from an earlier version of Outlook.</span></span> <span data-ttu-id="14fcc-106">Докладніше, перегляньте [як повторно інсталювати Office 2013 після оновлення Office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span><span class="sxs-lookup"><span data-stu-id="14fcc-106">For more information, see [How do I reinstall Office 2013 after an Office 2016 upgrade?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span></span>
+<span data-ttu-id="6f4e0-105">Щоб використовувати Outlook з Exchange 2007, можна інсталювати Outlook 2013, якщо ви оновили попередню версію Outlook.</span><span class="sxs-lookup"><span data-stu-id="6f4e0-105">To use Outlook with Exchange 2007, you can install Outlook 2013 if you upgraded from an earlier version of Outlook.</span></span> <span data-ttu-id="6f4e0-106">Щоб отримати додаткові відомості, див [. як повторно інсталювати office 2013 після оновлення Office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span><span class="sxs-lookup"><span data-stu-id="6f4e0-106">For more information, see [How do I reinstall Office 2013 after an Office 2016 upgrade?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)</span></span>
