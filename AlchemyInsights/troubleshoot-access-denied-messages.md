@@ -2,18 +2,18 @@
 title: Усунення несправностей у доступі повідомлення
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 05d12aee49b449e8a29e84021b41298fb9983859
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1930edcfd14acc48ea77b66e2793654a3e6332cc
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050726"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759821"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Усунення несправностей у доступі повідомлення
 
@@ -29,6 +29,6 @@ ms.locfileid: "40050726"
   
 Якщо хтось отримав повідомлення "немає доступу" під час спроби переглянути запити на доступ, користувач повинен бути доданий як адміністратор колекції сайтів або член групи власників для сайту. [Щоб](https://go.microsoft.com/fwlink/?linkid=2004220)отримати додаткові відомості, див.
   
-Якщо користувач отримав повідомлення "немає доступу" після того, як їх було видалено з Active Directory на локальному і потім додано назад, [доступ заборонено, коли обліковий запис користувача, синхронізується з Office 365](https://go.microsoft.com/fwlink/?linkid=2004318).
+Якщо користувач отримав повідомлення "немає доступу" після того, як їх було видалено з Active Directory на локальному і потім додано назад, [доступ заборонено, коли обліковий запис користувача синхронізується з Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2004318).
   
 

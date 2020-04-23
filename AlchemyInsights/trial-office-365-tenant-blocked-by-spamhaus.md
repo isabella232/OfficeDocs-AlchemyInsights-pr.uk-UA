@@ -1,8 +1,8 @@
 ---
-title: Пробна Office 365 орендар заблокований Spamhaus
+title: Ознайомлювального клієнта Microsoft 365 заблоковано Спадхаус
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500451"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759893"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Помилка під час судового розгляду користувач служби Office 365 надсилає повідомлення електронної пошти: клієнт хост заблоковано за допомогою Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Помилка під час пробного користувача Microsoft 365 надсилає повідомлення електронної пошти: клієнт хоста заблоковано за допомогою Спадхаус
 
-Схоже, що ви посилаєте електронною поштою з нового судового розгляду організації Office 365. Щоб запобігти зловживанням, ми блокуємо IP-адрес, які, як відомо, щоб бути скомпрометована раніше. Цей конкретний перевірки більше не застосовується після того, як ви почнете використовувати заплатив ліцензій. Ви може бути в змозі отримати тимчасове полегшення, попросивши для нову адресу IP від постачальника послуг Інтернету (ISP) або видаляючи блок з сайту [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Схоже, що ви надсилаєте повідомлення електронної пошти з нової ознайомлювальної організації Microsoft 365. Щоб запобігти зловживанням, ми блокуємо IP-адреси, які, як відомо, були скомпрометовані раніше. Ця конкретна перевірка більше не застосовується після того, як ви почнете використовувати платні ліцензії. Ви могли б отримати тимчасове полегшення, попросивши нову IP-адресу від вашого інтернет-провайдера (ISP), або видаливши блок з сайту [Спадхаус](https://go.microsoft.com/fwlink/p/?linkid=123245) .

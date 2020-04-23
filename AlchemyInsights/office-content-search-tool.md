@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713307"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788036"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Інструмент пошуку вмісту, щоб знайти релевантну інформацію
 
-Використовуйте засіб пошуку вмісту в центрі підтримки & відповідності, щоб швидко знаходити повідомлення електронної пошти в поштових скриньках Exchange, документах на сайтах SharePoint і в розташуваннях OneDrive, а також миттєві повідомлення розмови у Skype для бізнесу. Ви можете використовувати інструмент пошуку вмісту для пошуку електронної пошти, документів та миттєвих повідомлень у Office 365 інструментів для співпраці, таких як Microsoft teams і Office 365 груп.
+Використовуйте засіб пошуку вмісту в центрі підтримки & відповідності, щоб швидко знаходити повідомлення електронної пошти в поштових скриньках Exchange, документах на сайтах SharePoint і в розташуваннях OneDrive, а також миттєві повідомлення розмови у Skype для бізнесу. Ви можете використовувати інструмент пошуку вмісту для пошуку електронної пошти, документів та миттєвих повідомлень у Microsoft 365 інструментів співпраці, таких як Microsoft teams і Office 365 груп.
 
 
 Перед використанням [пошуку вмісту](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) з [центру дотримання безпеки &](https://sip.protection.office.com/homepage), ви хочете заповнити параметри конфігурації, включаючи налаштування [дозволів](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [налаштування швидкості завантаження](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) та [налаштування експорту](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
@@ -28,4 +28,4 @@ ms.locfileid: "43713307"
 
 Переглянувши параметри конфігурації та обмеження пошуку вмісту, зверніться до [використання пошуку</a> вмісту, щоб знайти на місці такі елементи, як електронна пошта, документи та миттєві повідомлення розмов у вашій організації](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Повний крок за кроком пошуку вмісту, див [Пошук вмісту в Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) , щоб отримати додаткові відомості.
+Повний крок за кроком пошуку вмісту, див [Пошук вмісту в Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) для отримання додаткової інформації.

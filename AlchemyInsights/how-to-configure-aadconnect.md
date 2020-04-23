@@ -3,7 +3,7 @@ title: 646 як налаштувати AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 316d7253494c55a9bc94797d493897c2ddec516c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 713cda26e55f07f0438cb9ebe5aa9da86c4ebb3a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541606"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722584"
 ---
-# <a name="configure-sync-features"></a>Настроювання синхронізації функцій
+# <a name="configure-sync-features"></a>Настроювання функцій синхронізації
 
-Блакитні оголошення підключення включає кілька функцій, що включений за замовчуванням або яку можна ввімкнути пізніше. Деякі функції вимагають додаткових налаштувань в конкретних умовах.
+Azure AD-підключення, містить кілька функцій, які ввімкнуто за промовчанням або можна ввімкнути пізніше. Деякі функції потребують додаткової конфігурації в певних середовищах.
 
-- [Фільтрування](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) межі об'єкти синхронізуються блакитні оголошення. За замовчуванням, всі користувачі, контакти, групи та версії 10 синхронізуються комп'ютер облікових записів. Ви можете додати або вилучити об'єктів на основі доменів, підрозділи та інші атрибути.
+- [Фільтрування](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) обмеження об'єкти СИНХРОНІЗУЮТЬСЯ Azure AD. За промовчанням синхронізуються всі користувачі, контакти, групи та комп'ютерні облікові записи Windows 10. Можна включити або виключити об'єкти на основі доменів, OUs або інших атрибутів.
 
-- [Синхронізація геш пароля](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) синхронізація пароля хеш із локальної служби Active Directory до блакитні оголошення. Це дозволяє Керування паролями в одному місці, але використовувати однаковий пароль в обох локальні та хмарними. Тому, що Active Directory надійного джерела, ви можете використовувати свій власний політики паролів.
+- [Геш-синхронізація пароля](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) синхронізує геш-пароль з локальної служби Active Directory для Azure AD. Це дозволяє Керування паролями в одному розташуванні, але використання одного і того ж пароля в локальних і хмарних середовищах. Оскільки Active Directory є авторитетним джерелом, ви можете використовувати свої власні політики паролів.
 
-- [Скидання пароля самообслуговування (SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) дозволяє користувачам можливість скидати паролі у хмарі при застосуванні як і раніше ваш пароль локальною політикою.
+- [Самостійне скидання пароля (sсрп)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) дозволяє користувачам скидати свої власні паролі в хмарі, а ще застосування вашої локальної політики паролів.
 
-- [Пристрій writeback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) надає змогу зареєстрованим у блакитній оголошення, щоб записати назад до локальної служби Active Directory так що вони можуть бути використані для умовного доступу.
+- [Пристрій writeback](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) дозволяє зареєстровані пристрої в Azure AD, щоб бути написана на локальному Active Directory, щоб вони могли бути використані для умовного доступу.
 
-- [Випадкове ю видалення](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) ввімкнуто за промовчанням, щоб запобігти забагато видалень синхронний об'єкта (більш ніж 500 об'єктів на синхронізацію). Можна змінити цей параметр для задоволення потреб вашої організації.
+- [Запобігання випадковому видалення](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) увімкнуто за промовчанням, щоб запобігти занадто багато одночасних видалення об'єктів (більше 500 об'єктів на синхронізацію). Ви можете змінити цей параметр, щоб задовольнити потреби вашої організації.
 
-- [Автоматичні оновлення](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) ввімкнуто за промовчанням для Експрес установок і допомагає забезпечити вашу версію Azure оголошення Коннект актуальний завжди.
+- [Автоматичне оновлення](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) увімкнуто за промовчанням для Експрес-інсталяції та гарантує, що ваша версія Azure AD-підключення завжди поточного.

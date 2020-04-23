@@ -2,7 +2,7 @@
 title: Збереження та видалення OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 5fd6685d02d8178dd524dcc295af1021b17d61b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053354"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761368"
 ---
 # <a name="onedrive-retention-and-deletion"></a>Збереження та видалення OneDrive
 
@@ -25,7 +25,7 @@ ms.locfileid: "40053354"
 
 - Перегляньте [цю статтю](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) , щоб дізнатися:
     - Як надати іншому користувачу доступ до видаленого користувача OneDrive.
-    - Що відбувається з OneDrive користувача під час видалення облікового запису користувача Office 365 для вашої організації.
+    - Що відбувається з OneDrive користувача під час видалення облікового запису Microsoft 365 користувача для вашої організації.
     - Як налаштувати делегування автоматичного доступу.
     - Як працює процес видалення OneDrive.
 
