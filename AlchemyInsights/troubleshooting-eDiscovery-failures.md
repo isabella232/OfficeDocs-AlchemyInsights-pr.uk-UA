@@ -1,9 +1,9 @@
 ---
-title: 1490-усунення несправностей-пошук необхідної невдачі
+title: 1490-пошук і вирішення проблем-Витребування помилок
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559394"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759605"
 ---
-# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="061dd-102">Усунення проблем: помилки пошук за змістом</span><span class="sxs-lookup"><span data-stu-id="061dd-102">Troubleshoot Content Search errors</span></span>
+# <a name="troubleshoot-content-search-errors"></a><span data-ttu-id="43c33-102">Виправлення помилок пошуку вмісту</span><span class="sxs-lookup"><span data-stu-id="43c33-102">Troubleshoot Content Search errors</span></span>
 
-<span data-ttu-id="061dd-103">Чи ви відчуваєте проблеми з пошук за змістом в Office 365 або отримання невдачі, під час експортування результатів пошуку?</span><span class="sxs-lookup"><span data-stu-id="061dd-103">Are you experiencing problems with Content Search in Office 365 or getting failures when you export search results?</span></span>
+<span data-ttu-id="43c33-103">Виникли проблеми з пошуком вмісту або отриманням помилок під час експортування результатів пошуку?</span><span class="sxs-lookup"><span data-stu-id="43c33-103">Are you experiencing problems with Content Search or getting failures when you export search results?</span></span>
 
-<span data-ttu-id="061dd-104">Наприклад, ви отримуєте наступні при запуску пошуку?</span><span class="sxs-lookup"><span data-stu-id="061dd-104">For example, are you receiving the following when running searches?</span></span>
+<span data-ttu-id="43c33-104">Наприклад, ви отримуєте таке під час роботи з пошуком?</span><span class="sxs-lookup"><span data-stu-id="43c33-104">For example, are you receiving the following when running searches?</span></span>
 
-- <span data-ttu-id="061dd-105">CS008 або CS012 помилки</span><span class="sxs-lookup"><span data-stu-id="061dd-105">CS008 or CS012 errors</span></span>
+- <span data-ttu-id="43c33-105">CS008 або CS012 помилки</span><span class="sxs-lookup"><span data-stu-id="43c33-105">CS008 or CS012 errors</span></span>
 
-- <span data-ttu-id="061dd-106">Сервер зайнятий/тайм-аут помилки</span><span class="sxs-lookup"><span data-stu-id="061dd-106">Server busy/timeout errors</span></span>
+- <span data-ttu-id="43c33-106">Сервер зайнятий/час очікування помилки</span><span class="sxs-lookup"><span data-stu-id="43c33-106">Server busy/timeout errors</span></span>
 
-- <span data-ttu-id="061dd-107">Сталася помилка застосунку</span><span class="sxs-lookup"><span data-stu-id="061dd-107">Application error occurred</span></span>
+- <span data-ttu-id="43c33-107">Сталася помилка застосунку</span><span class="sxs-lookup"><span data-stu-id="43c33-107">Application error occurred</span></span>
 
-<span data-ttu-id="061dd-108">Або при пошуку або експорт результатів від великої кількості поштових скриньок (понад 100000 поштових скриньок), ви отримуєте експорт помилки?</span><span class="sxs-lookup"><span data-stu-id="061dd-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
+<span data-ttu-id="43c33-108">Або під час пошуку або експортування результатів із великої кількості поштових скриньок (понад 100 000 поштових скриньок) ви отримуєте помилки експортування?</span><span class="sxs-lookup"><span data-stu-id="43c33-108">Or when searching or exporting results from a large number of mailboxes (over 100,000 mailboxes), are you getting export errors?</span></span>
 
-<span data-ttu-id="061dd-109">Для цих типів помилок спробуйте повторити пошук вмісту розташувань, які не змогли.</span><span class="sxs-lookup"><span data-stu-id="061dd-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="061dd-110">Дивіться [цю статтю](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) за додатковою інформацією.</span><span class="sxs-lookup"><span data-stu-id="061dd-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>
+<span data-ttu-id="43c33-109">Для цих типів помилок, спробуйте повторити пошук розташування вмісту, які не вдалося.</span><span class="sxs-lookup"><span data-stu-id="43c33-109">For these types of errors, retry the search for the content locations that have failed.</span></span> <span data-ttu-id="43c33-110">Докладнішу інформацію наведено в [цій статті](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .</span><span class="sxs-lookup"><span data-stu-id="43c33-110">See  [this article](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) for more information.</span></span>

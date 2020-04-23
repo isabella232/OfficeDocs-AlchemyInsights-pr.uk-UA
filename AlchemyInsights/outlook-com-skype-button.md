@@ -1,23 +1,23 @@
 ---
-title: 8000049 Skype значок зниклих без вести в Outlook.com
+title: 8000049 Skype значок відсутній у Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 869de50b0bad7f41902fd918f90dd435a5faa4de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512192"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767882"
 ---
-# <a name="skype-icon-missing"></a><span data-ttu-id="851a6-102">Skype значок відсутній</span><span class="sxs-lookup"><span data-stu-id="851a6-102">Skype icon missing</span></span>
+# <a name="skype-icon-missing"></a><span data-ttu-id="df8e6-102">Піктограма Skype відсутня</span><span class="sxs-lookup"><span data-stu-id="df8e6-102">Skype icon missing</span></span>
 
-<span data-ttu-id="851a6-103">Ми тимчасово вилучені Skype значок з Outlook.com як частину дизайну оновлення і функція оновлення ми раді бути прокатки. Ми цінуємо ваше терпіння, хоча ми готуємо нові та вдосконалені досвід для вас.</span><span class="sxs-lookup"><span data-stu-id="851a6-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we're excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
+<span data-ttu-id="df8e6-103">Ми тимчасово видалили іконку Skype з Outlook.com в рамках оновлення дизайну і поновлення функцій, які ми раді бути прокатки. Ми цінуємо ваше терпіння, поки готуємо новий і покращений досвід для вас.</span><span class="sxs-lookup"><span data-stu-id="df8e6-103">We've temporarily removed the Skype icon from Outlook.com as part of a design refresh and feature update we're excited to be rolling out. We appreciate your patience while we prepare a new and improved experience for you.</span></span>
 
-<span data-ttu-id="851a6-104">Як і раніше, за допомогою Skype через ваш браузер на [web.skype.com](https://web.skype.com).</span><span class="sxs-lookup"><span data-stu-id="851a6-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com).</span></span>
+<span data-ttu-id="df8e6-104">Ви все ще можете використовувати Skype через ваш браузер на [Web.Skype.com](https://web.skype.com).</span><span class="sxs-lookup"><span data-stu-id="df8e6-104">You can still use Skype through your browser at [web.skype.com](https://web.skype.com).</span></span>
