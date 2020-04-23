@@ -1,9 +1,9 @@
 ---
-title: Виправлення неполадок для виявлення шахрайства, рада безпеки перевіряє
+title: Виправлення неполадок підказки безпеки для виявлення шахрайства перевірки
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,21 +13,21 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 7ce8bcc7caefebf51fc8d9622367fd16405deef1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533268"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759533"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Виправлення неполадок для виявлення шахрайства, рада безпеки перевіряє
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Виправлення неполадок підказки безпеки для виявлення шахрайства перевірки
 
-Якщо ти отримую Безпека Підказка, яка говорить "відправник не вдалося наші чеки виявлення шахрайства і може не бути тим, ким вони, як видається, бути", а потім відправник не змогла пройти DKIM або SPF перевірки автентичності. Кращий спосіб вирішити це є для відправника авторизації себе. Якщо відправник надсилає від вашого імені, вам потрібно авторизувати їх, додавши IP адреса відправника до запису SPF.
+Якщо ви отримуєте безпеки відгук, який говорить: "відправник не вдалося наші перевірки шахрайства перевіряє і не може бути, хто вони здаються", то відправник не вдалося передати або DKIM або SPF перевірки автентичності. Найкращий спосіб вирішити це для відправника, щоб авторизуватися. Якщо відправник розсилає відправлення від вашого імені, вам необхідно авторизувати їх, додавши ІР-адресу відправника до запису SPF.
   
-Для отримання додаткової інформації див [усунення несправностей червоний (підозрілі) Безпека Підказка для виявлення шахрайства перевіряє](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) .
+Перегляньте [Виправлення неполадок Червоної (підозрілої) підказки щодо безпеки для виявлення шахрайства](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) для отримання додаткових відомостей.
   
-Ось кілька посилань, які можуть допомогти:
+Ось деякі інші посилання, які можуть допомогти:
   
-- [Як Office 365 використовує відправника політичні рамки (SPF) для запобігання підміни](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [Як корпорація Майкрософт використовує Framework політики відправника (SPF), щоб запобігти спуфінгу](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [Настроювання SPF у службі Office 365 для запобігання підміни](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [Налаштуйте SPF, щоб запобігти спуфінгу](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)

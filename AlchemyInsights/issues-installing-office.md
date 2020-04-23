@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 73fc8b71cf06be1a4ea91e164c2c47fd19971056
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
+ms.openlocfilehash: 7ffbd796979d8e63682bcc9f5ec5e21e16f777b7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054131"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765830"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Вирішення проблем під час інсталяції пакета Office
 
@@ -29,7 +29,7 @@ ms.locfileid: "43054131"
 - Очистіть сліди попередньої інсталяції Office та інсталюйте його повторно за допомогою помічника з підтримки й відновлення (SaRA). 
 
     - Завантажте та інсталюйте [Помічник із підтримки й відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy). Коли він відкриється, виберіть версію, яку потрібно видалити, з **Видалення продуктів Office** і натисніть кнопку **Далі**. Виконайте вказівки та перезавантажте комп’ютер, коли з’явиться відповідний запит. Після перезапуску Помічник із підтримки й відновлення відкриється знову, щоб завершити процес видалення.
-    - Скористайтеся Помічником з підтримки й відновлення, щоб [повторно інсталювати пакет Office](http://aka.ms/sara-officeinstall). **Примітка.**. Щоб налаштувати Visio або Project за допомогою Помічника з підтримки й відновлення, виберіть [Інсталяція програми Visio](https://aka.ms/SaRA-VisioSetupScenario) або [Інсталяція програми Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - Скористайтеся Помічником з підтримки й відновлення, щоб [повторно інсталювати пакет Office](https://aka.ms/sara-officeinstall). **Примітка.**. Щоб налаштувати Visio або Project за допомогою Помічника з підтримки й відновлення, виберіть [Інсталяція програми Visio](https://aka.ms/SaRA-VisioSetupScenario) або [Інсталяція програми Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [Скористайтеся автономним інсталятором](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA), щоб інсталювати Office.
 

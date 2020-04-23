@@ -1,9 +1,9 @@
 ---
-title: Коли генерується білінгу заяву?
+title: Коли створюється оператор виставлення рахунків?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530905"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759389"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>Коли генерується білінгу заяву
+# <a name="when-is-the-billing-statement-generated"></a>Коли звіт про виставлення рахунків створюється
 
-Кожного місяця ви будете отримувати електронну пошту, що говорить вам, що ваш новий білінгу заяву доступний у Microsoft Outlook 365 центру адміністрування. Рахунок-фактуру містить дві сторінки. Сторінка 1 є рахунок-фактура резюме і містить загальні відомості про рахунок-фактуру, замовлення, належної суми, як зробити платіж і те, як звернутися до служби підтримки. Сторінка 2 містить детальну інформацію про білінгу діяльності для кожної з подач.
+Кожен місяць ви отримаєте електронний лист, який повідомляє вам, що ваша нова заява про виставлення рахунків доступна в центрі адміністрування Microsoft 365. Ваш рахунок-фактура містить дві сторінки. Сторінка 1-це зведення за рахунком-фактурою, і містить загальну інформацію про рахунок-фактуру, замовлення, суму, як зробити платіж, і як звернутися до служби підтримки. Сторінка 2 містить відомості про діяльність з виставлення рахунків для кожної передплати.
   
-Щоб дізнатися більше про білінгу концепцій, побачити [розумію рахунок-фактуру](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Щоб дізнатися більше про концепції виставлення рахунків, перегляньте, як [зрозуміти рахунок-фактуру](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).

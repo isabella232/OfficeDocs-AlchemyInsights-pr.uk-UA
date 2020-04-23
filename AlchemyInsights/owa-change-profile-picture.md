@@ -3,18 +3,18 @@ title: Як змінити зображення профілю в Outlook на �
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/13/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 01ebbe085c0f8585171be8ff71fbf5c09eddc8a7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: cce75481d3102aa6516fe18939e06fc9d5ff47bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36557234"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764785"
 ---
 # <a name="change-your-profile-picture-in-outlook-on-the-web"></a>Як змінити зображення профілю в Outlook на веб-сайті
 
@@ -23,6 +23,6 @@ ms.locfileid: "36557234"
 1. У діалоговому вікні **змінити фотографію** виберіть **завантажити нову фотографію**.
 1. Виберіть фотографію, яку потрібно завантажити, і натисніть **Застосувати**.
 
-*Примітка:* Нове фото з'явиться під час наступного входу в Office 365.
+*Примітка:* Нове фото з'явиться під час наступного входу до Microsoft 365.
 
 Для отримання додаткових відомостей див. [Змінення відомостей про фотографію та обліковий запис у програмі Outlook в Інтернеті](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

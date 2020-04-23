@@ -2,7 +2,7 @@
 title: Перевірка стану синхронізації паролів
 ms.author: pebaum
 author: pebaum
-ms.date: 12/5/2017
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,12 +14,12 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 7ddb515b3c4820e2c904124fa96049eade4cbd2b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36555398"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765614"
 ---
 # <a name="enable-password-sync"></a>Увімкнути синхронізацію паролів
 
@@ -31,7 +31,7 @@ ms.locfileid: "36555398"
     
 3. Тепер ви побачите свій статус і внесіть зміни:
     
-    **Синхронізація паролів включена:** (істина або хибність). Указує, чи ввімкнено синхронізацію паролів між локальною та клієнтом Office 365. 
+    **Синхронізація паролів включена:** (істина або хибність). Указує, чи ввімкнено синхронізацію паролів між локальним та клієнтом. 
     
     **Остання синхронізація пароля:** (останній час синхронізації пароля РАН). Це відобразить попередження та посилання на засіб виправлення неполадок, якщо Остання синхронізація була більше трьох днів тому. 
     

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 2bb5db2c22560021fc82e9778d237d6b70884bcf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599973"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765578"
 ---
 # <a name="teams-policies"></a>Політики teams
 
@@ -30,5 +30,5 @@ ms.locfileid: "42599973"
 - [Політики для нарад](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) контролюють те, що користувачі можуть робити з робочими зборами, включаючи керування фойє. За допомогою питань фойє, як налаштування команд, щоб визнати кожен, див [контроль настройки лобі і рівні участі](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Політики обміну повідомленнями](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) контролюють те, що користувачі можуть робити з чатом і повідомленнями, включаючи ввімкнення або вимкнення чату, видалення чатів, надсилання сповіщень про прочитання, використання гіперфіз та наклейки тощо.
 - [Політики настроювання програм](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) керують тим, які програми доступні для користувачів, включно з настроюванними та сторонніми програмами, а також порядок їх відображення.  
-- [Політики збереження](https://docs.microsoft.com/microsoftteams/retention-policies) даних для команд, які знаходяться в Office 365 безпеки та дотримання центру.
+- [Політики збереження](https://docs.microsoft.com/microsoftteams/retention-policies) даних для команд, які перебувають у центрі безпеки та комплаєнсу Microsoft 365.
 - Команди адресна книга політики встановлюються за допомогою [пошуку в пошук по каталогу](https://docs.microsoft.com/MicrosoftTeams/teams-scoped-directory-search).

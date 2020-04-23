@@ -1,5 +1,5 @@
 ---
-title: Перенесення даних спільної папки до Office 365
+title: Перенесення даних спільної папки до корпорації Майкрософт 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,18 +11,18 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
-ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
+ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "39202615"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762158"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Перенесення даних спільної папки до Office 365
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Перенесення даних спільної папки до корпорації Майкрософт 365
 
-Якщо у вас немає багато спільних папок, щоб привести в офіс 365, найпростіший спосіб, щоб привести їх буде копіювати дані в. PST файлів а потім імпортувати їх в офіс 365. Для невеликої кількості даних, простий перетягнути спільної папки в a. PST файл може бути достатнім. Якщо у вас є більше даних, ніж (до 30GB), ми [документально процес](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , який можна використовувати для експорту папок PST файлів.
+Якщо у вас немає багато спільних папок для приведення в Microsoft 365, найпростіший спосіб, щоб привести їх буде копіювати дані в. PST файлів а потім імпортувати їх у Microsoft 365. Для невеликої кількості даних, простий перетягнути спільної папки в a. PST файл може бути достатнім. Якщо у вас є більше даних, ніж (до 30GB), ми [документально процес](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , який можна використовувати для експорту папок PST файлів.
   
-Для великих організацій, які рухаються спільних папок в Office 365, у нас є посібники, доступні:
+Для великих організацій, які рухаються спільних папок в Microsoft 365, у нас є посібники, доступні:
   
 - [Міграція старих спільних папок](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 

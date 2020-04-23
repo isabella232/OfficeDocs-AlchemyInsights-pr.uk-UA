@@ -1,9 +1,9 @@
 ---
-title: Політики збереження Exchange центру адміністрування не працює
+title: Політики збереження в Центр адміністрування Exchange, не працює
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742454"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Політики збереження Exchange центру адміністрування
+# <a name="retention-policies-in-exchange-admin-center"></a>Політики збереження в Центр адміністрування Exchange
 
- **Питання:** Новостворених оновлений політиками Exchange центру адміністрування не докладаючи до поштових скриньок або є не переміщуються до поштової скриньки архіву та видаленні елементів. 
+ **Проблема:** Створений або оновлений політики збереження в Центр адміністрування Exchange не застосовуються до поштових скриньок або елементи не переміщуються до поштової скриньки архіву або видалено. 
   
- **Корінних причин:**
+ **Кореневі причини:**
   
-- Це може бути тому, що з **Помічник керованих папок** не оброблено поштової скриньки користувача. Помічник із керованих папок намагається обробити кожну поштову скриньку у вашій хмарній організації один раз кожні сім днів. Якщо змінити тег збереження або застосовувати до поштової скриньки іншу політику збереження, ви можете чекати, поки на Керовані папки надання допомоги обробляє поштової скриньки, або ви можете запустити командлет Start-ManagedFolderAssistant, щоб запустити помічник із керованих папок для обробки певної Поштова скринька. Запуск цього командлета є корисним для перевірки або виправлення неполадок політики збереження або настройки тегів збереження. Для отримання додаткової інформації відвідайте [запустити помічник із керованих папок](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- Можливо, **помічник із керованих папок** не обробляв поштову скриньку користувача. Помічник із керованих папок намагається обробити кожну поштову скриньку в організації, розміщеній у хмарі, кожні сім днів. Якщо змінити тег збереження або застосувати іншу політику збереження до поштової скриньки, можна зачекати, доки керовану папку допоможе обробити поштову скриньку, або запустити командлет Start-керовану помічника, щоб запустити помічник із керованих папок для обробки певної поштової скриньки. Запуск цього командлета корисний для тестування або виправлення неполадок параметрів політики збереження або тегів збереження. Для отримання додаткових відомостей відвідайте [запустіть Помічник із керованих папок](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
   - **Рішення:** Запустіть таку команду, щоб запустити помічник із керованих папок для певної поштової скриньки:
     
@@ -33,32 +33,32 @@ ms.locfileid: "36551364"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Це може також бути виникнути, якщо **RetentionHold** був **включений** у поштовій скриньці. Якщо поштова скринька був зроблений на на RetentionHold, поштової скриньки, політика збереження не буде оброблено у цей час. Для більш інформація на RetentionHold настройку див: [Поштової скриньки збереження утримуйте](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- Це також може статися, якщо на поштову скриньку **увімкнуто** **Retentionhold** . Якщо поштову скриньку було розміщено на RetentionHold, політика збереження поштової скриньки не оброблятиметься протягом цього часу. Для отримання додаткових параметрів на RetentionHold параметр відображається: [утримання збереження поштової скриньки](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Рішення:**
     
-  - Перевірити статус RetentionHold настройкам певної поштової скриньки у [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Перевірте стан RetentionHold налаштування на конкретну поштову скриньку в [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Запустіть таку команду, щоб **Вимкнути** RetentionHold на певної поштової скриньки:
+  - Запустіть таку команду, щоб **Вимкнути** retentionhold на конкретну поштову скриньку:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Тепер, повторно запустити помічник Керовані папки:
+  - Тепер знову запустіть Помічник із керованих папок:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Примітка:** Якщо поштової скриньки менше, ніж 10 МБ, помічник із керованих папок не буде автоматично оброблено поштової скриньки.
+ **Примітка:** Якщо поштова скринька менше 10 МБ, помічник із керованих папок не буде автоматично обробляти поштову скриньку.
  
-Докладна інформація про політики збереження центру адміністрування Exchange див.
-- [Теги збереження й архівування](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Застосовувати політики збереження до поштових скриньок](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+Щоб отримати додаткові відомості про політики збереження в Центр адміністрування Exchange див.:
+- [Теги збереження та політики збереження](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [Застосування політики збереження до поштових скриньок](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
 - [Додавання або видалення тегів збереження](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Як визначити тип утримання розміщені на поштову скриньку](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [Як визначити тип утримання, розміщеного на поштовій скриньці](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
