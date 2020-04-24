@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "3168"
-ms.openlocfilehash: 86e4888634a7282c7d123a5510e34bdfe0911342
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: b977d0dfc700c558f4a740b6b3426e3b8537d280
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43183260"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789503"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint-online"></a>Увімкнення та вимкнення зовнішнього спільного доступу в SharePoint Online
 
-Щоб дізнатися, як глобальні адміністратори та адміністратори SharePoint в Office 365 можуть змінити налаштування спільного доступу організації для SharePoint і OneDrive, див. статтю [Увімкнення або вимкнення зовнішнього спільного доступу](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).
+Щоб дізнатися, як глобальні адміністратори та адміністратори SharePoint можуть змінити налаштування спільного доступу організації для SharePoint і OneDrive, див. статтю [Увімкнення або вимкнення зовнішнього спільного доступу](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off).

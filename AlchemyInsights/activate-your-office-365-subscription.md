@@ -1,5 +1,5 @@
 ---
-title: Активація передплати на Office 365
+title: Активація передплати на Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191086"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784028"
 ---
-# <a name="activate-your-office-365-subscription"></a>Активація передплати на Office 365
+# <a name="activate-your-subscription"></a>Активація передплати
 
 **Активація передплати**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191086"
 
 **Повторна активація передплати**
 
-Якщо термін передплати завершився, передплату вимкнуто корпорацією Майкрософт або ви достроково скасували її, ви можете повторно активувати передплату в Центрі адміністрування Office 365.
+Якщо термін передплати завершився, передплату вимкнуто корпорацією Майкрософт або ви достроково скасували її, ви можете повторно активувати передплату в Центрі адміністрування Microsoft 365.
 
-- У Центрі адміністрування Office 365 перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) (або виберіть **Виставлення рахунків > Передплати**).
+- У Центрі адміністрування Microsoft 365 перейдіть на сторінку [Передплати](https://go.microsoft.com/fwlink/p/?linkid=842054) (або виберіть **Виставлення рахунків > Передплати**).
 
 - Виберіть передплату, яку потрібно повторно активувати, і натисніть кнопку **Повторна активація**. Якщо дія **Повторна активація** недоступна, [зателефонуйте до служби підтримки](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), щоб повторно активувати передплату.
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191086"
 
 **Активація нової передплати за допомогою ключа продукту**
 
-- Щоб активувати нову передплату на Office 365 з ключем продукту, почніть [тут](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Щоб активувати нову передплату на Microsoft 365 з ключем продукту, почніть [тут](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Введіть ключ продукту Office 365 і дотримуйтеся вказівок, щоб активувати передплату. У разі виникнення проблем з активацією перегляньте цей список [типових помилок роботи з ключем продукту та способів їх усунення](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Введіть ключ продукту Microsoft 365 і дотримуйтеся вказівок, щоб активувати передплату. У разі виникнення проблем з активацією перегляньте цей список [типових помилок роботи з ключем продукту та способів їх усунення](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).

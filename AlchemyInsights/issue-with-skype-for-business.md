@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: fab71b234088b54a684f43dca5533dd0332da48d
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739082"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765866"
 ---
 # <a name="issue-with-skype-for-business"></a>Проблеми зі «Skype для бізнесу»
 
@@ -23,7 +23,7 @@ ms.locfileid: "36739082"
   
 {HealthCheckString}
   
-Записи NS, CNAME або SRV в параметрах домену (DNS) належним чином не налаштовано для підтримки "Skype для бізнесу". Докладні відомості про створення записів DNS для служби Office 365 на сайті будь-якого постачальника послуг розміщення DNS наведено в [цій статті](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Записи NS, CNAME або SRV в параметрах домену (DNS) належним чином не налаштовано для підтримки "Skype для бізнесу". Докладні інструкції див. в статті [Створення записів DNS у будь-якого постачальника послуг розміщення DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Щоб вирішити цю проблему, перейдіть на сторінку [Домени](https://admin.microsoft.com/adminportal/home#/Domains) в Центрі адміністрування Office 365, і ми вам допоможемо.
   
