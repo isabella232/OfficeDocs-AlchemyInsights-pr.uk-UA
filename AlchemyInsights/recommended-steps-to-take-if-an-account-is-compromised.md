@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745454"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719325"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Дії, які потрібно виконати в разі злому облікового запису
 
-[ВІДЕО: Усунення несанкціонованого доступу до облікового запису Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[ВІДЕО. Усунення несанкціонованого доступу до облікового запису](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. Відразу ж [Скиньте пароль користувача](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Не повідомляйте новий пароль користувачеві електронною поштою.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745454"
 
 5. Видаліть обліковий запис користувача з усіх [адміністративних груп ролей](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) поки не впевнитеся, що безпека облікового запису більше не порушується.
 
-Щоб уникнути втрати даних або злому облікового запису в майбутньому, радимо прочитати нашу статтю [Стратегія розвитку системи безпеки Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Щоб мінімізувати ймовірність порушення безпеки даних або ураження облікового запису в майбутньому, радимо прочитати нашу статтю [Стратегія розвитку безпеки Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   

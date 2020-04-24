@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059901"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720086"
 ---
 # <a name="update-credit-card-information"></a>Оновити відомості про свою кредитну картку
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059901"
 
 Якщо під час завантаження сторінки виникли проблеми, спробуйте відкрити її в іншому браузері або в приватному вікні, як-от вікно InPrivate у Microsoft Edge або анонімне вікно в Google Chrome. 
 
-Докладні відомості див. в статті [Додавання, оновлення та вилучення кредитної картки або банківського рахунку в Office 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) та розділі [Вирішення проблем, пов’язаних із кредитними картками або банківськими рахунками](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Докладні відомості див. в статті [Додавання, оновлення та вилучення кредитної картки або банківського рахунку в Microsoft 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) та розділі [Вирішення проблем, пов’язаних із кредитними картками або банківськими рахунками](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

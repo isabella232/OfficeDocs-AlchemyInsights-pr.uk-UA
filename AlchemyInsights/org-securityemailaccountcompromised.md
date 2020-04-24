@@ -2,7 +2,7 @@
 title: 'Безпека організації: обліковий запис електронної пошти зламано (423)'
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: 423
 ms.assetid: f93a7a44-0cdf-4387-b428-53e1a48f63ce
-ms.openlocfilehash: e141366c3130c529b1b4322813100002b220c9da
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 6727557131c36d6cbd33f27d59a9f6bc1b1b0f61
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36734510"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713019"
 ---
 # <a name="compromised-email-accounts"></a>Зламані облікові записи електронної пошти
 
-Ви можете виконати кілька дій, щоб підвищити безпеку організації Office 365:
+Ви можете виконати кілька дій, щоб підвищити безпеку організації:
 
 - **Активуйте багатофакторну автентифікацію (MFA)**. Якщо обліковий запис зламано, краще за все скинути пароль, а потім увімкнути багатофакторну автентифікацію, щоб це не сталося ще раз. Якщо зі зламаного облікового запису надсилався спам, імовірно, у ньому заблоковано надсилання електронної пошти (це блокування залишиться навіть після того, як ви вжили заходів для захисту облікового запису). Щоб вилучити користувача зі списку заблокованих осіб, виконайте вказівки з [цієї статті](https://technet.microsoft.com/library/ms.exch.eac.actioncenter.aspx).
 
@@ -27,4 +27,4 @@ ms.locfileid: "36734510"
 
 - **Увімкніть контрольне журналювання поштових скриньок**. Якщо обліковий запис користувача зламано, за допомогою контрольного журналу поштових скриньок легше відстежити, що сталося.
 
-Докладні відомості про стратегію розвитку системи безпеки Office 365 див. у [цій статті](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).
+Докладні відомості про стратегію розвитку системи безпеки Microsoft 365 див. в [цій статті](https://docs.microsoft.com/office365/securitycompliance/security-roadmap).

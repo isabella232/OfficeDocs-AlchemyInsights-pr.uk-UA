@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735482"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759173"
 ---
 # <a name="how-to-install-office"></a>Указівки з інсталяції Office
 
-Щоб інсталювати стаціонарні програми Office, потрібно мати передплату для бізнесу, як-от "Office 365 Business преміум", "Office 365 Business" або "Office 365 Education".
+Щоб інсталювати клієнтські програми Office, потрібна передплата для бізнесу, як-от "Office 365 Business преміум стандартний", "Програми Microsoft 365 для бізнесу" або Office 365 Education.
   
 *ПРИМІТКА. [Office Для дому та бізнесу](https://products.office.com/home-and-business) – це продукт [Office для дому](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), який не передбачає бізнес-передплати. Також радимо переглянути статті про [інсталяцію Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) та [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).*
 
