@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710536"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912915"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Дозволи користувачів у SharePoint і OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710536"
   
 1. Відкрийте сайт у веб-переглядачі.
     
-2. Якщо сайт належить до групи Office 365, клацніть значок "Параметри" у правому верхньому куті та виберіть пункт **дозволи сайту**. Натисніть кнопку **запросити користувачів**, а потім виберіть Додати учасників до групи Office 365 або поділіться лише сайтом. 
+2. Якщо сайт належить до групи Microsoft 365, клацніть значок "Параметри" у верхньому правому куті та виберіть пункт **дозволи сайту**. Натисніть кнопку **запросити користувачів**, а потім виберіть Додати учасників до групи Microsoft 365 або поділіться лише сайтом. 
     
     На сайті для зв'язку виберіть пункт **спільний доступ до сайту** у верхньому правому куті, введіть ім'я користувача, а потім виберіть рівень дозволів (читання, редагування або повний доступ). 
     

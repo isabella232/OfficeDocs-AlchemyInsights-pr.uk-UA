@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709428"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908869"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Додавання накладання до календаря SharePoint
 
-Календарі SharePoint – це класичні типи списків, які інколи плутають із груповим календарем Office 365.
+Календарі SharePoint – це класичний список типів, які іноді плутають із Microsoft 365 групи календарів.
  
 Якщо ви використовуєте календар SharePoint на вашому сайті, ви можете накладати власний календар Exchange на нього, щоб створити комбіноване подання календаря. Крім того, можна накладати інший календар SharePoint до тих пір, поки обидва календарі SharePoint знаходяться в одній колекції сайтів.
  

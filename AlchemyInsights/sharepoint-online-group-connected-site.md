@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642165"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912987"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Проблеми під час створення групи, підключений сайт у програмі SharePoint
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642165"
 
 1. Існують різні способи створення та використання сучасних груп з SharePoint.
 
-   - Можна підключити наявні сайти до групи Office 365. Для отримання додаткових відомостей див. [підключення групи Office 365 за допомогою інтерфейсу користувача SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Щоб створити групу Office 365, підключений сайт, потрібно створити [сайт групи](https://admin.microsoft.com/sharepoint).
+   - Можна підключити наявні сайти до групи Microsoft 365. Для отримання додаткових відомостей див. [підключення групи Microsoft 365 за допомогою інтерфейсу користувача SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Щоб створити групу Microsoft 365, підключеному до сайту, потрібно створити [сайт групи](https://admin.microsoft.com/sharepoint).

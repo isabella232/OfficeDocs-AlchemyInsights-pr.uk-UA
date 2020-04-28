@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703664"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908437"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Увімкнення та пошук журналу аудиту
 
@@ -31,7 +31,7 @@ ms.locfileid: "43703664"
 
 - Аудит поштової скриньки увімкнуто за промовчанням у Microsoft 365. Докладніші відомості наведено в [цій статті](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365 групи поштових скриньок і спільних папок, поштових скриньок у Exchange Online, не підтримують журналювання перевірок.
+- Microsoft 365 групи поштових скриньок і спільних папок у поштових скриньках Exchange Online, не підтримують журналювання аудиту.
 
 **SharePoint і OneDrive**
 

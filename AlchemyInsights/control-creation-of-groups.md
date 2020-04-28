@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 07b205224b494f377fc92654a67fa9237f78bbdb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b4c322896efc5e382674cc1bd3dde6a5baeaf81c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705646"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908761"
 ---
-# <a name="control-creation-of-office-365-groups"></a>Керування створенням груп Office 365
+# <a name="control-creation-of-microsoft-365-groups"></a>Керування створенням груп Microsoft 365
 
 За промовчанням усі користувачі в межах компанії можуть створювати групи. Якщо потрібно, ви можете змінити це, і призначити право створювати групи для набору людей у вашій компанії. Зауважте, що це вплине на створення груп з будь-якого сервісу Microsoft 365 (наприклад, Outlook, teams, планувальник тощо).
   
-Інструкції: [керування, які можуть створювати групи Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
+Інструкції: [керування, хто може створювати групи Microsoft 365](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)
