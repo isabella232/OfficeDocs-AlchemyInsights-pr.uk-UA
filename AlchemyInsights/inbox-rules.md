@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724577"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005279"
 ---
-# <a name="inbox-rules"></a>Правила для вхідних повідомлень
+# <a name="inbox-rules-in-outlook-desktop"></a>Правила для вхідних повідомлень у робочому столі Outlook
 
-Для отримання додаткових відомостей про використання правил вхідних повідомлень у власній поштовій скриньці див.:
+1. Перейдіть до **файлу > керування правилами & оповіщення** , щоб відкрити діалогове вікно « **правила та оповіщення** ».
+2. На вкладці **правила електронної пошти** натисніть кнопку **Створити правило**.
+3. Виберіть один із шаблонів **крок 1**. Щоб почати з пустого правила, виберіть **застосувати правило для повідомлень, які я отримую, або застосувати правило для повідомлень, які я надсилаю**.
+4. В **крок 2: відредагуйте Опис правила поле**, натисніть на будь-які підкреслені параметри, щоб встановити їх. Наприклад, якщо ви вибрали прапорець **позначати повідомлення від користувача до виконання** кроку 1, натисніть кнопку **люди або публічна Група** , щоб вибрати повідомлення, які потрібно позначити. потім натисніть **стежити в цей час** , щоб вибрати прапор і дату подальшої роботи.
+5. Натисніть кнопку **Далі**.
 
-- [Керування повідомленнями електронної пошти за допомогою правил в Outlook для ПК](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Керування повідомленнями за допомогою правил вхідних повідомлень у програмі Outlook на веб-сайті](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Правила для папки "Вхідні" також можна керувати в Exchange Online PowerShell. Для отримання додаткової інформації, [див Get-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (перегляд), [New-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (створити), [Видалити-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (видалити), [Set-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (змінити існуючі), [відключити-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (відключити існуючі), і [включити-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (включити існуючі).
+Щоб отримати додаткові відомості про те, як працювати з правила для вхідних повідомлень, див. [Керування повідомленнями електронної пошти за допомогою правил](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

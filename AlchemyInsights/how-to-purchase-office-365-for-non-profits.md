@@ -1,5 +1,5 @@
 ---
-title: Як придбати Office 365 для некомерційних організацій
+title: Microsoft 365 для некомерційних організацій-під огляд
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763562"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005243"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>Як придбати Office 365 для некомерційних організацій
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 для некомерційних організацій-під огляд
 
-Ваше право як кваліфікована некомерційна організація Microsoft знаходиться в стадії розгляду. Ви можете розраховувати на отримання сповіщення про визначення вашого права до закінчення терміну дії ознайомлювальної версії. Ви можете відстежити статус вашої програми [тут](https://eligibilityweb.azurewebsites.net/).
+Ваше право як кваліфікована некомерційна організація Microsoft знаходиться **в стадії розгляду**. Ви можете розраховувати на отримання повідомлення про визначення вашого прийнятності **48 годин** з вашого часу подання. Перш ніж відкривати запит на обслуговування, повідомте про це принаймні **48 годин** . 
+
+Щоб отримати додаткові відомості див [Microsoft 365 для некомерційних організацій](https://www.microsoft.com/nonprofits/microsoft-365). 
