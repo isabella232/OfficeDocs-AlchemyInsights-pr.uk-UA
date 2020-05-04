@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: c6d5c0233acb8fb71127dcb54c719b71aa1a5bcb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: b6613733e743e08a9b18b1ada70fde164b0d5dc3
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769828"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010338"
 ---
 # <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Видалення або виключення команд із нових або наявних офісних установок
 
-Microsoft teams входить до складу Office 365 ProPlus, Office 365 Business і Office for Mac.
+Microsoft teams входить до складу програм Microsoft 365 для підприємств, Microsoft 365 Apps для бізнесу та Office for Mac.
 
-- Використовуйте [засіб розгортання Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) , щоб виключити teams із нових інсталяцій Office.
+- Використовуйте [засіб розгортання Office](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) , щоб виключити teams із нових інсталяцій Office.
 - Щоб *Видалити* групи з пристрою під керуванням Windows [, див.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Щоб очистити Microsoft teams від кількох цільових машин або користувачів [, див.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 - Використовуйте параметр [PreventTeamsInstall](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
 ) , щоб запобігти автоматичному інсталювавши Microsoft teams за допомогою Office.

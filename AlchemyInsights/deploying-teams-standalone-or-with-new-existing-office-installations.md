@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704654"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010239"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Розгортання команд як автономних або з новими або існуючими офісними установками
 
-Microsoft teams входить до складу ***нових інсталяції*** Microsoft 365 програм для підприємств, Microsoft 365 програми для бізнесу та Office for Mac. Для отримання додаткових відомостей див. [коли Microsoft teams почне включати нові установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft teams входить до складу ***нових інсталяції*** Microsoft 365 програм для підприємств, Microsoft 365 програми для бізнесу та Office for Mac. Для отримання додаткових відомостей див. [коли Microsoft teams почне включати нові установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Крім того, починаючи з версії 1906 в щомісячному каналі, команди будуть ***додані до існуючих установок*** Microsoft 365 додатків для підприємств (і Microsoft 365 Apps для бізнесу) на пристроях під управлінням Windows, коли ви оновлюєте існуючу інсталяцію до останньої версії. Щоб дізнатися більше, перегляньте відомості [про існуючі інсталяції Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Крім того, починаючи з версії 1906 в щомісячному каналі, команди будуть ***додані до існуючих установок*** Microsoft 365 додатків для підприємств (і Microsoft 365 Apps для бізнесу) на пристроях під управлінням Windows, коли ви оновлюєте існуючу інсталяцію до останньої версії. Щоб дізнатися більше, перегляньте відомості [про існуючі інсталяції Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
 > Якщо ви не хочете чекати цього розкладу розгортання, ви можете розгорнути teams як автономний для ваших користувачів, [дотримуючись цих вказівок](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) , або ви можете мати користувачів встановлювати команди для себе [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
 
-Якщо ваша організація не готова розгортати команди, у нас є кроки, які можна зробити, щоб ***виключити команди*** з [нових](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) або [існуючих](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) інсталяцій Office. Якщо потрібно інсталювати групи, але не потрібно, щоб команди автоматично запускаються після інсталяції користувача, перегляньте команду [заборонити автоматичний запуск Microsoft teams після інсталяції](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+Якщо ваша організація не готова розгортати команди, у нас є кроки, які можна зробити, щоб ***виключити команди*** з [нових](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) або [існуючих](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) інсталяцій Office. Якщо потрібно інсталювати групи, але не потрібно, щоб команди автоматично запускаються після інсталяції користувача, перегляньте команду [заборонити автоматичний запуск Microsoft teams після інсталяції](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
 Щоб ***Видалити групи*** з пристрою під керуванням Windows [, див.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Щоб очистити Microsoft teams від кількох цільових машин або користувачів [, див.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 

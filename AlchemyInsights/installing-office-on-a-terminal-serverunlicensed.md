@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763238"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010635"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Інсталяція Office на сервері терміналів
 
@@ -23,7 +23,7 @@ ms.locfileid: "43763238"
   
 - Потрібно мати передплату Microsoft 365, який містить програми Microsoft 365 для підприємств, наприклад Office 365 Enterprise E3 або Enterprise E5. Програми Microsoft 365 для бізнесу та Microsoft 365 застосунки для бізнес-преміум плани не містять Microsoft 365 застосунки для підприємств.
 
-- Потрібно ввімкнути [активацію спільної комп'ютера](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- Потрібно ввімкнути [активацію спільної комп'ютера](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 Якщо потрібно інсталювати програми Microsoft 365 для Enterprise на RDS з центру адміністрування Microsoft 365, ***який використовує параметри інсталяції за промовчанням***, виконайте такі дії.
 
@@ -48,9 +48,9 @@ ms.locfileid: "43763238"
 
 3. У редакторі реєстру, додайте значення рядка **Sharedcomputer ліцензування** з настройки 1 у розділі HKEY_LOCAL_MACHINE \ програмне забезпеченя \ Microsoft \Office\ClickToRun\Configuration.
 
-7. На сервері RDS ***ввійдіть як кінцевий користувач*** і [Переконайтеся, що активація спільного комп'ютера увімкнуто для Microsoft 365 програм для підприємств](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. На сервері RDS ***ввійдіть як кінцевий користувач*** і [Переконайтеся, що активація спільного комп'ютера увімкнуто для Microsoft 365 програм для підприємств](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-Щоб отримати додаткові відомості про попередні вимоги, інструкції з настроювання та вказівки щодо настроювання інсталяції за допомогою засобу розгортання Office, перегляньте [розгортання Microsoft 365 застосунки для підприємств за допомогою служб віддалених робочих столів](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+Щоб отримати додаткові відомості про попередні вимоги, інструкції з настроювання та вказівки щодо настроювання інсталяції за допомогою засобу розгортання Office, перегляньте [розгортання Microsoft 365 застосунки для підприємств за допомогою служб віддалених робочих столів](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-Щоб виправити помилки, пов'язані з активацією спільних комп'ютерів, перегляньте [вирішення проблем із активацією спільних комп'ютерів для програм Microsoft 365 для підприємств](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+Щоб виправити помилки, пов'язані з активацією спільних комп'ютерів, перегляньте [вирішення проблем із активацією спільних комп'ютерів для програм Microsoft 365 для підприємств](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   
