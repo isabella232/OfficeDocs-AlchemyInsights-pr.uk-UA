@@ -13,13 +13,13 @@ ms.custom:
 - "463"
 - "1500021"
 ms.assetid: 3eddff13-0dc2-41ff-995a-83df2c941eb7
-ms.openlocfilehash: eeff05f8dff1fec44b1eba9a7977309c66ba45fc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: de9c053dfaa3842c6539a324324a31fd53a8c761
+ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716229"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021555"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-wrong-account"></a>Корпоративного корпоративного ліцензування угоди, що активовано на неправильний обліковий запис
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Корпоративне Ліцензійна угода, активована на неправильному рахунку, або передача ліцензій з одного облікового запису на інший
 
-Якщо ви знайдете передплати, придбані через корпоративне ліцензування Enterprise угоди були активовані на неправильний клієнта, будь ласка, використовуйте "Дозвольте нам зателефонувати вам", щоб поговорити з інженером підтримки.
+Якщо ви знайдете передплати, придбані через **корпоративне ліцензування Enterprise угоди** були активовані на **неправильний клієнта**, або ви хочете **перенести ліцензії** від одного клієнта до іншого, зверніться до [центру обслуговування корпоративного ліцензування Microsoft](https://support.microsoft.com/help/4471406/how-to-contact-the-microsoft-volume-licensing-service-center).
