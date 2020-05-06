@@ -1,5 +1,5 @@
 ---
-title: Придбання планів Microsoft 365 Education
+title: Microsoft 365 для навчальних закладів – затверджено
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789395"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005423"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>Придбання планів Microsoft 365 Education
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 для навчальних закладів – затверджено
 
 Ви отримали право на використання пропозицій Microsoft 365 Education.  Щоб придбати, виконайте наведені нижче кроки.
 
@@ -28,6 +28,8 @@ ms.locfileid: "43789395"
 2. Зі списку в розділі **Плани Education** виберіть потрібну передплату.
 
 3. Наведіть вказівник миші на передплату, яку потрібно придбати, і натисніть **Придбати зараз**.
+
+4. [Налаштуйте клієнт Microsoft 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
 
 **Увімкнення Teams**
 

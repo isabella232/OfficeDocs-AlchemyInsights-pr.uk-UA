@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: fa35e26afe716167237f12ec8cabaab7ff7b4609
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218337"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010167"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Немає можливості інсталювати Office, Visio або Project
 
-Щоб інсталювати клієнтські програми Office, переконайтеся, що у вас є передплата на Office 365 або Microsoft 365, яка [включає клієнтські програми Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), такі як Office 365 Business Преміум, Office 365 Business або Office 365 ProPlus.
+Щоб інсталювати клієнтські програми Office, переконайтеся, що у вас є передплата на Office 365 або Microsoft 365, яка [включає клієнтські програми Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), такі як Microsoft 365 Business преміум, Програми Microsoft 365 для бізнесу чи Програми Microsoft 365 для підприємств.
 
 **Примітка.**. [Office для дому та бізнесу](https://products.office.com/home-and-business) – це продукт [Office для дому](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), який не входить у передплату на бізнес-пакет. Передплата на "Project Online базовий" не містить класичної програми Project, тому інсталяція не потрібна. Користувачі Visio (план 1) можуть отримати доступ до вебпрограми Visio, тому що план не включає класичну програму Visio. Класичні програми Project і Visio недоступні на комп’ютерах Mac
 
