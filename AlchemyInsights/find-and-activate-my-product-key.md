@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 03ee3bff5bb3510d239d3a5d9f583bf0ae62f5cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716157"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062485"
 ---
 # <a name="find-and-activate-my-product-key"></a>Пошук і Активація ключа продукту
 
@@ -32,7 +32,7 @@ ms.locfileid: "43716157"
 
 **Примітка**: щоб використати ключ продукту для подовження терміну дії або додати ліцензію до існуючої передплати на 365 Microsoft Business преміум Standard, потрібно створити новий ключ для тієї самої передплати Microsoft 365.  Введення оригінального ключа продукту Microsoft 365 не працюватиме, оскільки вже не можна використовувати ключ, який уже було викуплено.
 
-1. У центрі адміністрування перейдіть на сторінку " **платіжні** > [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** > за**[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Знайдіть підписку, на яку потрібно продовжити термін дії, або додати ліцензії.  Натисніть [продовжити дату завершення](https://go.microsoft.com/fwlink/p/?linkid=842054) або [додати більше ліцензій](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
