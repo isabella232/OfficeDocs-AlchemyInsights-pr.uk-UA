@@ -12,18 +12,18 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 90feb8198061c6cc5ab5774360c4e421492420b9
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: 458806ee36efdcab64d7544f0d3b7a7e7d753ee9
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44016889"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063458"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>Розширюйте ознайомлювальну версію для Microsoft 365 для бізнесу
 
 Ви можете продовжити безкоштовну пробну версію на один додатковий 30-денний термін. Після цього ваш судовий розгляд переходить в 30-денний [пільговий період](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial). Щоб продовжити процес ознайомлення, виконайте наведені нижче дії.
   
-1. У центрі адміністрування перейдіть до розділу продукти для **виставлення рахунків** \> [& послуги](https://portal.office.com/adminportal/home#/subscriptions).
+1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** \> за **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Виберіть ознайомлювальну підписку, яку потрібно розширити.
 

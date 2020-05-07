@@ -12,12 +12,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 6ca30bdc399c4e0bda82f9d53a1a0b482284aa1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712228"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061764"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Придбайте підписку на Microsoft 365 з безкоштовної пробної версії
 
@@ -25,7 +25,7 @@ ms.locfileid: "43712228"
   
  **Купуйте той самий план, що і ваш судовий розгляд**
   
-1. У Центрі адміністрування перейдіть на сторінку **Виставлення рахунків** \> [Товари та послуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** \> за **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Знайдіть підписку, яку хочете придбати. У розділі **ліцензії** виберіть **придбати передплату**та виконайте дії, які потрібно перевірити.
 

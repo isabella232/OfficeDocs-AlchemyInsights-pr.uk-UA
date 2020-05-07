@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 98b8092e6c22039703dfbeafb9a8194b688d0afe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703916"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062557"
 ---
 # <a name="edit-billing-profile-for-apps"></a>Як змінити Платіжний профіль для додатків
 
 ## <a name="to-change-the-billing-profile-on-apps"></a>Щоб змінити Платіжний профіль у додатках
 
-1. Перейдіть до сторінки **платіжні** > [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) , а потім виберіть вкладку **програми** .
+1. Перейдіть на сторінку **платіжний** > **[продукт](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а потім виберіть вкладку **програми** .
 
 2. Знайдіть і виберіть програму, яку хочете керувати.  
 
@@ -31,6 +31,6 @@ ms.locfileid: "43703916"
 
 ## <a name="edit-billing-profiles"></a>Редагування профілів виставлення рахунків
 
-1. Перейдіть до рахунків **за** > рахунками[&](https://go.microsoft.com/fwlink/p/?linkid=848039) платіжну сторінку, а потім виберіть **профілі виставлення рахунків**.
+1. Перейдіть до рахунків **за** > рахунками**[&](https://go.microsoft.com/fwlink/p/?linkid=848039)** платіжну сторінку, а потім виберіть **профілі виставлення рахунків**.
 
 2. Виберіть Платіжний профіль зі списку, щоб відредагувати його.
