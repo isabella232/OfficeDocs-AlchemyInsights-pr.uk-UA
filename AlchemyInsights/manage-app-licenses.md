@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: c7656c23142f9dcf649f0cf6294d105603b109eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762662"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063890"
 ---
 # <a name="manage-app-licenses"></a>Керування ліцензіями програм
 
 ## <a name="to-change-license-quantity"></a>Змінення кількості ліцензій
 
-1. Перейдіть до сторінки **платіжні** > [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) , а потім виберіть вкладку **програми** .
+1. Перейдіть на сторінку **платіжний** > **[продукт](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а потім виберіть вкладку **програми** .
 
 2. Знайдіть і виберіть програму, яку хочете керувати.  
 
@@ -33,7 +33,7 @@ ms.locfileid: "43762662"
 
 ## <a name="to-assign-app-licenses"></a>Призначення ліцензій програм
 
-1. Перейдіть до сторінки **платіжні** > [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054) , а потім виберіть вкладку **програми** .
+1. Перейдіть на сторінку **платіжний** > **[продукт](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а потім виберіть вкладку **програми** .
 
 2. Знайдіть і виберіть програму, яку хочете керувати.  
 
