@@ -6,20 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762338"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043058"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Пошук Microsoft у Bing і Програмах Microsoft 365 для підприємств
 
-Починаючи з версії Програм Microsoft 365 для підприємств 2002 року, в Bing буде встановлено розширення для Пошуку Microsoft, яке робить Bing пошуковою системою за замовчуванням для веб-браузера Google Chrome лише на певних пристроях, залежно від їхнього розташування.
+***Необов'язкове*** розширення "Пошук Microsoft у Bing" для Google Chrome доступне в Програмах Microsoft 365 для підприємств (попередня назва – Office 365 ProPlus), починаючи з версії 2005. Це розширення доступне в певних розташуваннях для пристроїв з ОС Windows, підключених до домену. Якщо ви вирішите розгорнути це розширення, Bing буде встановлено як засіб пошуку за замовчуванням.
 
-**Якщо ви не бажаєте, щоб розширення було встановлено, [виконайте наведені нижче дії](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+Щоб інсталювати розширення, необхідно ***дати згоду***, настроївши відповідний параметр у розділі "Пошук Microsoft" у Центрі адміністрування Microsoft 365.
 
-Навіть після встановлення розширення користувачі можуть самостійно припинити використання Bing як пошукової системи за замовчуванням 
-за допомогою перемикача [ввімкнення/вимкнення](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) або можна [видалити розширення](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) з кількох пристроїв у вашій організації.
+Розгортання цього ***необов'язкового*** розширення також спирається на фонову службу, яка входить до складу Програм Microsoft 365 для підприємств, починаючи з версії 2005. Якщо фонову службу не інстальовано, розширення не вдасться інсталювати.
 
-Детальніше про цю зміну читайте в цій [статті довідки](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+Навіть після інсталяції розширення користувачі можуть легко припинити використання Bing як засобу пошуку за замовчуванням, скориставшись перемикачем Вкл./Викл.
+
+Докладні відомості про розгортання цього ***необов'язкового*** розширення див. в статті [Пошук Microsoft у Bing і Програми Microsoft 365 для підприємств](https://docs.microsoft.com/deployoffice/microsoft-search-bing).

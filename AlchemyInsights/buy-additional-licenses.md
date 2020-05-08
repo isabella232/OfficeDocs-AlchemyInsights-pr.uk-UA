@@ -12,16 +12,16 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 4940746e178ad4f01de0ae237b7bb49bbd045135
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712192"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061728"
 ---
 # <a name="buy-additional-licenses"></a>Придбати додаткові ліцензії
 
-1. У Центрі адміністрування перейдіть на сторінку **Виставлення рахунків** \> [Товари та послуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** \> за **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Знайдіть передплату, до якої потрібно додати ліцензії, а потім виберіть **Додати/видалити ліцензії**.
 

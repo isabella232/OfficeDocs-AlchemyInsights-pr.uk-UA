@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714171"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063494"
 ---
 # <a name="expired-subscription"></a>Прострочену підписку
 
@@ -26,7 +26,7 @@ ms.locfileid: "43714171"
   
 **Повторна активація**
   
-1. У Центрі адміністрування перейдіть на сторінку **Виставлення рахунків** \> [Товари та послуги](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** \> за **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Виберіть передплату, яку потрібно активувати повторно. У розділі **Виставлення рахунків** виберіть пункт **Повторна активація**.
 
@@ -38,7 +38,7 @@ ms.locfileid: "43714171"
 
 **Зробити нову покупку**
   
-1. У центрі адміністрування перейдіть на сторінку послуги з **Billing** \> [придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
+1. У центрі адміністрування перейдіть на сторінку послуги з **Billing** \> **[придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)** рахунків.
 
 2. Виберіть підписку, яку хочете купити, а потім виберіть **купити**.
 
