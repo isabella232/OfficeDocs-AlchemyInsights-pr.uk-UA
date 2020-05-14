@@ -13,17 +13,17 @@ ms.custom:
 - "652"
 - "2000017"
 ms.openlocfilehash: 0362ef42344aba57eca276a9fafb5e847dd9996f
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063926"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Як придбати ліцензії для ваших програм Microsoft 365 для бізнес-підписки
 
 При призначенні ліцензій для ваших користувачів, ви можете знайти у вас є необхідність придбати додаткові ліцензії. Для цього:
   
-1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** \> за **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** за \> **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Знайдіть підписку, до якої потрібно додати ліцензії, а потім виберіть **Додати/видалити ліцензії**.
 

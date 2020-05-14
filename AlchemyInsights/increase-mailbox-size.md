@@ -13,10 +13,10 @@ ms.custom:
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
 ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44064250"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Перемикання підписок для збільшення розміру поштової скриньки
@@ -25,7 +25,7 @@ ms.locfileid: "44064250"
   
 Якщо розмір поштової скриньки, 50 ГБ, можна збільшити його до 100 ГБ, перейшовши на [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) або [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Ось кроки, щоб перейти до іншої передплати:
   
-1. У центрі адміністрування Microsoft 365 перейдіть на сторінку **виставлення рахунків** \> за **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. У центрі адміністрування Microsoft 365 перейдіть на сторінку **виставлення рахунків** за \> **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Виберіть підписку, яку потрібно оновити.
 

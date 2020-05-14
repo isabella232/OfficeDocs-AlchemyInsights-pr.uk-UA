@@ -13,17 +13,17 @@ ms.custom:
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
 ms.openlocfilehash: e02e5e835446626152c8dd98207898de52ae6933
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44063818"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Як додати або вилучити ліцензії для передплати
 
 Ось як додати або видалити ліцензії.
   
-1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** \> за **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** за \> **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Виберіть підписку, для якої потрібно додати або видалити ліцензії.
 

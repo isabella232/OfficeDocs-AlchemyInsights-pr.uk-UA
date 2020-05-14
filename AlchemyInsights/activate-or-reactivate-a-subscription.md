@@ -13,10 +13,10 @@ ms.custom:
 - "1500028"
 - "482"
 ms.openlocfilehash: f53c65ff8bd434c186a589fa4285751963944815
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062125"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Активація або повторна активація передплати
@@ -33,7 +33,7 @@ ms.locfileid: "44062125"
 
 Якщо термін дії передплати минув, Microsoft, або ви скасували його в середині терміну підписки, ви можете активувати його в центрі адміністрування.
   
-1. У центрі адміністрування Microsoft 365 перейдіть на сторінку **виставлення рахунків** > за[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. У центрі адміністрування Microsoft 365 перейдіть на сторінку **виставлення рахунків**за  >  [продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Виберіть підписку, яку потрібно повторно активувати, а потім виберіть **активувати**. Якщо дія **Повторна активація** недоступна, [зателефонуйте до служби підтримки](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), щоб повторно активувати передплату.
 
