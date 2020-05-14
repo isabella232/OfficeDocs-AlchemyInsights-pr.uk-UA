@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058773"
 ---
-# <a name="change-app-license-quantity"></a><span data-ttu-id="43b46-102">Зміна кількості ліцензій на додаток</span><span class="sxs-lookup"><span data-stu-id="43b46-102">Change app license quantity</span></span>
+# <a name="change-app-license-quantity"></a><span data-ttu-id="a95ae-102">Зміна кількості ліцензій на додаток</span><span class="sxs-lookup"><span data-stu-id="a95ae-102">Change app license quantity</span></span>
 
-<span data-ttu-id="43b46-103">Ви можете переглянути або змінити кількість ліцензій, які ви маєте, і призначити їх користувачам у центрі адміністрування Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="43b46-103">You can view or change the number of licenses you have and assign them to users in the Microsoft 365 admin center.</span></span> 
+<span data-ttu-id="a95ae-103">Ви можете переглянути або змінити кількість ліцензій, які ви маєте, і призначити їх користувачам у центрі адміністрування Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="a95ae-103">You can view or change the number of licenses you have and assign them to users in the Microsoft 365 admin center.</span></span> 
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="43b46-104">Змінення кількості ліцензій</span><span class="sxs-lookup"><span data-stu-id="43b46-104">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="a95ae-104">Змінення кількості ліцензій</span><span class="sxs-lookup"><span data-stu-id="a95ae-104">To change license quantity</span></span>
 
-1. <span data-ttu-id="43b46-105">Перейдіть на сторінку **платіжний** > **[продукт](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а потім виберіть вкладку **програми** .</span><span class="sxs-lookup"><span data-stu-id="43b46-105">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="a95ae-105">Перейдіть на сторінку **платіжний**  >  **[продукт](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а потім виберіть вкладку **програми** .</span><span class="sxs-lookup"><span data-stu-id="a95ae-105">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="43b46-106">Знайдіть і виберіть програму, яку хочете керувати.</span><span class="sxs-lookup"><span data-stu-id="43b46-106">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="a95ae-106">Знайдіть і виберіть програму, яку хочете керувати.</span><span class="sxs-lookup"><span data-stu-id="a95ae-106">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="43b46-107">Виберіть **Додати/видалити ліцензії**.</span><span class="sxs-lookup"><span data-stu-id="43b46-107">Select **Add/remove licenses**.</span></span>
+3. <span data-ttu-id="a95ae-107">Виберіть **Додати/видалити ліцензії**.</span><span class="sxs-lookup"><span data-stu-id="a95ae-107">Select **Add/remove licenses**.</span></span>
 
-4. <span data-ttu-id="43b46-108">Введіть нову кількість необхідних ліцензій.</span><span class="sxs-lookup"><span data-stu-id="43b46-108">Enter the new number of licenses needed.</span></span> <span data-ttu-id="43b46-109">Наприклад, якщо в наявності є 5 ліцензій і потрібно лише 4, введіть 4 в полі **загальні ліцензії** .</span><span class="sxs-lookup"><span data-stu-id="43b46-109">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="43b46-110">Якщо у вас є 5 ліцензій і потрібно 10 всього ліцензій, введіть 10 у полі **загальні ліцензії** .</span><span class="sxs-lookup"><span data-stu-id="43b46-110">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
+4. <span data-ttu-id="a95ae-108">Введіть нову кількість необхідних ліцензій.</span><span class="sxs-lookup"><span data-stu-id="a95ae-108">Enter the new number of licenses needed.</span></span> <span data-ttu-id="a95ae-109">Наприклад, якщо в наявності є 5 ліцензій і потрібно лише 4, введіть 4 в полі **загальні ліцензії** .</span><span class="sxs-lookup"><span data-stu-id="a95ae-109">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="a95ae-110">Якщо у вас є 5 ліцензій і потрібно 10 всього ліцензій, введіть 10 у полі **загальні ліцензії** .</span><span class="sxs-lookup"><span data-stu-id="a95ae-110">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="43b46-111">Призначення ліцензій програм</span><span class="sxs-lookup"><span data-stu-id="43b46-111">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="a95ae-111">Призначення ліцензій програм</span><span class="sxs-lookup"><span data-stu-id="a95ae-111">To assign app licenses</span></span>
 
-1. <span data-ttu-id="43b46-112">Перейдіть на сторінку **платіжний** > **[продукт](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а потім виберіть вкладку **програми** .</span><span class="sxs-lookup"><span data-stu-id="43b46-112">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="a95ae-112">Перейдіть на сторінку **платіжний**  >  **[продукт](https://go.microsoft.com/fwlink/p/?linkid=842054)** , а потім виберіть вкладку **програми** .</span><span class="sxs-lookup"><span data-stu-id="a95ae-112">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="43b46-113">Знайдіть і виберіть програму, яку хочете керувати.</span><span class="sxs-lookup"><span data-stu-id="43b46-113">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="a95ae-113">Знайдіть і виберіть програму, яку хочете керувати.</span><span class="sxs-lookup"><span data-stu-id="a95ae-113">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="43b46-114">У розділі **настройки & дії**виберіть посилання для **керування на порталі видавця**.</span><span class="sxs-lookup"><span data-stu-id="43b46-114">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
+3. <span data-ttu-id="a95ae-114">У розділі **настройки & дії**виберіть посилання для **керування на порталі видавця**.</span><span class="sxs-lookup"><span data-stu-id="a95ae-114">Under **Settings & actions**, select the link to **Manage in publisher’s portal**.</span></span>
