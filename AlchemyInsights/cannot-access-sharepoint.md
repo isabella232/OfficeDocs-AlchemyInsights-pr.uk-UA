@@ -12,16 +12,14 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: b288c3e7b29265dbb7a68055298a695accaf19c9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
+ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711400"
+ms.lasthandoff: 05/18/2020
+ms.locfileid: "44278841"
 ---
 # <a name="cannot-access-sharepoint"></a>Не вдалося отримати доступ до SharePoint
-
-**Важливо**: у ці безпрецедентні часи ми докладаємо всіх зусиль до того, щоб служби SharePoint Online і OneDrive були завжди доступні. Докладні відомості надано у статті [Тимчасові коригування функцій SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 Служби Microsoft SharePoint або Microsoft OneDrive можуть бути недоступними з кількох причин. Якщо ви не можете отримати доступ до служби SharePoint Online, скористайтеся наступним посібником, щоб вирішити проблему.
 
