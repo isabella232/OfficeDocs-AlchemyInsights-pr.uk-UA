@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 410c96c3d18baae096ecf52bba275b0eb2cfec20
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: 89c9ec2813cf95d8cb6a8b0ac50e48f190a68a09
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44331431"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343225"
 ---
 # <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
 З Microsoft 365 Multi-Geo, ваша організація може розширити свою Microsoft 365 присутності в декількох географічних регіонах та/або країнах в межах існуючого клієнта. Дивіться посилання нижче для отримання додаткової інформації.
 
-- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo) мульти-гео-можливості-в-обмін-онлайн)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
 - [План для Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
 - [Настроювання Multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)

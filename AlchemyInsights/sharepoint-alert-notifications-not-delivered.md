@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742068"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343080"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>Сповіщення про оповіщення SharePoint не доставлено
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742068"
 
 - Не можна надсилати оповіщення групі розсилки, підтримуються лише групи безпеки та O365.
 - Не вдається настроїти оповіщення електронної пошти шаблони; для досягнення цих потреб потрібно використовувати Microsoft FLOW або Конструктор конструктора SharePoint.
-
-Додаткові відомості:
-
-- **Параметри оповіщення**: щоб отримати додаткові відомості про настроювання оповіщень, перегляньте [повідомлення про створення оповіщення про те, коли файл або папка змінюються в SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Виправлення неполадок**: щоб отримати додаткові відомості про виправлення неполадок, див. [користувачі не отримують сповіщення про оповіщення SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Додаткові O365 політики попередження про відповідність** [: щоб отримати](https://docs.microsoft.com/office365/securitycompliance/alert-policies)додаткові відомості про настроювання цих оповіщень див.
-- **Журнали аудиту SharePoint і OneDrive**: щоб отримати додаткові відомості про те, як отримати ці події, перегляньте [Пошук журналу аудиту](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Сповіщення, надіслані розширеним захистом від загроз**: [див.](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- **Оповіщення, надіслані за допомогою попередження про втрату даних**: Див [сповіщення електронною поштою для політики звд](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Пов'язані теми
 
