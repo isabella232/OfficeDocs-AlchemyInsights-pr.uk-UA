@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030759"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354074"
 ---
 # <a name="teams-client-crashing"></a>Клієнт Teams аварійно завершує роботу?
 
@@ -24,32 +24,26 @@ ms.locfileid: "43030759"
 
 - Якщо ви використовуєте класичну версію програми Teams, [переконайтеся, що її повністю оновлено](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Переконайтеся, що всі [діапазони URL- і IP-адрес Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) доступні.
+- Переконайтеся, що всі [URL-адреси Microsoft 365 і діапазони адрес](https://docs.microsoft.com/microsoftteams/connectivity-issues) доступні.
 
-- Увійдіть за допомогою облікового запису адміністратора та перегляньте [приладну дошку стану служби](https://docs.microsoft.com/office365/enterprise/view-service-health), щоб переконатись у відсутності перебоїв у роботі та зменшення продуктивності служби.
+- Увійдіть у систему з обліковим записом адміністратора клієнта та перевірте [приладну дошку справності](https://docs.microsoft.com/office365/enterprise/view-service-health) , щоб перевірити, чи існує відсутність перебої або погіршення служби.
 
- - На останньому кроці ви можете спробувати очистити кеш клієнта Teams.
+- Видаліть і переінсталюйте програму teams (посилання)
+    - Перейдіть до%Appded%\mice\systems\ папки на комп'ютері та видалити всі файли в цьому каталозі.
+    - [Скачайте і встановіть додаток teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), і, якщо можливо, встановіть teams як адміністратор (клацніть правою кнопкою миші інсталятор команд і виберіть "Запуск від як адміністратор", якщо доступно).
 
-    1.  Повністю вийдіть із класичної програми Microsoft Team. Клацніть правою кнопкою миші **Teams** на піктограмі в системній треї, а потім виберіть **Вийти**. Ви також можете запустити диспетчер завдань і повністю вимкнути процес.
+Якщо ваш клієнт команди все ще збій, ви можете відтворити проблему? Якщо так:
 
-    2.  Відкрийте Файловий провідник і введіть %appdata%\Microsoft\teams.
+1. Використовуйте засіб записування дій, щоб захопити ваші дії.
+    - Закрийте всі непотрібні або конфіденційні програми.
+    - Запустіть засіб записування дій і відтворити проблему, під час входу з відповідного облікового запису користувача.
+    - [Зберіть команди журналів, які захоплюють записані відтворення зв кроки](https://docs.microsoft.com/microsoftteams/log-files). **Зверніть увагу**: переконайтеся, що ви захоплення входу адресу впливу користувача.
+    - Збір дампа і/або несправність інформації відро (Windows). Запустіть Windows PowerShell на комп'ютері, де відбувається збій і виконайте такі команди:
 
-    3.  У каталозі з’являться кілька наведених нижче папок.
-
-         - Виберіть **Application Cache**, відкрийте папку Cache і видаліть із неї всі файли: %appdata%\Microsoft\teams\application cache\cache.
-
-        - З папки **Blob_storage** видаліть усі файли: %appdata%\Microsoft\teams\blob_storage.
-
-        - З папки **Cache** видаліть усі файли: %appdata%\Microsoft\teams\Cache.
-
-        - З папки **databases** видаліть усі файли: %appdata%\Microsoft\teams\databases.
-
-        - З папки **GPUCache** видаліть усі файли: %appdata%\Microsoft\teams\GPUcache.
-
-        - З папки **IndexedDB** видаліть DB-файл: %appdata%\Microsoft\teams\IndexedDB.
-
-        - З папки **Local Storage** видаліть усі файли: %appdata%\Microsoft\teams\Local Storage.
-
-        - Насамкінець із папки **tmp** видаліть усі файли: %appdata%\Microsoft\teams\tmp.
-
-    4. Перезапустіть клієнт Teams.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Прикріпіть файл до справи підтримки.
