@@ -10,14 +10,19 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: feedd3e1433f9c8232a6ab9577473e4dbed03b31
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e6ad5908b56f76fa41cf9fbdfad0f50c1a6f552
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714935"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417409"
 ---
-# <a name="move-a-phone-number-from-another-provider-to-microsoft"></a>Переміщення телефонного номера від іншого постачальника до корпорації Майкрософт
+# <a name="port-existing-numbers-to-teams"></a>Перенесення наявних номерів до Teams
 
-Потрібно перемістити номер телефону з іншого постачальника до корпорації Майкрософт? Номери телефонів для різних країн і регіонів можна знайти в [керування номерами телефонів для вашої організації](https://docs.microsoft.com/SkypeForBusiness/what-are-calling-plans-in-office-365/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). Виберіть країну або регіон, щоб знайти інформацію про передачу номерів. 
-  
+Якщо у вас є постачальник послуг телефонного зв’язку або оператор, а також вже є телефонні номери для користувачів або служб, потрібно створити "замовлення на перенесення", щоб перенести ці номери телефонів до Microsoft Teams.
+
+- Щоб дізнатися, як виконати перенесення, див. статтю [Перенесення номерів телефонів до Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+
+- Вказівки щодо керування телефонними номерами див. в статті [Керування номерами телефонів для організації](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+
+Докладні відомості див. в статті [Огляд замовлень на перенесення](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
