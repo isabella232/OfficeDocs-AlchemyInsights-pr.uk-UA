@@ -12,12 +12,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9cb53a5ae33e075c00f5405873dd3137e89d75b
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 6950efae6aef72a3c8198fee97596f640f5968c2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061728"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506248"
 ---
 # <a name="buy-additional-licenses"></a>Придбати додаткові ліцензії
 
@@ -25,15 +25,15 @@ ms.locfileid: "44061728"
 
 2. Знайдіть передплату, до якої потрібно додати ліцензії, а потім виберіть **Додати/видалити ліцензії**.
 
-    [Що робити, якщо посилання "Додати/видалити" не відображається?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
+    [Що робити, якщо посилання "Додати/видалити" не відображається?](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 3. У полі **загальні ліцензії** введіть загальну кількість ліцензій, які потрібно для цієї передплати, а потім виберіть **Надіслати зміни**. Наприклад, якщо у вас є 100 ліцензій, і вам потрібно додати ще 5, введіть 105.
 
     > [!NOTE]
     > Якщо ви платите за підписку за допомогою кредитної картки або банківського рахунку, будь-які нові ліцензії, які ви купуєте, доступні відразу після отримання підтвердження замовлення. Якщо ви платите за рахунок-фактуру, можливо, вам доведеться чекати перевірки кредитної перед тим, як ваші нові ліцензії доступні для використання.
 
-Щоб дізнатися більше, перегляньте відомості [про придбання ліцензій для передплати на Microsoft 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Щоб дізнатися більше, перегляньте відомості [про придбання ліцензій для передплати на Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).  
 
 **Додаткові ресурси**
 
-- [Призначення ліцензій для користувачів, у Microsoft 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Призначення ліцензій для користувачів, у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)

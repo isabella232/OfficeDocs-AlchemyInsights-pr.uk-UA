@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706475"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506032"
 ---
 # <a name="change-a-users-email-address"></a>Змінення адреси електронної пошти користувача
 
 Змінити адресу електронної пошти хтось легко! Просто виконайте такі дії:
   
-1. У центрі адміністрування Microsoft 365 перейдіть на сторінку [користувачі](https://go.microsoft.com/fwlink/p/?linkid=834822) або виберіть **користувачі** \> , **активних користувачів**.
+1. У центрі адміністрування Microsoft 365 перейдіть на сторінку [користувачі](https://go.microsoft.com/fwlink/p/?linkid=834822) або виберіть **користувачі** , \> **активних користувачів**.
     
 2. Виберіть користувача.
     
@@ -38,6 +38,6 @@ ms.locfileid: "43706475"
     
 6. Виберіть **зберегти**, потім **закрити**, і все готово!
     
-Хіба це не так просто? Для отримання додаткової інформації та кроків з скріншотами, перевірити цю статтю: [Зміна імені користувача та адреси електронної пошти](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Хіба це не так просто? Для отримання додаткової інформації та кроків з скріншотами, перевірити цю статтю: [Зміна імені користувача та адреси електронної пошти](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 
