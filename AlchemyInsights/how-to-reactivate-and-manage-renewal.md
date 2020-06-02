@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: e4877ccf3b476d099bacf24040419bc6bb6900a4
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eee6e4a4494e259050f40173d66c2747b68a1608
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064106"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509117"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Як активувати та керувати повторюваним виставленням рахунків
 
@@ -32,7 +32,7 @@ ms.locfileid: "44064106"
 
 3. Підтвердьте відомості про оплату. Тут можна оновити наявну інформацію про оплату. Завершивши введення способу оплати, виберіть **активувати**.
 
-Докладні відомості див. в статті [Повторна активація передплати](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Докладні відомості див. в статті [Повторна активація передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/reactivate-your-subscription). 
 
 Для керування щомісячним або щорічною оплатою можна увімкнути або вимкнути **повторюване виставлення рахунків** .
   
@@ -46,4 +46,4 @@ ms.locfileid: "44064106"
 
 5. Виберіть **Надіслати зміни**.
 
-Докладніші відомості див. в статті [Увімкнення та вимкнення повторюваного виставлення рахунків](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Докладніші відомості див. в статті [Увімкнення та вимкнення повторюваного виставлення рахунків](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

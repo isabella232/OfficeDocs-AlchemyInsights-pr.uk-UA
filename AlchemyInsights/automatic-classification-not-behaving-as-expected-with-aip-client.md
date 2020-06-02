@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493440"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508397"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Автоматична класифікація не поводиться належним чином з клієнтом AIP
 
 Автоматична класифікація не поводиться належним чином, скористайтеся такими рекомендованими рекомендаціями:
 
-1. Якщо у вас виникли проблеми з автоматичним етикеткуванням, Дізнайтеся, [як налаштувати умови для автоматичної та рекомендованою класифікації для захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) та [для яких типів конфіденційних даних шукати](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. Якщо у вас виникли проблеми з автоматичним етикеткуванням, Дізнайтеся, [як налаштувати умови для автоматичної та рекомендованою класифікації для захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) та [для яких типів конфіденційних даних шукати](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. Перевірте, якщо використовуються політики в області, які не настроєно належним чином: [Настроювання політики захисту даних Azure для певних користувачів за допомогою політики в](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)області.
 3. Якщо автоматичне позначення не працює для Outlook під час підключення документа з міткою, переконайтеся, що `DRMEncryptProperty` не визначено, як описано тут: [Параметри реєстру IRM для безпеки](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. Якщо ви використали [вбудовані типи інформації](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) для вашої політики захисту інформації в Azure, перевірте, чи відповідає ваш вміст очікуваним форматом.

@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716481"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508973"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Визначте, коли зовнішня пересилання електронної пошти налаштовано на поштових скриньках
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716481"
 
 1. Увійдіть до [Microsoft 365 безпеки & центр відповідності](https://protection.office.com/).
 
-2. Перейдіть на сторінку **Search** > **пошуку журналу аудиту** пошуку.
+2. Перейдіть на сторінку **Search**  >  **пошуку журналу аудиту** пошуку.
 
 3. Виберіть діапазон дат у полях Дата **початку** та **Дата завершення** . Вам не потрібно вказувати ім'я користувача. Переконайтеся, що поле **справи** налаштовано на **відображення результатів для всіх справ**.
 
@@ -39,4 +39,4 @@ ms.locfileid: "43716481"
 
 - **Userid**: користувач, який налаштував пересилання електронної пошти на поштову скриньку, у полі **ідентифікатор об'єкта** .
 
-Для отримання додаткових відомостей див. [визначення, які встановлюють пересилання електронної пошти для поштової скриньки](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Для отримання додаткових відомостей див. [визначення, які встановлюють пересилання електронної пошти для поштової скриньки](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

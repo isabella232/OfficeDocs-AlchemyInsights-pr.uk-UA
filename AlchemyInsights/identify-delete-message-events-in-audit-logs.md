@@ -12,12 +12,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 641c0216491186aeb423a13854c6b39ee005e5df
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716517"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509009"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Журнали аудиту для видалених повідомлень електронної пошти
 
@@ -33,6 +33,6 @@ ms.locfileid: "43716517"
 
 У результатах пошуку виберіть запис аудиту. У спливаючому меню відомості натисніть кнопку **додаткові відомості**. Додаткові відомості про видалений елемент (наприклад, рядок теми та розташування елемента, коли він був видалений) відображається в полі **Affecteditems** . Властивість **клієнто** буде відображатися, якщо видалення відбулося в Outlook, Outlook в Інтернеті (раніше відомий як веб-застосунок Outlook Web App) або будь-який інший пристрій.
 
-Для отримання додаткових відомостей див. [визначення, які встановлюють пересилання електронної пошти для поштової скриньки](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Для отримання додаткових відомостей див. [визначення, які встановлюють пересилання електронної пошти для поштової скриньки](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
 
 **Примітка**: ви не можете відновити видалені елементи за допомогою функції журналу аудиту. Щоб відновити видалені повідомлення в Outlook, в Інтернеті, перегляньте статтю [відновлення видалених елементів у веб-застосунку Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

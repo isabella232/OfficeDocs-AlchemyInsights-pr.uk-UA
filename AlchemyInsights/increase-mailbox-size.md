@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: d1c7e79b0ba00db87ac0fc3cecd54a6b12721325
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44064250"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508757"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Перемикання підписок для збільшення розміру поштової скриньки
 
@@ -35,6 +35,6 @@ ms.locfileid: "44064250"
 
 5. Введіть кількість ліцензій, які вам потрібні, виберіть, чи потрібно платити щомісяця або за весь рік, а потім виберіть пункт **оформити замовлення**.
 
-Для отримання додаткових відомостей див. [оновлення до іншого плану](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+Для отримання додаткових відомостей див. [оновлення до іншого плану](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 
-Якщо у вас є [підписка, яка підтримує Архів на місці](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), ви також можете отримати додаткове сховище електронної пошти, увімкнувши архівну поштову скриньку. Поштова скринька архіву надає вам додаткове сховище та дозволяє переміщувати, копіювати та шукати повідомлення в поштовій скриньці основної та архівної. Щоб дізнатися, як увімкнути архівну поштову скриньку, перегляньте [функцію увімкнути архівну поштову скриньку](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Якщо у вас є [підписка, яка підтримує Архів на місці](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), ви також можете отримати додаткове сховище електронної пошти, увімкнувши архівну поштову скриньку. Поштова скринька архіву надає вам додаткове сховище та дозволяє переміщувати, копіювати та шукати повідомлення в поштовій скриньці основної та архівної. Щоб дізнатися, як увімкнути архівну поштову скриньку, перегляньте [функцію увімкнути архівну поштову скриньку](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).

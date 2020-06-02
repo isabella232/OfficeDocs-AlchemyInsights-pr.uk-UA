@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766010"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508685"
 ---
 # <a name="install-visio"></a>Інсталювати Visio
 
@@ -25,7 +25,7 @@ ms.locfileid: "43766010"
 
 **Примітка**: Visio Online план 1 не включає в себе настільну версію Visio, тому не можна установка.
 
-Якщо у вас є Підписка на Visio Online план 2, ви повинні [призначити ліцензію](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) для користувача, або вони не матимуть можливість встановити Visio з **моєї установки** на [порталі мій обліковий запис](https://portal.office.com/account#installs). 
+Якщо у вас є Підписка на Visio Online план 2, ви повинні [призначити ліцензію](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) для користувача, або вони не матимуть можливість встановити Visio з **моєї установки** на [порталі мій обліковий запис](https://portal.office.com/account#installs). 
 
 Ліцензії версії Visio Standard або Visio Professional, які не є корпоративною ліцензією, пов'язані з обліковими записами Microsoft і не керуються в центрі адміністрування. Щоб інсталювати ці версії, користувачі мають увійти до [Account.Microsoft.com](https://account.microsoft.com) за допомогою облікового запису Microsoft, пов'язаного з цією версією програми Visio.
 

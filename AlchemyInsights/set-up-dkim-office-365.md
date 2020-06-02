@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645693"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509405"
 ---
 # <a name="setup-dkim"></a>Налаштування DKIM
 
-Повні інструкції з налаштування DKIM для користувацьких доменів у Microsoft 365 є [тут](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Повні інструкції з налаштування DKIM для користувацьких доменів у Microsoft 365 є [тут](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. Для **кожного** настроюваного домену потрібно створити **два** записи DKIM CNAME у службі розміщення DNS вашого домену (зазвичай реєстратор доменів). Наприклад, contoso.com і fourthcoffee.com потрібні чотири записи DKIM CNAME: два для contoso.com і два для fourthcoffee.com.
 
@@ -36,7 +36,7 @@ ms.locfileid: "43645693"
 
      **TTL**: 3600
 
-   \<Ідентифікатор\> домену — це текст зліва від `.mail.protection.outlook.com` настроюваного запису MX для настроюваного домену (наприклад, `contoso-com` для домену contoso.com). \<У Ініціатодомені\> є домен, який використовувався під час підписування для Microsoft 365 (наприклад, contoso.onmicrosoft.com).
+   \<DomainGUID\>це текст зліва від `.mail.protection.outlook.com` настроюваного ЗАПИСУ MX для настроюваного домену (наприклад, `contoso-com` для домену contoso.com). \<InitialDomain\>це домен, який використовувався під час підписування для Microsoft 365 (наприклад, contoso.onmicrosoft.com).
 
 2. Після створення записів CNAME для настроюваних доменів виконайте наведені нижче вказівки.
 
@@ -46,6 +46,6 @@ ms.locfileid: "43645693"
 
    C. У лівій частині навігації розгорніть **адміністратор** і виберіть **Exchange**.
 
-   D. Перейти до **захисту** > **DKIM**.
+   D. Перейти до **захисту**  >  **DKIM**.
 
    E. Виберіть домен, а потім виберіть **Увімкнути** для **підписування повідомлень для цього ДОМЕНУ з підписами DKIM**. Повторіть цей крок для кожного настроюваного домену.

@@ -12,12 +12,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 80b652eb65612093252dee226a19ec74bc035faa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716409"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508937"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Визначення IP-адресу та клієнта в журналах аудиту
 
@@ -25,7 +25,7 @@ IP-адресу, яка відповідає діяльності користу
 
 1. Увійдіть до [Microsoft 365 безпеки & центр відповідності](https://protection.office.com/).
 
-2. Перейдіть на сторінку **Search** > **пошуку журналу аудиту** пошуку.
+2. Перейдіть на сторінку **Search**  >  **пошуку журналу аудиту** пошуку.
 
    Якщо ви зацікавлені в певній діяльності, виберіть її зі списку **справ** . Якщо ні, усі справи буде повернуто вибраному користувачу (параметр за промовчанням).
 
@@ -35,4 +35,4 @@ IP-адресу, яка відповідає діяльності користу
 
 У результатах пошуку можна побачити IP-адресу для цієї справи в області результатів. Виберіть запис аудиту, щоб переглянути докладні відомості в спливаючому меню **подробиць** (наприклад, клієнт, користувач, який виконував дії тощо).
 
-Для отримання додаткових відомостей див. [Пошук IP-адреси комп'ютера, що використовується для доступу до скомпрометований обліковий запис](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Для отримання додаткових відомостей див. [Пошук IP-адреси комп'ютера, що використовується для доступу до скомпрометований обліковий запис](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
