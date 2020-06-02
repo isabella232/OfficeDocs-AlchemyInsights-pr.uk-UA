@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682313"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504896"
 ---
 # <a name="activate-visio"></a>Активація програми Visio
 
-Перед тим, як користувач може інсталювати та активувати застосунок робочого стола Visio, що входить до їх Visio Online план 2, користувач має бути призначено [ліцензію Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Перед тим, як користувач може інсталювати та активувати застосунок робочого стола Visio, що входить до їх Visio Online план 2, користувач має бути призначено [ліцензію Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Зверніть увагу** Visio Online (план 1) не містить настільну версію Visio.
 
@@ -34,6 +34,6 @@ ms.locfileid: "43682313"
 
 За детальною інформацією Дивись:<br>
 [Активація Office на ПК](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Під час відкриття застосунку Microsoft з'являється повідомлення про підписку](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Помилка Office "продукти, які ми знайшли в обліковому записі, не можна використовувати <app>для активації"](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Помилки про "неліцензований продукт" і помилки активації в Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)
+[Повідомлення, що стосується передплати, відображається під час відкриття програми Microsoft](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Помилка Office "продукти, які ми знайшли в обліковому записі, не можна використовувати для активації <app> "](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Помилки, пов’язані з неліцензованим продуктом і активацією в Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

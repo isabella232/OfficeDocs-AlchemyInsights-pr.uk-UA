@@ -9,12 +9,12 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d64332778f9132aff6a9660bb0d522f4e16b753c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb84363ae7d3c91750d5de789c091c7cebbbedc2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687531"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502340"
 ---
 # <a name="recall-or-replace-an-outlook-email-message"></a>Відкликання або заміна повідомлення електронної пошти Outlook
 
@@ -26,7 +26,7 @@ ms.locfileid: "43687531"
 
 1. В області папки зліва від вікна Outlook, виберіть надіслані папки.
 1. Двічі клацніть повідомлення, яке потрібно відкликати, щоб відкрити його.
-1. Перейдіть на вкладку **повідомлення** , а потім виберіть **дії** > , які**відкликають це повідомлення**.
+1. Перейдіть на вкладку **повідомлення** , а потім виберіть **дії**, які  >  **відкликають це повідомлення**.
 1. Виберіть **Видалити непрочитані копії повідомлення** або **Видалити непрочитані копії та замінити новим повідомленням**, а потім натисніть **кнопку OK**.
 1. Якщо ви надсилаєте повідомлення про заміну, складете повідомлення, а потім виберіть **Надіслати**.
 1. Успішність або невдача відкликання повідомлення залежить від параметрів одержувача в Outlook. Для кроків, щоб перевірити на відкликання, див [у цій статті](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
@@ -34,7 +34,7 @@ ms.locfileid: "43687531"
 Пошук і видалення повідомлень електронної пошти в організації
 
 - Якщо ви не є глобальним адміністратором, ваш обліковий запис потрібно додати до ролі диспетчера Витребування або виконання ролей керування пошуком для пошуку повідомлень. Щоб видалити повідомлення, потрібно приєднатися до рольової групи «керування організацією» або ролі керування пошуком і очищення. Дозволи для цих ролей призначаються в [центрі безпеки та комплаєнсу](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Створіть пошук вмісту](https://docs.microsoft.com/office365/securitycompliance/content-search) , щоб знайти повідомлення для видалення.
+- [Створіть пошук вмісту](https://docs.microsoft.com/microsoft-365/compliance/content-search) , щоб знайти повідомлення для видалення.
 - [Підключення до центру безпеки та комплаєнсу PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
 Якщо використовується багатофакторна автентифікація, див., [підключення до Microsoft 365 безпеки та дотримання центру PowerShell, використовуючи автентифікацію на кількох факторів](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

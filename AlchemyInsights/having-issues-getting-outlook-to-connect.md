@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b812e53a-d519-4f3e-8438-4115a8e8e906
-ms.openlocfilehash: 7ec68ef7e5852e37b219113e8e6a6341ffe8c256
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 16e16be8ded889347ae4be286edef239fb9283fa
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710176"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44499028"
 ---
 # <a name="having-issues-getting-outlook-to-connect"></a>Виникли проблеми з отриманням Outlook для підключення?
 
@@ -21,7 +21,7 @@ ms.locfileid: "43710176"
   
 {HealthCheckString}
   
-NS або CNAME записи домену (DNS) параметри не налаштовано належним чином. Докладні інструкції можна знайти [в будь-якому постачальнику послуг DNS для створення записів DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) . 
+NS або CNAME записи домену (DNS) параметри не налаштовано належним чином. Докладні інструкції див. в статті [Створення записів DNS у будь-якого постачальника послуг розміщення DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider). 
   
 Щоб вирішити цю проблему, перейдіть на сторінку [Домени](https://admin.microsoft.com/adminportal/home#/Domains) в Центрі адміністрування Office 365, і ми вам допоможемо. 
 

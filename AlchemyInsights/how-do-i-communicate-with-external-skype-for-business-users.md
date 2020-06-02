@@ -12,20 +12,20 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265109"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496296"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Дозволити зовнішні зв'язки зі Skype для бізнесу 
 
 Дозволити користувачам Skype для бізнесу звертатися до користувачів за межами вашої організації? Перегляд [дозволити користувачам звертатися до зовнішніх Skype для бізнес-користувачів](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Записи DNS потрібно правильно настроїти для зовнішніх комунікацій, щоб функціонувати належним чином. Перевірте [тут](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) , щоб дізнатися, чи є у нас конкретні інструкції, як ВСТАНОВИТИ записи DNS з постачальником. 
+Записи DNS потрібно правильно настроїти для зовнішніх комунікацій, щоб функціонувати належним чином. Перевірте [тут](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) , щоб дізнатися, чи є у нас конкретні інструкції, як ВСТАНОВИТИ записи DNS з постачальником. 
 
-Ви хочете тільки включити ваш Skype для бізнесу користувачів звертатися Skype споживач користувачів? Побачити:
+Ви хочете тільки включити ваш Skype для бізнесу користувачів звертатися Skype споживач користувачів? Див. статтю
 
 - [Нехай Skype для бізнес-користувачів, додайте Skype контакти](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
