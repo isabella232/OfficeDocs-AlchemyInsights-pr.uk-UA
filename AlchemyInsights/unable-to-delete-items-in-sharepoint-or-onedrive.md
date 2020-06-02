@@ -11,16 +11,16 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571292"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511997"
 ---
 # <a name="unable-to-delete-items"></a>Не вдалося видалити елементи
 
-Політика збереження може спричинити це, потрібно або вимкнути або виключити відповідні утримання, що спричиняє цю проблему. Після того, як буде видалено політику збереження або утримання, може тривати до 24 годин, щоб зміни набрали сили. Переконайтеся, що на елементі не існує настроювання [політики збереження](https://docs.microsoft.com/office365/securitycompliance/retention-policies) .
+Політика збереження може спричинити це, потрібно або вимкнути або виключити відповідні утримання, що спричиняє цю проблему. Після того, як буде видалено політику збереження або утримання, може тривати до 24 годин, щоб зміни набрали сили. Переконайтеся, що на елементі не існує настроювання [політики збереження](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) .
 
 Можливо, на сайті Перевищено граничний обсяг сховища, збільшення [квоти сайту](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) та видалення елемента.
 

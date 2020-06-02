@@ -12,18 +12,18 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: a5ad81e97df0ed5c337a622126173df94af80bb8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713667"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511061"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Переміщення електронної пошти до поштової скриньки архіву
 
-1. Переконайтеся, що **архівну поштову скриньку** ввімкнено. Якщо ні, виконайте дії, описані в [цій статті](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) , щоб увімкнути архівну поштову скриньку.
+1. Переконайтеся, що **архівну поштову скриньку** ввімкнено. Якщо ні, виконайте дії, описані в [цій статті](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) , щоб увімкнути архівну поштову скриньку.
 
-2. Щоб автоматично архівувати повідомлення до поштової скриньки архіву, тег збереження з дією « **перемістити в архів** » має бути встановлено для **автоматичного застосування до всієї поштової скриньки (за промовчанням)**. Використовуйте кроки тут, щоб створити тег: [Архів за замовчуванням](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
+2. Щоб автоматично архівувати повідомлення до поштової скриньки архіву, тег збереження з дією « **перемістити в архів** » має бути встановлено для **автоматичного застосування до всієї поштової скриньки (за промовчанням)**. Використовуйте кроки тут, щоб створити тег: [Архів за замовчуванням](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
 3. Далі додайте тег **архіву** до політики збереження. У центрі адміністрування Exchange, виберіть політики **збереження** > додати **перемістити до архіву тег** політики > **зберегти**.
 
@@ -33,5 +33,5 @@ ms.locfileid: "43713667"
   
 Start-Управлінсья помічниці-тотожність<name of the mailbox>
 
-Для отримання додаткових відомостей про настроювання політики архівування зверніться до [налаштування політики архівування та видалення для поштових скриньок](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Для отримання додаткових відомостей про настроювання політики архівування зверніться до [налаштування політики архівування та видалення для поштових скриньок](https://docs.microsoft.com/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

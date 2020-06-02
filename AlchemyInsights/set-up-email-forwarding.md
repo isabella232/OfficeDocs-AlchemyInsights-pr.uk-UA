@@ -12,12 +12,12 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: a737cb708219730612954535f000761ac99365b2
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: faa1ac2ceeef9af86d8961e6a19b09ceef968a57
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645657"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512539"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Перевірка параметрів пересилання електронної пошти для поштової скриньки
 
@@ -27,8 +27,8 @@ ms.locfileid: "43645657"
 
 > Якщо це Спільна поштова скринька, перейдіть до **групи** \> **спільних поштових скриньок** і виберіть спільну поштову скриньку, яку ви пересилаєтеся. Виберіть **редагувати** для пересилання електронної пошти.
 
-Для отримання додаткових відомостей див. [настроювання пересилання електронної пошти в Microsoft 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+Для отримання додаткових відомостей див. [настроювання пересилання електронної пошти в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
   
 Щоб надіслати інструкції користувачам, щоб вони могли налаштувати пересилання електронної пошти на власні поштові скриньки, наведіть вказівник на пункт [пересилання електронної пошти від Microsoft 365 до іншого облікового запису електронної пошти](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Зверніть увагу, що ви можете переслати лише одну адресу електронної пошти. Якщо потрібно настроїти пересилання групі користувачів, створіть список розсилки (у групі **групи**), додайте до нього користувачів, а потім налаштуйте пересилання до цієї групи.
   
-Чи є у вас працівник від'їзду? Ознайомтеся [з видалити колишнього працівника з Microsoft 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee) для рекомендованих кроків.
+Чи є у вас працівник від'їзду? Ознайомтеся [з видалити колишнього працівника з Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) для рекомендованих кроків.
