@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063998"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510485"
 ---
 # <a name="too-many-licenses"></a>Занадто багато ліцензій?
 
@@ -32,4 +32,4 @@ ms.locfileid: "44063998"
 
 3. У полі **загальні ліцензії** введіть загальну кількість ліцензій, які потрібно для цієї передплати, а потім виберіть **Надіслати зміни**. Наприклад, якщо у вас є 110 ліцензій, і ви хочете видалити 5 з них, введіть 105.
 
-Щоб дізнатися більше, див. [видалення ліцензій з Microsoft 365 для бізнесу підписки](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+Щоб дізнатися більше, див. [видалення ліцензій з Microsoft 365 для бізнесу підписки](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

@@ -1,9 +1,9 @@
 ---
-title: 2419-для увімкнути аудит
+title: 2419-не вдалося увімкнути-аудит
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 3af01c03711eed646f0009afb5bea685bc358196
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 23ad07a6dd943d61d1bd45453089a771cfd51b58
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35065725"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510449"
 ---
-# <a name="unable-to-enable-unified-auditing"></a>Не вдається увімкнути уніфікований аудит
+# <a name="unable-to-enable-unified-auditing"></a>Не вдалося ввімкнути уніфікований аудит
 
-Коли ви намагаєтеся ввімкнути уніфікованих аудиту поштових скриньок для організації Office 365, може з'явитися повідомлення про помилку, схоже нижче:
+Під час спроби ввімкнення єдиного аудиту для організації, може з'явитися повідомлення про помилку, подібне до такого:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
@@ -28,24 +28,24 @@ Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 50
 
 Щоб вирішити цю проблему, виконайте такі дії:
 
-1. [Підключитися до обміну онлайн Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [Підключення до Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
 
-2. Запустіть наступну команду:
+2. Виконайте такі команди:
 
    ```
    Enable-OrganizationCustomization
    ```
 
-3. Чекати на 60 хвилин для попередньої настройки вступили в силу.
+3. Зачекайте 60 хвилин для попереднього налаштування набрали сили.
 
-4. Запустіть таку команду в Exchange Online PowerShell:
+4. Виконайте таку команду в Exchange Online PowerShell:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
    ```
 
-Щоб отримати додаткові відомості перегляньте наступні статті:
+Додаткові відомості можна отримати в таких статтях:
 
-- [Підключитися до Exchange Online PowerShell багатофакторну автентифікацію](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [Підключення до Exchange Online PowerShell, використовуючи автентифікацію на кількох факторів](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [Вмикається Office 365 аудиту журнал пошуку](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off)
+-  [Увімкнення та вимкнення пошуку журналу аудиту](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 57e312d1313e4abb7e556542286126561b836226
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758947"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510161"
 ---
 # <a name="permissions-required-for-ediscovery-searches"></a>Дозволи, необхідні для пошуку Витребування
 
@@ -26,7 +26,7 @@ ms.locfileid: "43758947"
 
 Щоб отримати додаткові відомості про дозволи на Витребування, див.: 
 
-- [Призначення дозволів на пошук необхідної безпеки в центрі підтримки & відповідності](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Призначення дозволів на пошук необхідної безпеки в центрі підтримки & відповідності](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 - [Призначення дозволів на пошук електронної інформації в Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 

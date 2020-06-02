@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720273"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510773"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>Папка «Відновлювані елементи» заповнено
 
@@ -33,12 +33,12 @@ ms.locfileid: "43720273"
 
 - Для поштових скриньок, які мають журналювання аудиту поштової скриньки, не можна зберегти записи журналу аудиту поштової скриньки в папці «Відновлювані» папки перевірки.
 
-Для поштових скриньок, які не є утримувані, адміністратори `Search-Mailbox -SearchDumpsterOnly -DeleteContent` можуть використовувати команду в Exchange Online PowerShell для видалення елементів у папці «Відновлювані елементи». Для отримання додаткових відомостей зверніться до таких розділів:
+Для поштових скриньок, які не є утримувані, адміністратори можуть використовувати `Search-Mailbox -SearchDumpsterOnly -DeleteContent` команду в Exchange Online PowerShell для видалення елементів у папці «Відновлювані елементи». Для отримання додаткових відомостей зверніться до таких розділів:
 
-- [Як шукати й видаляти повідомлення](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [Як шукати й видаляти повідомлення](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [Пошук-поштову скриньку](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Для поштових скриньок, які знаходяться на утриманні, адміністратори повинні видалити утримання, перш ніж вони зможуть видалити елементи з папки "Відновлювані". Для отримання додаткових відомостей див. [видалення елементів у папці «Відновлювані елементи» на основі хмарних поштових скриньок](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Для поштових скриньок, які знаходяться на утриманні, адміністратори повинні видалити утримання, перш ніж вони зможуть видалити елементи з папки "Відновлювані". Для отримання додаткових відомостей див. [видалення елементів у папці «Відновлювані елементи» на основі хмарних поштових скриньок](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Щоб запобігти повному відновленню папки «Відновлювані», адміністратори можуть збільшити обмеження сховища для папки «Відновлювані» для поштових скриньок, які потрібно утримувати, і настроїти політику збереження поштової скриньки, яка переміщує елементи з папки «Відновлювані елементи» до архівної поштової скриньки користувача. Переглянути [, як збільшити квоту видобутих елементів для поштових скриньок](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold), які призупинено.
+Щоб запобігти повному відновленню папки «Відновлювані», адміністратори можуть збільшити обмеження сховища для папки «Відновлювані» для поштових скриньок, які потрібно утримувати, і настроїти політику збереження поштової скриньки, яка переміщує елементи з папки «Відновлювані елементи» до архівної поштової скриньки користувача. Переглянути [, як збільшити квоту видобутих елементів для поштових скриньок](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold), які призупинено.

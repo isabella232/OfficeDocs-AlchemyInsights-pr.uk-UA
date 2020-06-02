@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3e43df09e2a3419534fca1d595efc14dbdfdeae1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759389"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510413"
 ---
 # <a name="when-is-the-billing-statement-generated"></a>Коли звіт про виставлення рахунків створюється
 
 Кожен місяць ви отримаєте електронний лист, який повідомляє вам, що ваша нова заява про виставлення рахунків доступна в центрі адміністрування Microsoft 365. Ваш рахунок-фактура містить дві сторінки. Сторінка 1-це зведення за рахунком-фактурою, і містить загальну інформацію про рахунок-фактуру, замовлення, суму, як зробити платіж, і як звернутися до служби підтримки. Сторінка 2 містить відомості про діяльність з виставлення рахунків для кожної передплати.
   
-Щоб дізнатися більше про концепції виставлення рахунків, перегляньте, як [зрозуміти рахунок-фактуру](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+Щоб дізнатися більше про концепції виставлення рахунків, перегляньте, як [зрозуміти рахунок-фактуру](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
