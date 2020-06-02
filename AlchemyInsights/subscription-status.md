@@ -12,29 +12,29 @@ ms.custom:
 - "9001519"
 - "3586"
 ms.openlocfilehash: cc0a7c708aafc7c6c9680deefd6cbf65991a4d18
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "44063242"
 ---
-# <a name="subscription-status"></a><span data-ttu-id="935b1-102">Статус підписки</span><span class="sxs-lookup"><span data-stu-id="935b1-102">Subscription status</span></span>
+# <a name="subscription-status"></a><span data-ttu-id="93cf9-102">Статус підписки</span><span class="sxs-lookup"><span data-stu-id="93cf9-102">Subscription status</span></span>
 
-<span data-ttu-id="935b1-103">Статус підписки можна знайти на сторінці " **ваші продукти** " центру адміністрування Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="935b1-103">Subscription status can be found on the **Your products** page of the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="93cf9-103">Статус підписки можна знайти на сторінці " **ваші продукти** " центру адміністрування Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="93cf9-103">Subscription status can be found on the **Your products** page of the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="935b1-104">Перейдіть до **виставлення рахунків**за  >  **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="935b1-104">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="93cf9-104">Перейдіть до **виставлення рахунків**за  >  **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="93cf9-104">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-2. <span data-ttu-id="935b1-105">Якщо у вас виникли проблеми з статусом будь-якого з підписок, ви побачите піктограму з червоним попередженням біля передплати або статус "закінчився" або "вимкнено" в розділі "виставлення рахунків" деталі передплати.</span><span class="sxs-lookup"><span data-stu-id="935b1-105">If there is an issue with the status of any of the subscriptions, you will see either a red warning icon next to the subscription, or an "expired" or "disabled" status in the Billing section of the subscription details.</span></span>
+2. <span data-ttu-id="93cf9-105">Якщо у вас виникли проблеми з статусом будь-якого з підписок, ви побачите піктограму з червоним попередженням біля передплати або статус "закінчився" або "вимкнено" в розділі "виставлення рахунків" деталі передплати.</span><span class="sxs-lookup"><span data-stu-id="93cf9-105">If there is an issue with the status of any of the subscriptions, you will see either a red warning icon next to the subscription, or an "expired" or "disabled" status in the Billing section of the subscription details.</span></span>
 
-3. <span data-ttu-id="935b1-106">Якщо ви хочете повторно активувати передплату з простроченим або вимкнутим, натисніть **активувати зараз**.</span><span class="sxs-lookup"><span data-stu-id="935b1-106">If you'd like to reactivate an expired or disabled subscription, click **Reactivate now**.</span></span>
+3. <span data-ttu-id="93cf9-106">Якщо ви хочете повторно активувати передплату з простроченим або вимкнутим, натисніть **активувати зараз**.</span><span class="sxs-lookup"><span data-stu-id="93cf9-106">If you'd like to reactivate an expired or disabled subscription, click **Reactivate now**.</span></span>
 
-<span data-ttu-id="935b1-107">**Термін придатності**</span><span class="sxs-lookup"><span data-stu-id="935b1-107">**Expiration date**</span></span>
+<span data-ttu-id="93cf9-107">**Термін придатності**</span><span class="sxs-lookup"><span data-stu-id="93cf9-107">**Expiration date**</span></span>
 
-1. <span data-ttu-id="935b1-108">Перейдіть до **виставлення рахунків**за  >  **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="935b1-108">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
+1. <span data-ttu-id="93cf9-108">Перейдіть до **виставлення рахунків**за  >  **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="93cf9-108">Go to **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
 
-2. <span data-ttu-id="935b1-109">Залежно від подання, дата завершення терміну дії відображатиметься в крайньому правому стовпці з міткою **дата** або в розділі **платіжний** відомості про підписку поруч із пунктом **закінчується**.</span><span class="sxs-lookup"><span data-stu-id="935b1-109">Depending on the view, the expiration date will appear on the far right column labeled **Date** or in the **Billing** section of the subscription details next to **Expiring on**.</span></span>
+2. <span data-ttu-id="93cf9-109">Залежно від подання, дата завершення терміну дії відображатиметься в крайньому правому стовпці з міткою **дата** або в розділі **платіжний** відомості про підписку поруч із пунктом **закінчується**.</span><span class="sxs-lookup"><span data-stu-id="93cf9-109">Depending on the view, the expiration date will appear on the far right column labeled **Date** or in the **Billing** section of the subscription details next to **Expiring on**.</span></span>
 
-<span data-ttu-id="935b1-110">**Ліцензії**</span><span class="sxs-lookup"><span data-stu-id="935b1-110">**Licenses**</span></span>
+<span data-ttu-id="93cf9-110">**Ліцензії**</span><span class="sxs-lookup"><span data-stu-id="93cf9-110">**Licenses**</span></span>
 
-<span data-ttu-id="935b1-111">Кількість придбаних ліцензій і їх використання вказана за передплатою на сторінці " **ваші продукти** ".</span><span class="sxs-lookup"><span data-stu-id="935b1-111">The number of licenses purchased and in use is listed by subscription on the **Your products** page.</span></span>
+<span data-ttu-id="93cf9-111">Кількість придбаних ліцензій і їх використання вказана за передплатою на сторінці " **ваші продукти** ".</span><span class="sxs-lookup"><span data-stu-id="93cf9-111">The number of licenses purchased and in use is listed by subscription on the **Your products** page.</span></span>
 
