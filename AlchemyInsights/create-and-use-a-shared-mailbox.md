@@ -11,12 +11,12 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049826"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507679"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Створення та використання спільної поштової скриньки
 
@@ -24,5 +24,5 @@ ms.locfileid: "40049826"
   
 - Щоб розпочати роботу, [виконайте наведені нижче дії](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) в центрі адміністрування Microsoft 365. 
 
-Також можна прочитати статтю [створення спільної поштової скриньки](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , яка повідомить Вам усе, що потрібно знати про спільні поштові скриньки, зокрема способи їх використання.
+Також можна прочитати статтю [створення спільної поштової скриньки](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , яка повідомить Вам усе, що потрібно знати про спільні поштові скриньки, зокрема способи їх використання.
   

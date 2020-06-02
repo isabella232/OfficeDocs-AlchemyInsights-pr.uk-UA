@@ -14,12 +14,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 83f18d06006989e03ee6095e430aaf3eb5c72c09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6352603a391ddcb44d2728c7587bf15a6cd97ebb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714791"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507191"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Не вдається інсталювати або запустити засіб експортування необхідної інформації?
 
@@ -41,9 +41,9 @@ ms.locfileid: "43714791"
 
     Інші браузери, такі як Google Chrome і Mozilla Firefox, не підтримуються.
 
-- Ваша організація може підключатися до кінцевої точки в Azure, яка є ** \*. BLOB.Core.Windows.net** (у підстановці є унікальним ідентифікатором для завдання експорту).
+- Ваша організація може підключатися до кінцевої точки в Azure, яка є ** \* . BLOB.Core.Windows.net** (у підстановці є унікальним ідентифікатором для завдання експорту).
 
-- Ви признаєтеся ролі експорту в центрі забезпечення безпеки &amp; Microsoft 365. За промовчанням ця роль призначається лише для рольової групи «Витребування менеджера». Див [.](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- Ви признаєтеся ролі експорту в центрі забезпечення безпеки Microsoft 365 &amp; . За промовчанням ця роль призначається лише для рольової групи «Витребування менеджера». Див [.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Докладніші відомості наведено в [результатах пошуку в експортному вмісті](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+Докладніші відомості наведено в [результатах пошуку в експортному вмісті](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
   

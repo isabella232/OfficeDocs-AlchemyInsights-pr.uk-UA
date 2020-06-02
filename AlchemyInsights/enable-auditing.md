@@ -12,24 +12,24 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908437"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507011"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Увімкнення та пошук журналу аудиту
 
 **Microsoft 365**
 
-Для пошуку Microsoft 365 журнал аудиту, виконайте [такі дії](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Для пошуку Microsoft 365 журнал аудиту, виконайте [такі дії](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
 **Обмін**
 
 - Дії адміністратора Exchange за промовчанням перевіряються.
 
-- Аудит поштової скриньки увімкнуто за промовчанням у Microsoft 365. Докладніші відомості наведено в [цій статті](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Аудит поштової скриньки увімкнуто за промовчанням у Microsoft 365. Докладніші відомості наведено в [цій статті](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
 - Microsoft 365 групи поштових скриньок і спільних папок у поштових скриньках Exchange Online, не підтримують журналювання аудиту.
 
@@ -44,6 +44,6 @@ ms.locfileid: "43908437"
     - Діяльність адміністрування сайту
     - Дії з синхронізації файлів
 
-- Відомості про перевірені дії в інших службах наведено в [таблиці в цій статті](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Відомості про перевірені дії в інших службах наведено в [таблиці в цій статті](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Нижче наведено список запитань, які часто задаються [найчастіше задаються](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) про пошук журналу аудиту.
+- Нижче наведено список запитань, які часто задаються [найчастіше задаються](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) про пошук журналу аудиту.

@@ -12,12 +12,12 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: 45aa50f6c3505468e902e58faf698205f93f9264
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b032a7c80e8b387114aeda95c4f6af7e57225517
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704060"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507355"
 ---
 # <a name="dlp-issues-with-us-bank-account-numbers"></a>ЗВД питання з номерами банківських рахунків США
 
@@ -29,13 +29,13 @@ ms.locfileid: "43704060"
   
 Наприклад, для **американського банківського рахунку** політику, настроєну довірчий рівень 85%, оцінюються і має бути виявлено для запуску правила:
   
-- **[Формат:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-77)** 8-17 цифр
+- **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 цифр
 
-- **[Візерунок:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-77)** 8-17 послідовних цифр.
+- **[Візерунок:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 послідовних цифр.
 
-- **[Контрольна сума:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-76)** Ні, немає контрольної суми
+- **[Контрольна сума:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ні, немає контрольної суми
 
-- **[Визначення:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)** ЗВД політика 75% впевнений, що він виявлений цей тип конфіденційної інформації, якщо в безпосередній близькості від 300 символів:
+- **[Визначення:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** ЗВД політика 75% впевнений, що він виявлений цей тип конфіденційної інформації, якщо в безпосередній близькості від 300 символів:
 
   - Регулярний вираз Regex_usa_bank_account_number знаходить вміст, який відповідає шаблону
 
@@ -43,7 +43,7 @@ ms.locfileid: "43704060"
 
     Наприклад, наведений нижче зразок може викликати для **американського банківського рахунку** політики: розрахунковий рахунок 78344011
 
-Для отримання додаткової інформації про те, що потрібно для того, щоб **номер банківського рахунку США** був виявлений для вашого вмісту, перегляньте наступний розділ у цій статті: [які типи конфіденційної інформації Шукайте номер банківського рахунку США](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-bank-account-number)
+Для отримання додаткової інформації про те, що потрібно для того, щоб **номер банківського рахунку США** був виявлений для вашого вмісту, перегляньте наступний розділ у цій статті: [які типи конфіденційної інформації Шукайте номер банківського рахунку США](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
   
-Використовуючи інший вбудований тип конфіденційної інформації, зверніться до такої статті, щоб отримати відомості про те, що потрібно для інших типів: [які типи конфіденційних даних шукають](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+Використовуючи інший вбудований тип конфіденційної інформації, зверніться до такої статті, щоб отримати відомості про те, що потрібно для інших типів: [які типи конфіденційних даних шукають](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

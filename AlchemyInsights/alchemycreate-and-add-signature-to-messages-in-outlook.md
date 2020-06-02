@@ -12,12 +12,12 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4243b821d087cd1cfc7c89aad983c7d497bd7d3e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737390"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506543"
 ---
 # <a name="creating-email-signatures"></a>Створення підписів електронної пошти
 
@@ -29,7 +29,7 @@ ms.locfileid: "36737390"
 
 - Я хочу створити підпис електронної пошти за допомогою Outlook.com: [створення та Додавання підпису електронної пошти в Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Я хочу створити глобальний підпис електронної пошти для всіх електронних листів, надісланих з моєї компанії: [створюйте підписи та застереження](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers) для всієї організації
+- Я хочу створити глобальний підпис електронної пошти для всіх електронних листів, надісланих з моєї компанії: [створюйте підписи та застереження](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers) для всієї організації
 
  **Підказка:** Підписи для всієї організації називаються "відмова від відповідальності".
   

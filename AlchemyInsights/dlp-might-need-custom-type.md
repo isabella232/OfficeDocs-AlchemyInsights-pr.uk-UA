@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: b83bb77383e2ae7e78c31f35c972182c54487c60
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ec8959a479f1a8f7bfcffb55f440e8c4ab435fb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704510"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507535"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>ЗВД може знадобитися користувацький тип
 
@@ -32,12 +32,12 @@ ms.locfileid: "43704510"
   
  **Настроювання вбудованого типу конфіденційної інформації**
   
-Якщо вбудований тип конфіденційної інформації відповідає вашим потребам лише за кілька налаштувань, можна [настроїти вбудований тип конфіденційної інформації](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Наприклад, можна додати або видалити ключові слова, а також додати або видалити допоміжні докази, наприклад дату або адресу.
+Якщо вбудований тип конфіденційної інформації відповідає вашим потребам лише за кілька налаштувань, можна [настроїти вбудований тип конфіденційної інформації](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type). Наприклад, можна додати або видалити ключові слова, а також додати або видалити допоміжні докази, наприклад дату або адресу.
   
  **Створення настроюваного типу даних делікатного характеру**
   
-Але якщо потрібно, щоб визначити та захистити інший тип конфіденційної інформації в цілому, можна [створити настроюваний тип інформації](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) в інтерфейсі користувача, & відповідність центру безпеки.
+Але якщо потрібно, щоб визначити та захистити інший тип конфіденційної інформації в цілому, можна [створити настроюваний тип інформації](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) в інтерфейсі користувача, & відповідність центру безпеки.
   
 **Створення настроюваного типу конфіденційної інформації в безпеки & центр відповідності PowerShell**
 
-Нарешті, якщо інтерфейс користувача не надає всі потрібні параметри, можна [створити настроюваний тип інформації в центрі безпеки & відповідності](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Починаючи з XML-файлу, можна використовувати всі доступні опції.
+Нарешті, якщо інтерфейс користувача не надає всі потрібні параметри, можна [створити настроюваний тип інформації в центрі безпеки & відповідності](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell). Починаючи з XML-файлу, можна використовувати всі доступні опції.

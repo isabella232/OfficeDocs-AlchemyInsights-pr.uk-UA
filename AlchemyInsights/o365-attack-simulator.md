@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713487"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506759"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Напад симулятор в Microsoft 365
 
 - Ви відсутня симулятор нападу? Напад симулятор вимагає **Office 365 розширений загрози захист план 2 (АТФ план 2)** або **Office 365 Enterprise E5**. Напад симулятор **не** входить до складу Office 365 розширений загрози захист план 1 (АТФ план 1), Office 365 Enterprise E3 або будь-які Microsoft 365 програми для бізнесу підписки.
 
-- Обліковий запис, який використовується для запуску імітаційні атаки, потребує глобального адміністратора або дозволів адміністратора безпеки та багатофакторної автентифікації (МЗС). Щоб отримати додаткові відомості про вимоги до симулятора атак, перегляньте [цю тему](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- Обліковий запис, який використовується для запуску імітаційні атаки, потребує глобального адміністратора або дозволів адміністратора безпеки та багатофакторної автентифікації (МЗС). Щоб отримати додаткові відомості про вимоги до симулятора атак, перегляньте [цю тему](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - Важливі речі, щоб знати про **грубої сили** атаки на пароль симуляції:
 

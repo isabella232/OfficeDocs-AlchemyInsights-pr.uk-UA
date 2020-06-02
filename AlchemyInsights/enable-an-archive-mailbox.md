@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788687"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507047"
 ---
 # <a name="enable-an-archive-mailbox"></a>Увімкнути архівну поштову скриньку
 
@@ -23,11 +23,11 @@ ms.locfileid: "43788687"
   
 Щоб створити поштову скриньку архіву:
   
-1. Перейти [https://protection.office.com](https://protection.office.com).
+1. Перейти [https://protection.office.com](https://protection.office.com) .
 
 2. Увійдіть до Microsoft 365 за допомогою облікового запису адміністратора.
 
-3. &amp; У лівій області центру дотримання безпеки виберіть пункт **Архів** **інформаційних управління** \> .
+3. У лівій області &amp; центру дотримання безпеки виберіть пункт Архів **інформаційних управління** \> **Archive**.
 
 4. Виберіть користувача, для якого потрібно ввімкнути поштову скриньку архіву.
 
@@ -43,14 +43,14 @@ ms.locfileid: "43788687"
 
 1. Перейдіть до [центру адміністрування Exchange](https://outlook.office365.com/ecp) і ввійдіть за допомогою облікового запису адміністратора.
 
-2. Перейдіть до розділу **одержувачі** > ,**спільні**.
+2. Перейдіть до розділу **одержувачі**,  >  **спільні**.
 
 3. Виберіть спільну поштову скриньку.
 
 4. В області відомостей праворуч, у розділі **Архів на місці**натисніть кнопку **Увімкнути**та натисніть кнопку **так** , щоб увімкнути архівну поштову скриньку.
 
-Докладні відомості див. у статтях:
+Докладні відомості:
   
-- [Увімкнути поштові скриньки архіву](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Увімкнути поштові скриньки архіву](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Настроювання політики архівування та видалення](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
