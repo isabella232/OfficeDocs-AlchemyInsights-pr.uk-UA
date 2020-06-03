@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991065"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512431"
 ---
 # <a name="project-license-management"></a>Керування ліцензіями Project
 
@@ -27,6 +27,6 @@ ms.locfileid: "43991065"
 - Щоб **змінити план**, див. статтю [Зміна планів Microsoft 365 для бізнесу вручну](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Щоб **призначати** ліцензії на Project, виберіть **Виставлення рахунків > [Ліцензії](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Докладні відомості див. в статті [Призначення ліцензій](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Щоб **додати або видалити** ліцензії на Project, виберіть **Виставлення рахунків > [Придбання послуг](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Докладні відомості див. в статті [Додавання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Щоб **скасувати** ліцензії на Project, перейдіть до розділу **Виставлення рахунків > [Продукти й послуги](https://go.microsoft.com/fwlink/p/?linkid=842054),** потім виберіть **Параметри та дії** та клацніть елемент **Скасувати передплату**. Докладні відомості див. в статті [Скасування передплати](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Щоб **скасувати** ліцензії на Project, перейдіть до розділу **Виставлення рахунків > [Продукти й послуги](https://go.microsoft.com/fwlink/p/?linkid=842054),** потім виберіть **Параметри та дії** та клацніть елемент **Скасувати передплату**. Докладні відомості див. в статті [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Докладні відомості див. в статті [Керування ліцензіями](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
