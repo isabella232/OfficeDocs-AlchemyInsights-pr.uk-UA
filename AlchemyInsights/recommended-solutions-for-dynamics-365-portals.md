@@ -12,26 +12,26 @@ ms.custom:
 - "1456"
 - "6200009"
 ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36745526"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="a8f80-102">На порталах Dynamics 365 Рекомендовані рішення</span><span class="sxs-lookup"><span data-stu-id="a8f80-102">Dynamics 365 portals recommended solutions</span></span>
+# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="6bbb2-102">На порталах Dynamics 365 Рекомендовані рішення</span><span class="sxs-lookup"><span data-stu-id="6bbb2-102">Dynamics 365 portals recommended solutions</span></span>
 
-* [<span data-ttu-id="a8f80-103">Як переглянути докладну помилку сервера показано на моєму порталі</span><span class="sxs-lookup"><span data-stu-id="a8f80-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [<span data-ttu-id="6bbb2-103">Як переглянути докладну помилку сервера показано на моєму порталі</span><span class="sxs-lookup"><span data-stu-id="6bbb2-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [<span data-ttu-id="a8f80-104">Як скинути портал</span><span class="sxs-lookup"><span data-stu-id="a8f80-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [<span data-ttu-id="6bbb2-104">Як скинути портал</span><span class="sxs-lookup"><span data-stu-id="6bbb2-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [<span data-ttu-id="a8f80-105">Як очистити кеш на стороні сервера для порталу</span><span class="sxs-lookup"><span data-stu-id="a8f80-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [<span data-ttu-id="6bbb2-105">Як очистити кеш на стороні сервера для порталу</span><span class="sxs-lookup"><span data-stu-id="6bbb2-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [<span data-ttu-id="a8f80-106">Як змінити аудиторію та тип порталу Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="a8f80-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [<span data-ttu-id="6bbb2-106">Як змінити аудиторію та тип порталу Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="6bbb2-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [<span data-ttu-id="a8f80-107">Як змінити базову URL-адресу порталу</span><span class="sxs-lookup"><span data-stu-id="a8f80-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [<span data-ttu-id="6bbb2-107">Як змінити базову URL-адресу порталу</span><span class="sxs-lookup"><span data-stu-id="6bbb2-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [<span data-ttu-id="a8f80-108">Як налаштувати постачальника зовнішніх посвідчень з порталом</span><span class="sxs-lookup"><span data-stu-id="a8f80-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [<span data-ttu-id="6bbb2-108">Як налаштувати постачальника зовнішніх посвідчень з порталом</span><span class="sxs-lookup"><span data-stu-id="6bbb2-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
-* [<span data-ttu-id="a8f80-109">Запитання й відповіді</span><span class="sxs-lookup"><span data-stu-id="a8f80-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
+* [<span data-ttu-id="6bbb2-109">Запитання й відповіді</span><span class="sxs-lookup"><span data-stu-id="6bbb2-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [<span data-ttu-id="a8f80-110">Початок роботи з моїм порталом Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="a8f80-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [<span data-ttu-id="6bbb2-110">Початок роботи з моїм порталом Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="6bbb2-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

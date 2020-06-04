@@ -1,5 +1,5 @@
 ---
-title: Надсилання запитів на підтримку PowerApps або Microsoft потік
+title: Надсилання запитів підтримки PowerApps або Microsoft Flow
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,14 +13,14 @@ ms.custom:
 - "1495"
 - "6200027"
 ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559502"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a><span data-ttu-id="24c55-102">Надсилання запитів на підтримку PowerApps або Microsoft потік</span><span class="sxs-lookup"><span data-stu-id="24c55-102">Submit PowerApps or Microsoft Flow support requests</span></span>
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a><span data-ttu-id="8eb4e-102">Надсилання запитів підтримки PowerApps або Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="8eb4e-102">Submit PowerApps or Microsoft Flow support requests</span></span>
 
-<span data-ttu-id="24c55-103">Якщо ви **PowerApps** або **Microsoft потік** клієнтів, будь ласка, надсилайте ваш квиток через нові [платформи влада центру адміністрування](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span><span class="sxs-lookup"><span data-stu-id="24c55-103">If you are a **PowerApps** or **Microsoft Flow** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span></span> <span data-ttu-id="24c55-104">Новий портал надає більш прямий шлях до припиненою інтерактивною підтримкою, оптимізованими для PowerApps та інших продуктів ГЕС платформи.</span><span class="sxs-lookup"><span data-stu-id="24c55-104">The new portal provides a more direct path to assisted support that is optimized for PowerApps and other Power platform products.</span></span>
+<span data-ttu-id="8eb4e-103">Якщо ви є клієнтом **PowerApps** або **Microsoft Flow** , надішліть свій квиток через новий [Центр адміністрування платформи Power](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span><span class="sxs-lookup"><span data-stu-id="8eb4e-103">If you are a **PowerApps** or **Microsoft Flow** customer please submit your ticket through the new [Power platform Admin Center](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819).</span></span> <span data-ttu-id="8eb4e-104">Новий портал забезпечує більш прямий шлях до підтримки, оптимізованої для PowerApps та інших продуктів для платформи Power.</span><span class="sxs-lookup"><span data-stu-id="8eb4e-104">The new portal provides a more direct path to assisted support that is optimized for PowerApps and other Power platform products.</span></span>
 
-[<span data-ttu-id="24c55-105">Подати запит підтримки Microsoft потік</span><span class="sxs-lookup"><span data-stu-id="24c55-105">Submit Microsoft Flow support request</span></span>](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[<span data-ttu-id="8eb4e-105">Надсилання запиту підтримки Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="8eb4e-105">Submit Microsoft Flow support request</span></span>](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
