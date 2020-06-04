@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6f82c9fc69e8c5fcb68be53ca49e70131bf02802
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 060c4e75961e77038ae3cfc4236d075e713ed521
+ms.sourcegitcommit: cd5283431f0b4ce289427c63cd27e5b36173a9da
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744790"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44545791"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
@@ -27,4 +27,4 @@ ms.locfileid: "43744790"
 **Нових абонентів**
 
 - Вибачте, але Outlook.com Premium тепер закритий для нових абонентів.
-- Багато [функцій і переваг](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) в даний час включені з [передплати на Office 365 додому і офіс 365 особисте](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Багато [функцій і переваг](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) в даний час включені з [передплати на Microsoft 365 додому і Microsoft 365 особистих](https://go.microsoft.com/fwlink/?linkid=2017122).

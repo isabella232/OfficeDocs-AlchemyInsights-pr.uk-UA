@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534867"
+ms.locfileid: "44542029"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a>Виправлення повідомлень, які застрягли в папці "Вихідні"
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a>Виправлення повідомлень, які застрягли в папці "Вихідні" з SaRA
 
-Корпорація Майкрософт рекомендує, запуску, запустивши сценарій ["у мене виникають проблеми з надсиланням, отримання або пошуку повідомлень електронної пошти"](https://aka.ms/SaRA-OutlookSendReceive) з [підтримки Microsoft і відновлення помічника](https://diagnostics.office.com/#/) .
-
-Коли повідомлення застрягне у папці "Вихідні", найімовірніше, це велике вкладення, або параметр "Надіслати відразу після підключення" не ввімкнуто.
-Для отримання докладної інформації див.:
-- [Відео: надсилання або видалення застрягли електронної пошти](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [Електронна пошта залишається в папці "Вихідні", доки вручну не ініціювати операцію надсилання й отримання в Outlook](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Корпорація Майкрософт рекомендує, що ви починаєте за допомогою сценарію ["у мене проблеми з надсиланням, отримання або пошуку повідомлень електронної пошти"](https://aka.ms/SaRA-OutlookSendReceive) на машини, що здійснюється з [підтримки Microsoft і відновлення помічника (Сара)](https://diagnostics.office.com/#/) .
