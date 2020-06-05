@@ -1,9 +1,9 @@
 ---
-title: 8000001 вимкнути спрямовані "Вхідні"
+title: 8000001 вимкнення сфокусована папка "Вхідні"
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 12/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 4d11dd687ee1408c4d747b7c01b22b1845e6eac9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 86c30e6b61b7246c5230604e7e16e1893a9195a7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533468"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582292"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="cdda3-102">Вимкнути спрямовані "Вхідні"</span><span class="sxs-lookup"><span data-stu-id="cdda3-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="7bad5-102">Вимкнення сфокусована папка "Вхідні"</span><span class="sxs-lookup"><span data-stu-id="7bad5-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="cdda3-103">Виберіть **налаштування** \> **спрямовані "Вхідні"**.  </span><span class="sxs-lookup"><span data-stu-id="cdda3-103">Select **Settings**  \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="7bad5-103">Виберіть **настройки** , \> **орієнтовані на вхідні**.  </span><span class="sxs-lookup"><span data-stu-id="7bad5-103">Select **Settings**  \> **Focused Inbox**.</span></span>
 
-2. <span data-ttu-id="cdda3-104">У розділі **коли листа**виберіть **не сортувати повідомлення**.</span><span class="sxs-lookup"><span data-stu-id="cdda3-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="7bad5-104">У розділі **коли отримано повідомлення електронної пошти**, виберіть **не сортувати повідомлення**.</span><span class="sxs-lookup"><span data-stu-id="7bad5-104">Under **When email is received**, select **Don't sort messages**.</span></span>
 
-3. <span data-ttu-id="cdda3-105">Виберіть **"OK"**.</span><span class="sxs-lookup"><span data-stu-id="cdda3-105">Select **OK**.</span></span>
+3. <span data-ttu-id="7bad5-105">Виберіть **OK**.</span><span class="sxs-lookup"><span data-stu-id="7bad5-105">Select **OK**.</span></span>
 
-<span data-ttu-id="cdda3-106">Щоб дізнатися більше, див [Зосереджено поштову скриньку для Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="cdda3-106">To learn more, see [Focused Inbox for Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="7bad5-106">Щоб дізнатися більше, перегляньте відомості [про папку "Вхідні" для Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7bad5-106">To learn more, see [Focused Inbox for Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
