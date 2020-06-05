@@ -1,5 +1,5 @@
 ---
-title: Повідомлення програм Office "Не вдалося знайти пов’язані ліцензії Office"
+title: Microsoft 365 додатків повідомлення-не вдалося знайти ліцензії Office, пов'язані
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505112"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581672"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>Повідомлення програм Office "Не вдалося знайти пов’язані ліцензії Office"
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 додатків повідомлення-не вдалося знайти ліцензії Office, пов'язані
 
 Щоб виправити цю помилку, спробуйте виконати наведені нижче дії.
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505112"
 
 - Скиньте стан активації Office. Докладні відомості див. в статті [Скидання стану активації програми Microsoft 365 для підприємств](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Перевірте брандмауер, програму захисту від вірусів та параметри проксі-сервера, щоб переконатися, що вони не блокують доступ програм Office до Інтернету. 
+- Перевірте брандмауер, антивірусне програмне забезпечення та настройки проксі-сервера, щоб підтвердити, що вони не блокують програми Microsoft 365 доступ до Інтернету. 
 
 Додаткові способи виправлення неполадок див. в статтях:
 

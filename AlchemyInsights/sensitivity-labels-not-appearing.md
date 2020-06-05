@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511673"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581036"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Не відображаються позначки чутливості
 
 За допомогою міток чутливості можна класифікувати та захищати вміст делікатного характеру. Вони можуть бути створені в Microsoft 365 центр відповідності, Microsoft 365 Центр безпеки, або Microsoft 365 безпеки & центр відповідності класифікації > чутливість етикетки. Щоб дізнатися більше про цю функцію, перегляньте [Огляд міток чутливості](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Якщо ви налаштували Мітки чутливості, але вони не відображаються в застосунках Office, перевірте наступне:
+Якщо ви налаштували Мітки чутливості, але вони не відображаються в програмах Microsoft 365, перевірте наступне:
 
 - Переконайтеся, що підпис чутливості [Опубліковано](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) користувачам і групам, які ви хочете.
 

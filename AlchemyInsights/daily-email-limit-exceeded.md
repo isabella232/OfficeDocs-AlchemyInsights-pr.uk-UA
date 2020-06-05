@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 5a510f1137c7c49cd1de3d3fd2a470759e37ba1e
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908725"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580354"
 ---
 # <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>Перевищено граничну кількість щоденних повідомлень електронної пошти. Робочий процес призупинено.
 
@@ -27,7 +27,7 @@ ms.locfileid: "43908725"
 - Під час запуску робочого циклу, повідомлення електронної пошти не надіслано, і ви помітите, що така поведінка:
     - Для робочого циклу, використовуючи тип платформи SharePoint 2013, перейдіть на сторінку **стан робочого циклу** . На сторінці стан робочого циклу **внутрішній стан** налаштовано на **початок**, а інформаційна виноска **не може надіслати одержувачу**.
 
-Щоб вирішити цю проблему, настройте робочий цикл для надсилання повідомлень електронної пошти без перевищення [меж відправника Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Наприклад, використовуйте паузу в робочому циклі, надішліть електронний лист до групи Microsoft 365, групи розсилки або пошти з увімкнутою групою безпеки, або надішліть повідомлення менше ніж 200 одержувачам одночасно.
+Щоб вирішити цю проблему, настройте робочий цикл для надсилання повідомлень електронної пошти без перевищення [меж відправника Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). Наприклад, використовуйте паузу в робочому циклі, надішліть електронний лист до групи Microsoft 365, групи розсилки або пошти з увімкнутою групою безпеки або надішліть повідомлення менше ніж 200 одержувачам одночасно.
 
 
 Щоб отримати додаткові відомості, зверніться до такої [статті](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or).

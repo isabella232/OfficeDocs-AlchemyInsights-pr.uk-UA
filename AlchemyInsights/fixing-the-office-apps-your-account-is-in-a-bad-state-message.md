@@ -1,5 +1,5 @@
 ---
-title: Фіксація програм Office обліковий запис перебуває в повідомленні поганий стан
+title: Виправлення Microsoft 365 Apps ваш обліковий запис перебуває в повідомленні поганий стан
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: 5592158c24ae55d712018d6886670fe8e9a794c3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 264307f23a349ef4ebf40f48ddbcddd3216a4927
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499244"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580138"
 ---
-# <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Виправлення помилок програм Office "ваш обліковий запис перебуває в поганому стані"
+# <a name="fixing-the-microsoft-365-apps-your-account-is-in-a-bad-state-error"></a>Виправлення помилки Microsoft 365 "ваш обліковий запис в поганому стані" помилка
 
 Щоб виправити цю помилку, спробуйте на проблемному комп'ютері такі параметри:
 

@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911601"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580318"
 ---
-# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>Видалення сайтів, які належать до групи Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>Видалення сайтів, які належать до групи Microsoft 365
 
 Коли користувачі створюють новий сайт групи з SharePoint Home або створити новий сайт команди з нового центру адміністрування SharePoint, автоматично створюється відповідна Група Microsoft 365. Під час створення Microsoft 365 групи або команди в Microsoft teams також створюються веб-сайти груп, підключених до групи Microsoft 365. Щоб видалити сайт SharePoint, який належить до групи Microsoft 365, потрібно видалити саму групу Microsoft 365. 
   

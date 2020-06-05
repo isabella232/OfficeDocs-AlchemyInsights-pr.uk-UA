@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710932"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580872"
 ---
-# <a name="deploy-office-apps"></a>Розгортання програм Office
+# <a name="deploy-microsoft-365-apps"></a>Розгортання програм Microsoft 365
 
-Для розгортання програм Office для кількох кінцевих користувачів за допомогою засобу розгортання Office Microsoft endPoint Manager, як частина образу диска операційної системи, або у спільному комп'ютері сценарій за допомогою Windows Server з віддаленого робочого стола служби (RDS) або служби терміналів, спробуйте використовувати покрокові інструкції в **Microsoft 365 програм для корпоративного розгортання**.
+Розгортання Microsoft 365 програми для кількох кінцевих користувачів за допомогою засобу розгортання Office, Microsoft кінцевої точки Диспетчер конфігурацій, як частина образу диска операційної системи або у спільному комп'ютері сценарій, використовуючи Windows Server з віддаленого робочого стола служби (RDS) або служби терміналів, спробуйте використовувати покрокові інструкції в **Microsoft 365 програми для корпоративного розгортання**.
   
-Щоб почати роботу, переконайтеся, що ви ввійшли як адміністратор клієнта або Глобальний адміністратор, а потім клацніть тут: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance).
+Щоб почати роботу, переконайтеся, що ви ввійшли як адміністратор клієнта або Глобальний адміністратор, а потім клацніть тут: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   
