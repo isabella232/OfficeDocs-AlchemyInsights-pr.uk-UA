@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512033"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582760"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Пропозиції щодо вирішення помилок "ліцензовано продукту"
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512033"
 - Переконайтеся, що у вас є підписка, яка дозволяє клієнту ліцензії, наприклад, Microsoft 365 Apps для бізнесу або бізнес Premium, і [Переконайтеся, що користувач має ліцензію, призначену](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Переконайтеся, що користувач входу в Office з того самого облікового запису, який має ліцензію, призначену.
 - Перейдіть на [сторінку стану служби](https://docs.microsoft.com/office365/enterprise/view-service-health) , щоб дізнатися, чи є відомі проблеми із службою.
-- Перевірте брандмауер, антивірусне програмне забезпечення та настройки проксі-сервера, щоб підтвердити, що вони не блокують доступ до Інтернету програм Office. Перегляд [URL-адрес і діапазонів IP-адрес](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Перевірте брандмауер, антивірусне програмне забезпечення та настройки проксі-сервера, щоб підтвердити, що вони не блокують програми Microsoft 365 доступ до Інтернету. Перегляд [URL-адрес і діапазонів IP-адрес](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Також можна спробувати такі дії з виправлення неполадок: 
 
