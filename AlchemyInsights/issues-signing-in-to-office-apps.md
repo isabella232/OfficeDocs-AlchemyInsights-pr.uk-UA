@@ -1,5 +1,5 @@
 ---
-title: Питання, ввійшовши до служби Office
+title: Проблеми з входом у програми Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2560"
-ms.openlocfilehash: de0a1b78724db9a8e93d8d599ce3b503abcb86e2
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: e4f2fea5c2f368ae240614ee1f7bc729338dd75d
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938381"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579958"
 ---
-# <a name="fixing-the-office-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Фіксація застосунків Office "На жаль, інший обліковий запис з вашої організації ввійшли у" повідомлення
+# <a name="fixing-the-microsoft-365-apps-sorry-another-account-from-your-organization-is-already-signed-in-message"></a>Виправлення Microsoft 365 Apps "Вибачте, інший обліковий запис з вашої організації вже ввійшли в" повідомлення
 
-Щоб виправити цю помилку, спробуйте наступне:
+Щоб виправити цю помилку, спробуйте виконати наведені нижче дії.
 
-- Видалити всі роботи облікових записів, за винятком постраждалих облікового запису, використовуючи настройки Windows > **доступу роботу або в школі**.
-- [Ясно Office облікові дані](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) за допомогою диспетчера облікових даних Windows.<br/>
-    **Примітка:** 16,0 змінили реєстру доріжки для офісу 2016. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Відкрийте застосунок Office, виберіть " **файл**" > **рахунок** > **Вихід**. Потім увійдіть за допомогою облікового запису користувача з діючою ліцензією. Докладну інформацію переглянути [облікові записи в офісі](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
-- Для Mac див [не вдається ввійти в офісі 2016 для Mac app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
+- Видалити всі робочі облікові записи, крім відповідного облікового запису, за допомогою настройок Windows > **доступ до роботи або школи**.
+- [Очистіть облікові дані Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) за допомогою диспетчера облікових даних Windows.<br/>
+    **Примітка:** Шлях до реєстру для Office 2016 змінено на 16,0. (Напр.: \ програмне забезпеченя \mice\)
+- Відкрийте програму Office **, виберіть**  >  **обліковий запис**для  >  **входу**. Ввійдіть за допомогою облікового запису користувача з дійсною ліцензією. Докладні відомості див. в статті [Облікові записи в Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).
+- Для Mac див. статтю [Не вдається ввійти в програму Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail).
 
-Докладніше, перегляньте ["На жаль, інший обліковий запис з вашої організації вже ввійшли до цього комп'ютера" в офісі](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).
+Для отримання додаткових відомостей див. ["Вибачте, інший обліковий запис з вашої організації вже ввійшли на цьому комп'ютері" в Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in).

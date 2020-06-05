@@ -1,5 +1,5 @@
 ---
-title: 'Office Apps помилка: програма сталася помилка, яка перешкоджає його працювати належним чином'
+title: 'Microsoft 365 програми помилка: застосунок, що сталася помилка, яка перешкоджає його працювати належним чином'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2534"
 - "9000572"
-ms.openlocfilehash: 136dc4285d7aaa12289c2af0e515e0feab0466e9
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 42d499b584f896a73cd94f3a3eaa60a1220ea420
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886623"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576833"
 ---
-# <a name="office-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Office Apps помилка: програма сталася помилка, яка перешкоджає його працювати належним чином
+# <a name="microsoft-365-apps-error-app-has-run-into-an-error-that-is-preventing-it-from-working-correctly"></a>Microsoft 365 програми помилка: застосунок, що сталася помилка, яка перешкоджає його працювати належним чином
 
 Щоб виправити цю помилку, спробуйте такі параметри:
 
@@ -29,8 +29,8 @@ ms.locfileid: "40886623"
 
 **Примітка:** Якщо проблема виникає з певними документами, ці документи можуть бути пошкоджені. Дізнайтеся [, як усунути неполадки з пошкодженими документами](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 
-у перелічених нижче статтях. 
+Докладні відомості: 
 
-- [Помилка під час відкриття програм Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Помилка під час відкриття Microsoft Microsoft 365 Apps](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Я отримую помилку "перестав працювати" під час запуску програм Office на ПК](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Виправлення неполадок, які виникають під час запуску або використання програм Office](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Виправлення неполадок, які виникають під час запуску або використання програм Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)

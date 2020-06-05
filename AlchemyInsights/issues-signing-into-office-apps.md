@@ -1,5 +1,5 @@
 ---
-title: Питання, ввійшовши до служби Office
+title: Проблеми з входом у програми Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 5f500ecf1f779fb1be4d257fd050a3ad054087dc
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: 4e7612562d036f1c717817d3c883d6df80f86e2f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35938384"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44579886"
 ---
-# <a name="fixing-the-office-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Фіксація Office apps "модуля TPM надійних ваш комп'ютер працює неправильно" повідомлення
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>Виправлення програми Microsoft 365, "довірений платформи модуль не функціонує належним чином" повідомлення
 
-Щоб виправити цю помилку, спробуйте наступне:
+Щоб виправити цю помилку, спробуйте виконати наведені нижче дії.
 
 - Інсталюйте останні оновлення для [Windows](https://support.microsoft.com/help/4027667/windows-10-update) і [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [Ясно Office облікові дані](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) за допомогою диспетчера облікових даних Windows.<br/>
-    **Примітка:** 16,0 змінили реєстру доріжки для офісу 2016. (Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
-- Повторіть [процес відновлення користувача](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) виправити надійні платформи модуля TPM невдач.
-- Встановити в EnableADAL = 0, виконавши наведені нижче дії:  
-    1. Клацніть правою кнопкою миші кнопку Windows Пуск, виберіть **виконати**, введіть **regedit**а потім виберіть **ОК**.
-    2. Виберіть, **так** щоб дозволити редактор реєстру для внесення змін до пристрою.
-    3. У редакторі реєстру додайте значення DWORD з **EnableADAL** з значення **0** під HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
+- [Очистіть облікові дані Office](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) за допомогою диспетчера облікових даних Windows.<br/>
+    **Примітка:** Шлях до реєстру для Office 2016 змінено на 16,0. (Напр.: \ програмне забезпеченя \mice\)
+- Спробуйте [процес відновлення користувача](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) , щоб виправити НЕПОЛАДКИ модуля TPM.
+- Встановіть EnableADAL = 0, виконавши наступні кроки:  
+    1. Клацніть правою кнопкою миші кнопку Пуск Windows, виберіть **запустити**, введіть **Regedit**і натисніть кнопку **OK**.
+    2. Виберіть **так** , щоб дозволити редактору реєстру вносити зміни до пристрою.
+    3. У редакторі реєстру, додайте значення DWORD з **EnableADAL** параметр **0** , у розділі HKEY_CURRENT_USER \ програмне Забезпечена\mice\foot\16.0\ind\idat.
 
-Докладніше перегляньте [підключення проблеми у входу після оновлення до Office 2016 побудувати 16.0.7967 на версії 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+Щоб отримати додаткові відомості див [проблеми з підключенням після оновлення до Office 2016, створення 16.0.7967 на Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

@@ -1,9 +1,9 @@
 ---
-title: 1332 OWA - вхідні правила не виконуєте для поштової скриньки
+title: 1332 OWA-правило для папки "Вхідні" (и) не виконує для поштової скриньки
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,26 +12,26 @@ ms.custom:
 - "1332"
 - "3700002"
 ms.assetid: 383d1c77-5e4b-4a69-92d6-c404d890b6b7
-ms.openlocfilehash: 901237d4dc7b99695097142c61a4bfef7c09750d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9abdcdcb33d39b8b9fe2df80f0c15a8b55e465fd
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555794"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576581"
 ---
-# <a name="an-inbox-rule-doesnt-work-as-expected"></a>Вхідні правило не працює належним чином
+# <a name="an-inbox-rule-doesnt-work-as-expected"></a>Правило для папки "Вхідні" не працює належним чином
 
-Перевірте такі параметри в Outlook в Інтернеті:
+Перевірте наведені нижче параметри в Outlook, в Інтернеті:
 
-- Можна переспрямувати повідомлення, пересиланню чи була надіслана відповідь, автоматично заснований на правилах вхідної тільки один раз. Переспрямування правило (правило для вхідних повідомлень або правило потік пошти, також відомі як правила транспортування) можна додати максимум десять пересилання одержувачам повідомлення. Докладніше перегляньте [журнал, транспорту і «вхідні» правилом меж](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
+- Повідомлення може бути переадресовано, переслано або долучено до нього автоматично на основі правил вхідних повідомлень лише один раз. Правило переспрямування (правило "Вхідні" або правило потоку пошти, також відоме як правило транспортування) може додати до повідомлення щонайбільше десять одержувачів пересилання. Щоб отримати додаткові відомості, перегляньте [обмеження правил журналу, транспорту та папки "Вхідні"](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
 
-- Правила для папки «Вхідні» не працюють на поштову скриньку альтернативний журналів. Докладніше про поштової скриньки протоколювання альтернативний побачити [Альтернативний журнальної поштової скриньки](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox).
+- Правила для папки "Вхідні", не працюють на альтернативні журналювання поштової скриньки. Щоб отримати додаткові відомості про альтернативні журналювання поштова скринька, [див.](https://docs.microsoft.com/Exchange/security-and-compliance/journaling/journaling#alternate-journaling-mailbox)
 
-Для усунення цих проблем, побачити [2829319 КБ](https://support.microsoft.com/kb/2829319).
+Щоб вирішити ці проблеми, див. [KB 2829319](https://support.microsoft.com/kb/2829319).
 
-Якщо не застосовувати попередніх випусків, запустити папки «Вхідні» правилом діагностичний звіт перед ескалації питання до служби підтримки Microsoft:
+Якщо попередні проблеми не застосовуються, запустіть звіт "правило" для діагностики "Вхідні", перш ніж перехід до проблеми служби підтримки Microsoft:
 
-1. Відкриття поштової скриньки в Outlook в Інтернеті та кнопку <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Налаштування** > **Переглянути всі настройки Outlook** > **пошти** > **правил**.
+1. Відкрийте поштову скриньку в Outlook, в Інтернеті та натисніть кнопку <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Налаштуваннях**  >  **Переглянути всі налаштування Outlook**  >  **Пошти**  >  **Правилами**.
 
-2. У нижній частині сторінки натисніть, **Якщо правила не працюють натисніть тут, щоб створити діагностичний звіт**.
+2. Унизу сторінки натисніть кнопку **, якщо правила не працюють, клацніть тут, щоб створити діагностичний звіт**.
