@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom:
 - "3518"
 - "1800021"
-ms.openlocfilehash: ecc1e5ec741cc90c58698991c3a3135f87c39938
-ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
+ms.openlocfilehash: c0982da82826d1644f437b19e0d343a59d7ac473
+ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
 ms.translationtype: MT
 ms.contentlocale: uk-UA
 ms.lasthandoff: 06/09/2020
-ms.locfileid: "44618034"
+ms.locfileid: "44664267"
 ---
 # <a name="error-the-rules-on-this-computer-do-not-match"></a>Помилка: правила на цьому комп'ютері не збігаються
 
@@ -28,3 +28,4 @@ ms.locfileid: "44618034"
 **Тимчасове рішення**: у останніх звітах виникла проблема для тих, які мають лише створені клієнтські правила в Outlook Desktop. Якщо ви продовжуєте працювати з цією проблемою, спробуйте видалити правила, а потім створити та редагувати правила лише в OWA (веб-застосунок Outlook Web App), доки проблему не буде усунуто.
 
 Якщо ви не можете видалити правила вручну, ви можете запустити команду Outlook під час запуску Outlook, запустивши Outlook. exe/чищення. Це видалить правила клієнта та сервера. Він видалить Усі правила для всіх облікових записів у профілі Outlook. Ця команда, Далі описано у статті командного рядка, перемикачі.
+
