@@ -13,20 +13,20 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010861"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44618003"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft teams, інстальованих за допомогою оновлень Office
 
 Microsoft teams входить до складу ***нових інсталяцій*** Microsoft 365 Apps для підприємств, Microsoft 365 Apps для бізнесу та Office for Mac. Для отримання додаткових відомостей див. [коли Microsoft teams почне включати нові установки Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Крім того, починаючи з версії 1906 в щомісячному каналі, команди будуть поступово додані до ***існуючих установок*** Microsoft 365 додатків для підприємств (і Microsoft 365 Apps для бізнесу) на пристроях під управлінням Windows, коли ви оновлюєте існуючу інсталяцію до останньої версії. Щоб дізнатися більше, перегляньте відомості [про існуючі інсталяції Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Крім того, починаючи з версії 1906 в поточному каналі, команди буде поступово додано до ***існуючих інсталяції*** Microsoft 365 програми для підприємств (і Microsoft 365 програми для бізнесу) на пристроях під керуванням Windows, під час оновлення наявної інсталяції до останньої версії. Щоб дізнатися більше, перегляньте відомості [про існуючі інсталяції Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Примітка:** Якщо ви не хочете чекати цього розкладу розгортання, ви можете розгорнути робочі групи як автономні для ваших користувачів, [дотримуючись цих вказівок](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), або ви можете мати користувачів встановлювати команди для себе https://teams.microsoft.com/downloads.
+**Примітка:** Якщо ви не хочете чекати цього розкладу розгортання, ви можете розгорнути робочі групи як автономні для ваших користувачів, [дотримуючись цих вказівок](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), або ви можете мати користувачів встановлювати команди для себе https://teams.microsoft.com/downloads .
 
 Якщо ваша організація не готова розгортати teams, ви можете ***виключити команди*** з [нових](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) або [існуючих](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) інсталяцій Office. Якщо потрібно інсталювати групи, але не потрібно, щоб команди автоматично запускаються після інсталяції користувача, перегляньте команду [заборонити автоматичний запуск Microsoft teams після інсталяції](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
