@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049070"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667869"
 ---
 # <a name="manage-your-onedrive-storage"></a>Керування сховищем у сховищі OneDrive
 
-Простір зберігання OneDrive не враховуються до загальної квоти клієнта. 
+Ви можете керувати своїм OneDrive для бізнесу, щоб дізнатися, скільки місця ви використовуєте, і звільнити місце.  Для отримання додаткової інформації відвідайте посилання нижче.
 
-Дізнайтеся [, як простір зберігання OneDrive виділяється на користувача/план](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Дізнайтеся [, який обсяг сховища ви використовуєте у вашому OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Дізнайтеся [, як отримати квоту сховища OneDrive за допомогою PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-Корпорація Майкрософт спочатку надаватиме 1 ТБ на користувача, адміністратори можуть збільшити до 5 ТБ на одного користувача. Дізнайтеся, як [встановити місце для зберігання за промовчанням для користувачів OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Дізнайтеся [, як змінити місце зберігання OneDrive певного користувача](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Дізнайтеся, [як глобальні адміністратори можуть встановити квоту сховища OneDrive для всіх користувачів за допомогою PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [Керування сховищем OneDrive для бізнесу](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Змінення простору зберігання OneDrive для певного користувача](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Установлення дискового простору за промовчанням для користувачів OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
