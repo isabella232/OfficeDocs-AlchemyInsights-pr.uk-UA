@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021519"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702227"
 ---
 # <a name="teams-outlook-add-in"></a>Команди надбудови Outlook
 
-Існує кілька чинників, які можуть призвести до надбудови для робочих груп, які не відображатимуться, і всі вони перелічені [тут](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+Для виправлення неполадок, відсутніх команд надбудови Outlook, спочатку переконайтеся, що для запуску служби діагностики тут, на порталі адміністратора.  Якщо служба діагностики не вказує на проблеми, перейдіть до завантажити та запустити [Microsoft підтримки та відновлення помічник](https://aka.ms/SaRA-TeamsAddInScenario) **команди Outlook надбудова сценарій** на комп'ютерах, які задіяні користувача для діагностики та виправлення будь-які проблеми з клієнтом.
 
-**Радимо спершу перевірити, що надбудову не вимкнено:**
-
-- В Outlook клацніть **файл** і потім **Параметри**.
-- Виберіть вкладку **надбудови** , **Параметри Outlook** діалогове вікно.
-- Переконайтеся, що **Microsoft teams наради надбудова для Microsoft Office** , перелічених у списку **активних надбудови застосунків** .
-- Якщо надбудови teams нарад зазначено у списку **вимкнуті надбудови застосунків** , виберіть пункт Надбудови **com** у **керуванні** та натисніть кнопку **перейти...**
-- Установіть прапорець поруч із пунктом **надбудови для нарад Microsoft teams для Microsoft Office**.
-- Натисніть кнопку **"ОК"** у всіх діалогових вікнах і перезапустіть програму Outlook.
+Щоб усунути цю проблему вручну, перегляньте список потенційних факторів, які можуть призвести до надбудови для робочих груп, які не відображаються [тут](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
