@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: e2dcca1295e37007593b34c2d818ad1d1133e4a1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bd2901580acdb1dc17f3e14a7a9356b07e70f910
+ms.sourcegitcommit: bf6a0e80d09aebae19b9e993c2552b88e49177c9
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676554"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "44750991"
 ---
-# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Обов'язковий Алхімія заголовок H1, H2's не працюють.
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>"Обов'язковий Алхімія заголовок H1, H2's не працюють."
 Кращі практики та керівні принципи для алхімії авторська:
 
 1. **Чи не гніздо Алхімія розуміння в папках**-це буде порушувати структуру URL. Ми дивимося в фіксації цього.
