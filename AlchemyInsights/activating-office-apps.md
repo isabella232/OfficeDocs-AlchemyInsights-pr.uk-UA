@@ -1,5 +1,5 @@
 ---
-title: Активація програм Office
+title: Активація програм Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,35 +11,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 192153f10d7f2267dc8ce86a6f455dc3bca55402
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
+ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682569"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735233"
 ---
-# <a name="activating-office-apps"></a><span data-ttu-id="4d9b8-102">Активація програм Office</span><span class="sxs-lookup"><span data-stu-id="4d9b8-102">Activating Office apps</span></span>
+# <a name="activating-microsoft-365-apps"></a><span data-ttu-id="bbe94-102">Активація програм Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="bbe94-102">Activating Microsoft 365 apps</span></span>
 
-<span data-ttu-id="4d9b8-103">Щоб активувати пакет Office, див. статтю:</span><span class="sxs-lookup"><span data-stu-id="4d9b8-103">To activate Office, see:</span></span>
+<span data-ttu-id="bbe94-103">Щоб активувати пакет Office, див. статтю:</span><span class="sxs-lookup"><span data-stu-id="bbe94-103">To activate Office, see:</span></span>
 
-- [<span data-ttu-id="4d9b8-104">Активація Office на ПК</span><span class="sxs-lookup"><span data-stu-id="4d9b8-104">Activate Office on a PC</span></span>](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
+- [<span data-ttu-id="bbe94-104">Активація Office на ПК</span><span class="sxs-lookup"><span data-stu-id="bbe94-104">Activate Office on a PC</span></span>](https://support.office.com/article/activate-office-5bd38f38-db92-448b-a982-ad170b1e187e) 
 
-- [<span data-ttu-id="4d9b8-105">Активація Office на Mac</span><span class="sxs-lookup"><span data-stu-id="4d9b8-105">Activate Office on a Mac</span></span>](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
+- [<span data-ttu-id="bbe94-105">Активація Office на Mac</span><span class="sxs-lookup"><span data-stu-id="bbe94-105">Activate Office on a Mac</span></span>](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-<span data-ttu-id="4d9b8-106">Щоб вирішити проблеми з активацією Office, див. статтю: </span><span class="sxs-lookup"><span data-stu-id="4d9b8-106">To fix Office activation issues, see:</span></span>
+<span data-ttu-id="bbe94-106">**Примітка:**  Переконайтеся, що у вас є Передплата Office 365 або Microsoft 365, яка [включає клієнтські програми Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), наприклад, Microsoft 365 бізнес-стандарт, Microsoft 365 програми для бізнесу або програми Microsoft 365 для підприємств.</span><span class="sxs-lookup"><span data-stu-id="bbe94-106">**Note:**  Ensure you have an Office 365 or Microsoft 365 subscription that [includes Office client apps](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), e.g., Microsoft 365 Business Standard, Microsoft 365 Apps for business, or Microsoft 365 Apps for enterprise.</span></span> <span data-ttu-id="bbe94-107">Крім того, переконайтеся, що обліковий запис користувача, який використовується для входу до програм Office, має [ліцензію, призначену](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span><span class="sxs-lookup"><span data-stu-id="bbe94-107">Additionally, ensure that the user account you are using to sign-in to Office apps has [a license assigned](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).</span></span>
 
-- [<span data-ttu-id="4d9b8-107">Помилки, пов’язані з неліцензованим продуктом і активацією в Office</span><span class="sxs-lookup"><span data-stu-id="4d9b8-107">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+<span data-ttu-id="bbe94-108">Щоб вирішити проблеми з активацією Office, див. статтю: </span><span class="sxs-lookup"><span data-stu-id="bbe94-108">To fix Office activation issues, see:</span></span>
 
-- [<span data-ttu-id="4d9b8-108">Поради для випадків, коли не вдається інсталювати або активувати пакет Office для Mac</span><span class="sxs-lookup"><span data-stu-id="4d9b8-108">What to try if you can't install or activate Office for Mac</span></span>](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+- <span data-ttu-id="bbe94-109">Запустіть [Засіб усунення неполадок активації](https://aka.ms/SARA-OfficeActivation-Alchemy) і перезавантажте комп'ютер.</span><span class="sxs-lookup"><span data-stu-id="bbe94-109">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
+- [<span data-ttu-id="bbe94-110">Помилки, пов’язані з неліцензованим продуктом і активацією в Office</span><span class="sxs-lookup"><span data-stu-id="bbe94-110">Unlicensed Product and activation errors in Office</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
-<span data-ttu-id="4d9b8-109">Якщо ви нещодавно змінили обліковий запис або передплату Office, виконайте наведені нижче дії, щоб вирішити проблеми з активацією.</span><span class="sxs-lookup"><span data-stu-id="4d9b8-109">If you recently switched accounts or Office subscriptions, then follow the steps below to fix activation issues:</span></span>
+- [<span data-ttu-id="bbe94-111">Поради для випадків, коли не вдається інсталювати або активувати пакет Office для Mac</span><span class="sxs-lookup"><span data-stu-id="bbe94-111">What to try if you can't install or activate Office for Mac</span></span>](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-1. <span data-ttu-id="4d9b8-110">Відкрийте програму Office і [вийдіть](https://go.microsoft.com/fwlink/?linkid=2114082) з усіх облікових записів.</span><span class="sxs-lookup"><span data-stu-id="4d9b8-110">Open an Office app, and [Sign Out](https://go.microsoft.com/fwlink/?linkid=2114082) of any existing user accounts.</span></span>
+<span data-ttu-id="bbe94-112">Якщо ви не можете ввійти в Microsoft 365 Apps, виконайте наступні дії:</span><span class="sxs-lookup"><span data-stu-id="bbe94-112">If you are unable to sign-in to Microsoft 365 apps, then follow the steps below:</span></span>
 
-2. <span data-ttu-id="4d9b8-111">Виберіть **Параметри Windows > Облікові записи > Електронна пошта та облікові записи** і видаліть застарілі або непотрібні робочі облікові записи.</span><span class="sxs-lookup"><span data-stu-id="4d9b8-111">Using Windows **Settings > Accounts > Email & Accounts**, remove old or unused work accounts.</span></span>
+1. <span data-ttu-id="bbe94-113">Відкрийте програму Office і [вийдіть](https://go.microsoft.com/fwlink/?linkid=2114082) з усіх облікових записів.</span><span class="sxs-lookup"><span data-stu-id="bbe94-113">Open an Office app, and [Sign Out](https://go.microsoft.com/fwlink/?linkid=2114082) of any existing user accounts.</span></span>
 
-3. <span data-ttu-id="4d9b8-112">Виберіть **Параметри Windows > Облікові записи > Доступ до компанії або навчального закладу** і відключіть застарілі або непотрібні робочі облікові записи.</span><span class="sxs-lookup"><span data-stu-id="4d9b8-112">Using Windows **Settings > Accounts > Access work or school**, disconnect old or unused work accounts</span></span>
+2. <span data-ttu-id="bbe94-114">Виберіть **Параметри Windows > Облікові записи > Електронна пошта та облікові записи** і видаліть застарілі або непотрібні робочі облікові записи.</span><span class="sxs-lookup"><span data-stu-id="bbe94-114">Using Windows **Settings > Accounts > Email & Accounts**, remove old or unused work accounts.</span></span>
 
-4. <span data-ttu-id="4d9b8-113">[Скиньте стан активації Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), а потім [виконайте вхід у програми Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426), використовуючи новий обліковий запис.</span><span class="sxs-lookup"><span data-stu-id="4d9b8-113">[Reset Office activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) and then [Sign in to Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Apps using the new account.</span></span>
+3. <span data-ttu-id="bbe94-115">Виберіть **Параметри Windows > Облікові записи > Доступ до компанії або навчального закладу** і відключіть застарілі або непотрібні робочі облікові записи.</span><span class="sxs-lookup"><span data-stu-id="bbe94-115">Using Windows **Settings > Accounts > Access work or school**, disconnect old or unused work accounts</span></span>
 
-<span data-ttu-id="4d9b8-114">Відомості про додаткові способи виправлення неполадок див. в статті [Повідомлення, що стосується передплати, відображається під час відкриття програми Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="4d9b8-114">For additional troubleshooting actions, see [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>
+4. <span data-ttu-id="bbe94-116">[Скиньте стан активації Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), а потім [виконайте вхід у програми Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426), використовуючи новий обліковий запис.</span><span class="sxs-lookup"><span data-stu-id="bbe94-116">[Reset Office activation state](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) and then [Sign in to Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Apps using the new account.</span></span>
+
+<span data-ttu-id="bbe94-117">Відомості про додаткові способи виправлення неполадок див. в статті [Повідомлення, що стосується передплати, відображається під час відкриття програми Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="bbe94-117">For additional troubleshooting actions, see [A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>
