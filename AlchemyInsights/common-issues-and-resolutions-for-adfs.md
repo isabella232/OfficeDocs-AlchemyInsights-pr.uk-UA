@@ -11,21 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
+ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706222"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44797992"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Поширені проблеми та способи їх вирішення для ADFS
 
 Конфігурацію федеративного домену можна оновлювати, як описано в наступних статтях бази знань Microsoft.
 
-- [2713898](https://support.microsoft.com/help/2713898) Помилка "Не вдалося отримати доступ до сайту" з ADFS, під час входу федеративних користувачів в Office 365, Azure або Intune.
+- [Сертифікат ADFS Федерації закінчується](adfs-federation-certificate-expiring.md)
 
-- [2535191](https://support.microsoft.com/help/2535191) Помилки "Виникла проблема з входом" і "80048163", під час спроби входу федеративного користувача в Office 365, Azure або Intune.
+- [2713898](https://support.microsoft.com/help/2713898) "сталася помилка під час доступу до сайту" повідомлення про помилку з AD FS, коли інтегрований користувач входить до Microsoft 365, Azure або InTune.
 
-- [2647020](https://support.microsoft.com/help/2647020) Помилки "Виникла проблема з входом" і "80041317" або "80043431", під час спроби входу федеративного користувача в Office 365, Azure або Intune.
+- [2535191](https://support.microsoft.com/help/2535191) "Вибачте, але у нас виникають проблеми з входом" і "80048163" помилка під час входу до Microsoft 365, Azure або InTune федеративного користувача.
 
-Докладні відомості див. в статті [Оновлення або відновлення параметрів федеративного домену в Office 365, Azure або Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+- [2647020](https://support.microsoft.com/help/2647020) "Вибачте, але у нас виникають проблеми з входом" і "80041317" або "80043431" помилка під час входу до Microsoft 365, Azure або InTune федеративного користувача.
+
+Щоб отримати додаткові відомості див., [оновлення або відновлення параметрів федеративного домену, у Microsoft 365, Azure або InTune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
