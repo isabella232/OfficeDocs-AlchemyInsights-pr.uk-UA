@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915263"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841020"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>Налаштування передплати на Microsoft 365 Education
 
@@ -24,6 +24,5 @@ ms.locfileid: "43915263"
 
 **Додаткові ресурси**
 
-- Огляд налаштування див. у статті [Налаштування клієнта Office 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant).
-- Перегляньте статтю [Початок роботи з Microsoft 365 Education](https://docs.microsoft.com/education/) для ІТ-адміністраторів, розробників і партнерів. 
-- [Пов'яжіть свій обліковий запис Microsoft Store з Intune для навчальних закладів](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- Перегляньте [, як створити обліковий запис клієнта Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) для огляду.
+- Дивіться [початок роботи з Microsoft 365 освіта](https://docs.microsoft.com/education/) для ІТ-адміністраторів, розробників і партнерів.
