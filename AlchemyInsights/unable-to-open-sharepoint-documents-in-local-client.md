@@ -11,14 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: ae577b33c37d597477582c6e6ac45304548f97b4
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44358413"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841092"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a><span data-ttu-id="ab58d-102">Не вдалося відкрити SharePoint документи локальний клієнт</span><span class="sxs-lookup"><span data-stu-id="ab58d-102">Unable to open Sharepoint documents in local client</span></span>
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a><span data-ttu-id="9d017-102">Не вдалося відкрити SharePoint документи локальний клієнт</span><span class="sxs-lookup"><span data-stu-id="9d017-102">Unable to open SharePoint documents in local client</span></span>
 
-<span data-ttu-id="ab58d-103">Іноді вам може виникнути труднощі з відкриттям файлів Office і документами з SharePoint у своїх клієнтах місцевого офісу.</span><span class="sxs-lookup"><span data-stu-id="ab58d-103">At times you may have difficulty opening Office files and documents from SharePoint in your local Office clients.</span></span>
-- [<span data-ttu-id="ab58d-104">Не вдається відкрити файли Office з SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="ab58d-104">Can't open Office files from SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+<span data-ttu-id="9d017-103">Іноді вам може виникнути труднощі з відкриттям файлів Office і документами з SharePoint або OneDrive з клієнтів місцевого офісу.</span><span class="sxs-lookup"><span data-stu-id="9d017-103">At times you may have difficulty opening Office files and documents from SharePoint or OneDrive from your local Office clients.</span></span>
+
+- [<span data-ttu-id="9d017-104">Не вдається відкрити файли Office з SharePoint або OneDrive</span><span class="sxs-lookup"><span data-stu-id="9d017-104">Can't open Office files from SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
