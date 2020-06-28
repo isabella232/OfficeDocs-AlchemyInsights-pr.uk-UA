@@ -22,8 +22,8 @@ ms.locfileid: "43944558"
 
 Дізнайтеся про [ліміти сховищ поштових скриньок](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) у **передплатах на Microsoft 365** і [ліміти сховищ поштових скриньок](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#storage-limits-across-standalone-plans) в автономних планах. 
 
-**Примітка**: для спільних поштових скриньок потрібно мати ліцензію на Exchange Online. Без ліцензії ліміт для спільних поштових скриньок становить 50 ГБ. Щоб збільшити ліміт до 100 ГБ, спільну поштову скриньку потрібно призначити ліцензії на Exchange Online (план 2) або Exchange Online (план 1) із ліцензію на додатковий компонент Exchange Online Archiving.
+**Примітка**: для спільних поштових скриньок потрібно мати ліцензію на Exchange Online. Без ліцензії ліміт для спільних поштових скриньок становить 50 ГБ. Щоб збільшити ліміт до 100 ГБ, спільну поштову скриньку потрібно призначити для ліцензії на Exchange Online (план 2) або Exchange Online (план 1) із ліцензію на доповнення "Архівація Exchange Online".
 
-Якщо ви хочете **змінити свою передплату або план** так, щоб отримати додатковий простір у сховищі, див. статтю [Зміна планів Microsoft 365 для бізнесу вручну](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+Якщо ви хочете **змінити свою передплату або план**, щоб отримати додатковий простір у сховищі, див. статтю [Зміна планів Microsoft 365 для бізнесу вручну](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 
 Додаткові відомості див. в статті [Ліміти Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits).
