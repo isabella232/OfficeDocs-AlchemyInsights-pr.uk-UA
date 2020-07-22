@@ -13,15 +13,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 81d9e74652b20d2bbae6cae581cc31fdc33e82da
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5a067cf5981e08c5938a48659a5254c43df17dcb
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705826"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205324"
 ---
 # <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Підключення до Exchange Online PowerShell, коли МЗС увімкнуто
 
-Якщо обліковий запис, має багатофакторну автентифікацію (МЗС) увімкнуто, потрібно виконати наведені нижче дії, щоб підключитися до Exchange Online PowerShell: [підключення до Exchange Online PowerShell, використовуючи багатофакторну автентифікацію](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).
-
-**Примітка**: навіть якщо ви підключені до Exchange Online PowerShell в минулому, використовуючи [регулярні інструкції з підключення](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), вам потрібно використовувати інструкції з підключення МЗС, після того, як МЗС було активовано для вашого облікового запису.
+Якщо обліковий запис, має багатофакторну автентифікацію (МЗС) увімкнуто, потрібно виконати наведені нижче дії, щоб підключитися до Exchange Online PowerShell: [використання Exchange Online PowerShell з сучасною автентифікацією, використовуючи V2 модуль](https://aka.ms/exops-docs). Будь ласка, шукайте МЗС/Multi фактора аутентифікації інструкцій на цій сторінці.
