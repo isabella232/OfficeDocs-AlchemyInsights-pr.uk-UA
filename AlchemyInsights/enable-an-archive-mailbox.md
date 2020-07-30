@@ -10,47 +10,49 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2659bbc8b293e6fe1244753ea179258e12281acf
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507047"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522756"
 ---
-# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="c5e0b-102">Увімкнути архівну поштову скриньку</span><span class="sxs-lookup"><span data-stu-id="c5e0b-102">Enable an archive mailbox</span></span>
+# <a name="enable-an-archive-mailbox"></a><span data-ttu-id="15500-102">Увімкнути архівну поштову скриньку</span><span class="sxs-lookup"><span data-stu-id="15500-102">Enable an archive mailbox</span></span>
 
-<span data-ttu-id="c5e0b-103">Поштові скриньки архіву в Microsoft 365 (також звані *онлайн-архіви* або *архіви на місці*) надають користувачам додаткове сховище електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-103">Archive mailboxes in Microsoft 365 (also called *Online Archives* or *In-Place Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="c5e0b-104">Користувачі можуть переміщувати або копіювати елементи до поштової скриньки архіву, а адміністратори можуть створити політику архівування, яка автоматично переміщує елементи до поштових скриньок архіву.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-104">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
+<span data-ttu-id="15500-103">Якщо ви хочете, щоб ми запустити автоматизовані перевірки, щоб забезпечити поштову скриньку архіву можна налаштувати, натисніть кнопку назад <--у верхній частині цієї сторінки, а потім введіть адресу електронної пошти облікового запису.</span><span class="sxs-lookup"><span data-stu-id="15500-103">If you want us to run automated checks to ensure an archive mailbox can be configured, select the back button <-- at the top of this page, and then enter the email address of the account.</span></span>
+
+<span data-ttu-id="15500-104">Поштові скриньки архіву в Microsoft 365 (також звані *онлайн-архіви* або *архіви на місці*) надають користувачам додаткове сховище електронної пошти.</span><span class="sxs-lookup"><span data-stu-id="15500-104">Archive mailboxes in Microsoft 365 (also called *Online Archives* or *In-Place Archives*) provide users with additional email storage.</span></span> <span data-ttu-id="15500-105">Користувачі можуть переміщувати або копіювати елементи до поштової скриньки архіву, а адміністратори можуть створити політику архівування, яка автоматично переміщує елементи до поштових скриньок архіву.</span><span class="sxs-lookup"><span data-stu-id="15500-105">Users can move or copy items to their archive mailbox, and admins can create an archive policy that automatically moves items to archive mailboxes.</span></span>
   
-<span data-ttu-id="c5e0b-105">Щоб створити поштову скриньку архіву:</span><span class="sxs-lookup"><span data-stu-id="c5e0b-105">Here's how to create an archive mailbox:</span></span>
+<span data-ttu-id="15500-106">Щоб створити поштову скриньку архіву:</span><span class="sxs-lookup"><span data-stu-id="15500-106">Here's how to create an archive mailbox:</span></span>
   
-1. <span data-ttu-id="c5e0b-106">Перейти [https://protection.office.com](https://protection.office.com) .</span><span class="sxs-lookup"><span data-stu-id="c5e0b-106">Go to [https://protection.office.com](https://protection.office.com).</span></span>
+1. <span data-ttu-id="15500-107">Перейти [https://protection.office.com](https://protection.office.com) .</span><span class="sxs-lookup"><span data-stu-id="15500-107">Go to [https://protection.office.com](https://protection.office.com).</span></span>
 
-2. <span data-ttu-id="c5e0b-107">Увійдіть до Microsoft 365 за допомогою облікового запису адміністратора.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-107">Sign in to Microsoft 365 using your admin account.</span></span>
+2. <span data-ttu-id="15500-108">Увійдіть до Microsoft 365 за допомогою облікового запису адміністратора.</span><span class="sxs-lookup"><span data-stu-id="15500-108">Sign in to Microsoft 365 using your admin account.</span></span>
 
-3. <span data-ttu-id="c5e0b-108">У лівій області &amp; центру дотримання безпеки виберіть пункт Архів **інформаційних управління** \> **Archive**.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-108">In the left pane of the Security &amp; Compliance Center, select **Information governance** \> **Archive**.</span></span>
+3. <span data-ttu-id="15500-109">У лівій області &amp; центру дотримання безпеки виберіть пункт Архів **інформаційних управління** \> **Archive**.</span><span class="sxs-lookup"><span data-stu-id="15500-109">In the left pane of the Security &amp; Compliance Center, select **Information governance** \> **Archive**.</span></span>
 
-4. <span data-ttu-id="c5e0b-109">Виберіть користувача, для якого потрібно ввімкнути поштову скриньку архіву.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-109">Select the user whose archive mailbox you want to enable.</span></span>
+4. <span data-ttu-id="15500-110">Виберіть користувача, для якого потрібно ввімкнути поштову скриньку архіву.</span><span class="sxs-lookup"><span data-stu-id="15500-110">Select the user whose archive mailbox you want to enable.</span></span>
 
-5. <span data-ttu-id="c5e0b-110">В області відомостей праворуч натисніть кнопку **Увімкнути** та натисніть кнопку **так** у попередженні, щоб увімкнути поштову скриньку архіву.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-110">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
+5. <span data-ttu-id="15500-111">В області відомостей праворуч натисніть кнопку **Увімкнути** та натисніть кнопку **так** у попередженні, щоб увімкнути поштову скриньку архіву.</span><span class="sxs-lookup"><span data-stu-id="15500-111">In the details pane on the right, click **Enable** and then click **Yes** in the warning message to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="c5e0b-111">Можна також використовувати групові поштові скриньки архіву, вибравши кілька користувачів (за допомогою клавіш **Shift** або **Ctrl** ) і натиснувши **Увімкнути** в області відомостей.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-111">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
+<span data-ttu-id="15500-112">Можна також використовувати групові поштові скриньки архіву, вибравши кілька користувачів (за допомогою клавіш **Shift** або **Ctrl** ) і натиснувши **Увімкнути** в області відомостей.</span><span class="sxs-lookup"><span data-stu-id="15500-112">You can also bulk-enable archive mailboxes by selecting multiple users (using the **Shift** or **Ctrl** keys) and then clicking **Enable** in the details pane.</span></span>
   
-### <a name="shared-mailboxes"></a><span data-ttu-id="c5e0b-112">Спільні поштові скриньки</span><span class="sxs-lookup"><span data-stu-id="c5e0b-112">Shared mailboxes</span></span>
+### <a name="shared-mailboxes"></a><span data-ttu-id="15500-113">Спільні поштові скриньки</span><span class="sxs-lookup"><span data-stu-id="15500-113">Shared mailboxes</span></span>
 
-<span data-ttu-id="c5e0b-113">Щоб увімкнути Архів для спільної поштової скриньки, ліцензія на Exchange Online-план 2 або ліцензія на Exchange Online-план 1 з ліцензією Exchange Online архівації не потрібно.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-113">To enable the archive for a shared mailbox, an Exchange Online Plan 2 license or an Exchange Online Plan 1 license with an Exchange Online Archiving license is required.</span></span>  
+<span data-ttu-id="15500-114">Щоб увімкнути Архів для спільної поштової скриньки, ліцензія на Exchange Online-план 2 або ліцензія на Exchange Online-план 1 з ліцензією Exchange Online архівації не потрібно.</span><span class="sxs-lookup"><span data-stu-id="15500-114">To enable the archive for a shared mailbox, an Exchange Online Plan 2 license or an Exchange Online Plan 1 license with an Exchange Online Archiving license is required.</span></span>  
 
-<span data-ttu-id="c5e0b-114">Щоб увімкнути Архів для спільної поштової скриньки:</span><span class="sxs-lookup"><span data-stu-id="c5e0b-114">To enable the archive for a shared mailbox:</span></span>
+<span data-ttu-id="15500-115">Щоб увімкнути Архів для спільної поштової скриньки:</span><span class="sxs-lookup"><span data-stu-id="15500-115">To enable the archive for a shared mailbox:</span></span>
 
-1. <span data-ttu-id="c5e0b-115">Перейдіть до [центру адміністрування Exchange](https://outlook.office365.com/ecp) і ввійдіть за допомогою облікового запису адміністратора.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-115">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
+1. <span data-ttu-id="15500-116">Перейдіть до [центру адміністрування Exchange](https://outlook.office365.com/ecp) і ввійдіть за допомогою облікового запису адміністратора.</span><span class="sxs-lookup"><span data-stu-id="15500-116">Go to the [Exchange admin center](https://outlook.office365.com/ecp) and sign in using your admin account.</span></span>
 
-2. <span data-ttu-id="c5e0b-116">Перейдіть до розділу **одержувачі**,  >  **спільні**.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-116">Go to **Recipients** > **Shared**.</span></span>
+2. <span data-ttu-id="15500-117">Перейдіть до розділу **одержувачі**,  >  **спільні**.</span><span class="sxs-lookup"><span data-stu-id="15500-117">Go to **Recipients** > **Shared**.</span></span>
 
-3. <span data-ttu-id="c5e0b-117">Виберіть спільну поштову скриньку.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-117">Select the shared mailbox.</span></span>
+3. <span data-ttu-id="15500-118">Виберіть спільну поштову скриньку.</span><span class="sxs-lookup"><span data-stu-id="15500-118">Select the shared mailbox.</span></span>
 
-4. <span data-ttu-id="c5e0b-118">В області відомостей праворуч, у розділі **Архів на місці**натисніть кнопку **Увімкнути**та натисніть кнопку **так** , щоб увімкнути архівну поштову скриньку.</span><span class="sxs-lookup"><span data-stu-id="c5e0b-118">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
+4. <span data-ttu-id="15500-119">В області відомостей праворуч, у розділі **Архів на місці**натисніть кнопку **Увімкнути**та натисніть кнопку **так** , щоб увімкнути архівну поштову скриньку.</span><span class="sxs-lookup"><span data-stu-id="15500-119">In the details pane on the right, under **In-Place Archive**, click **Enable**, and then click **Yes** to enable the archive mailbox.</span></span>
 
-<span data-ttu-id="c5e0b-119">Докладні відомості:</span><span class="sxs-lookup"><span data-stu-id="c5e0b-119">For more information, see:</span></span>
+<span data-ttu-id="15500-120">Докладні відомості:</span><span class="sxs-lookup"><span data-stu-id="15500-120">For more information, see:</span></span>
   
-- [<span data-ttu-id="c5e0b-120">Увімкнути поштові скриньки архіву</span><span class="sxs-lookup"><span data-stu-id="c5e0b-120">Enable archive mailboxes</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
+- [<span data-ttu-id="15500-121">Увімкнути поштові скриньки архіву</span><span class="sxs-lookup"><span data-stu-id="15500-121">Enable archive mailboxes</span></span>](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
-- [<span data-ttu-id="c5e0b-121">Настроювання політики архівування та видалення</span><span class="sxs-lookup"><span data-stu-id="c5e0b-121">Set up an archive and deletion policy</span></span>](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
+- [<span data-ttu-id="15500-122">Настроювання політики архівування та видалення</span><span class="sxs-lookup"><span data-stu-id="15500-122">Set up an archive and deletion policy</span></span>](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)
