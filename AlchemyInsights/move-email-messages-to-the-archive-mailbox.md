@@ -12,14 +12,16 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 35c11f1bfb7c61b28a64f0128c29ddf7b4fce939
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 9af8a4d3ce72fd901ff2f3a1aae0654c7213dd7e
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511061"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522792"
 ---
 # <a name="move-email-to-the-archive-mailbox"></a>Переміщення електронної пошти до поштової скриньки архіву
+
+Якщо ви хочете, щоб запустити автоматизовані перевірки для наведених нижче параметрів, натисніть кнопку назад <--у верхній частині цієї сторінки, а потім введіть адресу електронної пошти користувача, який має проблеми з переміщенням електронної пошти до поштової скриньки архіву.
 
 1. Переконайтеся, що **архівну поштову скриньку** ввімкнено. Якщо ні, виконайте дії, описані в [цій статті](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes) , щоб увімкнути архівну поштову скриньку.
 

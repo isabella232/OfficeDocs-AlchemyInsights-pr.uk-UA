@@ -9,14 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: f80b2a10ebc17cd98ed1d29b0e6ba3ca01eb1d62
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c43f8e32acad7937a03a45aab1e14e0e69edc1b2
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508829"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522864"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Збільшення розміру поштової скриньки архіву
+
+
+Якщо ви хочете, щоб запустити автоматизовані перевірки для зазначених нижче параметрів, натисніть кнопку назад <--у верхній частині цієї сторінки, а потім введіть адресу електронної пошти користувача, який потрібен розмір поштової скриньки архіву збільшилася.
 
 Microsoft 365 [обмежує](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) розмір поштових скриньок архіву на основі ліцензії, призначеної обліковому запису користувача. Коли поштова скринька архіву досягає 90% від його дозволеного розміру, користувач отримує сповіщення електронною поштою. Під час поштової скриньки архіву, досягає свого розміру обмеження, користувач не може перемістити більше елементів до поштової скриньки архіву. Microsoft 365 не збільшить розмір поштової скриньки архіву, коли досягнуто граничний розмір. Замість цього користувачі можуть вжити такі дії, щоб звільнити місце в поштовій скриньці архіву:
 
