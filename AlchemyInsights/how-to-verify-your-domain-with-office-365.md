@@ -1,5 +1,5 @@
 ---
-title: 'Як підтвердити домен '
+title: 'Перевірка домену '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509045"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634327"
 ---
-# <a name="how-to-verify-your-domain"></a>Як підтвердити домен
+# <a name="how-to-verify-your-domain"></a>Перевірка домену
 
-Щоб підтвердити домен, потрібно додати запис TXT до реєстратора доменів, щоб переконатися, що ви є власником домену. Спершу виконайте [Майстер додавання домену](https://portal.office.com/adminportal/home#/Domains/Wizard) , клацнувши **Настроювання** \> **доменів**і **Додайте домен**.
-  
-Дотримуйтеся вказівок у [службі створення записів DNS у будь-якому службі розміщення DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , щоб додати запис TXT для підтвердження домену.
+Щоб перевірити домен, виконайте [Майстер додавання домену](https://portal.office.com/adminportal/home#/Domains/Wizard)або вручну виберіть пункт **Настроювання**  >  **доменів**, щоб  >  **Додати домен**.
 
-Для інших доменів проблеми, спробуйте [ДОМЕНИ FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Щоб отримати докладні відомості про те, як додати запис TXT, щоб підтвердити свій домен, ознайомтеся з інструкціями в статті [Додавання записів DNS для підключення домену](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+У розділі запитання й [відповіді](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)про інші домени див.
