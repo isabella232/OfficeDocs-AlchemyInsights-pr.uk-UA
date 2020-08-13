@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655303"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665519"
 ---
 # <a name="data-location"></a>Розташування даних
 
-Ви можете переглянути розташування вашого клієнта в центрі адміністрування або шляхом підключення до Exchange Online через PowerShell.
+Ви можете переглянути розташування клієнта в центрі адміністрування, перейшовши на сторінку " [ **профіль організації** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) " та вибравши **розташування даних**.
 
-
-**Центр адміністрування:**
-1. Увійдіть в [Центр адміністрування](https://admin.microsoft.com/Adminportal/Home).
-2. Виберіть **Settings** > **профіль організації**настройки.
-3. У розділі **розташування даних**виберіть **переглянути деталі**.
-
-
-**Powershell:**
-1. Підключення до Exchange Online за допомогою оболонки Windows PowerShell.
-2. Виконати командлет [Get-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) для відображення списку властивостей вашого клієнта. 
-3. Подивіться на власність Організаціїid.
-
-Якщо у вас є дані розташування для EXO і спо, ви можете визначити розташування даних для інших послуг, які ви можете використовувати, [де ваші дані знаходяться](https://products.office.com/where-is-your-data-located).
+Для програм, до яких ви не підписалися, Дізнайтеся, [де зберігаються дані клієнта Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
