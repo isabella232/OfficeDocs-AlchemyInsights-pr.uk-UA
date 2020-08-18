@@ -1,7 +1,7 @@
 ---
 title: Надання спільного доступу до файлів і папок SharePoint
-ms.author: v-todmc
-author: todmccoy
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: 6673307c9c8e8af5d6730dee60ed9445a225478a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d8db0cb146db02ab235ae453b43e088a53a3a5aa
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763346"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787270"
 ---
 # <a name="how-to-share-sharepoint-files-or-folders"></a>Надання спільного доступу до файлів і папок SharePoint
 
-Файли, які ви зберігаєте на сайті SharePoint, зазвичай доступні кожному, що мають дозволи на доступ до сайту, але ви можете надати доступ до певних файлів або папок користувачам, які не мають доступу до сайту. Коли ви ділитеся файлами та папками, ви можете вирішити, чи дозволяти людям редагувати або просто переглядати їх.
+Файли, які зберігаються на сайті SharePoint, зазвичай доступні всім користувачам із дозволами на сайт, але, можливо, потрібно надати спільний доступ до певних файлів або папок іншим користувачам, які не мають доступу до сайту. Коли ви надаєте спільний доступ до файлів і папок, ви можете вирішити, чи можна дозволити користувачам редагувати або просто переглядати їх.
 
 [Надання спільного доступу до файлів і папок SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
