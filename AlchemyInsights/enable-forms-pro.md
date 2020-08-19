@@ -1,5 +1,5 @@
 ---
-title: Eanble форми Pro
+title: Увімкнення або вимкнення форм Pro
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,13 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 087121cee32df8520dbb1eee11ea2993819508da
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 3b0c375dbcf3c49c4ceb4e0cee9411a4bccc7cf3
+ms.sourcegitcommit: 6d938730731b5c0e15cd45faa647d48ee75b5d50
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "41969897"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "46814693"
 ---
 # <a name="enable-or-disable-forms-pro"></a>Увімкнення або вимкнення форм Pro
 
-Якщо ви намагаєтеся увімкнути Microsoft Forms Pro, він входить до складу ліцензії [Dynamics 365 Enterprise](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) . Крім того, адміністратор може придбати [ліцензію Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant). Ви також можете [Видалити ліцензію Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1) від користувача.
+Microsoft Forms Pro перетворився на динамічність клієнта 365, надаючи користувачам додаткові можливості опитування та вигоди для бізнесу. Докладні відомості наведено в статті [Довідкові ресурси для динаміки клієнтів 365](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+
+Корпорація Майкрософт Forms Pro входить до складу ліцензії "Dynamics 365 Enterprise". Крім того, адміністратор може придбати ліцензію Microsoft Forms Pro. Ви також можете видалити ліцензію Microsoft Forms Pro від користувача.  
+
+Докладні відомості про ліцензування наведено в статті [придбання Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) і [вимкнення Microsoft Forms Pro для користувача](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+  
+Щоб отримати довідкові ресурси, ознайомтеся з [проблемами виправлення неполадок у формах Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
