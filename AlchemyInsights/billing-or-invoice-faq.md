@@ -14,21 +14,21 @@ ms.custom:
 - "5525"
 - "1500005"
 - "5523"
-ms.openlocfilehash: a3c7574de2cecdd69a30d4ca47c6f60eb5c81224
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: a8aaac45e7ea102ef34505c94644f5bd3feecbc8
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431202"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364644"
 ---
 # <a name="billing-or-invoice-faq"></a>Рахунок або рахунок-фактура: запитання й відповіді
 
 - Оплату рахунків може бути **відхилено** з кількох причин, зокрема якщо термін дії кредитної картки минув. Щоб усунути цю проблему, див. статтю [Змінення методу оплати](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
 - Якщо ваш рахунок **прострочений**, скористайтеся функцією **Урегулювати баланс**, щоб повторно надіслати платіж. Щоб усунути цю проблему, див. статтю [Що робити, якщо платіж прострочений?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
-- Ви все ще стягується за ліцензії, які не призначені для користувачів. Щоб запобігти непотрібних витрат, видаліть ліцензії, щоб зменшити кількість ліцензій. Див [Додавання або видалення ліцензій](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) з передплати.
+- Ви все ще сплачуєте за ліцензії, які не призначені користувачам. Щоб уникнути непотрібних звинувачень, видаліть невикористані ліцензії, щоб зменшити кількість ліцензій. Див. [Додавання або вилучення ліцензій](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses) із передплатою.
 - Якщо потрібно змінити **частоту виставлення рахунків** на щомісячно або щорічно, див. статтю [Змінення частоти виставлення рахунків](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 - Якщо вам потрібна допомога з рахунком, див. статтю [Відомості про рахунок-фактуру](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
 - Якщо вам потрібна допомога з **переглядом** рахунка, див. статтю [Перегляд рахунка або рахунка-фактури](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
-- Якщо потрібно редагувати відомості для виставлення рахунків, див. статтю [Керування профілем рахунків](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) або [Змінення адреси виставлення рахунків](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+- Якщо потрібно змінити відомості про виставлення рахунків, див. [керування профілем виставлення](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) рахунків або [змінення адреси виставлення рахунків](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
 
-Докладніше, перегляньте інформацію про [ваш рахунок](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+Докладні відомості наведено в статті [розуміння рахунка-фактури](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
