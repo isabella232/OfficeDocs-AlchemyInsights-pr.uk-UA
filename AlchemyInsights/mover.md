@@ -1,5 +1,5 @@
 ---
-title: Двигуном
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157755"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406347"
 ---
-# <a name="mover"></a>Двигуном
+# <a name="mover"></a>Mover
 
-21 жовтня 2019, корпорація Майкрософт придбала **двигуном**, провідний постачальник міграції хмарних файлів.
+21 жовтня  **2019, Microsoft придбала пакет**, головний постачальник перенесення хмарного файлу.
 
-Для отримання додаткової інформації про двигуном, будь ласка, посилання на наступні статті:
+На поточний час [ви можете направити будь-які запити на обслуговування](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [ **here**.](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c)  
 
-- [Керівництво з міграції](https://mover.io/guides/)
-- [Поширені питання щодо міграції](https://mover.io/guides/general/)
-- [З'єднувачі для двигуна](https://mover.io/connectors/)
+Щоб отримати докладніші відомості про рушія, ознайомтеся з такими статтями:
 
-У поточний час, **будь ласка, направити будь-які запити на підтримку** [support@mover.io](mailto:support@mover.io) за допомогою продукту. 
-
- 
+- [Посібники з перенесення рушія](https://mover.io/guides/)
+- [Загальні запитання й відповіді про перенесення](https://mover.io/guides/general/)

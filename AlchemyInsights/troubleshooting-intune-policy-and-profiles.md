@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із політикою та профілями InTune
+title: Усунення несправностей у політиці та профілях Inune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5ecc849d78559bc392e83d2c6c3a866bcaa86944
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766694"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406311"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>Усунення несправностей політики та профілів InTune
+# <a name="troubleshooting-intune-policy-and-profiles"></a>Виправлення неполадок у політиці та профілях Inune
 
-Щоб переглянути наявні політики, усунути неполадки конфліктів, переглянути дані журналу, а також поширені запитання й проблеми, може допомогти такі посібники.
+Щоб переглянути наявні політики, виправлення неполадок, аналіз даних журналу та перегляд поширених запитань і проблем, можуть допомогти наведені нижче посібники.
 
-- [Виправлення неполадок із політиками та профілями у InTune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Усунення несправностей політики та профілів в програмі Inune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [Поширені запитання, проблеми та рішення з політиками і профілями пристроїв у InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Поширені запитання, проблеми та резолюції з політиками пристроїв і профілями в InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Монітор профілів конфігурації пристрою та перегляд конфліктів у InTune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [Відстеження профілів конфігурації пристрою та перегляд конфліктів у програмі Inune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [Усунення проблем із відповідністю пристроїв і умовного доступу в InTune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Виправлення неполадок із відповідністю пристроїв і умовного доступу в програмі Inune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [Моніторинг дотримання політики та перегляд конфліктів у InTune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Відстеження політик відповідності та перегляд конфліктів у програмі Inune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [Надсилання даних журналу InTune до Azure Storage, вузлів подій або аналітики журналів](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [Передавання даних журналу Inune на Лазурне сховище, концентратори подій або журнал аналітики](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-Перегляньте огляд, щоб [настроїти пристрої](https://docs.microsoft.com/intune/device-profiles) або [використовувати політику відповідності](https://docs.microsoft.com/intune/device-compliance-get-started).
+Перегляньте огляд, щоб [настроїти пристрої](https://docs.microsoft.com/intune/device-profiles) або [використовувати політики відповідності](https://docs.microsoft.com/intune/device-compliance-get-started).

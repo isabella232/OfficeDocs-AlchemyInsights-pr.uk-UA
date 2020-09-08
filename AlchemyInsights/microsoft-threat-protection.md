@@ -1,5 +1,5 @@
 ---
-title: Захист від загроз корпорації Майкрософт
+title: Захист від загроз Microsoft
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277959"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406455"
 ---
-# <a name="microsoft-threat-protection"></a>Захист від загроз корпорації Майкрософт
+# <a name="microsoft-threat-protection"></a>Захист від загроз Microsoft
 
-- [Огляд МТП](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [Передумови](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
-- [Ліцензійні вимоги](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [Як включити МТП](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [МТП усунення несправностей](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [Огляд "МТП"](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [Попередні вимоги](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [Вимоги до ліцензії](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
+- [Увімкнення функції МТЗ](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [Виправлення неполадок із "МТП"](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-Як перевірити ліцензування: ви повинні бути призначені або адміністратора з виставлення рахунків або глобального читача роль в Azure AD для перегляду вашої ліцензії. Перейдіть до [центру адміністрування](https://admin.microsoft.com/) та перейдіть до**ліцензій** на **виставлення рахунків** > , щоб переглянути наявні ліцензії.
+Перевірка ліцензування: ви повинні бути призначені як адміністратор виставлення рахунків або роль глобального читача в Лазурному ОГОЛОШЕННІ для перегляду ліцензії. Перейдіть до [центру адміністрування](https://admin.microsoft.com/) та перейдіть на сторінку ліцензії для **виставлення рахунків**,  >  **Licenses** щоб переглянути свої ліцензії.
