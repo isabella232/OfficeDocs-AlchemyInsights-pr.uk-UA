@@ -1,31 +1,32 @@
 ---
-title: Active Directory не синхронізується
+title: Служба Active Directory не синхронізується
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3abad160ab28922685d235a1fa546105e31757fb
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265277"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697650"
 ---
-# <a name="active-directory-not-syncing"></a>Active Directory не синхронізується
+# <a name="active-directory-not-syncing"></a>Служба Active Directory не синхронізується
 
-Якщо ви отримуєте помилки синхронізації, наприклад, "немає останньої синхронізації" або зверніть увагу на стан синхронізації каталогів на порталі Office Admin говориться, "Остання синхронізація більше 3 днів тому", може бути, що AADConnect має неправильні параметри або недостатньо дозволи на виконання синхронізації.  
+Якщо ви отримуєте помилки синхронізації, наприклад "без нещодавньої синхронізації", або зверніть увагу на стан синхронізації служби каталогів на порталі адміністрування Office, говориться: "Востаннє синхронізовано більше 3 днів тому", можливо, це означає, що AADConnect має неправильні настройки або недостатні дозволи для виконання синхронізації.  
 
-Повторна інсталяція AADConnect за допомогою Експрес-настройок може швидко вирішити проблему:
+Повторна інсталяція AADConnect за допомогою функції Експрес-параметрів може швидко вирішити проблему:
 
-1. [Завантажити останню версію AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Завантажте найновішу версію AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [Дотримуйтеся вказівок для Експрес-інсталяції](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Виконайте вказівки з інсталяції Експрес](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)-програми.
 
-Щоб отримати додаткові відомості про AADConnect служби облікових записів, див [AZURE AD-підключення: облікові записи та дозволи](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Щоб отримати докладніші відомості про облікові записи служби AADConnect, перегляньте статтю [Azure AD Connect: облікові записи та дозволи](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
