@@ -1,31 +1,32 @@
 ---
-title: Як змінити тло екрана блокування
+title: Змінення тла екрана блокування
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 2ec68eb164748f27ef0f43a48994c61c9e67d310
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588174"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714493"
 ---
-# <a name="change-your-lock-screen-background"></a>Як змінити тло екрана блокування
+# <a name="change-your-lock-screen-background"></a>Змінення тла екрана блокування
 
-- Перейдіть до **налаштування** > **** > **екрана блокування**персоналізації. Або натисніть [тут](ms-settings:lockscreen?activationSource=GetHelp).
+- Перейдіть до **Settings**  >  **Personalization**  >  **екрана настройки блокування**персоналізації. Клацніть або торкніться [тут](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Щоб установити настроюване фонове зображення, виберіть у розкривному списку **тло** пункт **рисунок** і виберіть або **перейдіть** до зображення.
+- Щоб налаштувати спеціальне фонове зображення, виберіть елемент **зображення** зі спадного списку **фон** і виберіть або **перейдіть** до зображення.
 
-  ![Установіть настроюване фонове зображення.](media/set-custom-background-pic.png)
+  ![Установлення настроюваного фонового зображення.](media/set-custom-background-pic.png)
 
-- Щоб налаштувати показ слайдів для настроюваних зображень, виберіть **слайд-шоу** з розкривного списку **тла** та виберіть альбом або додайте папку, яка містить зображення для показу слайдів.
+- Щоб налаштувати слайд-шоу для користувацьких зображень, виберіть пункт **слайд-шоу** зі спадного списку **фон** і виберіть потрібний альбом або додайте папку, яка містить зображення для показу слайдів.
 
-  ![Налаштуйте слайд-шоу з настроюваних зображень.](media/set-up-slideshow-background.png)
+  ![Налаштуйте слайд-шоу для користувацьких зображень.](media/set-up-slideshow-background.png)
