@@ -1,31 +1,32 @@
 ---
 title: Синхронізація профілів
-ms.author: arnek
-author: arnek
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: dc6e0280961d14aa3e6bd466afbe0cbe89418d17
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: eee1080a95955332e205db3852381e39aaf5ae0e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768134"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801790"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Коли мій профіль змінює синхронізацію з додатком профілю користувача SharePoint?
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>Коли мій профіль змінює синхронізацію в застосунку профілю користувача SharePoint?
 
-SharePoint Online використовує завдання таймера імпорту Active Directory (імпорт ОГОЛОШЕНЬ) для імпорту користувачів і груп до застосунку профілю користувача. 
+Служба SharePoint Online використовує завдання таймера імпорту Active Directory (імпорт оголошення), щоб імпортувати користувачів і групи в програму профілю користувача. 
   
-1. AD імпорту синхронізує зміни з магазину SharePoint Online каталогу до застосунку профілю користувача. Ці зміни обробляються пакетів.
+1. Імпорт AD синхронізує зміни з магазину каталогів SharePoint Online до застосунку профілю користувача. Ці зміни обробляються в партіях.
     
 2. Завдання таймера запускається, доки зміни не буде синхронізовано.
     
 > [!NOTE]
-> Час, необхідний для запуску завдання, залежить від кількості змін, які потрібно обробити. Велика кількість змін триває довше. Угода про рівень послуг (SLA) стверджує, що зміна користувача в каталозі SharePoint Online буде відображена в додатку профілю користувача за 24 години. 
+> Час, потрібний для виконання завдання, залежить від кількості змін, внесених до процесу. Велика кількість змін триває довше. Угода про рівень служби (SLA) заявляє, що змінення користувача в каталозі SharePoint Online буде відображено в програмі профілю користувача протягом 24 годин. 
   
-[Додаткові відомості про синхронізацію профілів користувачів у SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
+[Докладні відомості про синхронізацію профілів користувачів у службі SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875671)
   
 
