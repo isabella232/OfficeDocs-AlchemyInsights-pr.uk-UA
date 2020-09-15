@@ -1,41 +1,42 @@
 ---
-title: Усунення несправностей у доступі повідомлення
+title: Виправлення неполадок із відхилень у програмі Access
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510521"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691704"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Усунення несправностей у доступі повідомлення
+# <a name="troubleshoot-access-denied-messages"></a>Виправлення неполадок із відхилень у програмі Access
 
-Якщо ви отримуєте повідомлення відмовлено в доступі під час спроби переглянути сайт SharePoint Online, будь ласка, перегляньте статті нижче.
+Якщо ви отримуєте повідомлення про відмову в доступі під час спроби переглянути сайт SharePoint Online, ознайомтеся з наведеними нижче статтями.
 
-**Додати та ліцензувати користувача**
+**Додавання та Ліцензія користувача**
 
-Переконайтеся, що ви [призначаєте ліцензії користувачам у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Переконайтеся, що ви [призначите ліцензії користувачам у програмі Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Призначення дозволів**
 
-Якщо користувач був призначений ліцензії SharePoint і як і раніше отримує повідомлення відмовлено в доступі, переконайтеся, що вони мають [відповідний рівень дозволів, призначених](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Якщо користувач надав ліцензію SharePoint і продовжує отримувати повідомлення про відмову в доступі, переконайтеся, що вони мають [відповідний рівень дозволів](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**Розгляньте можливість використання функції запиту доступу**
+**Використання функції "запит на доступ"**
 
-Функція [запиту доступу](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) дає змогу користувачам запитувати доступ до вмісту, який наразі не має дозволу на перегляд. 
+Функція " [запит на доступ](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) " дає змогу користувачам запитувати доступ до вмісту, у якому вони зараз не мають дозволу на перегляд. 
 
-**Дозволити настроювані сценарії, може спричинити проблеми з відмовлено у доступі**
+**Дозволити настроюваний сценарій може спричинити проблеми з заперечуванням Access**
 
-Існують певні сценарії, де функція "Дозволити настроюваний сценарій" може представляти доступ заборонено. Список функцій, що впливають, міркувань безпеки та можливість вимкнути функцію. Будь ласка, відвідайте, [дозвольте або заборонити користувацький скрипт](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Існують певні сценарії, у яких функція "Дозволити користувацький скрипт" може представляти відмовлено в доступі. Список функцій, які постраждали, міркувань безпеки та можливість вимкнення функції. Перейдіть на веб-сайті, [щоб дозволити або заборонити настроюваний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Примітка: якщо сайт OneDrive або SharePoint не доступний для кількох користувачів, які раніше мали доступ, може виникнути проблема тимчасового обслуговування. [Перегляньте приладну дошку справності служб](https://portal.office.com/adminportal/home#/servicehealth).
+Примітка. Якщо для кількох користувачів, які раніше мали доступ, може виникнути тимчасова проблема служби, якщо сайт OneDrive або на сайті SharePoint недоступний. [Перевірте приладну дошку справності служби](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   
