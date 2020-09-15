@@ -1,5 +1,5 @@
 ---
-title: Хочете придбати нову підписку?
+title: Бажаєте придбати нову передплату?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505564"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675211"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Хочете придбати нову підписку?
+# <a name="looking-to-buy-a-new-subscription"></a>Бажаєте придбати нову передплату?
 
-Якщо ви вже маєте підписку на Microsoft 365 для бізнесу, і ви хочете придбати іншу підписку для своєї організації, перейдіть на сторінку **Billing** \> [послуги з придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків, щоб переглянути список підписок, доступних для вашої організації.
+Якщо у вас уже є Передплата на Microsoft 365 для бізнесу, і ви хочете придбати іншу передплату для своєї організації, перейдіть на **Billing** \> сторінку [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків, щоб переглянути список передплат, доступних для вашої організації.
  
-1. Виберіть потрібну підписку, а потім натисніть **купити**.
+1. Виберіть потрібну передплату, а потім натисніть кнопку **придбати**.
 
-2. Виберіть спосіб оплати, а також кількість необхідних ліцензій користувачів.
+2. Виберіть спосіб оплати, а також кількість необхідних ліцензій для користувачів.
 
-3. Виберіть пункт **перевірити зараз**. На наступній сторінці ви можете переглянути замовлення і завершити покупку.
+3. Натисніть кнопку **витягнути зараз**. На наступній сторінці можна переглянути замовлення та завершити придбання.
 
-4. Коли ваша покупка буде завершена, вам може знадобитися перепризначити ліцензії або скасувати підписку. Щоб дізнатися про це, перегляньте розділ додаткові ресурси нижче.
+4. Після завершення покупки може знадобитися перепризначати ліцензії або скасувати передплату. Щоб отримати довідку, ознайомтеся з розділом додаткові ресурси нижче.
 
  **Додаткові ресурси:**
   
-- [Призначення ліцензій для користувачів, у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Призначення ліцензій користувачам у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Як скасувати підписку](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Якщо ви зацікавлені в підключенні підписки, див [. Перейдіть до іншого Microsoft 365 для бізнес-плану.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Якщо ви хочете змінити передплату, перегляньте статтю [Перехід до іншого плану Microsoft 365 для бізнесу.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

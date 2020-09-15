@@ -1,41 +1,42 @@
 ---
-title: Відсутні електронні листи в карантин
+title: Відсутні повідомлення електронної пошти в карантині
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 61a926c363c62bc7acb5efefe42b834f33c78eb6
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44569564"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673735"
 ---
-# <a name="missing-emails-in-quarantine"></a>Відсутні електронні листи в карантин "
+# <a name="missing-emails-in-quarantine"></a>Відсутні повідомлення електронної пошти в карантині "
 
-Адміністратори можуть [переглядати, випускати або видаляти ці повідомлення.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+Адміністратори можуть [переглядати, вивільняти або видаляти ці повідомлення.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-Щоб відкрити центр дотримання безпеки &, перейдіть до [https://protection.office.com](https://protection.office.com/) . Щоб відкрити сторінку карантину безпосередньо, перейдіть до [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+Щоб відкрити центр відповідності & безпеки, перейдіть до розділу [https://protection.office.com](https://protection.office.com/) . Щоб відкрити сторінку карантину безпосередньо, перейдіть до [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
 
-Можна виконати пошук за такими значеннями:  
+Шукати можна за такими значеннями:  
 
-- **Ідентифікатор повідомлення**: глобальний унікальний ідентифікатор повідомлення. Якщо у списку вибрано повідомлення, значення **ідентифікатора повідомлення** відобразиться в спливаючому вікні **відомостей** , що з'явиться. Адміністратори можуть використовувати [трасування повідомлень](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) , щоб знайти повідомлення та їх ВІДПОВІДНІ значення ідентифікатора повідомлення.
+- **Ідентифікатор повідомлення**: глобальний унікальний ідентифікатор повідомлення. Якщо ви вибрали повідомлення в списку, то в області " **докладно** ", що Відкриється, ВІДОБРАЖАЄТЬСЯ значення **ідентифікатора повідомлення** . Адміністратори можуть використовувати [трасування повідомлень](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) , щоб знаходити повідомлення та відповідні значення ідентифікаторів повідомлень.
 - **Адреса електронної пошти відправника**: адреса електронної пошти одного відправника.
 - **Адреса електронної пошти одержувача**: адреса електронної пошти одного одержувача.
-- **Тема**: використовуйте весь об'єкт повідомлення. Пошук не враховується з урахуванням регістру.
+- **Тема**: використайте всю тему повідомлення. Пошук не враховує регістр.
 
-Після введення критеріїв пошуку натисніть ![ кнопку Оновити ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **оновлення** , щоб відфільтрувати результати.  
+Ввівши умови пошуку, натисніть кнопку Оновити, ![ ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Refresh** щоб відфільтрувати результати.  
 
-Командлети, які використовуються для перегляду та керування повідомленнями та файлами в карантин:
-- [Видалити-карантин](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [Експорт-карантин](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
-- [Отримати-карантин](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [Попередній перегляд-карантин](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Зверніть увагу, що цей командлет призначений лише для повідомлень, а не зловмисних файлів з АТФ для SharePoint Online, OneDrive, для бізнесу або команди.
-- [Реліз-карантин](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+Командлети, які використовуються для перегляду та керування повідомленнями та файлами в карантині:
+- [Видалення – карантин](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Експорт – карантин](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Початок-карантин](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Ознайомлювальну версію – карантин](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): Зауважте, що цей командлет призначено лише для повідомлень, а не зловмисних файлів із АТФ для служби SharePoint Online, OneDrive для бізнесу або робочих груп.
+- [Випуск – карантин](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
