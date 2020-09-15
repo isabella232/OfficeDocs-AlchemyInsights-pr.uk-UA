@@ -1,10 +1,11 @@
 ---
-title: Придбайте підписку на Microsoft 365 для бізнесу від безкоштовної пробної версії
+title: Придбайте передплату на Microsoft 365 для бізнесу від безкоштовного ознайомлення
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 40a09fdaa3b2218fc2dfacb10216f27d6440bd67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506284"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685007"
 ---
-# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Придбайте підписку на Microsoft 365 з безкоштовної пробної версії
+# <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Придбання передплати на веб-сайт Microsoft 365 із безкоштовного ознайомлення
 
-Ви спробували Microsoft 365, і тепер ви готові купити. У вас є два варіанти при покупці Microsoft 365 з пробної версії:
+Ви пробували Microsoft 365, і тепер ви готові придбати. Під час придбання Microsoft 365 у ознайомлювальній версії ви маєте два варіанти:
   
- **Купуйте той самий план, що і ваш судовий розгляд**
+ **Придбати той самий план, що й ознайомлювальна версія**
   
-1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** за \> **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. У центрі адміністрування перейдіть на сторінку " **виставлення рахунків** на \> **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
 
-2. Знайдіть підписку, яку хочете придбати. У розділі **ліцензії** виберіть **придбати передплату**та виконайте дії, які потрібно перевірити.
+2. Дізнайтеся про передплату, яку потрібно придбати. У розділі **ліцензії** натисніть кнопку **придбати передплату**та дотримуйтеся вказівок, щоб узяти на редагування.
 
-**Придбати іншу підписку**
+**Придбання іншої абонентської плати**
   
-1. У центрі адміністрування перейдіть на сторінку послуги з **Billing** \> [придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
+1. У центрі адміністрування перейдіть на **Billing** \> сторінку [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
 
-3. Знайдіть підписку, яку потрібно придбати, виберіть **придбати**та виконайте дії, які потрібно перевірити.
+3. Знайдіть передплату, яку потрібно придбати, натисніть кнопку **придбати**та дотримуйтеся вказівок, щоб узяти на редагування.
 
-Щоб дізнатися більше, Дізнайтеся, як [придбати підписку на Microsoft 365 для бізнесу від безкоштовної пробної версії](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
+Докладні відомості можна знайти в статті [придбання передплати на службу Microsoft 365 для бізнесу від безкоштовного ознайомлення](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
 
 **Виправлення неполадок**
 

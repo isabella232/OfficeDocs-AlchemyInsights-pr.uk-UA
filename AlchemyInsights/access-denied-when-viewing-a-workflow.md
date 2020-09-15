@@ -1,31 +1,32 @@
 ---
-title: Відмовлено в доступі під час перегляду робочого процесу
+title: Під час перегляду робочого циклу відмовлено в доступі
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687351"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688823"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Відмовлено в доступі під час перегляду робочого процесу
+# <a name="access-denied-when-viewing-a-workflow"></a>Під час перегляду робочого циклу відмовлено в доступі
 
-SharePoint 2013 робочих циклів, які намагаються надіслати повідомлення електронної пошти до групи SharePoint може не з повідомлення про помилку "немає доступу", якщо членство групи SharePoint не встановлено для всіх.
+Робочі цикли SharePoint 2013, які намагаються надіслати повідомлення електронної пошти до групи SharePoint, можуть не працювати з повідомленням про помилку "відмовлено в доступі", якщо членство в групі SharePoint не настроєно для всіх користувачів.
   
- **Щоб вирішити цю проблему, виконайте такі дії:**
+ **Щоб вирішити цю проблему, виконайте наведені нижче дії.**
   
  1. Дозволити всім користувачам бачити учасників групи SharePoint.
   
- 2. Видалити групу SharePoint, з до або копія рядок повідомлення електронної пошти.
+ 2. Видаліть групу SharePoint із рядка "Кому" або "Копія" повідомлення електронної пошти.
   
- 3. Явно додати користувачів до рядка кому або копія, якщо видимість членства не можна змінити для групи SharePoint.
+ 3. Явно додати користувачів до рядка "Кому" або "Копія", якщо видимість членства не можна змінити для групи SharePoint.
   
-Для перегляду більш детальної інформації, будь ласка, зверніться до [http несанкціонованого доступу до/_vti_bin/Client.SVC/SP.utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Щоб переглянути докладні відомості, зверніться до [http-неавторизованого доступу до/_vti_bin/Client.SVC/SP.utilities.Utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
