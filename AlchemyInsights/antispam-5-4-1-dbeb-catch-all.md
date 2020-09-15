@@ -1,30 +1,31 @@
 ---
-title: Антиспам 5.4.1 DBEB зловити-все
+title: Антиспам 5.4.1 DBEB Catch-All
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f9d613457ae33dc7e00f20391bbdff029500a123
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707932"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717382"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Вирішення проблем із доставкою код помилки 550 5.4.1 ретранслятор доступ заборонено
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>Вирішення проблем із доставкою для помилки з кодом 550 5.4.1-ретрансляцією відмовлено в доступі
 
-Ця проблема виникає під час [перевірки, щоб побачити, якщо адреса електронної пошти дійсний для запобігання](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) під час входу до мережі Microsoft. Спробуйте виконати такі дії:
+Ця проблема виникає, [Якщо перевірити, чи є адреса електронної пошти дійсною, щоб запобігти bouncebacks](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) під час входу в мережу Microsoft. Виконайте наведені нижче дії.
 
-1. Визначте, чи проблема стосується всього домену або одну адресу електронної пошти:
-    - Увесь домен: інколи потрібно синхронізувати домен; Спробуйте [настроїти домен на внутрішній, а потім повернутися до основного](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - Єдина адреса електронної пошти: іноді адреса повинна бути синхронізована; зміна адреси SMTP-проксі-сервера, а потім змінити його назад може допомогти.
-2. Визначте, чи проблема специфічна для групи або спільних папок. Для деяких типів об'єктів, можливо, доведеться вручну створити в Azure Active Directory.
+1. Визначення того, чи ця проблема стосується всього домену або однієї адреси електронної пошти:
+    - Увесь домен: іноді потрібно синхронізувати домен; Спробуйте [настроїти домен на внутрішній, а потім знову на важливий](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
+    - Єдина адреса електронної пошти: іноді потрібно синхронізувати адресу. Щоб змінити адресу проксі-сервера SMTP, а потім знову змінити його, може допомогти.
+2. Визначення того, чи ця проблема стосується групи або спільної папки. Для деяких типів об'єктів, можливо, потрібно вручну створити в Лазурому Active Directory.
 
-Якщо вам потрібна додаткова допомога, будь ласка, відкрийте квиток підтримки і вкажіть сферу цього питання (включаючи тип об'єкту, який ви посилаєте), щоб ми могли допомогти вам краще.
+Якщо вам потрібна додаткова довідка, відкрийте квиток підтримки та вкажіть область цієї проблеми (включно з типом об'єкта, який ви надсилаєте), щоб ми могли краще допомогти вам.
