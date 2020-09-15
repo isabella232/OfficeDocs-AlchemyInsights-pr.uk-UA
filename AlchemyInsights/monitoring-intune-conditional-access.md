@@ -1,31 +1,31 @@
 ---
-title: Моніторингу InTune умовного доступу
+title: Моніторинг умовного доступу для Inune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 924dc9cc741697b3784203d5f441769f7601b8d1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713703"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694874"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Виправлення неполадок, пов'язаних із Microsoft InTune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Виправлення неполадок із Microsoft InTune
 
-Перегляньте ресурси, перелічені нижче, щоб вирішити проблему зараз.
+Перегляньте ресурси, наведені нижче, щоб вирішити проблему.
   
-1. Скористайтеся [InTune для виправлення неполадок порталу](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) для діагностики та вирішення деяких поширених помилок. Перегляньте [цей документ ](https://docs.microsoft.com/intune/help-desk-operators), щоб отримати докладніші відомості.
+1. Використовуйте [портал виправлення неполадок](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , щоб діагностувати та вирішити деякі поширені помилки. Перегляньте [цей документ ](https://docs.microsoft.com/intune/help-desk-operators), щоб отримати докладні відомості.
     
-2. Огляд [InTune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod), щоб знайти відповіді та вирішення поширених проблем.
+2. Перегляньте відповіді та способи вирішення поширених проблем у [TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod).
     
-3. Перевірте [справність служби](https://portal.office.com/AdminPortal/Home#/servicehealth) , щоб переглянути статус послуги. 
+3. Перегляньте [справність служби](https://portal.office.com/AdminPortal/Home#/servicehealth) , щоб побачити стан служби. 
     
-4. Огляд [документації InTune](https://docs.microsoft.com/intune/) для планування, способи виправлення неполадок і більше статей. 
+4. Перевірка [документації](https://docs.microsoft.com/intune/) для планування, інструкції, виправлення неполадок і інших статей. 
     
 

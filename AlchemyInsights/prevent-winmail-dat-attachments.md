@@ -1,32 +1,33 @@
 ---
-title: 2589 допомогти запобігти Winmail. dat вкладень у повідомленнях електронної пошти з вашої організації
+title: 2589 допомагає запобігти надсиланню Winmail. dat в повідомленнях електронної пошти з організації
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f67c4146af419a590651c8e0673fd59fabd7eae7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43666762"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693756"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Запобігання Winmail. dat вкладень у повідомленнях електронної пошти з вашої організації
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>Запобігання вкладення Winmail. dat в повідомленнях електронної пошти від організації
 
-Як адміністратор, виконайте такі дії:
+Якщо ви адміністратор, виконайте наведені нижче дії.
 
 1. Відкрийте [Центр адміністрування Exchange](https://outlook.office365.com/ecp/).
 
-2. Перейдіть до **поштового потоку** > **віддалених доменів**.
+2. Перехід до **Mail flow**  >  **віддалених доменів**передавання пошти.
 
-3. Виберіть віддалений домен **за промовчанням і**натисніть кнопку **змінити**.
+3. Виберіть віддалений домен за замовчуванням за **замовчуванням**, а потім натисніть кнопку **Edit (редагувати**).
 
-4. У розділі **використання форматного тексту** виберіть **ніколи**.
+4. У розділі **використовувати формат RTF** виберіть пункт **ніколи**.
 
-Для отримання додаткових відомостей див. [зазначення формату повідомлення для віддалених доменів](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+Докладні відомості наведено в статті [визначення формату повідомлення для віддалених доменів](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).

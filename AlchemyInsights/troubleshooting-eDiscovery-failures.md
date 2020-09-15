@@ -1,11 +1,12 @@
 ---
-title: 1490-пошук і вирішення проблем-Витребування помилок
+title: 1490 – усунення несправностей – eDiscovery – помилки
 ms.author: markjjo
 author: markjjo
 manager: lauraw
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,25 +14,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cfd0f38358a6de3aed29e1cbbe109d0075ac04af
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512575"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658971"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Виправлення помилок пошуку вмісту
 
-Виникли проблеми з пошуком вмісту або отриманням помилок під час експортування результатів пошуку?
+Під час експорту результатів пошуку виникають проблеми з пошуком вмісту або їх збої?
 
-Наприклад, ви отримуєте таке під час роботи з пошуком?
+Наприклад, під час запуску пошуків відображається таке:
 
-- CS008 або CS012 помилки
+- Помилки CS008 або CS012
 
-- Сервер зайнятий/час очікування помилки
+- Помилки на сервері/тайм-аут
 
-- Сталася помилка застосунку
+- Сталася помилка програми
 
-Або під час пошуку або експортування результатів із великої кількості поштових скриньок (понад 100 000 поштових скриньок) ви отримуєте помилки експортування?
+Або під час пошуку або експортування результатів із великої кількості поштових скриньок (понад 100 000 поштових скриньок) ви одержуєте помилки експорту?
 
-Для цих типів помилок, спробуйте повторити пошук розташування вмісту, які не вдалося. Докладнішу інформацію наведено в [цій статті](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+Для цих типів помилок повторіть пошук розташувань вмісту, які не вдалося виконати. Перегляньте  [цю статтю](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) , щоб отримати докладніші відомості.
