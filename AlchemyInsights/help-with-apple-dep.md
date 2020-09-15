@@ -1,33 +1,34 @@
 ---
-title: Допомога з Apple DEP
+title: Довідка з Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654679"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705536"
 ---
-# <a name="help-with-apple-dep"></a>Допомога з Apple DEP
+# <a name="help-with-apple-dep"></a>Довідка з Apple DEP
 
-Якщо пристрій DEP не вдається зареєструвати і МЗС (Багатофакторна автентифікація) увімкнуто, будь ласка, вимкніть МЗС. МЗС наразі не підтримується для реєстрації DEP.
+Якщо для пристрою DEP не вдається виконати вхід і (Багатофакторна автентифікація), вимкніть службу МЗС. Зараз "МЗС" не підтримується для реєстрації в службі DEP.
 
-[Початок роботи з InTune та програми для реєстрації на пристрої Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[Початок роботи з програмою для реєстрації пристрою в програмі Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[Загальні помилки та рішення для реєстрації iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[Поширені помилки та рішення для реєстрації в iOS](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[Загальні реєстрації виправлення неполадок](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[Загальні виправлення неполадок із реєстрацією](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[Діагностика та вирішення поширених помилок реєстрації за допомогою порталу для виправлення неполадок InTune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[Використання порталу усунення несправностей для діагностики та вирішення поширених помилок у реєстрації](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 
