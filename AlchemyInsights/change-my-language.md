@@ -1,35 +1,36 @@
 ---
-title: Змінити мову
+title: Змінення мови
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 98f30d8e0a59ee9d735818d670755affbe627d54
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286297"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682991"
 ---
-# <a name="change-my-language"></a>Змінити мову
+# <a name="change-my-language"></a>Змінення мови
 
-Додаток Outlook автоматично перекладається на мову вашого пристрою. 
+Програма Outlook автоматично переведена на мову, на яку має бути установлено пристрій. 
 
-(Див. [список мов, які підтримуються в Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
+(Перегляньте [список мов, які підтримуються в програмі Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
-**Щоб змінити мову на пристрої**: 
+**Щоб змінити мову на пристрої,** виконайте наведені нижче дії. 
 
-**На Android**: 
+**На пристрої Android**: 
 
-- Налаштування пристрою > мову та введення 
+- Параметри пристрою > мови та вхідного тексту 
 
-**На IOS**: 
+**На пристрої IOS**: 
 
-- Налаштування пристрою > загальна > мова & область 
+- Параметри пристроїв > загальні > мови & регіон 

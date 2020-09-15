@@ -1,23 +1,24 @@
 ---
-title: Контекст клієнта-ні зареєстровані пристрої
+title: Контекст клієнта – не зареєстровані пристрої
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "2630"
-ms.openlocfilehash: b863fe236d00c05e4c619a6864c6d1f4e2d04890
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 99e882467bdfceab4226399d3bea3950192817d2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638269"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681353"
 ---
-# <a name="client-context---no-enrolled-devices"></a>Контекст клієнта-ні зареєстровані пристрої
+# <a name="client-context---no-enrolled-devices"></a>Контекст клієнта – не зареєстровані пристрої
 
-Ваш клієнт не має керування мобільними пристроями (MDM) надійшло пристрої з InTune. Якщо ви хочете зареєструвати пристрої та керувати ними через InTune MDM, будь ласка, [перегляньте документацію для](https://docs.microsoft.com/intune/device-enrollment) потрібної платформи. Якщо ви використовуєте сторонні MDM або тільки функції захисту програм не можуть бути потрібні дії. 
+Ваш клієнт не має пристроїв керування мобільним пристроєм (MDM), які мають пристрої з InTune. Якщо ви хочете записатися на пристрої та керувати ними через службу, ознайомтеся [з документацією,](https://docs.microsoft.com/intune/device-enrollment) яка потрібна для потрібної платформи. Якщо ви використовуєте MDM третіх осіб або тільки функції захисту програми не можуть знадобитися. 
