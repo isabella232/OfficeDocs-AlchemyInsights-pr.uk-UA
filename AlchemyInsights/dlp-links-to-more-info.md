@@ -1,38 +1,38 @@
 ---
-title: Додаткові відомості про ЗВД питання
+title: Докладні відомості про проблеми з DLP
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 62f0eeb4c058285158d012be3c1d54d09a7b8482
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: eafa52e81bfffbd9082ec3aee738d313736c3a72
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507571"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679750"
 ---
-# <a name="information-about-dlp-issues"></a>Відомості про ЗВД питання
+# <a name="information-about-dlp-issues"></a>Відомості про проблеми з DLP
 
 **Важливо**: у ці безпрецедентні часи ми докладаємо всіх зусиль до того, щоб служби SharePoint Online і OneDrive були завжди доступні. Докладні відомості надано у статті [Тимчасові коригування функцій SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Інформація про ЗВД політика**
+**Відомості про політику DLP**
 
-За допомогою політики ЗВД можна ідентифікувати, контролювати та автоматично захищати конфіденційну інформацію через Microsoft 365.
+За допомогою політики DLP можна визначити, відстежувати та автоматично захистити конфіденційну інформацію в Microsoft 365.
 
-Будь ласка, відвідайте ці посилання для отримання додаткової інформації:
+Перегляньте наведені нижче посилання, щоб отримати докладніші відомості.
 
 - [Огляд запобігання втраті даних](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)
-- [Які типи конфіденційних даних шукають](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
-- [Створення настроюваного типу даних делікатного характеру](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
-- [Надсилати сповіщення електронною поштою та показувати поради щодо політики](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
-- [Захист файлів SharePoint Online з мітками збереження та ЗВД](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [ЗВД і Microsoft teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
+- [Відомості про типи чутливих даних](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+- [Створення спеціального чутливе типу відомостей](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
+- [Надсилання сповіщень електронної пошти та відображення порад політики](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
+- [Захист файлів SharePoint Online за допомогою міток збереження та DLP](https://docs.microsoft.com/microsoft-365/compliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [Команди DLP і Microsoft](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)
 
-Щоб перевірити дані за допомогою вбудованого або настроюваного типу даних делікатного характеру, скористайтеся параметром **Test Type** **у розділі**  >  **типи конфіденційних**відомостей. Щоб [отримати додаткові відомості див.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
+Щоб перевірити дані з вбудованим або настроюваним типом конфіденційної інформації, скористайтеся параметром **тип тесту** в розділі **класифікації**  >  **конфіденційних відомостей про типи**даних. Докладні відомості наведено в статті [перевірка користувацьких чутливих типів даних](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
