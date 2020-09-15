@@ -1,11 +1,12 @@
 ---
-title: 127 отримання помилки під час доступу до електронної пошти
+title: 127 отримання помилки TenantAccessBlockedException під час доступу до електронної пошти?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 32ad81e9b1234d8adff3d2cac9c9e4b619e35688
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062233"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706652"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Отримання помилки Tenantackpepepeca під час доступу до електронної пошти?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Отримання помилки TenantAccessBlockedException під час доступу до електронної пошти?
 
-Існує кілька причин, чому може з'явитися така помилка. Наприклад,
+Ця помилка може з'явитися через кілька різних причин. Наприклад,
 
-- Переконайтеся, що ваша Передплата дійсна на сторінці « **виставлення рахунків** \> **[товарів](https://portal.office.com/adminportal/home#/subscriptions)** » у центрі адміністрування Microsoft 365.
+- Переконайтеся, що ваша Передплата дійсна на сторінці " **виставлення рахунків** на \> **[продукти](https://portal.office.com/adminportal/home#/subscriptions)** " в центрі адміністрування Microsoft 365.
 
-- Перевірте **, чи** будь-які минулі сповіщення про \> **[платежі рахунків & платежів](https://portal.office.com/adminportal/home#/billoverview)** сторінки центру адміністрування Microsoft 365.
+- Перевірте наявність попередніх сповіщень на сторінці **виставлення** \> **[рахунків & платежі](https://portal.office.com/adminportal/home#/billoverview)** в центрі адміністрування Microsoft 365.
 
-- Якщо ви нещодавно оновили виставлення рахунків і передплати на ваш обліковий запис, це може зайняти час, щоб зміни для розповсюдження. Спробуйте ще раз через кілька хвилин, і якщо проблема повторюється, зв'яжіться з нами.
+- Якщо ви нещодавно оновили рахунки та передплати для вашого облікового запису, може знадобитися час для розповсюдження змін. Повторіть спробу через кілька хвилин, і Якщо проблему не усунуто, зверніться до нас.
