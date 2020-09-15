@@ -1,25 +1,26 @@
 ---
-title: З'явиться чорний фон, або форматування комірки не виглядає правильним
+title: Відображається чорний фон, або форматування у клітинках не виглядає правильно
 ms.author: pebaum
 author: pebaum
 manager: jecon
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: aeb2ab904e80861b436bc2d739a0e16d89c2a906
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687459"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663975"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="f472d-102">З'явиться чорний фон, або форматування комірки не виглядає правильним</span><span class="sxs-lookup"><span data-stu-id="f472d-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="3d922-102">Відображається чорний фон, або форматування у клітинках не виглядає правильно</span><span class="sxs-lookup"><span data-stu-id="3d922-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="f472d-103">У Excel 2016 може відображатися неочікуване Чорне тло або відображається форматування клітинки, яке не відображається належним чином.</span><span class="sxs-lookup"><span data-stu-id="f472d-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="f472d-104">Це може статися після додавання верхнього або нижнього колонтитула в поданні макета сторінки та застосування візерунка заливки до комірки.</span><span class="sxs-lookup"><span data-stu-id="f472d-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="f472d-105">Цю проблему було усунуто у версії 1708 (збірка 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="f472d-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="f472d-106">Щоб вирішити цю проблему, оновіть останню версію Office.</span><span class="sxs-lookup"><span data-stu-id="f472d-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="f472d-107">\> Виберіть **пункт** оновити \> **Параметри** **Account** \> **Update Now**оновлення облікового запису.</span><span class="sxs-lookup"><span data-stu-id="f472d-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="3d922-103">У програмі Excel 2016 може відобразитися непотрібний чорний фон, або ви можете побачити форматування у клітинках, яке не відображається належним чином.</span><span class="sxs-lookup"><span data-stu-id="3d922-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="3d922-104">Це може статися після додавання верхнього або нижнього колонтитула в поданні макета сторінки, а також за допомогою візерункової заливки до клітинок.</span><span class="sxs-lookup"><span data-stu-id="3d922-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="3d922-105">Цю проблему вирішено у версії 1708 (збірці 8431,2094).</span><span class="sxs-lookup"><span data-stu-id="3d922-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="3d922-106">Щоб виправити це, оновіть її до найновішої версії Office.</span><span class="sxs-lookup"><span data-stu-id="3d922-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="3d922-107">Виберіть **File** пункт Оновити \> **настройки облікового запису** файлу \> **Update Options** \> **зараз**.</span><span class="sxs-lookup"><span data-stu-id="3d922-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 
