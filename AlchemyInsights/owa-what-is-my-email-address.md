@@ -1,25 +1,26 @@
 ---
-title: Що таке Моя електронна адреса в Outlook, в Інтернеті
+title: Що таке адреса електронної пошти в Інтернет-версії Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: f06176a4695d46bf3f8386be1a77705abf187112
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768206"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665847"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Яка моя адреса електронної пошти в Outlook в Інтернеті?
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>Що таке адреса електронної пошти в Інтернет-версії Outlook?
 
-Ваша електронна адреса призначається вам вашою роботою або школою. Це виглядає як ellen@contoso.onmicrosoft.com, ellen@contoso.edu або ellen@contoso.com. Цей робочий або навчальний обліковий запис – це адреса електронної пошти та обліковий запис, який ви використовуєте для входу в Microsoft 365 для роботи або навчання.
+Ваша адреса електронної пошти доручена вам у вашій роботі або навчальному закладі. Схоже, ellen@contoso.onmicrosoft.com, ellen@contoso.edu або ellen@contoso.com. Цей робоча або навчальний обліковий запис – це адреса електронної пошти та обліковий запис, який використовується для входу в програму Microsoft 365 для роботи чи навчального закладу.
 
-Ваш робочий або навчальний обліковий запис відрізняється від облікового запису Microsoft. Ви використовуєте обліковий запис Microsoft для особистих служб, таких як Outlook.com, Xbox Live, Skype тощо.
+Ваш робоча або навчальний обліковий запис відрізняється від облікового запису Microsoft. Ви використовуєте обліковий запис Microsoft для особистих служб, наприклад Outlook.com, Xbox наживо, Skype тощо.
 
-Для отримання додаткових відомостей див. [що таке ідентифікатор користувача і для чого він потрібен для Microsoft 365 для бізнесу?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+Щоб отримати додаткові відомості, Дізнайтеся, [що таке мій ідентифікатор користувача, і навіщо вона потрібна для Microsoft 365 для бізнесу?](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
