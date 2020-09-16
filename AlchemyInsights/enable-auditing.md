@@ -5,6 +5,7 @@ author: markjjo
 manager: lauraw
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: d6f1f96220a44247d217f6e82e76fb38875578e8
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507011"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47806600"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Увімкнення та пошук журналу аудиту
 
 **Microsoft 365**
 
-Для пошуку Microsoft 365 журнал аудиту, виконайте [такі дії](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Щоб знайти журнал аудиту Microsoft 365, виконайте наведені нижче [дії](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**Обмін**
+**Exchange**
 
-- Дії адміністратора Exchange за промовчанням перевіряються.
+- Дії з адміністрування Exchange перевіряються за замовчуванням.
 
-- Аудит поштової скриньки увімкнуто за промовчанням у Microsoft 365. Докладніші відомості наведено в [цій статті](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
+- Аудит поштової скриньки активовано за замовчуванням у програмі Microsoft 365. Щоб отримати докладніші відомості, ознайомтеся з  [цією статтею](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
 
-- Microsoft 365 групи поштових скриньок і спільних папок у поштових скриньках Exchange Online, не підтримують журналювання аудиту.
+- Поштові скриньки групи Microsoft 365 і спільні поштові скриньки в службі Exchange Online не підтримують журналювання аудиту.
 
 **SharePoint і OneDrive**
 
-- Немає додаткових налаштувань, необхідних для ввімкнення аудиту для SharePoint і OneDrive.
+- Для ввімкнення аудиту в SharePoint і OneDrive не потрібно використовувати додаткову конфігурацію.
 
-- Служба підтримки SharePoint і OneDrive відстеження таких типів справ:
+- Служба підтримки SharePoint і OneDrive – аудит таких типів дій:
 
-    - Дії з файлом, папкою та сторінкою
-    - Дії з надсилання й отримання доступу
-    - Діяльність адміністрування сайту
+    - Дії з файлами, папками та сторінками
+    - Надання спільного доступу до дій і запитів на доступ
+    - Дії з адміністрування сайту
     - Дії з синхронізації файлів
 
-- Відомості про перевірені дії в інших службах наведено в [таблиці в цій статті](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Докладні відомості про перевірені дії в інших службах наведено в  [таблиці в цій статті](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Нижче наведено список запитань, які часто задаються [найчастіше задаються](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) про пошук журналу аудиту.
+- Нижче наведено список запитань і відповіді на [запитання про пошук](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) журналу аудиту.

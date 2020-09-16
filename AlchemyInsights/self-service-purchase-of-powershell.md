@@ -1,30 +1,31 @@
 ---
-title: Купівля-самообслуговування PowerShell
+title: Самостійне придбання PowerShell
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: 5e47e08e3309b3d58908e10ee06021da00f230bb
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091785"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47739991"
 ---
-# <a name="self-service-purchase-of-powershell"></a>Купівля-самообслуговування PowerShell
+# <a name="self-service-purchase-of-powershell"></a>Самостійне придбання PowerShell
 
-Щоб скористатися модулем MSCommerce PowerShell, потрібно інсталювати його на пристрій Windows 10 із TLS 1,2 (необхідні дозволи локального адміністратора).  Імпорт і підключення до модуля MSCommerce.  Коли з'явиться запит на вхід, вам потрібно буде використовувати глобальні облікові дані або адміністратора для виставлення рахунків.  
+Щоб скористатися модулем PowerShell MSCommerce, потрібно інсталювати його на пристрої з Windows 10 із протоколом TLS 1,2 (потрібен локальний дозвіл адміністратора).  Імпорт і підключення до модуля MSCommerce.  Коли з'явиться відповідний запит на вхід, потрібно буде використовувати облікові дані ролей глобального або облікового запису адміністратора.  
 
-Якщо у вас немає TLS 1,2, може з'явитися таке повідомлення про помилку під час спроби отримати або оновити політику:
+Якщо у вас немає TLS 1,2, під час спроби отримати або оновити політику може з'явитися таке повідомлення про помилку:
 
-*Повідомлення помилки-базове підключення закрито: сталася неочікувана помилка*під час надсилання.
+*Erritmessage-вихідне підключення було закрито: під час надісланого повідомлення сталася неочікувана помилка*.
 
 
 
