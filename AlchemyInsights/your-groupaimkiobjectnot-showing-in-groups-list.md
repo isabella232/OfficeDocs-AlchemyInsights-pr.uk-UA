@@ -1,24 +1,25 @@
 ---
-title: Ваша група не відображається у списку груп
-ms.author: v-crytho
+title: Група не відображається в списку "групи"
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 89682fd8e68c5b93b50a5105e568bbc214fc3988
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715833"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47757501"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Ваша група "{AimKIObject}" не відображається у списку груп
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>Ваша група "{AimKIObject}" не відображається в списку "групи"
 
-Створено групу розсилки з іменем "{AimKIObject}" {Aimkitimeминуло} хвилин тому. Це може зайняти до 60 хвилин, перш ніж ваша нова група з'явиться в центрі адміністрування.
+Група розсилки під назвою "{AimKIObject}" була створена {Aikitimeпройшло} хвилин тому. Щоб нова група відображалася в центрі адміністрування, може знадобитися до 60 хвилин.
   
-Якщо ви хочете додати учасників або зробити інші редагування прямо зараз, скористайтеся функцією групи в [центрі адміністрування Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Якщо потрібно додати учасників або внести інші зміни прямо зараз, скористайтеся функцією "групи" в [центрі адміністрування Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 
