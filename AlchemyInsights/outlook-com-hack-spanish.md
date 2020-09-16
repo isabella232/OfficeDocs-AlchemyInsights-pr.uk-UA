@@ -1,11 +1,12 @@
 ---
-title: 8000066-правило 2-Outlook.com зламаний-Іспанська
+title: 8000066 – правило 2 – Outlook.com зламаний – Іспанська
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,17 +14,17 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: 0149559d03e8f7ceedad9ea74a5610255b0c7ba6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f7b66212cbea119b5cfe6d6d131506020c0d6051
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760217"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724207"
 ---
-# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a><span data-ttu-id="734c2-102">Хан pirateado Мі кулента де Outlook.com</span><span class="sxs-lookup"><span data-stu-id="734c2-102">Han pirateado mi cuenta de Outlook.com</span></span>
+# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a><span data-ttu-id="02bc9-102">Хан піатедо Мі куента-де-Outlook.com</span><span class="sxs-lookup"><span data-stu-id="02bc9-102">Han pirateado mi cuenta de Outlook.com</span></span>
 
-<span data-ttu-id="734c2-103">Si су кулента SE Ha pirateado є Que alguien робо La контраанья і є можливе Que esté усандо ла кулента пункт обор доступ до су інформували особистий o enviar correo не deseado.</span><span class="sxs-lookup"><span data-stu-id="734c2-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
+<span data-ttu-id="02bc9-103">У цій грі ви знайдете в центрі міста, а також на веб-сайт enviar correo, що є в будь-якому районі, де ви знайдете всі можливості, які мають спеціальні можливості.</span><span class="sxs-lookup"><span data-stu-id="02bc9-103">Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.</span></span>
 
-[<span data-ttu-id="734c2-104">Siga Las instrucciones пункт рекупернар су кулента.</span><span class="sxs-lookup"><span data-stu-id="734c2-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="02bc9-104">У цій якості ви також могли б бути в центрі міста.</span><span class="sxs-lookup"><span data-stu-id="02bc9-104">Siga las instrucciones para recuperar su cuenta.</span></span>](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
 
-<span data-ttu-id="734c2-105">Пункт переобладнувача La cuenta використання Ель teléfono u otro обладно, Vaya a [Account.Microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span><span class="sxs-lookup"><span data-stu-id="734c2-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>
+<span data-ttu-id="02bc9-105">Абзац, у якому є [Account.Microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814)..........</span><span class="sxs-lookup"><span data-stu-id="02bc9-105">Para restablecer la cuenta mediante el teléfono u otro equipo, vaya a [account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).</span></span>

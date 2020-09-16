@@ -6,6 +6,7 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,16 +14,16 @@ ms.custom:
 - "962"
 - "8000057"
 ms.assetid: f0e4afcc-b0a1-4b1b-b1e8-743504b54d37
-ms.openlocfilehash: d814ccf4392c2a9c5239deae788d4349a793a256
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b7fa5f4dc709511b6857b12942be2e7fd81ac575
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743690"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723052"
 ---
-# <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a><span data-ttu-id="d53bf-102">Розширена безпека Outlook.com для абонентів Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="d53bf-102">Advanced Outlook.com security for Microsoft 365 subscribers</span></span>
+# <a name="advanced-outlookcom-security-for-microsoft-365-subscribers"></a><span data-ttu-id="05a21-102">Розширена безпека Outlook.com для абонентів Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="05a21-102">Advanced Outlook.com security for Microsoft 365 subscribers</span></span>
 
-<span data-ttu-id="d53bf-103">Всі користувачі Outlook.com виграють від спаму і шкідливих програм фільтрації.</span><span class="sxs-lookup"><span data-stu-id="d53bf-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="d53bf-104">Для Office 365 для дому та офісу 365 персональні абоненти Outlook.com виконує додатковий показ вкладень і посилань у повідомленнях, які ви отримуєте.</span><span class="sxs-lookup"><span data-stu-id="d53bf-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of attachments and links in messages you receive.</span></span> <span data-ttu-id="d53bf-105">Щоб дізнатися більше, ознайомтеся з [розширеними Outlook.com безпеки для абонентів Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="d53bf-105">To learn more, read [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="05a21-103">Усі користувачі Outlook.com можуть скористатися фільтром спаму та зловмисних програм.</span><span class="sxs-lookup"><span data-stu-id="05a21-103">All Outlook.com users benefit from spam and malware filtering.</span></span> <span data-ttu-id="05a21-104">Для Office 365 Home і Office 365 персональні абоненти, Outlook.com виконує додаткові можливості перевірки вкладень і посилань у повідомленнях, які ви отримали.</span><span class="sxs-lookup"><span data-stu-id="05a21-104">For Office 365 Home and Office 365 Personal subscribers, Outlook.com performs extra screening of attachments and links in messages you receive.</span></span> <span data-ttu-id="05a21-105">Щоб дізнатися більше, ознайомтеся з [додатковими можливостями Outlook.com Security для абонентів Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="05a21-105">To learn more, read [Advanced Outlook.com security for Microsoft 365 subscribers](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
 
-<span data-ttu-id="d53bf-106">Щоб увімкнути або вимкнути безпечні посилання, перейдіть до [налаштувань безпеки преміум-класу](https://outlook.live.com/mail/options/premium/security) (</span><span class="sxs-lookup"><span data-stu-id="d53bf-106">To turn on or turn off Safe Links, go to your [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (</span></span><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- <span data-ttu-id="d53bf-107">**Налаштування** > **Premium**преміум > **безпеки**).</span><span class="sxs-lookup"><span data-stu-id="d53bf-107">**Settings** > **Premium** > **Security**).</span></span>
+<span data-ttu-id="05a21-106">Щоб увімкнути або вимкнути безпечні посилання, перейдіть на сторінку преміум- [безпеки](https://outlook.live.com/mail/options/premium/security) (</span><span class="sxs-lookup"><span data-stu-id="05a21-106">To turn on or turn off Safe Links, go to your [Premium Security settings](https://outlook.live.com/mail/options/premium/security) (</span></span><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="05a21-107">**Параметри**  >  **Премія**  >  **Безпека**).</span><span class="sxs-lookup"><span data-stu-id="05a21-107">**Settings** > **Premium** > **Security**).</span></span>
