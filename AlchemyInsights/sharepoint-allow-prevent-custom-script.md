@@ -1,25 +1,26 @@
 ---
-title: Дозволити користувацький скрипт для ввімкнення функцій
+title: Дозволити спеціальні сценарії для ввімкнення функцій
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051806"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738982"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>Дозволити користувацький скрипт для ввімкнення функцій
+# <a name="allow-custom-script-to-enable-features"></a>Дозволити спеціальні сценарії для ввімкнення функцій
 
-Адміністратори, можливо, доведеться **дозволити настроюваний сценарій** , щоб увімкнути певні функції. Наприклад, користувачі можуть отримувати повідомлення про помилку 403 під час підключення до SharePoint з SharePoint Designer. Докладні кроки, приклади та [рекомендації див.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Щоб активувати певні функції, адміністратори можуть знадобитися **дозволити настроюваний сценарій** . Наприклад, користувачі можуть отримувати помилку 403 під час підключення до SharePoint за допомогою програми SharePoint Designer. Докладні вказівки, приклади та міркування [дають змогу переглянути або заборонити настроюваний сценарій](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-Якщо користувачі зазнають **помилки 403** з SharePoint або OneDrive, можна перевірити [приладна дошка справності служби](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , щоб визначити, чи є це відома проблема з роздільною здатністю, що триває, перш ніж зателефонувати підтримки або витрачати час на виправлення неполадок. Проблема може бути дуже тимчасовий і вже визначені Microsoft, але може бути проміжок часу між ідентифікації та розміщення на приладній дошці служби здоров'я. Щоб отримати додаткові оновлення, продовжуйте перевіряти приладну дошку стану служби.
+Якщо користувачі зазнають **помилки 403** із SharePoint або OneDrive, ви можете перевірити [приладну дошку справності служби](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , щоб визначити, чи це відома проблема з роздільною здатністю, перш ніж телефонувати за допомогою служби підтримки або витрачати час на виправлення неполадок. Ця проблема може бути дуже тимчасовою і вже ідентифікована корпорацією Майкрософт, але може бути проміжок часу між ідентифікацією проблем і публікою на приладній дошці служби справності. Перейдіть на приладну дошку справності служби, щоб переглянути додаткові оновлення.
 
