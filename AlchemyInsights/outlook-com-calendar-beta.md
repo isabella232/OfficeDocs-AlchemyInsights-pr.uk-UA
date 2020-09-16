@@ -1,30 +1,31 @@
 ---
-title: 9000198 Outlook.com календар Beta
+title: Бета-версія 9000198 Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 9355093f45b34d7da5d0920c6afca1438adbc940
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710896"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47753388"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Новий календар досвід наближається до Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Нові можливості календаря, що надходять до Outlook.com
 
-Новий погляд приносить найкращі дизайни та вивчаються з досвіду роботи з поштою до календаря.
+Новий вигляд надає найкращий дизайн і Learnings від роботи з поштою до календаря.
 
-Ви будете насолоджуватися сучасним дизайном, який зменшує візуальне безладдя і дає вам швидкий спосіб навігації по вашому календарю. Також легше знаходити цікаві календарі для ваших улюблених занять — від ТЕЛЕВІЗІЙНИХ шоу до спортивних команд та подій.
+Ви зможете насолодитися сучасною конструкцією, що зменшує візуальне безладу та дає змогу швидко переміщатися в календарі. Крім того, можна легко знаходити цікаві календарі для улюблених заходів – від ТЕЛЕВІЗІЙНИХ програм до спортивних команд і подій.
 
-Ми розширили нашу колекцію іконок подій і оновили зовнішній вигляд існуючих і ми тепер автоматично додати відповідні значки на ваші події, так що ви можете легко побачити, що відбувається на перший погляд.
+Ми розширили колекцію піктограм подій і оновили зовнішній вигляд наявних, і тепер ми автоматично додамо відповідні піктограми для подій, щоб ви могли легко дізнатися про те, що відбувається з першого погляду.
 
-Ви можете дати відгук про нові функції через [Outlook.com календар UserVoice канал](https://go.microsoft.com/fwlink/?linkid=2103075).
+Ви можете надати відгук про нові функції через [канал UserVoice Outlook.com calendar](https://go.microsoft.com/fwlink/?linkid=2103075).
