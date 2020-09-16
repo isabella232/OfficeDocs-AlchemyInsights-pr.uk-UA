@@ -1,31 +1,32 @@
 ---
-title: Настройки політики організації для зовнішніх користувачів
+title: Параметри організаційної політики для зовнішніх користувачів
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2674"
 - "9000196"
-ms.openlocfilehash: 3e703bfb7ac8a1932231e9a6f7bcd942c13cc2e0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 893b954ef6c1333f52dac645902236984a209599
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642021"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769456"
 ---
-# <a name="organization-policy-settings-for-external-users"></a><span data-ttu-id="3d7aa-102">Настройки політики організації для зовнішніх користувачів</span><span class="sxs-lookup"><span data-stu-id="3d7aa-102">Organization Policy settings for external users</span></span>
+# <a name="organization-policy-settings-for-external-users"></a><span data-ttu-id="2d7ec-102">Параметри організаційної політики для зовнішніх користувачів</span><span class="sxs-lookup"><span data-stu-id="2d7ec-102">Organization Policy settings for external users</span></span>
 
-<span data-ttu-id="3d7aa-103">Користувачі можуть побачити наведене нижче повідомлення з попередженням під час спроби надати спільний доступ зовнішнім користувачам організації:</span><span class="sxs-lookup"><span data-stu-id="3d7aa-103">Users may see the following warning message when they try to share with external users of your organization:</span></span> 
+<span data-ttu-id="2d7ec-103">Під час спроби надати спільний доступ зовнішнім користувачам вашої організації користувачі можуть побачити таке попередження:</span><span class="sxs-lookup"><span data-stu-id="2d7ec-103">Users may see the following warning message when they try to share with external users of your organization:</span></span> 
 
-   <span data-ttu-id="3d7aa-104">**Політики вашої організації не дають змогу ділитися цими користувачами. Перейдіть до зовнішнього спільного доступу в центрі адміністрування Microsoft 365, щоб увімкнути його.**</span><span class="sxs-lookup"><span data-stu-id="3d7aa-104">**Your organization's policies don't allow you to share with these users. Go to External Sharing in the Microsoft 365 admin center to enable it.**</span></span> 
+   <span data-ttu-id="2d7ec-104">**Політики організації не дають змогу надати спільний доступ до цих користувачів. Перейдіть до зовнішнього спільного доступу в центрі адміністрування Microsoft 365, щоб активувати її.**</span><span class="sxs-lookup"><span data-stu-id="2d7ec-104">**Your organization's policies don't allow you to share with these users. Go to External Sharing in the Microsoft 365 admin center to enable it.**</span></span> 
 
-<span data-ttu-id="3d7aa-105">Це часто трапляється під час першого спроби спільного використання з зовнішніми користувачами або під час обміну даними з новими зовнішніми користувачами.</span><span class="sxs-lookup"><span data-stu-id="3d7aa-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span> <span data-ttu-id="3d7aa-106">Для отримання додаткової інформації, будь ласка, зверніться до статті нижче:</span><span class="sxs-lookup"><span data-stu-id="3d7aa-106">For more information, please see the article below:</span></span>
+<span data-ttu-id="2d7ec-105">Це часто трапляється під час першого спроби надати спільний доступ зовнішнім користувачам або під час надання спільного доступу до нових зовнішніх користувачів.</span><span class="sxs-lookup"><span data-stu-id="2d7ec-105">This often happens the first time attempting to share with external users or when sharing with new external users.</span></span> <span data-ttu-id="2d7ec-106">Щоб отримати докладніші відомості, ознайомтеся з наведеною нижче статтею.</span><span class="sxs-lookup"><span data-stu-id="2d7ec-106">For more information, please see the article below:</span></span>
 
-[<span data-ttu-id="3d7aa-107">Політики вашої організації не дозволяють обмінюватися цими користувачами</span><span class="sxs-lookup"><span data-stu-id="3d7aa-107">Your organization's policies do not allow you to share with these users</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+[<span data-ttu-id="2d7ec-107">Політики організації не дають змогу надавати спільний доступ до цих користувачів</span><span class="sxs-lookup"><span data-stu-id="2d7ec-107">Your organization's policies do not allow you to share with these users</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 
 
 
