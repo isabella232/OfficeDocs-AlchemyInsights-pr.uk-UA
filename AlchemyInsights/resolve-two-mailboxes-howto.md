@@ -1,11 +1,12 @@
 ---
-title: 1374 вирішення двох поштових скриньок HOWTO
+title: 1374 вирішити два HOWTO для поштових скриньок
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "2692"
 - "3500014"
 ms.assetid: 8bf1a8f2-58ef-4697-b9c0-be340de96bfe
-ms.openlocfilehash: 95d85d7737ae0684b2a2c017134104bd377695f1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 048c527b26d138535550b5bae399d0ce9fbce0a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722553"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720919"
 ---
 # <a name="a-user-has-two-mailboxes"></a>Користувач має два поштові скриньки
 
-Гібридні середовища, які використовують Azure Active Directory підключення (сад підключення), або DirSync може випадково призвести до того, що користувач має два поштові скриньки: один локальні та один у хмарі. Повторювані поштової скриньки може бути створено в будь-якому місці.
+У гібридних середовищах, за допомогою яких підключається підключення Azure Active Directory (AAD Connect) або DirSync, може випадково призвести до того, що користувач матиме два поштові скриньки: один локальний, а один у хмарі. Можна створити дублікат поштової скриньки в будь-якому розташуванні.
 
-Щоб вирішити цю проблему, Дізнайтеся, [як відновити, коли поштова скринька існує в обох Exchange Online та локальні](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Якщо ви хочете дізнатися більше про те, як уникнути цього, у майбутньому, зверніться [до мого користувача поштової скриньки як локальні, так і в Exchange Online. Допоможіть!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
+Щоб вирішити цю проблему, Дізнайтеся, [як відновити поштову скриньку в службі Exchange Online і локальному комп'ютері](https://docs.microsoft.com/exchange/troubleshoot/move-mailboxes/mailbox-exists-exo-onpremises). Щоб дізнатися більше про те, як уникнути цієї ситуації в майбутньому, див [. мій користувач має поштову скриньку як локально, так і в службі Exchange Online. Допоможіть!](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/My-user-has-a-mailbox-both-on-premises-and-in-Exchange-Online/ba-p/846809).
