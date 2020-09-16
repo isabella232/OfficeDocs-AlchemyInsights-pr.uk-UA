@@ -1,29 +1,30 @@
 ---
-title: З'єднувачі для Microsoft-графіки
+title: Сполучні лінії Microsoft Graph
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: d985aa25ba14b0f00a3c405ac55fa2c369e13c48
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862186"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724924"
 ---
-# <a name="microsoft-graph-connectors"></a>З'єднувачі для Microsoft-графіки
+# <a name="microsoft-graph-connectors"></a>Сполучні лінії Microsoft Graph
 
-За допомогою роз'ємів Microsoft графа ваша організація може індексувати сторонні дані, які відображатимуться в результатах пошуку Microsoft.
+За допомогою з'єднувачів Microsoft Graph організація може індексувати дані третіх осіб, які відображатимуться в результатах пошуку Microsoft.
 
-- [З'єднувачі від корпорації Майкрософт](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [З'єднувачі наших партнерів](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Сполучні лінії Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Сполучні лінії наших партнерів](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Для отримання додаткових відомостей див. [Огляд роз'ємів Microsoft графа](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Докладні відомості наведено в розділі  [Огляд сполучних ліній Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
