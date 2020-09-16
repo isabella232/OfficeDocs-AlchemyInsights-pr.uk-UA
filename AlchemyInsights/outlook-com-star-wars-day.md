@@ -1,24 +1,25 @@
 ---
-title: 8000045 день Зоряних війн
+title: День 8000045 зоряних воєн
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000045
-ms.openlocfilehash: 576525b9d5c7e251b0cdbfa086cda40991433d69
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 360089fb1ee2d3cdc6dbcb88bca248977dfd50a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728776"
 ---
-# <a name="star-wars-day"></a>День Зоряних війн
+# <a name="star-wars-day"></a>День зоряних воєн
 
-Ммм, цікаво ви.
+Хм, цікаво.
 
-Нехай сила буде з тобою.
+Можливо, ви будете з вами силою.

@@ -1,28 +1,29 @@
 ---
-title: Як змінити дані облікового запису в Outlook на веб-сайті
+title: Змінення відомостей облікового запису в Інтернет-версії Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 861892a3e51727f00fcbbeedf1cf434589d7432a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 508b47d255612bf286992726ad0a6fe0c9477474
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43667014"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728812"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>Змінення відомостей про обліковий запис у програмі Outlook на веб-сайті
+# <a name="change-account-information-in-outlook-on-the-web"></a>Змінення відомостей облікового запису в Інтернет-версії Outlook
 
-1. Угорі сторінки виберіть своє ім'я або зображення профілю.
+1. У верхній частині сторінки виберіть своє ім'я або зображення профілю.
 1. Виберіть **Мій обліковий запис**.
-1. Виберіть **особиста інформація**.
-1. Змінити або додати інформацію про себе.
+1. Виберіть **особисті дані**.
+1. Змінення або додавання відомостей про себе.
 
-*Примітка:* Деякі деталі, як-от Ваше ім'я та посада, можуть бути надані відділом його або відділу кадрів. Якщо потрібно оновити ці відомості, зверніться до них або до адміністратора.
+*Примітка.* Деякі відомості, як-от Ваше ім'я та посада, можуть надаватися у відділі ІТ-і людських ресурсів. Якщо потрібно оновити ці відомості, зверніться до них або до свого адміністратора.
 
-Для отримання додаткових відомостей див. [Змінення відомостей про фотографію та обліковий запис у програмі Outlook в Інтернеті](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+Докладні відомості наведено в статті [змінення фотографії та відомостей облікового запису в Інтернет-версії Outlook](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
