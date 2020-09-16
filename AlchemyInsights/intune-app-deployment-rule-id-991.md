@@ -1,32 +1,33 @@
 ---
-title: InTune розгортання застосунку ідентифікатор правила 991
+title: Ідентифікатор правила розгортання програми inune 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714027"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755188"
 ---
-# <a name="intune-app-deployment"></a>InTune розгортання програм
+# <a name="intune-app-deployment"></a>Розгортання програми inune
 
-Розгортання програм за допомогою InTune – це процес із трьома етаками:
+Процес розгортання програм за допомогою веб-програми Inune – це три етапи:
   
-1. **Додавши додаток** -ви можете додати додаток App Store або завантажити лінійку бізнес-додатків.
+1. **Додавши програму** , ви можете додати застосунок-магазин програм або завантажити лінію бізнес-програми.
 
-2. **Призначення застосунку** -визначити область розгортання застосунку.
+2. **Призначення програми** – визначення області розгортання програми.
 
-3. **Моніторинг додатків** -переглядайте стан інсталяції додатків, список виявлених програм і керуйте додатками, придбаними з магазинів додатків.
+3. **Моніторинг програм** – перегляд стану інсталяції програм, список виявлених програм, а також Керування програмами, придбаними із магазину програм.
 
-Прочитайте [, що таке InTune управління додатком](https://docs.microsoft.com/intune/app-management) для покрокові керівництва та інформації про налаштування та захист додатків.
+Дізнайтеся, [що таке керування програмою Inune](https://docs.microsoft.com/intune/app-management) для покрокові вказівки та відомості про настроювання та захист програм.
   

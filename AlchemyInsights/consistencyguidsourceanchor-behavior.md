@@ -1,33 +1,34 @@
 ---
-title: Послідовність надсилання GUID/Джереопору
+title: Спосіб відповідного ідентифікатора _ програми
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: adac469328485696d1ee1532aa3d6828af0642eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705754"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756304"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>Послідовність надсилання GUID/Джереопору
+# <a name="consistencyguid--sourceanchor-behavior"></a>Спосіб відповідного ідентифікатора _ програми
 
-Azure AD-підключення (версія 1.1.524.0 і після) тепер полегшує використання msDS-послідовність, як атрибут Джерелиприв'язки. Під час використання цієї функції, Azure AD Connect автоматично налаштовує правила синхронізації на:
+Azure AD Connect (версія 1.1.524.0 і After) тепер полегшує використання msDS-послідовним GUID як атрибута Sourcetoror. Під час використання цієї функції функція Azure AD Connect автоматично настроює правила синхронізації:
   
-- Використання msDS-послідовність, як атрибут, що Джерелиприв'язка об'єктів користувача. ObjectGUID використовується для інших типів об'єктів.
+- Використання msDS-Contencyguid як атрибута вихідного коду для об'єктів користувача. Для інших типів об'єктів використовується Obbguid.
     
-- Для будь-якого локального об'єкта користувача оголошення, якого атрибут msDS-послідовність Encyguid не вказано, Azure AD-підключення записує його objectGUID значення до атрибута msDS-послідовність Encyguid в локальній службі Active Directory. Після того, як атрибут msDS-послідовність Encyguid вказано, Azure AD-підключення експорту об'єкта Azure AD.
+- Для будь-якого локального об'єкта, який відповідає атрибуту msDS, який не заповнюється, функція Azure AD Connect записує його значення Obcoguid у локальній службі Active Directory. Після того, як атрибут msDS-Conctenyguid заповнено, Лазурне з'єднання потім експортує об'єкт в Лазурне AD.
     
- **Примітка:** Після того, як локальний об'єкт оголошення імпортується в Azure AD-підключення (тобто імпортується у просторі з'єднувача оголошення та проектується метавсесвіту), більше не можна змінити його значення. Щоб указати Джерелюприв'язку значення для певного локального об'єкта оголошення, настройте його атрибут msDS-послідовність Encyguid перед імпортованим у Azure AD-підключення. 
+ **Примітка.** Після того як локальний об'єкт AD імпортується в Azure AD Connect (що імпортується в простір з'єднувача AD і прогнозується в Метавселенну), більше не можна змінити його значення. Щоб указати вихідний параметр для вказаного локального об'єкта AD, настройте його атрибут msDS-confidenguid, перш ніж його буде імпортовано в Azure AD Connect. 
   
-Щоб отримати додаткові відомості про Джерелюякір і послідовність, GUID, зверніться до таких: [AZURE AD-підключення: концепції проектування](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Щоб отримати докладніші відомості про ім'я та відповідний GUID, виконайте наведені нижче дії. [Azure AD Connect: концепції оформлення](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

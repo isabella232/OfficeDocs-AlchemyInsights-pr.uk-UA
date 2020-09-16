@@ -1,10 +1,11 @@
 ---
-title: Невідповідність між OneDrive PUID
+title: Невідповідність OneDrive PUID
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,21 +13,21 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: e1fc50afa5b2e3d625c9136aac9bcb8ff24e00d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713163"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754360"
 ---
-# <a name="onedrive-puid-mismatch"></a>Невідповідність між OneDrive PUID
-Схоже, що ви відчуваєте [невідповідність PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в OneDrive, для бізнесу. Будь ласка, виконайте наступні кроки, щоб ми могли допомогти вам якомога швидше:
+# <a name="onedrive-puid-mismatch"></a>Невідповідність OneDrive PUID
+Здається, що ви відчуваєте [невідповідність PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в службі "OneDrive для бізнесу". Виконайте наведені нижче дії, щоб ми могли якомога швидше допомогти вам.
 
-1. Натисніть кнопку, **зверніться до служби підтримки**та **новий запит на обслуговування**.
-2. Залиште назву та опис як **невідповідність PUID на сайті OneDrive**.
-3. Після того, як квиток був представлений, будь ласка, поновіть його з наступною інформацією:
-    - URL-адреса сайту OneDrive, що впливає.
-    - Ім'я учасника-користувача (UPN) відповідного користувача.
+1. Натисніть кнопку зверніться до служби **підтримки**, а потім – **новий запит на обслуговування**.
+2. Не вдається вийти з заголовка та опису як **невідповідність PUID на сайті OneDrive**.
+3. Після надсилання квитка оновіть її, виконавши наведені нижче відомості.
+    - Порушено URL-адресу сайту OneDrive.
+    - Ім'я учасника-користувача (UPN) для ураженого користувача.
 
 
 

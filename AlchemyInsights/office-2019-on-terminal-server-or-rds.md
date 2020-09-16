@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: ded0f399f1688108803fbb04aaca6a88397e1f1a
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40796454"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754586"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Розгортання Office 2019 для спільного використання на RDS, сервері терміналів або VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Розгортання Office 2019 для спільного використання в RDS, сервері терміналів або VDI
 
-Якщо Office вже інстальовано на сервері RDS, використовуючи будь-які інші плани Office, видаліть його. Наприклад, відкрийте **панель** > керування,**видаліть програму**. Якщо виникають проблеми, видаліть за допомогою [служби підтримки Microsoft і помічника з відновлення](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Якщо пакет Office уже інстальовано на сервері RDS за допомогою будь-яких інших планів Office, видаліть його. Наприклад, відкрийте **панель керування**, щоб  >  **видалити програму**. Якщо виникають проблеми, видаліть її за допомогою [помічника з підтримки й відновлення Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-Щоб інсталювати Office, скористайтеся засобом розгортання Office (ODT). Докладні кроки [2019](https://docs.microsoft.com/deployoffice/office2019/deploy)див.
+Інсталяція пакета Office за допомогою засобу розгортання Office (ODT). Докладні вказівки наведено в статті [розгортання Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
-Для активації дивіться [Огляд пакетної активації офісу](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+У цій статті наведено [огляд того, як активувати Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
