@@ -1,35 +1,36 @@
 ---
-title: Видалення або вимкнення команд Microsoft teams
+title: Видалення або вимкнення команд Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: 750c55f5f4a9e6d71389245676f05489154ab9fb
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: b40446cb7ed0c979c9b5bda3c7ff421f314d39a5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559176"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776471"
 ---
-# <a name="remove-or-turn-off-microsoft-teams"></a>Видалення або вимкнення команд Microsoft teams
+# <a name="remove-or-turn-off-microsoft-teams"></a>Видалення або вимкнення команд Microsoft
 
-Ваша організація ще не готова [співпрацювати або віддалено працювати з Microsoft teams](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?
+Ваша організація ще не готова [співпрацювати або віддалено працювати з командами Microsoft](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?
 
-- Як [Видалити Microsoft teams](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
+- [Видалення команд Microsoft](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).
 
-- [Як увімкнути або вимкнути teams для всієї організації](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).
+- [Як увімкнути або вимкнути команди для всієї організації](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).
 
-- [Запобігати автоматичному запуску команд у вікні 10, видаливши його з меню автозавантаження](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).
+- Щоб [заборонити автоматичний запуск команди з вікна 10, видаліть її з меню "завантаження"](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).
 
-- [Керування інсталяцією Microsoft teams за допомогою групової політики](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams).
+- За [допомогою групової політики можна керувати інсталяцією команд Microsoft](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams).
 
-- [Використання групової політики для запобігання автоматичного запуску Microsoft teams після інсталяції](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+- За [допомогою групової політики можна заборонити автоматичний запуск команд Microsoft після інсталяції](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
-- [Спільні комп'ютерні та VDI середовища з Microsoft teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+- [Спільні комп'ютери та середовище VDI з командами Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
