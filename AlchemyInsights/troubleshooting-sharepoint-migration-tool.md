@@ -1,11 +1,12 @@
 ---
-title: Усунення проблем із засобом міграції SharePoint проблеми та помилки
+title: Виправлення проблем і помилок засобу перенесення SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: e38a74935ff1aa9f815790f4e205f36d43f593df
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759497"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735760"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a><span data-ttu-id="cd8d5-102">Усунення проблем із засобом міграції SharePoint проблеми та помилки</span><span class="sxs-lookup"><span data-stu-id="cd8d5-102">Troubleshooting SharePoint Migration Tool issues and errors</span></span>
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a><span data-ttu-id="8f20c-102">Виправлення проблем і помилок засобу перенесення SharePoint</span><span class="sxs-lookup"><span data-stu-id="8f20c-102">Troubleshooting SharePoint Migration Tool issues and errors</span></span>
 
-<span data-ttu-id="cd8d5-103">Під час використання засобу міграції SharePoint (SPMT) можуть виникати деякі поширені проблеми та помилки.</span><span class="sxs-lookup"><span data-stu-id="cd8d5-103">You may encounter some common issues and errors when using the SharePoint Migration Tool (SPMT).</span></span> <span data-ttu-id="cd8d5-104">Будь ласка, посилання на посилання нижче для отримання додаткової інформації.</span><span class="sxs-lookup"><span data-stu-id="cd8d5-104">Please reference the links below for more information.</span></span>
+<span data-ttu-id="8f20c-103">Під час використання засобу перенесення SharePoint (SPMT) може виникнути кілька поширених проблем і помилок.</span><span class="sxs-lookup"><span data-stu-id="8f20c-103">You may encounter some common issues and errors when using the SharePoint Migration Tool (SPMT).</span></span> <span data-ttu-id="8f20c-104">Щоб отримати докладні відомості, ознайомтеся з наведеними нижче посиланнями.</span><span class="sxs-lookup"><span data-stu-id="8f20c-104">Please reference the links below for more information.</span></span>
 
-- [<span data-ttu-id="cd8d5-105">Усунення несправностей, поширених проблем і помилок SPMT</span><span class="sxs-lookup"><span data-stu-id="cd8d5-105">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [<span data-ttu-id="8f20c-105">Виправлення неполадок із загальними проблемами та помилками SPMT</span><span class="sxs-lookup"><span data-stu-id="8f20c-105">Troubleshooting common SPMT issues and errors</span></span>](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
-- [<span data-ttu-id="cd8d5-106">Усунення проблем із інсталяцією SPMT</span><span class="sxs-lookup"><span data-stu-id="cd8d5-106">Troubleshooting SPMT install issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+- [<span data-ttu-id="8f20c-106">Виправлення неполадок із інсталяцією SPMT</span><span class="sxs-lookup"><span data-stu-id="8f20c-106">Troubleshooting SPMT install issues</span></span>](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
