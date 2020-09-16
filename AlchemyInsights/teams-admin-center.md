@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: d504a26ee6532ec291eae797b1c81d86a05414b0
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354109"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670385"
 ---
 # <a name="teams-admin-center"></a>Центр адміністрування Teams
 
@@ -31,5 +32,5 @@ ms.locfileid: "44354109"
 
 - Ви створювали користувачів або призначали ліцензії протягом останніх 24 годин? Перш ніж відкрити квиток підтримки, переконайтеся, що минуло принаймні 24 години.
 - Пересвідчіться, що ви призначили відповідні ліцензії.
-- Якщо у вас є локальний Active Directory, переконайтеся, що [значення msRTCSIP-первинний адресу або SIP-адресу в proxyAddresses поле в локальній Active Directory є унікальним і формат відповідає](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**ім'я** користувача з [центру адміністрування Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- Якщо ви маєте намір зберегти Skype для розгортання бізнес-сервера і користувачі, виконайте реплікацію локальної та онлайн: виконайте **"створити змішаний з команди та Skype для бізнесу онлайн"** у Skype, для бізнес-сервер панелі керування та переміщення користувачів в Інтернеті.
+- Якщо у вас є локальна Служба Active Directory, переконайтеся, що [значення параметра msRTCSIP-PrimaryUserAddress або SIP-адреса в полі "proxyAddress" в локальному Active Directory є унікальним, а формат відповідає](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**ім'я** користувача в [центрі адміністрування Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- Якщо ви збираєтесь зберегти розгортання на сервері Skype для бізнесу, а також користувачі, які створили локальну та онлайнове повідомлення, виконайте **команду "Настроювання гібридного використання команд і" Skype для бізнесу – онлайн "** на панелі керування служби" Skype для бізнесу "та перенесіть користувачів в онлайні.

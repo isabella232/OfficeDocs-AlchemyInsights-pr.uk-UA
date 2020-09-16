@@ -1,29 +1,30 @@
 ---
-title: OneDrive і PST-файли
+title: Файли OneDrive і PST
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6002"
 - "9003081"
-ms.openlocfilehash: b9a6be8707c935fd8069a6a030a1249d04c497b9
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: 16dfc5b39be7967a6de7967edee28bc7f08d216b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141795"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673266"
 ---
-# <a name="onedrive-and-pst-files"></a>OneDrive і PST-файли 
+# <a name="onedrive-and-pst-files"></a>Файли OneDrive і PST 
 
-OneDrive підтримує файли Outlook. PST, однак вони синхронізуються рідше в порівнянні з іншими типами файлів для зменшення мережевого трафіку. Щоб запобігти завантадженню PST-файлів у програмі OneDrive синхронізації, перегляньте [блокування синхронізації певних типів файлів](https://docs.microsoft.com/onedrive/block-file-types). 
+"OneDrive" підтримує PST-файли Outlook, проте вони синхронізуються рідше в порівнянні з іншими типами файлів, щоб зменшити мережний трафік. Щоб запобігти завантаженню PST-файлів у службі синхронізації OneDrive, перегляньте статтю [блокування синхронізації певних типів файлів](https://docs.microsoft.com/onedrive/block-file-types). 
 
-Щоб перемістити PST-файли з OneDrive, Дізнайтеся, [як видалити файл даних Outlook. PST з onedrive](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e). 
+Щоб перенести PST-файли з OneDrive, Дізнайтеся, [як видалити файл даних Outlook. PST із onedrive](https://support.microsoft.com/office/how-to-remove-an-outlook-pst-data-file-from-onedrive-b6b9e522-59bd-40f7-949f-168d0aa9b38e). 
 
-Якщо користувачі, Увімкніть комп'ютер папки резервного копіювання вручну без групової політики, виникає помилка, якщо у них є PST-файл в одному з їх відомих папок.
+Якщо користувачі активували резервну копію папки ПК вручну без групової політики, з'являється повідомлення про помилку, якщо у них є PST-файл в одній із відомих папок.
 
-Якщо використовується OneDrive для роботи або навчання, деякі типи файлів може бути заблоковано адміністратором сайту організації SharePoint.
+Якщо ви використовуєте службу OneDrive для роботи або навчального закладу, деякі типи файлів можуть бути заблоковані адміністратором сайту SharePoint.
