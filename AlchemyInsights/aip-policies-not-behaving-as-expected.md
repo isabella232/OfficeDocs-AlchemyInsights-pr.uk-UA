@@ -1,43 +1,44 @@
 ---
-title: 'AIP: політики, не поведінки належним чином'
+title: 'AIP: політики, які не ведуть себе належним чином'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506579"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663210"
 ---
-# <a name="aip-policies-not-behaving-as-expected"></a>AIP: політики, не поведінки належним чином
+# <a name="aip-policies-not-behaving-as-expected"></a>AIP: політики, які не ведуть себе належним чином
 
-Відомості про захист Azure: політики не поводяться належним чином, перегляньте наведені нижче рекомендації щодо рекомендацій щодо різних питань політики:
+Azure захисту інформації: політики не ведуть себе належним чином, ознайомтеся з такими порадами щодо рекомендованих рекомендацій для різних питань політики.
 
-1. Якщо у вас виникли проблеми з візуальними відмітками, будь ласка, перегляньте, [коли застосовуються візуальні позначки](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Якщо у вас виникли проблеми з автоматичним етикеткуванням, будь ласка, перегляньте, [як налаштувати умови для автоматичної та рекомендованою класифікації для захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) та для [яких типів конфіденційних даних шукати](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-3. Якщо у вас виникли проблеми з рідним/Pfile захист, будь ласка, перевірте [Конфігурація файлу API](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
-4. Перевірте, якщо використовуються політики в області, які не настроєно належним чином: [Настроювання політики захисту даних Azure для певних користувачів за допомогою політики в](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)області.
-5. Якщо автоматичне позначення не працює для Outlook під час підключення документа з міткою, переконайтеся, що DRMEncryptProperty не визначено, як описано тут: [Параметри реєстру IRM для безпеки](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+1. Якщо у вас виникли проблеми з візуальним розміткою, перевірте, [чи застосовуються візуальні позначки](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
+2. Якщо у вас виникли проблеми з автоматичним етикетуванням, ознайомтеся з тим, [як настроїти умови для автоматичної та рекомендованої класифікації для служби Azure захисту інформації](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) , а [також про те, які типи конфіденційної інформації шукають](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+3. Якщо у вас виникли проблеми зі службою захисту від рідної та Pfile, перегляньте [КОНФІГУРАЦІЮ API для файлів](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
+4. Перевірте, чи ви використовуєте політики, які не настроєно належним чином: [як настроїти політику захисту інформації в Лазур для певних користувачів за допомогою політик рівня](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+5. Якщо автоматичне маркування не працює в Outlook під час приєднання до документа з позначкою, переконайтеся, що DRMEncryptProperty не визначено, як описано тут: [Параметри реєстру IRM для системи безпеки](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 
-Якщо ви все ще зіткнулися з проблемами, будь ласка, збирайте журнали клієнт захисту інформації Azure і Прикріпіть експортовані журнали до цього квитка.
+Якщо у вас все ще виникають проблеми, Зберіть клієнт для захисту інформації з Azure, а також вкладіть експортовані журнали до цього квитка.
 
 1. Відкрийте документ Office або створіть новий електронний лист у програмі Outlook.
-2. Натисніть кнопку **захист/чутливість**  >  **Довідка та зворотній зв'язок**.
-3. Натисніть кнопку **експортувати журнали**.
-4. Збережіть журнали на ваш вибір місця розташування та Прикріпіть їх до цього запиту послуги.
+2. Виберіть посилання **захист/конфіденційність**  >  **і зворотний зв'язок**.
+3. Натисніть кнопку **експорт журналів**.
+4. Збережіть журнали на своєму виборі розташування та вкладіть їх до цього запиту на обслуговування.
 
 Додаткові ресурси:
 
-- [Настроювання Мітки для візуального розмітки для захисту інформації в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Огляд документації з захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Використання міток чутливості у програмах Office](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Настроювання підпису для візуального маркування для захисту інформації за допомогою Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Огляд документації з захисту інформації про Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Використання міток чутливості у програмах Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

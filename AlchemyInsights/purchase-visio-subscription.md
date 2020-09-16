@@ -5,29 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "4694"
-ms.openlocfilehash: aca228c2010b3e3497d75b46a231aa404e4dd324
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: HT
+ms.openlocfilehash: 04a82adef279f6c11789b8139621e1f456a6f394
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599339"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662373"
 ---
 # <a name="purchase-visio-subscription"></a>Придбання передплати на Visio
 
-Адміністратори можуть придбати передплату на Visio для своєї організації в **Центрі адміністрування Microsoft 365**.
+Адміністратори можуть придбати передплату Visio для своєї організації в **центрі адміністрування Microsoft 365**.
 
-1. Виберіть **Виставлення рахунків**.
+1. Перейдіть на сторінку **Billing**  >  **[служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)** рахунків, щоб переглянути доступні передплати на придбання для вашої організації.
 
-2. Клацніть **[Придбати послуги](https://go.microsoft.com/fwlink/p/?linkid=868433)**, щоб переглянути передплати, які можна придбати для вашої організації.
+2. Знайдіть плани Visio, скориставшись пошуком за запитом "Visio".
 
-3. Знайдіть плани Visio, скориставшись пошуком за запитом "Visio".
+3. Виберіть **Visio (план 1)** або **Visio (план 2)**. Кожен із них доступний за передплатою на місяць або на рік.
 
-4. Виберіть **Visio (план 1)** або **Visio (план 2)**. Кожен із них доступний за передплатою на місяць або на рік.
-
-Докладніше про відмінності між Visio (план 1) і Visio (план 2) наведено на сторінці [Порівняння варіантів Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options). 
+Докладніше про відмінності між Visio (план 1) і Visio (план 2) наведено на сторінці [Порівняння варіантів Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options).

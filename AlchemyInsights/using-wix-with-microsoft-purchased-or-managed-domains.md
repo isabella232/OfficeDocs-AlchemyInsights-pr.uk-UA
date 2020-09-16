@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: f6845c56f05e9cef11362ce601a974b73a154c9a
-ms.sourcegitcommit: 28a319e482e6a8644e87726e1b0e599819df52d0
+ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46630004"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664767"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Використання веб-сайту Wix із придбаними або керованими доменами Microsoft
 
@@ -29,4 +30,4 @@ ms.locfileid: "46630004"
 
 - Якщо ви вирішите змінити сервери імен на веб-сайт WTX, потрібно створити записи DNS на веб-сайті Wix для корпорації Майкрософт. Докладні відомості наведено в статті [створення записів DNS на сайті Wix для корпорації Майкрософт](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- Якщо ваш домен придбано з корпорації Майкрософт, то не можна змінити сервери імен. Якщо потрібно змінити сервери імен, домен, придбаний корпорацією Майкрософт, потрібно перенести на інший хостинг-провайдер після 60 днів. Докладні відомості наведено в розділі [запитання й відповіді про домени](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+- Якщо ваш домен придбано з корпорації Майкрософт, то не можна змінити сервери імен. Якщо потрібно змінити сервери імен, домен, придбаний корпорацією Майкрософт, потрібно перенести на інший хостинг-провайдер після 60 днів. Докладні відомості наведено в статті [передавання домену від корпорації Майкрософт до іншого хоста](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
