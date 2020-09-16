@@ -6,36 +6,36 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 6a64e001be115c8e5553a0d8c97b8cb815922c69
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581036"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801205"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Не відображаються позначки чутливості
 
-За допомогою міток чутливості можна класифікувати та захищати вміст делікатного характеру. Вони можуть бути створені в Microsoft 365 центр відповідності, Microsoft 365 Центр безпеки, або Microsoft 365 безпеки & центр відповідності класифікації > чутливість етикетки. Щоб дізнатися більше про цю функцію, перегляньте [Огляд міток чутливості](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+Позначки чутливості дають змогу класифікувати та захищати ваш чутливий вміст. Їх можна створити в центрі відповідності Microsoft 365, центрі безпеки Microsoft 365 або в центрі безпеки та конфіденційності Microsoft 365 & центр відповідності класифікації > Мітки чутливості. Докладні відомості про цю функцію наведено в статті [Огляд міток чутливості](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Якщо ви налаштували Мітки чутливості, але вони не відображаються в програмах Microsoft 365, перевірте наступне:
+Якщо ви настроїли Мітки конфіденційності, але вони не відображаються в програмах Microsoft 365, установіть наведені нижче дії.
 
-- Переконайтеся, що підпис чутливості [Опубліковано](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) користувачам і групам, які ви хочете.
+- Переконайтеся, що підпис "чутливість" [опубліковано](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) для користувачів і груп, які потрібно виконати.
 
-- Переконайтеся, що користувач використовує програму, яка [підтримує Мітки чутливості-див.](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable)
+- Переконайтеся, що користувач використовує програму, яка підтримує позначки чутливості, [у документі відображаються позначки чутливості](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
-- Якщо ви [переміщуєте підписи захисту інформації до Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), зверніть увагу на міркування, перелічені [тут](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Якщо ви [мігруєте Мітки захисту від Блакитної інформації](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), ознайомтеся з наведеними [тут](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels)міркуваннями.
 
-- Підтримка запобігання втраті даних (ЗВД): наразі лише підписи збереження можуть використовуватися як умова в політиці ЗВД.  Підтримка Мітки чутливості у ЗВД політика ще недоступна, але ми працюємо над цим.
+- Підтримка захисту від втрати даних (DLP): наразі можна використовувати лише Мітки збереження, як умову в політиці DLP.  Підтримка міток чутливості у політиці DLP недоступна, але ми працюємо над ним.
 
-- Коли шифрування ввімкнено для Мітки чутливості, ви можете вибрати один із таких:
+- Якщо функцію шифрування ввімкнуто на етикетці чутливості, можна вибрати один із таких варіантів:
     - Призначити дозволи зараз
     - Дозволити користувачам призначати дозволи
 
 
-Щоб отримати додаткові відомості про можливі проблеми, перегляньте [відомі проблеми з мітками чутливості](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
+Докладні відомості про можливі проблеми наведено в статті [відомі проблеми з підписами чутливості](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
