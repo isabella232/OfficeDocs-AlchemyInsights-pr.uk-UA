@@ -6,21 +6,22 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: 5b4fe5e6d31cec63c4580f69bf54ec9b83befe20
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 626bb85ac5939db7fc3f4f130bcb73805248fe0f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708816"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724060"
 ---
 # <a name="how-to-get-support-in-outlookcom"></a>Як отримати підтримку в Outlook.com
 
-Вибачте, Outlook.com не пропонує підтримку по телефону, але у нас є спеціальні команди, які можуть допомогти вам.
-Введіть своє запитання або Опишіть свою проблему в **довідковому** полі вище, а потім виберіть **отримати довідку**.
+На жаль, Outlook.com не підтримує підтримку телефону, але у нас є спеціальні команди, які можуть допомогти вам.
+Введіть своє запитання або Опишіть проблему в полі **довідки** вище, а потім натисніть кнопку **отримати довідку**.
 
 [Отримання довідки з Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
