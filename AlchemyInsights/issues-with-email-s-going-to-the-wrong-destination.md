@@ -1,22 +1,23 @@
 ---
-title: 324 проблеми з електронною поштою (и), що йде в неправильному напрямку
+title: 324 проблеми з електронною поштою (s), що надходять до неправильного місця призначення
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: f7ab266b363c9e7df7de9208720558fea1ed6e37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 719d6f0c8d33056d93dbfad6f2f32b3949ab1011
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716301"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769816"
 ---
-# <a name="email-messages-are-going-to-the-wrong-destination"></a>Повідомлення електронної пошти, буде неправильно призначення
+# <a name="email-messages-are-going-to-the-wrong-destination"></a>Повідомлення електронної пошти буде неправильним місцем призначення
 
-Схоже, у вас є проблеми з потоком пошти. У нас є діагностика, яка допоможе визначити багато поширених проблем з потоком пошти. Натисніть **запустити діагностику** нижче.
+Схоже, у вас є проблема з потоком пошти. У нас є діагностика, яка допоможе визначити багато поширених проблем із потоком пошти. Натисніть кнопку **виконати діагностику** нижче.
