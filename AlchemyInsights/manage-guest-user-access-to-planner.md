@@ -1,27 +1,28 @@
 ---
-title: Керування доступом гостя до планувальника
+title: Керування доступом користувачів до планувальника
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 2c0edd4e117f8881bdc62fbbf6e67b3c2c6ff409
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912352"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777992"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Керування доступом гостя до планувальника
+# <a name="manage-guest-user-access-to-planner"></a>Керування доступом користувачів до планувальника
 
-Користувачі можуть створювати та видаляти відра та завдання, редагувати поля завдань та редагувати назву плану. Крім того, користувачі отримають також деякі сповіщення, пов'язані з вашим планом. Нижче наведено кілька часто запитуваних тем про запрошених користувачів у планувальник:
+Гостьові користувачі можуть створювати й видаляти відра та завдання, редагувати поля завдань і редагувати назву плану. Крім того, гостьові користувачі також отримають деякі сповіщення, пов'язані з вашим планом. Нижче наведено кілька поширених запитань про користувачів-гостей у Planner:
 
-- Планувальник будує на [Microsoft 365 групи гість доступу функцію](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
+- Планувальник будує на веб- [сайті Microsoft 365 із Гостьовим доступом](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
 
-- Дізнайтеся більше про те, як додати користувачів до плану, як користувачі можуть залишати план, а також те, що гість може зробити в планувальник в [гостьовій доступ у Microsoft планувальник](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
+- Дізнайтеся більше про те, як додавати до плану гостьові користувачі, як гостьові користувачі можуть вийти з плану, а також про те, що можуть виконувати користувачі в планувальник в [гостьовій програмі Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).

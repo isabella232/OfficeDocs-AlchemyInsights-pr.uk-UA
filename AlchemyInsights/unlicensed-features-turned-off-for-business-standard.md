@@ -1,28 +1,29 @@
 ---
-title: Неліцензовані функції вимкнуто для користувачів бізнес-стандарту
+title: Неліцензовані функції вимкнуто для стандартних користувачів бізнес-стандартів
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 6bba3b5a53304a78daa52268761fbfa8e3bc0431
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198227"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658026"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Неліцензовані функції вимкнуто для користувачів бізнес-стандарту
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Неліцензовані функції вимкнуто для стандартних користувачів бізнес-стандартів
 
-Деякі Microsoft 365 бізнес-стандартні користувачі та організації в даний час мають більше функцій, доступних для них, ніж вони ліцензовані. Ці функції включають такі параметри класифікації, маркування та захисту (CLP) і керування цифровими правами (DRM):
+Деякі користувачі та організації Microsoft 365 Business Standard, які наразі мають більше функцій, доступні для них, ніж ліцензії. Ці функції включають наведені нижче параметри для класифікації, маркування та захисту (CLP) і керування цифровими правами (DRM):
     
-Станом на 30 червня 2020 додаткові функції вимкнуто для цих користувачів у Microsoft Excel, Microsoft Word, Microsoft PowerPoint і Microsoft Outlook.
+За станом на 30 червня 2020 додаткові функції вимкнуто для цих користувачів у програмі Microsoft Excel, Microsoft Word, Microsoft PowerPoint і Microsoft Outlook.
 
-Спробуйте змінити тип ліцензії, що здійснюється користувачем, до ліцензії, яка містить ці функції. 
+Зверніть увагу на те, як змінити тип ліцензії на відповідному користувачу ліцензії, що містить ці функції. 
 
-Додаткові відомості наведено в таких [неліцензійних функцій, наданих корпорації майкрософт 365 бізнес-стандартних користувачів](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Додаткові відомості наведено в статті [неліцензовані функції, надані для користувачів Microsoft 365 Business Standard](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

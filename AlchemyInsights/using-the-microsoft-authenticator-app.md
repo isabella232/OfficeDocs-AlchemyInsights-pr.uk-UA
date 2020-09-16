@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 1594f8413cd1d20c61871c05d94fb8d3d7653805
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559179"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770104"
 ---
 # <a name="using-the-microsoft-authenticator-app"></a>Використання програми Генератор кодів Microsoft
 
-Увійдіть у свій персональний обліковий запис Microsoft за допомогою відбитків пальців, розпізнавання облич або PIN-коду.
+Увійдіть у свій персональний обліковий запис Microsoft, використовуючи відбитки пальців, розпізнавання облич або PIN-код.
 
 - [Використання програми Генератор кодів Microsoft](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
 
-- [Налаштуйте програму Автентифікатора](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) , ПРОСКАНУЮЧИ QR-код або [додавши обліковий запис вручну](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- Щоб [налаштувати програму Генератор кодів](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) , ВІДСКАНУВАТИ QR-код або [вручну додавши обліковий запис](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
 
-Докладніші відомості наведено в [огляді програми Автентифікатора](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+Докладні відомості наведено в розділі [Огляд програми Генератор кодів](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
