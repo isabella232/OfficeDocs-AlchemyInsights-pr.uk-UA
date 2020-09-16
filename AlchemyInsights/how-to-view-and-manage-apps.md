@@ -1,28 +1,29 @@
 ---
-title: Як переглядати та керувати додатками
+title: Перегляд програм і керування ними
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: 7ee232ccd037b64c7591b7332ab58931b86ba349
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: e931d1a7762f27c889ae115b9be8f591ba51b3c0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063746"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743954"
 ---
-# <a name="how-to-view-and-manage-apps"></a>Як переглядати та керувати додатками
+# <a name="how-to-view-and-manage-apps"></a>Перегляд програм і керування ними
 
-Ви можете переглянути свої програми в центрі адміністрування Microsoft 365. 
+Ви можете переглядати програми в центрі адміністрування Microsoft 365. 
 
-1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків**за  >  **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. У центрі адміністрування перейдіть на сторінку " **виставлення рахунків**на  >  **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
 
-2. На сторінці " **[ваші продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** " виберіть вкладку **програми** .
+2. На сторінці " **[товари](https://go.microsoft.com/fwlink/p/?linkid=842054)** " виберіть вкладку " **програми** ".

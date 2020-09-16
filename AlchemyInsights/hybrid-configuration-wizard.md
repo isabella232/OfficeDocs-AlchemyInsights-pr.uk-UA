@@ -1,30 +1,31 @@
 ---
-title: Гібридний майстер настроювання
+title: Майстер гібридного настроювання
 ms.author: dstrome
 author: dstrome
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 5e9469bce87338978b79e37baad1d16ea3bb0310
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717049"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47743784"
 ---
-# <a name="hybrid-configuration-wizard"></a>Гібридний майстер настроювання
+# <a name="hybrid-configuration-wizard"></a>Майстер гібридного настроювання
 
-Майстер гібридного настроювання – це програма, яка допомагає настроїти нове гібридне розгортання між локальною організацією Exchange і Microsoft 365. Якщо ви вже налаштували гібридне розгортання, майстер допоможе оновити настройки гібридного розгортання. Для отримання додаткової інформації, перегляньте:
+Майстер гібридного настроювання – це програма, яка дає змогу настроїти нове гібридне розгортання між локальною організацією Exchange і Microsoft 365. Якщо настроювання гібридного розгортання вже настроєно, майстер допоможе оновити настройки гібридного розгортання. Щоб отримати докладніші відомості, ознайомтеся з наведеними нижче можливостями.
   
-- [Запуск майстра гібридної конфігурації](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Запуск майстра гібридного настроювання](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Гібридний майстер настроювання](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Майстер гібридного настроювання](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Гібридний майстер настроювання часто задаються](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Поширені запитання про майстер гібридного настроювання](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
