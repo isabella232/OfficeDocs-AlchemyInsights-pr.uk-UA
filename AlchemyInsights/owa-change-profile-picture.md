@@ -1,28 +1,29 @@
 ---
-title: Як змінити зображення профілю в Outlook на веб-сайті
+title: Змінення зображення профілю в Інтернет-версії Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: cce75481d3102aa6516fe18939e06fc9d5ff47bb
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d8357eae3d8765df454922c50a86308253406d32
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764785"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759168"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a><span data-ttu-id="73588-102">Як змінити зображення профілю в Outlook на веб-сайті</span><span class="sxs-lookup"><span data-stu-id="73588-102">Change your profile picture in Outlook on the web</span></span>
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a><span data-ttu-id="f792b-102">Змінення зображення профілю в Інтернет-версії Outlook</span><span class="sxs-lookup"><span data-stu-id="f792b-102">Change your profile picture in Outlook on the web</span></span>
 
-1. <span data-ttu-id="73588-103">Угорі сторінки виберіть своє ім'я або зображення профілю.</span><span class="sxs-lookup"><span data-stu-id="73588-103">At the top of the page, select your name or profile picture.</span></span>
-1. <span data-ttu-id="73588-104">В області « **Мій обліковий запис** » виберіть зображення профілю.</span><span class="sxs-lookup"><span data-stu-id="73588-104">In the **My account** pane, select your profile picture.</span></span>
-1. <span data-ttu-id="73588-105">У діалоговому вікні **змінити фотографію** виберіть **завантажити нову фотографію**.</span><span class="sxs-lookup"><span data-stu-id="73588-105">In the **Change your photo** dialog, select **Upload a new photo**.</span></span>
-1. <span data-ttu-id="73588-106">Виберіть фотографію, яку потрібно завантажити, і натисніть **Застосувати**.</span><span class="sxs-lookup"><span data-stu-id="73588-106">Choose a photo to upload and select **Apply**.</span></span>
+1. <span data-ttu-id="f792b-103">У верхній частині сторінки виберіть своє ім'я або зображення профілю.</span><span class="sxs-lookup"><span data-stu-id="f792b-103">At the top of the page, select your name or profile picture.</span></span>
+1. <span data-ttu-id="f792b-104">В області " **Мій обліковий запис** " виберіть зображення профілю.</span><span class="sxs-lookup"><span data-stu-id="f792b-104">In the **My account** pane, select your profile picture.</span></span>
+1. <span data-ttu-id="f792b-105">У діалоговому вікні **змінення фотографії** натисніть кнопку **передати нову фотографію**.</span><span class="sxs-lookup"><span data-stu-id="f792b-105">In the **Change your photo** dialog, select **Upload a new photo**.</span></span>
+1. <span data-ttu-id="f792b-106">Виберіть фотографію, яку потрібно передати, і натисніть кнопку " **Додати**".</span><span class="sxs-lookup"><span data-stu-id="f792b-106">Choose a photo to upload and select **Apply**.</span></span>
 
-<span data-ttu-id="73588-107">*Примітка:* Нове фото з'явиться під час наступного входу до Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="73588-107">*Note:* Your new photo will appear the next time you sign in to Microsoft 365.</span></span>
+<span data-ttu-id="f792b-107">*Примітка.* Під час наступного входу в Microsoft 365 відобразиться нове фото.</span><span class="sxs-lookup"><span data-stu-id="f792b-107">*Note:* Your new photo will appear the next time you sign in to Microsoft 365.</span></span>
 
-<span data-ttu-id="73588-108">Для отримання додаткових відомостей див. [Змінення відомостей про фотографію та обліковий запис у програмі Outlook в Інтернеті](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span><span class="sxs-lookup"><span data-stu-id="73588-108">For more information, see [Change your photo and account information in Outlook on the web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span></span>
+<span data-ttu-id="f792b-108">Докладні відомості наведено в статті [змінення фотографії та відомостей облікового запису в Інтернет-версії Outlook](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span><span class="sxs-lookup"><span data-stu-id="f792b-108">For more information, see [Change your photo and account information in Outlook on the web](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).</span></span>
