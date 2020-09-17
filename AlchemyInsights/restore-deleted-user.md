@@ -1,11 +1,12 @@
 ---
-title: Відновити видалений користувач
+title: Відновлення видаленого користувача
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,23 +14,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: b6596aedf360cb9e3199a759960dc03e76338cac
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 9e7fc1b77f3ac71ca8c883de35f94e35bdadce56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431274"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795661"
 ---
 # <a name="restore-a-deleted-user"></a>Відновлення видаленого користувача
 
-Відновити користувача, виконавши такі дії:
+Відновіть користувача, виконавши наведені нижче дії.
   
-1. Перейдіть до [користувачів, \> видалених користувачів](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. Перейдіть до [користувачів \> видалених користувачів](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
-2. Виберіть користувача, а потім виберіть **відновити**.
+2. Виберіть користувача, а потім натисніть кнопку **відновити**.
 
 3. Дотримуйтеся вказівок, щоб установити пароль.
 
-4. Натисніть **надіслати електронний лист і закрити**, і все готово!
+4. Натисніть кнопку **Надіслати повідомлення електронної пошти та закрити**, і все готово!
 
-Хіба це не так просто? Щоб отримати додаткові відомості та кроки з знімками екрана, перегляньте цю статтю: [відновлення користувача](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Якщо ви розумієте, що замість потрібно відновити поштову скриньку користувача, див.: [видалення або відновлення поштових скриньок користувачів у Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Не було так просто? Щоб отримати докладні відомості та кроки зі знімками на екрані, перегляньте цю статтю: [відновлення користувача](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Якщо вам не потрібно, щоб відновити поштову скриньку користувача, див.: [видалення або відновлення поштових скриньок користувачів у службі Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

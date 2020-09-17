@@ -1,34 +1,35 @@
 ---
-title: Параметри політики для нарад
+title: Параметри політики наради
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 509bd0c686830c04ed27f97372411677c0a7f4a4
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042865"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794355"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Керування політиками нарад у Microsoft teams
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Керування політиками нарад у групах Microsoft
 
-**Примітка: це може зайняти до 24 годин, щоб зміни політики набрали сили для користувачів.** Ви не зможете негайно вносити зміни до щойно створених політик; Зачекайте 4 години та спробуйте змінити знову створену політику.
+**Примітка. у разі внесення змін до політики для користувачів може знадобитися до 24 годин.** Можливо, ви не зможете вносити зміни до щойно створених політик негайно; Зачекайте 4 години та спробуйте змінити щойно створену політику ще раз.
 
-Політика для нарад використовується для керування функціями, доступними для учасників нарад, запланованих користувачами в організації. Деякі функції політики нарад можуть не реалізовуватися в центрі адміністрування команд (ці дані позначено як "скоро" у документації). У цьому випадку, або якщо ви отримуєте повідомлення про помилку "ми не можемо оновити політику прямо зараз, але повторіть спробу пізніше" у центр адміністрування Microsoft teams, рекомендовано використовувати PowerShell для створення або змінення політики для нарад, teams. 
+Політики нарад використовуються для керування функціями, доступними для учасників наради, запланованими користувачами в організації. Деякі функції політик нарад, можливо, не реалізуються в центрі адміністрування команд, але ще (ці дані позначено як "Coming Soon" у документації). У цьому випадку або якщо з'являється повідомлення про помилку "не вдалося оновити політику зараз, але повторіть спробу пізніше" в центрі адміністрування груп Microsoft, радимо використовувати PowerShell для створення або змінення політик нарад груп. 
 
-Додаткові відомості про правила для нарад можна отримати в таких ресурсах:
+Щоб отримати докладні відомості про політики наради, ознайомтеся з такими ресурсами:
 
-- Щоб дізнатися про створення політик, внесення змін і призначення користувачів політиці [, див.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
+- Щоб дізнатися про те, як створювати політики, вносити зміни та призначати користувачам політику, перегляньте статтю [керування політиками нарад в командах](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
 
-- Щоб внести зміни до політики за допомогою командлети PowerShell [, див.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
-    - Потрібно використовувати [Skype, бізнес-PowerShell модуль](https://www.microsoft.com/download/details.aspx?id=39366) для робочих груп, наради політики. 
-    - Перегляньте [документацію *-cпаросletingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) для отримання додаткових відомостей
+- Щоб внести зміни до політики за допомогою командлетів PowerShell, перегляньте статтю [Огляд PowerShell у групах](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
+    - Потрібно використовувати [модуль "Skype для бізнесу PowerShell](https://www.microsoft.com/download/details.aspx?id=39366) " для нарад у групах. 
+    - Перегляньте документацію за допомогою [командлетів *-cstefietingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) , щоб отримати докладні відомості.
 
