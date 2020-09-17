@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f883b0218dfa318eda633f97dbbc9b992c9d4340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d26985b7b4e3c7389a783ab985f7bb11df7d64fe
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744170"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47815554"
 ---
 # <a name="how-to-verify-your-domain"></a>Перевірка домену
 
-Щоб перевірити домен, виконайте [Майстер додавання домену](https://portal.office.com/adminportal/home#/Domains/Wizard)або вручну виберіть пункт **Настроювання**  >  **доменів**, щоб  >  **Додати домен**.
+Щоб перевірити домен, виконайте [Майстер додавання домену](https://admin.microsoft.com/Adminportal#/Domains/Wizard)або вручну виберіть пункт **Настроювання**  >  **доменів**, щоб  >  **Додати домен**.
 
 Щоб отримати докладні відомості про зміни DNS, необхідні для підтвердження свого домену, ознайомтеся з інструкціями в статті [Додавання записів DNS для підключення домену](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
