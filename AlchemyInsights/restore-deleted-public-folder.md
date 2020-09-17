@@ -1,39 +1,40 @@
 ---
-title: Відновлення видаленої спільної папки
+title: Відновлення видаленої загальнодоступної папки
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: cd85dd3c0eb14f6e02ac4f912e733468403387aa
-ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
+ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42158549"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774552"
 ---
-# <a name="restore-a-deleted-public-folder"></a>Відновлення видаленої спільної папки
+# <a name="restore-a-deleted-public-folder"></a>Відновлення видаленої загальнодоступної папки
 
-**Щоб відновити видалені елементи з спільної папки**:
+**Щоб відновити видалені елементи зі спільної папки,** виконайте наведені нижче дії.
 
-- [Не можна відновити видалені елементи з не електронної пошти спільної папки в Outlook 2016](https://aka.ms/pfrec).
+- Дізнайтеся, [що не можна відновити видалені повідомлення з загальнодоступної папки в програмі Outlook 2016](https://aka.ms/pfrec).
  
-**Щоб відновити видалену загальнопублічну папку (будь-який тип)**: 
+**Щоб відновити видалену спільну папку (будь-якого типу), виконайте такі**дії: 
 
-- Будь ласка, використовуйте наступні EXO PowerShell команди:
+- Скористайтеся наступною командою EXO PowerShell:
 
-    Синтаксис:
+    Синтаксис
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Приклад: Наступна команда відновить Subfolder1 і помістіть його до \Parent1:
+    Приклад: наведена нижче команда відновить Subfolder1 та розмістіть його в розділі \Pare1:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Щоб отримати додаткові відомості, перегляньте цю [папку](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .
+Щоб отримати докладні відомості, Дізнайтеся, [як відновити видалену спільну папку](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .
