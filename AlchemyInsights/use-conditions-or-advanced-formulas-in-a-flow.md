@@ -1,27 +1,28 @@
 ---
-title: Умови використання або розширені формули в потоці
+title: Використання умов або розширених формул у потоці
 ms.author: toresing
 author: tomresing
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c25cae12-c04d-43ac-b26f-bc0264854f48
-ms.openlocfilehash: 88ae3420d7be6bba9f032a99564c43e7d4d24b2d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e025535333bb66f0adc52fc9849f015ddf301cb3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726377"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47798541"
 ---
-# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a><span data-ttu-id="faf37-102">Умови використання або розширені формули в потоці</span><span class="sxs-lookup"><span data-stu-id="faf37-102">Use conditions or advanced formulas in a flow</span></span>
+# <a name="use-conditions-or-advanced-formulas-in-a-flow"></a><span data-ttu-id="c3f57-102">Використання умов або розширених формул у потоці</span><span class="sxs-lookup"><span data-stu-id="c3f57-102">Use conditions or advanced formulas in a flow</span></span>
 
-<span data-ttu-id="faf37-103">У Microsoft Flow можна настроїти потік так, щоб він виконує завдання, лише якщо умова істинна.</span><span class="sxs-lookup"><span data-stu-id="faf37-103">In Microsoft Flow, you can customize a flow so that it performs tasks only if a condition is true.</span></span> <span data-ttu-id="faf37-104">Для отримання відомостей див. [Додавання умови до потоку](https://go.microsoft.com/fwlink/?linkid=872112).</span><span class="sxs-lookup"><span data-stu-id="faf37-104">For info, see [Add a condition to a flow](https://go.microsoft.com/fwlink/?linkid=872112).</span></span>
+<span data-ttu-id="c3f57-103">У Microsoft Flow можна настроїти потік, щоб виконувати завдання лише в тому випадку, якщо умова має значення TRUE.</span><span class="sxs-lookup"><span data-stu-id="c3f57-103">In Microsoft Flow, you can customize a flow so that it performs tasks only if a condition is true.</span></span> <span data-ttu-id="c3f57-104">Докладні дані наведено в статті [Додавання стану до потоку](https://go.microsoft.com/fwlink/?linkid=872112).</span><span class="sxs-lookup"><span data-stu-id="c3f57-104">For info, see [Add a condition to a flow](https://go.microsoft.com/fwlink/?linkid=872112).</span></span>
   
-<span data-ttu-id="faf37-105">Щоб створити додаткову формулу, перегляньте, як [схеми мови визначення робочого циклу для програм Azure логіки](https://aka.ms/logicexpressions).</span><span class="sxs-lookup"><span data-stu-id="faf37-105">To create an advanced formula, see [Workflow definition language schema for Azure logic apps](https://aka.ms/logicexpressions).</span></span>
+<span data-ttu-id="c3f57-105">Щоб створити розширену формулу, ознайомтеся [з мовною схемою "визначення робочого циклу" для програм "блакитні логічні програми](https://aka.ms/logicexpressions)".</span><span class="sxs-lookup"><span data-stu-id="c3f57-105">To create an advanced formula, see [Workflow definition language schema for Azure logic apps](https://aka.ms/logicexpressions).</span></span>
   
 

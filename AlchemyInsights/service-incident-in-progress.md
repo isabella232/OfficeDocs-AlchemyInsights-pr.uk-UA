@@ -1,29 +1,30 @@
 ---
-title: Триває інцидент служби
-ms.author: v-crytho
+title: Перебіг виконання події служби
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 8f3cc2d96e981edf4f573d4a5c2ceb9750d11367
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719631"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799081"
 ---
-# <a name="service-incident-in-progress"></a><span data-ttu-id="c28cc-102">Триває інцидент служби</span><span class="sxs-lookup"><span data-stu-id="c28cc-102">Service Incident in progress</span></span>
+# <a name="service-incident-in-progress"></a><span data-ttu-id="cc910-102">Перебіг виконання події служби</span><span class="sxs-lookup"><span data-stu-id="cc910-102">Service Incident in progress</span></span>
 
-<span data-ttu-id="c28cc-103">Ви можете впливати на інцидент служби або консультаційні послуги, які зараз вивчаються.</span><span class="sxs-lookup"><span data-stu-id="c28cc-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="c28cc-104">Ви можете перевірити останній статус, перейшовши на сторінку " [справність служби](https://admin.microsoft.com/adminportal/home#/servicehealth) ".</span><span class="sxs-lookup"><span data-stu-id="c28cc-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
+<span data-ttu-id="cc910-103">Можливо, ви торкнулися інцидент служби або консультативної, який зараз розслідується.</span><span class="sxs-lookup"><span data-stu-id="cc910-103">You might be affected by a service incident or advisory that is currently being investigated.</span></span> <span data-ttu-id="cc910-104">Ви можете перевірити останній стан, перейшовши на сторінку [справність служби](https://admin.microsoft.com/adminportal/home#/servicehealth) .</span><span class="sxs-lookup"><span data-stu-id="cc910-104">You can check the latest status by going to the [Service Health](https://admin.microsoft.com/adminportal/home#/servicehealth) page.</span></span>
   
-<span data-ttu-id="c28cc-105">Для вашої зручності, ви можете знайти резюме цього інциденту нижче:</span><span class="sxs-lookup"><span data-stu-id="c28cc-105">For your convenience, you can find a summary of this incident below:</span></span>
+<span data-ttu-id="cc910-105">Для вашої зручності можна переглянути зведення цього інциденту нижче.</span><span class="sxs-lookup"><span data-stu-id="cc910-105">For your convenience, you can find a summary of this incident below:</span></span>
   
-> <span data-ttu-id="c28cc-106">**Номер інциденту:**[{інциденти}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="c28cc-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
+> <span data-ttu-id="cc910-106">**Номер інциденту:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span><span class="sxs-lookup"><span data-stu-id="cc910-106">**Incident number:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)</span></span>
 
-> <span data-ttu-id="c28cc-107">Опис впливу: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="c28cc-107">Impact description: {ImpactDescription}</span></span>
+> <span data-ttu-id="cc910-107">Опис впливу: {ImpactDescription}</span><span class="sxs-lookup"><span data-stu-id="cc910-107">Impact description: {ImpactDescription}</span></span>
