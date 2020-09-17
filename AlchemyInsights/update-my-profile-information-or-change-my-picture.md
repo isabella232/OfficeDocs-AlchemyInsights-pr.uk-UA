@@ -1,33 +1,34 @@
 ---
-title: Оновіть інформацію профілю або змініть мою фотографію
+title: Оновлення відомостей про мій профіль або змінення зображення
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720122"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796957"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Оновіть інформацію профілю або змініть мою фотографію
+# <a name="update-my-profile-information-or-change-my-picture"></a>Оновлення відомостей про мій профіль або змінення зображення
 
-В даний час не можна редагувати і оновлювати інформацію профілю безпосередньо з Outlook для iOS, але можна редагувати цю інформацію в іншому місці. 
+Наразі не можна редагувати й оновлювати відомості профілю безпосередньо з програми Outlook для iOS, але можна відредагувати цю інформацію в іншому місці. 
 
-Ви можете зробити оновлення до свого профілю в Outlook для Windows або Outlook, в Інтернеті (OWA). 
+Ви можете вносити оновлення до свого профілю в Outlook для Windows або Інтернет-версії Outlook (OWA). 
 
-**Outlook для Windows**: 
+**Програма Outlook для Windows**: 
 
-- **FILE** > **Office рахунок** > **користувач інформація** > **про мене** (переносить вас в Microsoft 365 профіль онлайн) > **оновити профіль** або натисніть на іконку камери, щоб змінити свою фотографію  
+- **Файл**  >  **Обліковий запис Office**  >  **Відомості про користувача**  >  **Про мене** (ви потрапите до служби Microsoft 365 online) > **оновити профіль** або клацніть піктограму камери, щоб змінити фотографію  
   
-**Outlook на веб-(OWA)**: 
+**Інтернет-версія Outlook (OWA)**: 
 
-- **Profile image** > **My profile**Зображення > профілю профіль**оновлення** профілю
+- **Зображення профілю**  >  **Мій профіль**  >  **Оновити профіль**

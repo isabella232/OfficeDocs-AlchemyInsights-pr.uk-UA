@@ -1,27 +1,28 @@
 ---
-title: Ваш MDM орган не встановлений
+title: Ваш обліковий центр не настроєно
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638234"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796309"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Ваш MDM орган не встановлений
+# <a name="your-mdm-authority-is-not-set"></a>Ваш обліковий центр не настроєно
 
-Не встановлено повноваження керування мобільним пристроєм (MDM) цього клієнта. Слід установити MDM повноваження перед реєстрації та керування пристроями через InTune MDM. Без встановлення MDM повноважень ви не зможете використовувати функції MDM InTune. Налаштування MDM органу визначає, як ви керуєте своїми пристроями.
+Для цього клієнта не настроєно повноваження керування мобільним пристроєм (MDM). Перед зарахуванню та керуванням пристроями на пристроях, які можна настроїти, потрібно встановити для служби DM-центру. Без настроювання служби MDM ви не зможете використовувати функції MDM у службі Inune. Параметр адміністрування MDM визначає спосіб керування пристроями.
 
-Рекомендовані кроки:
-1. Перейдіть на інструмент огляд реєстрації InTune для встановлення MDM повноважень.
-2. Виберіть відповідний орган відповідно до ваших адміністративних потреб. [Щоб отримати додаткові відомості див.](https://docs.microsoft.com/intune/mdm-authority-set)
+Рекомендовані дії:
+1. Перейдіть до відповіді на огляд програми Inune про реєстрацію, щоб установити службу для служби DM.
+2. Виберіть відповідний орган на основі ваших адміністративних потреб. Щоб отримати докладніші відомості, перегляньте [статтю установлення статті центру керування мобільними пристроями](https://docs.microsoft.com/intune/mdm-authority-set).
