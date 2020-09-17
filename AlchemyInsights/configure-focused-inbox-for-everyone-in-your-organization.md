@@ -1,26 +1,27 @@
 ---
-title: 912 налаштування цілеспрямованої папки "Вхідні" для всіх у вашій організації
+title: 912 настроювання папки "важливі Вхідні" для всіх користувачів у вашій організації
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d69013f74dcf112f5f82eaa17610ca6380d0186e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c4cfd92d233f186de43ff9761b28b6d01a040e2d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507823"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807608"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Увімкніть або вимкніть сфокусовану поштову скриньку для всіх користувачів
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Увімкнення та вимкнення функції "важливі Вхідні" для всіх користувачів
 
-Для отримання вказівок перегляньте [налаштування сфокусовану поштову скриньку для всіх користувачів у вашій організації](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
+Щоб отримати вказівки, ознайомтеся з [настроюванням папки "важливі Вхідні" для всіх користувачів у вашій організації](https://docs.microsoft.com/microsoft-365/admin/setup/configure-focused-inbox).
 
-**Примітка**: Ця процедура вимагає Exchange Online PowerShell. Бажаєте зробити це в центрі адміністрування Microsoft 365 замість цього? [Голосувати тут!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Примітка**. у цій процедурі потрібна програма Exchange Online PowerShell. Виконати цю дію в центрі адміністрування Microsoft 365 замість цього? [Проголосуйте тут!](https://go.microsoft.com/fwlink/p/?linkid=862489)

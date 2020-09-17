@@ -6,28 +6,29 @@ manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 9694192fa9338b972369d06dfbd3fa648dcb1165
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6ade8770d285d6c81458d231e5fd1fc5f34cd953
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507787"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807536"
 ---
-# <a name="configure-supervision-policies"></a>Настроювання політики нагляду
+# <a name="configure-supervision-policies"></a>Настроювання політик нагляду
 
-Політики нагляду у Microsoft 365 дають змогу відстежувати електронну пошту Exchange, Skype для бізнесу через Інтернет, Microsoft teams і сторонні комунікації, надіслані всередині вашої організації та за її межами. Призначені рецензентам можуть перевіряти повідомлення, що відстежуються, щоб переконатися, що вони відповідають правилам вашої організації, управлінню ризиками та нормативним стандартам відповідності та вирішують їх з типом класифікації.
+Політики нагляду в Microsoft 365 дають змогу відстежувати електронну пошту Exchange, служби "Skype для бізнесу – онлайн", груп Microsoft і третьої сторони, що відправляються в організації та за її межі. Призначені рецензенти можуть перевірити відстежуваних повідомлень, щоб переконатися, що вони відповідають політиці вашої організації, менеджментом ризику та стандартам нормативних вимог, а також вирішують їх відповідно до типу класифікації.
 
-Щоб використовувати політики нагляду у вашій організації, потрібно:
+Щоб використовувати політики нагляду в організації, необхідно виконати наведені нижче дії.
 
-- Визначити зв'язок для монітора.
-- Вирішіть, хто буде виконувати огляд комунікацій.
-- Політики нагляду за налаштуванням
+- Визначте зв'язок із монітором.
+- Вирішіть, хто здійснить перегляд комунікацій.
+- Політики нагляду за настройками
 
 Дізнатися більше:
 
 - [Огляд політик нагляду](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies)
-- [Настроювання політики нагляду](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)
+- [Настроювання політик нагляду](https://docs.microsoft.com/microsoft-365/compliance/configure-supervision-policies)

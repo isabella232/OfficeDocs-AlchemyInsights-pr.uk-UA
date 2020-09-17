@@ -1,37 +1,38 @@
 ---
-title: Умовний доступ з InTune
+title: Умовний доступ за допомогою веб-програми Inune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
-ms.openlocfilehash: f852d3646b8e5b2c0fce15055daf59c801fb8240
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
+ms.openlocfilehash: 5eec5982118b4f0246afadf2af219b2d5f32f95c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44931457"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807680"
 ---
-# <a name="conditional-access-with-intune"></a>Умовний доступ з InTune
+# <a name="conditional-access-with-intune"></a>Умовний доступ за допомогою веб-програми Inune
 
-За допомогою **умовного доступу** з InTune потрібно 3 кроки:
+Використання  **умовного доступу**  за допомогою функції inune вимагає 3 кроків:
 
-- Створіть **політику відповідності** ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android), [IOS](https://docs.microsoft.com/intune/compliance-policy-create-ios), [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)) для визначення параметрів, які повинні бути виконані до того, як пристрій вважається сумісним. Наприклад, пристрій повинен мати PIN-код принаймні 6 цифр, перш ніж він вважатиметься сумісним.
-- Створіть **політику умовного доступу** , яка визначає, які ресурси захищено, і які умови повинні бути виконані для доступу до цих ресурсів.  [Наприклад,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies) пристрій має відповідати вимогам, перш ніж отримати доступ до корпоративної електронної пошти.
-- Переконайтеся, що **політика відповідності** та **політика умовного доступу** орієнтовані на потрібних груп користувачів. Це може знадобитися, створення певних груп користувачів у Azure Active Directory.
+- Створіть  **політику відповідності**  ([Android](https://docs.microsoft.com/intune/compliance-policy-create-android),  [IOS](https://docs.microsoft.com/intune/compliance-policy-create-ios),  [Windows](https://docs.microsoft.com//intune/compliance-policy-create-windows)), щоб визначити настройки, які потрібно виконати перед тим, як пристрій вважається сумісним. Наприклад, для пристрою має бути PIN-код принаймні на 6 цифр, перш ніж вона вважається відповідним.
+- Створіть **політику умовного доступу**  , яка визначає, які ресурси захищено, і які умови потрібно виконати для доступу до цих ресурсів.  [Наприклад,](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)  пристрій має бути сумісним, перш ніж отримувати доступ до корпоративної електронної пошти.
+- Переконайтеся, що **політики відповідності**  та  **політики умовного доступу**  орієнтовані на потрібні групи користувачів. Для цього може знадобитися створити певні групи користувачів у службі Azure Active Directory.
 
 **Корисні посилання:**
 
 [Огляд відповідності пристрою](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[Усунення несправностей CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[Виправлення неполадок із CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Політика щодо виправлення неполадок](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Виправлення неполадок із політикою](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-Для захисту електронної пошти (Exchange Online) від доступу до несумісних пристроїв, обидва документи повинні дотримуватися:
+Щоб захистити електронну пошту (Exchange Online) від програми Access за допомогою несумісних пристроїв, слід дотримуватися таких документів:
 
 1. [Захист доступу до електронної пошти з пристроїв за допомогою EAS](https://docs.microsoft.com/intune/tutorial-protect-email-on-unmanaged-devices)
-2. [Захистіть доступ до електронної пошти з пристроїв за допомогою сучасних автентифікації клієнтів, як Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
+2. [Захист доступу до електронної пошти з пристроїв за допомогою сучасних клієнтів автентифікації, як-от Outlook](https://docs.microsoft.com/intune/tutorial-protect-email-on-enrolled-devices)
