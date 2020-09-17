@@ -1,32 +1,33 @@
 ---
-title: Як збільшити сховище OneDrive, для бізнесу
+title: Збільшення обсягу сховища в службі "OneDrive для бізнесу"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: adee1c5d1ffc23f54580549ab666ee8fac579263
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 53eabf6c87dead3b7309c7da1f8a590940127169
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063062"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47780116"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Як збільшити сховище OneDrive, для бізнесу
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Збільшення обсягу сховища в службі "OneDrive для бізнесу"
 
-Щоб змінити сховище за промовчанням для нових і наявних користувачів OneDrive:
+Щоб змінити сховище за замовчуванням для нових і наявного користувачів OneDrive:
   
-- Перейдіть на [сторінку зберігання OneDrive Центр адміністрування](https://admin.onedrive.com/?v=StorageSettings)та введіть нову СУМУ в ГБ.
+- Перейдіть на [сторінку сховища в центрі адміністрування OneDrive](https://admin.onedrive.com/?v=StorageSettings), а потім введіть нову СУМУ в ГБ.
 
-Цей простір для зберігання застосовується для всіх користувачів, для яких ви не встановили певні обмеження на зберігання. Для змінення дискового простору для певних користувачів потрібно використовувати Microsoft PowerShell. Для отримання відомостей про те, як це зробити, перегляньте, як [змінити місце зберігання OneDrive у своїх користувачів за допомогою PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Цей параметр дискового простору застосовується до всіх користувачів, для яких не задано певні обмеження сховища. Щоб змінити місце для сховища для певних користувачів, потрібно використовувати Microsoft PowerShell. Щоб отримати відомості про те, як це зробити, перегляньте статтю [змінити простір сховища для користувачів, використовуючи PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
 
-**Примітка**: схоже, у вас немає плану, який включає необмежений обсяг пам'яті. Відомості про сховище, що постачається з кожним планом, наведено в [описі служби OneDrive для бізнесу](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+**Примітка**: схоже, у вас немає плану, який включає необмежене сховище. Докладні відомості про сховище, що постачається з кожним планом, наведено [в статті Опис служби "Onedrive для бізнесу](https://go.microsoft.com/fwlink/p/?LinkID=826071)".
   
-Щоб збільшити обсяг сховища OneDrive, для бізнесу, виберіть підписку, який містить або **OneDrive, бізнес-план 2** або **Office 365 Enterprise E3**. 
+Щоб збільшити обсяг сховища в службі "OneDrive для бізнесу", виберіть абонентську плату, яка включає в себе службу " **Onedrive для бізнесу" 2** або **Office 365 Enterprise E3**. 
   
-Щоб змінити плани, у центрі адміністрування Microsoft 365 перейдіть на сторінку **платіжні** \> **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** , виберіть підписку, щоб змінити, а потім виберіть вкладку **оновлення** .
+Щоб змінити плани, у центрі адміністрування Microsoft 365 перейдіть на сторінку " **виставлення рахунків** на \> **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", виберіть її, щоб змінити, а потім виберіть вкладку " **оновлення** ".
   
-Щоб отримати додаткові відомості про перемикання планів і OneDrive, для бізнес-сховище див. [перейдіть до іншого Microsoft 365 бізнес-план](https://go.microsoft.com/fwlink/?LinkId=2031117) і [Onedrive, бізнес-служба Опис](https://go.microsoft.com/fwlink/p/?LinkId-2031122).
+Докладні відомості про змінення планів і сховища "OneDrive для бізнесу" наведено [в статті перехід до іншого плану Microsoft 365 для бізнесу](https://go.microsoft.com/fwlink/?LinkId=2031117) та [Опис служби "onedrive для бізнесу](https://go.microsoft.com/fwlink/p/?LinkId-2031122)".

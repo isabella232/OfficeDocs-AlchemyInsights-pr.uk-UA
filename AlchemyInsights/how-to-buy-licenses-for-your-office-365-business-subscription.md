@@ -1,32 +1,33 @@
 ---
-title: Як придбати ліцензії для ваших програм Microsoft 365 для бізнес-підписки
+title: Придбання ліцензій для передплати програм Microsoft 365 для бізнесу
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: d50a6a0834fb26f2fd25e7defe2d4a125f7a62fa
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4339c735097ea1f4b277572b65baa112cc35a087
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44496116"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781124"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Як придбати ліцензії для ваших програм Microsoft 365 для бізнес-підписки
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Придбання ліцензій для передплати програм Microsoft 365 для бізнесу
 
-При призначенні ліцензій для ваших користувачів, ви можете знайти у вас є необхідність придбати додаткові ліцензії. Для цього:
+Під час призначення ліцензій користувачам може знадобитися придбати додаткові ліцензії. Ось як це можна зробити.
   
-1. У центрі адміністрування перейдіть на сторінку **виставлення рахунків** за \> **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. У центрі адміністрування перейдіть на сторінку " **виставлення рахунків** на \> **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
 
-2. Знайдіть підписку, до якої потрібно додати ліцензії, а потім виберіть **Додати/видалити ліцензії**.
+2. Знайдіть передплатну програму, до якої потрібно додати ліцензії, а потім натисніть кнопку **Додати або видалити ліцензії**.
 
-3. У полі **загальні ліцензії** введіть загальну кількість ліцензій, які потрібно для цієї передплати, а потім виберіть **Надіслати зміни**. Наприклад, якщо у вас є 100 ліцензій, і вам потрібно додати ще 5, введіть 105.
+3. У полі **загальні ліцензії** введіть загальну кількість ліцензій, які потрібно виконати для цієї абонентської плати, а потім натисніть кнопку **Надіслати зміни**. Наприклад, якщо у вас є ліцензії 100, і вам потрібно додати ще 5, введіть 105.
 
-Щоб дізнатися більше, перегляньте, як [придбати ліцензії для програм Microsoft 365 для бізнес-підписки](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Докладні відомості можна знайти в статті [придбання ліцензій для передплатою для програм Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
