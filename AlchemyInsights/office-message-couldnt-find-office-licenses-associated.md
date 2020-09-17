@@ -1,24 +1,25 @@
 ---
-title: Microsoft 365 додатків повідомлення-не вдалося знайти ліцензії Office, пов'язані
+title: Повідомлення програми Microsoft 365 не вдалося знайти пов'язані ліцензії Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581672"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802798"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 додатків повідомлення-не вдалося знайти ліцензії Office, пов'язані
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Повідомлення програми Microsoft 365 не вдалося знайти пов'язані ліцензії Office
 
 Щоб виправити цю помилку, спробуйте виконати наведені нижче дії.
 
@@ -38,10 +39,10 @@ ms.locfileid: "44581672"
 
 - Скиньте стан активації Office. Докладні відомості див. в статті [Скидання стану активації програми Microsoft 365 для підприємств](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Перевірте брандмауер, антивірусне програмне забезпечення та настройки проксі-сервера, щоб підтвердити, що вони не блокують програми Microsoft 365 доступ до Інтернету. 
+- Перевірте брандмауер, антивірусне програмне забезпечення та параметри проксі-сервера, щоб підтвердити, що вони не блокують доступ до Інтернету за допомогою програм Microsoft 365. 
 
 Додаткові способи виправлення неполадок див. в статтях:
 
 [Помилки про "неліцензований продукт" і помилки активації в Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[Microsoft 365 URL-адреси та діапазони IP-адрес](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Діапазони URL-адрес і IP-адрес Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
