@@ -1,32 +1,33 @@
 ---
-title: 929 правила для вхідних повідомлень, щоб Деспутаправила транспортування
+title: правила для папки "Вхідні" 929 для відхиленого правил транспортування
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "929"
 - "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: 6b6e64c0332a579e8f6132b08f2f89b15eb4de27
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abb729c40fb87bcca8cc03c95aa4677597d20c08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724613"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778712"
 ---
-# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Правила потоку пошти (також відомі як правила транспортування)
+# <a name="mail-flow-rules-also-known-as-transport-rules"></a>Правила передавання пошти (також відомі як правила транспортування)
 
-- Загальний огляд правил потоку пошти: [правила потоку пошти (правила транспортування) в Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
+- Загальний огляд правил потоку пошти: [правила передавання пошти (правила транспортування) у службі Exchange Online](https://technet.microsoft.com/library/jj919238.aspx)
 
-- Настроювання потоку пошти правила: [пошта потоків правила процедури в Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
+- Настроювання правил потоку пошти: [процедури правил передавання пошти в службі Exchange Online](https://technet.microsoft.com/library/dn600436.aspx)
 
-- Створення, змінення та видалення правил потоку пошти: [керування правилами потоку пошти](https://technet.microsoft.com/library/jj657505.aspx)
+- Створення, змінення та видалення правил потоку пошти: [керування правилами передавання пошти](https://technet.microsoft.com/library/jj657505.aspx)
 
-Можна також керувати правилами потоку пошти в Exchange Online PowerShell. Більш детальну інформацію дивіться на « [Get-транспортроли](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) » (View), « [новий-транспортрил](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) » («створити»), « [видалення-транспортлу](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) » (Delete), « [Set-транспортроли](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) » (модифікують існуючі), [відключають-транспортви](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (відключаємо існуючі), і [дозволяють-транспортрять](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule)
+Ви також можете керувати правилами передавання пошти в службі Exchange Online PowerShell. Щоб отримати додаткові відомості, перегляньте статтю [Get-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (подання), [New-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (створити), [Видалити-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (видалити), [Set-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (модифікацію наявного), [вимкніть-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (вимкнути наявну) і [ввімкнути-TransportRule](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (активувати наявну).
 
-Додаткові правила потоку пошти командлети: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (список доступних дій), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (список доступних умов і винятків), [експорт-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (експорт правил), і [Імпорт-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (правила імпорту).
+Додаткові командлети правил потоку пошти: [Get-TransportRuleAction](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (список доступних дій), [Get-TransportRulePredicate](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (список доступних умов і винятків), [експорт-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (правила експорту) і [Імпорт-TransportRuleCollection](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (правила імпорту).
