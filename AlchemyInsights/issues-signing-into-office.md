@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677011"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236146"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>Проблеми з входом у програми Microsoft 365
 
@@ -25,6 +25,8 @@ ms.locfileid: "47677011"
 
 - У Windows перегляньте [рекомендації з вирішення поширених проблем із входом](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - Для Mac відображається помилка  [входу в програму Office 2016 для Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**Порада** На машинах Windows можна діагностувати та автоматично виправити кілька поширених проблем із входом в Office. Завантажте й запустіть  **[помічник із підтримки й відновлення Microsoft,](https://aka.ms/SaRA-OfficeSignInScenario)** щоб використовувати наш автоматизований інструмент.
 
 **Примітка.** Вимкнення сучасної автентифікації (ADAL) або керування веб-обліковими записами (WAM) для виправлення помилок входу або активації  **не рекомендується**. Якщо під час підключення до Microsoft 365 за допомогою служби Office 2013 виникають помилки, переконайтеся, що ви [ввімкнули сучасну автентифікацію](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  для клієнта Office.
 
