@@ -1,8 +1,8 @@
 ---
 title: Удосконалене керування ліцензіями на захист від загроз
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715402"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287123"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Удосконалене керування ліцензіями на захист від загроз
 
 Керування ліцензіями на Office 365 для захисту від загроз (АТФ) можна завершити в  **центрі адміністрування Microsoft 365**.
 
-- Щоб придбати засіб захисту від загроз Office 365, перейдіть **Billing**на  >  сторінку[придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)рахунків, виберіть пункт **додаткові компоненти** з **інших категорій, які можуть вас зацікавити**, виберіть план підвищення загрози, який потрібно придбати, і виберіть кількість користувачів, які будуть використовувати розширений захист від загроз. Щоб отримати докладніші відомості, ознайомтеся з [передплатою на придбання](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Щоб призначити ліцензії на захист від загроз для Office 365, перейдіть на сторінку ліцензії для **виставлення рахунків**  >  **Licenses**. Докладні відомості наведено в статті  [призначення ліцензій](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Щоб додати або видалити ліцензії Office 365 Advance захисту від загроз, перейдіть до кнопки "перейти" для **виставлення рахунків**на  >  **продукти**, знайти абонентську плату, до якої потрібно додати або видалити ліцензії, а потім виберіть елемент **Додати або видалити ліцензії**.  
-- Докладні відомості наведено в статті [Додавання та видалення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)з вашої комерційної служби.
+- Щоб придбати захист від загроз в Office 365, виконайте такі дії:
+    1. Перейдіть до **Billing**  >  [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)рахунків.
+    2. У нижній частині сторінки виберіть пункт **додаткові компоненти**.
+    3. На сторінці " **придбання служб** " виберіть план захисту від загроз, який потрібно придбати, введіть кількість користувачів, які потребують ліцензії, а потім натисніть кнопку **витягнути зараз**. Додаткові відомості наведено в статті [придбання додаткового компонента](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Щоб призначити ліцензії на захист від загроз для Office 365, перейдіть на сторінку ліцензії для **виставлення рахунків**  >  **Licenses**. Докладні відомості наведено в статті [призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Щоб додати або видалити ліцензії з захисту від Office 365 Advance, виберіть пункт **виставлення рахунків**на  >  **продукти**. Виберіть передплату, яку потрібно оновити, а потім натисніть кнопку **придбати ліцензії** або ***Видалити ліцензії**. Докладні відомості наведено в статті [придбання або вилучення ліцензій на передплату](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

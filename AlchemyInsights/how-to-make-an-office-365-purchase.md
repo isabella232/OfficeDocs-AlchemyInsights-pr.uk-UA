@@ -2,7 +2,7 @@
 title: Як зробити покупку Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,22 +13,21 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 57cf149b0ecfaf06f34b7fb8cd746584e305a232
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703898"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287159"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Як зробити покупку Microsoft 365
 
-Покупки в Microsoft 365 можна зробити в центрі адміністрування.
+Ви можете придбати передплату Microsoft 365 у центрі адміністрування.
   
 - Щоб придбати план, перейдіть на **Billing** \> сторінку [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
-
-- Щоб придбати додаткові ліцензії, перейдіть на сторінку " **виставлення рахунків** на \> **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". Виберіть абонентську плату, до якої потрібно додати ліцензії, а потім натисніть кнопку **Додати або видалити ліцензії**.
+- Щоб придбати додаткові ліцензії, перейдіть на сторінку " **виставлення рахунків** на \> [продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) ". Виберіть передплату, яку потрібно змінити, а потім виберіть пункт **придбати ліцензії** або **Видалити ліцензії**.
   
-Докладні відомості можна знайти в статті [придбання ліцензій для своєї абонентської плати Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Докладні відомості можна знайти в статті [придбання ліцензій для своєї абонентської плати Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
 
 **Виправлення неполадок**
 
@@ -37,5 +36,4 @@ ms.locfileid: "47703898"
 **Додаткові ресурси**
   
 - [Призначення ліцензій користувачам у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-
 - [Скасування Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
