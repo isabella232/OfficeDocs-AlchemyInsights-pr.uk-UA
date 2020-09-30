@@ -1,8 +1,8 @@
 ---
 title: Керування ліцензіями Power BI
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 7fb9191390f48059bf7417d92443ec45f4521a6a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0bfb1a174f0ebe03bab53f13d26ac7af240fe7ce
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802006"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307175"
 ---
 # <a name="power-bi-license-management"></a>Керування ліцензіями Power BI
 
-Керування ліцензіями Power BI можна завершити в **центрі адміністрування Microsoft 365**.
+Керування ліцензіями Power BI можна завершити в центрі адміністрування Microsoft 365.
 
-- Щоб **придбати** Power BI, виберіть **Виставлення рахунків** \> **[Придбання послуг](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Скористайтеся полем пошуку, щоб знайти "Power BI", та виберіть план і кількість користувачів. Докладні відомості див. в статті [Придбання передплат](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan). 
-
-- Щоб **призначати** ліцензії Power BI, виберіть **Виставлення рахунків > [Ліцензії](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Докладні відомості див. в статті [Призначення ліцензій](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-
-- Щоб **Додати або видалити** ліцензії Power Bi, перейдіть до кнопки "перейти до **виставлення рахунків > [своїх продуктів](https://go.microsoft.com/fwlink/p/?linkid=842054)**", знайти абонентську плату, до якої потрібно додати або видалити ліцензії, а потім виберіть елемент **Додати або видалити ліцензії**.
-
-Докладні відомості наведено в статті [Додавання або вилучення ліцензій зі своєї бізнес-передплатою](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
+- **Щоб придбати службу Power Bi**: перейдіть **Billing** до \> [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)рахунків. Скористайтеся полем пошуку, щоб знайти значення "Power BI", виберіть план і кількість користувачів, які потрібно придбати. Докладні відомості наведено в статті [придбання іншої абонентської плати](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365\#buy-a-different-subscription).
+- **Щоб призначити ліцензії Power Bi**: перейдіть на сторінку ліцензії для **виставлення рахунків**  >  [Licenses](https://go.microsoft.com/fwlink/p/?linkid=842264). Докладні відомості див. в статті [Призначення ліцензій](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- **Щоб додати або видалити ліцензії для Power Bi**: перейти до **виставлення рахунків**  >  [продуктів](https://go.microsoft.com/fwlink/p/?linkid=842054), знайдіть передплату, яку потрібно змінити, виберіть пункт **додаткові настройки** (три крапки), а потім виберіть пункт **придбати ліцензії**. Щоб видалити ліцензії, у верхній частині області " **придбання ліцензій** " натисніть кнопку " **Видалити ліцензії**". Докладні відомості наведено в статті [Додавання або вилучення ліцензій зі своєї бізнес-передплатою](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#add-or-remove-licenses-for-your-business-subscription).
