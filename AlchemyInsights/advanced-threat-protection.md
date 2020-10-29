@@ -1,5 +1,5 @@
 ---
-title: Захист від розширеної загрози в Office 365
+title: Програма Microsoft Defender для Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696642"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801248"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Захист від розширеної загрози в Office 365
+# <a name="microsoft-defender-for-office-365"></a>Програма Microsoft Defender для Office 365
 
-- Надійні вкладення, безпечні посилання та анти-фішинг належать до складу системи захисту від підвищеної загрози Office 365 (АТФ). Корпоративні E5, освіта a5 і Microsoft 365 Business Premium включають АТФ. Усі інші плани потребують передплатою в надбудові АТФ.
+- Надійні вкладення, безпечні посилання та анти-Фішинг – це частина Microsoft Defender для Office 365 (АТФ). Корпоративні E5, освіта a5 і Microsoft 365 Business Premium включають АТФ. Усі інші плани потребують передплатою в надбудові АТФ.
 
 - Щоб захистити користувачів за допомогою АТФ Office 365, потрібно призначити відповідні ліцензії. Перегляньте [цю тему](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) , щоб отримати вказівки про те, як за допомогою функції групового використання ліцензій для користувачів.
 
-- Глобальні адміністратори або адміністратори системи безпеки можуть отримати доступ до функцій АТФ Office 365 у центрі відповідності безпеки & в політиці **загрози Managmeent** \> **Policy**.
+- Глобальні адміністратори або адміністратори системи безпеки можуть отримати доступ до функцій АТФ Office 365 у центрі відповідності безпеки & в політиці **загрози Managmeent** \> **Policy** .
 
 - Надійні вкладення та політики зв'язків із безпечними посиланнями можуть бути призначені вам для всієї організації, певних доменів або менших груп користувачів.
 

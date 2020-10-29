@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із захистом Office 365 для підвищення загрози
+title: Виправлення неполадок із програмою Microsoft Defender для Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658935"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801467"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Виправлення неполадок із захистом Office 365 для підвищення загрози
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Виправлення неполадок із програмою Microsoft Defender для Office 365
 
 - Чи помітили ви затримки в доставці повідомлень? Використовуйте параметр [динамічної доставки](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) в політиці вкладень у сейфі АТФ. Це дасть змогу уникнути затримок повідомлень під час захисту одержувачів від зловмисних файлів.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658935"
 
   1. Перейдіть на сторінку [https://protection.office.com](https://protection.office.com) та увійдіть за допомогою облікового запису глобального адміністратора або адміністратора безпеки.
 
-  2. В області переходів ліворуч у розділі **керування загрозою**виберіть посилання **політики** \> **безпеки**.
+  2. В області переходів ліворуч у розділі **керування загрозою** виберіть посилання **політики** \> **безпеки** .
 
-  3. У розділі політики, **які застосовуватимуться до всієї організації** , виберіть політику та натисніть кнопку **редагувати**.
+  3. У розділі політики, **які застосовуватимуться до всієї організації** , виберіть політику та натисніть кнопку **редагувати** .
 
-  4. У розділі **Параметри**Увімкніть параметр **використовувати безпечні посилання на повідомлення, надіслані в організації**.
+  4. У розділі **Параметри** Увімкніть параметр **використовувати безпечні посилання на повідомлення, надіслані в організації** .

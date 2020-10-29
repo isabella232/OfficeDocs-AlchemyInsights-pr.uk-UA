@@ -1,5 +1,5 @@
 ---
-title: Придбання системи захисту від підвищеної загрози в Office 365
+title: Придбання програми Microsoft Defender для Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693576"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801200"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Придбання системи захисту від підвищеної загрози в Office 365
+# <a name="purchase-microsoft-defender-for-office-365"></a>Придбання програми Microsoft Defender для Office 365
 
-У деяких передплат, як-от Microsoft 365 E5, Office 365 E5, Office 365 a5 і Microsoft 365 Business Premium, включена Служба захисту від підвищеної загрози (АТФ) Office 365. Якщо ваша Передплата не включає АТФ Office 365, ви можете придбати план [АТФ 1 або АТФ плану 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) як надбудову для певної передплатою. Щоб придбати в центрі адміністрування Microsoft 365, виконайте такі дії:
+Програма Microsoft Defender для Office 365 (АТФ) входить у певні передплати, наприклад Microsoft 365 E5, Office 365 E5, Office 365 a5 і Microsoft 365 Business Premium. Якщо ваша Передплата не включає АТФ Office 365, ви можете придбати план [АТФ 1 або АТФ плану 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) як надбудову для певної передплатою. Щоб придбати в центрі адміністрування Microsoft 365, виконайте такі дії:
 
 1. Перейдіть до **Billing**   >   [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)рахунків.
 2. Виберіть пункт " **додаткові компоненти**  " з **інших категорій, які можуть вас зацікавити.**

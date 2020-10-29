@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759240"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801572"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Симулятор атак в Microsoft 365
 
-- Не вистачає симулятора атак? Для імітатора атак потрібен **пакет захисту від office 365, який має план 2 (АТФ-план 2)** або **Office 365 Enterprise E5**. Тренажер атак **не** входить до складу плану "Office 365 для розширеного захисту від загроз" 1 (план АТФ 1), Office 365 Enterprise E3 або будь-які програми Microsoft 365 для бізнесу.
+- Не вистачає симулятора атак? Для імітатора атак потрібен **захисник Microsoft для Office 365 (план АТФ 2)** або **Office 365 Enterprise E5** . Тренажер атак **не** входить до складу Microsoft Defender для Office 365 (план АТФ 1), Office 365 Enterprise E3 або будь-які програми Microsoft 365 для бізнесу.
 
 - Обліковий запис, який використовується для запуску імітованого атак, вимагає використання глобальних дозволів адміністратора або адміністратора системи безпеки та багатофакторної автентифікації (МЗС). Докладні відомості про вимоги до симулятора атак наведено в [цій статті](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759240"
 
 - Важливі моменти, які потрібно знати про **шахрайство з фішинговим** приєднанним модесом:
 
-  - За допомогою макета не можна надавати настроюване значення **URL-адреси сервера входу**.
+  - За допомогою макета не можна надавати настроюване значення **URL-адреси сервера входу** .
 
   - Якщо одержувач використовує надбудову " [Увімкнення повідомлення](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) ", щоб повідомити про це повідомлення як фішингове, ви можете не отримувати оповіщення про повідомлення (тому що це імітація атаки).
 
