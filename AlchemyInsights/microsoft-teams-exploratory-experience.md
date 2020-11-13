@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674959"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019568"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Дослідний досвід групи Microsoft
 
-Дослідницький досвід групи Microsoft дає змогу користувачам у вашій організації, які мають блакитні активні каталоги (AAD), і не ліцензовано для груп, які ініціюють роботу групи. Адміністратори можуть увімкнути або вимкнути цю функцію для користувачів у своїй організації. (Попередню ознайомлювальну версію Cloud Microsoft тепер називають дослідним досвідом команди.)
-
-Інформаційно-дослідний досвід групи Microsoft доступний без додаткової вартості, доки ви не річниця наступної угоди про корпоративну угоду або поновлення або після січня 2021. На той час кінцеві користувачі в ліцензії на дослідницький досвід Microsoft повинні переходити до платної ліцензії, яка містить команди.
-
-Щоб отримати докладніші відомості, ознайомтеся з [командою керування інформаційною ліцензією для команди Microsoft](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- Що таке [дослідницький групи](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Дослідницький досвід групи Microsoft дає змогу користувачам у вашій організації, які не мають ліцензії для роботи з групами, ініціюють роботу груп. Щоб отримати докладніші відомості, ознайомтеся з відомостями про [досвід роботи з групами](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [Коли термін дії ліцензії закінчиться](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)? Дослідницький досвід групи Microsoft доступний без додаткової вартості, доки не буде до наступного ювілею або поновлення за січень 2021.
+- Адміністратор дає змогу [оновлювати користувачів із відповідної](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) ліцензії на групи, придбавши передплату, яка міститиме команди, видаливши передплату на групи, щоб надати користувачу, а також привласнення щойно придбаної ліцензії.
+- Докладні відомості наведено в статті [керування ліцензійними групами.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
