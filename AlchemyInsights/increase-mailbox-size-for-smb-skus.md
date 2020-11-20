@@ -2,7 +2,7 @@
 title: Збільшення розміру поштової скриньки для SMB SKUs
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,23 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: e4f4791358977133e2c94c70fb955304ebe80d88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfb05ac9cafd0bafc0baf1afa39bb8374d725f18
+ms.sourcegitcommit: eb7cf60a8fef79b00675eb645b0d0d8d5f9744df
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778352"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49363704"
 ---
 # <a name="upgrade-plans-to-increase-mailbox-size"></a>Оновлення планів для збільшення розміру поштової скриньки
 
-Якщо розмір поштової скриньки становить 50 ГБ, ви можете збільшити розмір поштової скриньки до 100 ГБ, перейшовши на [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) або [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Нижче наведено кроки, які потрібно перейти до іншої абонентської плати.
+Якщо розмір поштової скриньки становить 50 ГБ, ви можете збільшити розмір поштової скриньки до 100 ГБ, оновивши її до [Office 365 E3](https://www.microsoft.com/microsoft-365/enterprise/office-365-e3?rtc=1&activetab=pivot:overviewtab), [Microsoft 365 e3](https://www.microsoft.com/microsoft-365/enterprise/e3?activetab=pivot%3aoverviewtab), [Office 365 E5](https://www.microsoft.com/microsoft-365/enterprise/office-365-e5?rtc=1&activetab=pivot%3aoverviewtab)або [Microsoft 365 E5](https://www.microsoft.com/microsoft-365/enterprise/e5?activetab=pivot%3aoverviewtab). Нижче наведено кроки, які потрібно оновити до іншої абонентської плати.
   
-1. У центрі адміністрування Microsoft 365 перейдіть на сторінку " **виставлення рахунків**на  >  [продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+1. У центрі адміністрування перейдіть на сторінку " **виставлення рахунків** на  >  [продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
+2. На вкладці **продукти** виберіть передплатну версію, яку потрібно оновити.
+3. На сторінці відомості про абонентську інформацію в розділі **відомості про продукт і оновлення** виберіть **Переглянути оновлення, Рекомендовані для вашої** організації.
+4. На сторінці **доступні оновлення** знайдіть новий план, а потім натисніть кнопку **оновити**.
+5. На сторінці **взяття на редагування** виберіть або додайте спосіб оплати, а потім натисніть кнопку **помістити замовлення**.
+6. На **все готово!** виберіть елемент **стан оновлення** або **Продовжуйте налаштування своєї передплатою**.
 
-2. Виберіть передплатну версію для оновлення, а потім перейдіть на вкладку **оновлення** , щоб переглянути список нових доступних планів.
-
-3. Виберіть план, щоб переглянути нову загальну вартість за місяць. Не забудьте прочитати **ключові відомості**, а потім натисніть кнопку **Далі** , щоб узяти на редагування.
-
-4. Завершивши взяття на редагування, корпорація Майкрософт 365 займає кілька хвилин, щоб завершити перехід. Ви можете почати користуватися новою передплатою негайно.
+Завершивши взяття на редагування, корпорація Майкрософт 365 займає кілька хвилин, щоб завершити перехід. Ви можете почати користуватися новою передплатою негайно.
 
 Докладні відомості наведено в статті [оновлення до іншого плану](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
