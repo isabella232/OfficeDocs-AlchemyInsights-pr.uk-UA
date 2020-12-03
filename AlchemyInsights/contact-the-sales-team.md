@@ -1,28 +1,27 @@
 ---
-title: Зверніться до відділу збуту
+title: Зв’язатися з відділом продажу
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932113"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529039"
 ---
-# <a name="contact-the-sales-team"></a>Зверніться до відділу збуту
+# <a name="contact-the-sales-team"></a>Зв’язатися з відділом продажу
 
-За допомогою роз'ємів Microsoft графа ваша організація може індексувати сторонні дані, які відображатимуться в результатах пошуку Microsoft.
+Є кілька способів зв’язатися з відділом продажу Microsoft 365.
 
-- [З'єднувачі від корпорації Майкрософт](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [З'єднувачі наших партнерів](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Для отримання додаткових відомостей див. [Огляд роз'ємів Microsoft графа](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Скористайтеся формою [Контактні дані](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409), щоб експерт із продажу Microsoft 365 зв’язався з вами.
+- Щоб зв’язатися з експертом із корпоративного ліцензування за договором "Enterprise Agreement", перейдіть на портал [Центр обслуговування з питань корпоративного ліцензування](https://go.microsoft.com/fwlink/p/?LinkId=329762).
