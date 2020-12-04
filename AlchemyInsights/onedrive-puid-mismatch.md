@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754360"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569188"
 ---
 # <a name="onedrive-puid-mismatch"></a>Невідповідність OneDrive PUID
-Здається, що ви відчуваєте [невідповідність PUID](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в службі "OneDrive для бізнесу". Виконайте наведені нижче дії, щоб ми могли якомога швидше допомогти вам.
 
-1. Натисніть кнопку зверніться до служби **підтримки**, а потім – **новий запит на обслуговування**.
-2. Не вдається вийти з заголовка та опису як **невідповідність PUID на сайті OneDrive**.
+Здається, ви відчуваєте [невідповідність ідентифікатора](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) в службі "OneDrive для бізнесу". Виконайте наведені нижче дії, щоб ми могли якомога швидше допомогти вам.
+
+1. Натисніть кнопку зверніться до служби  **підтримки**, а потім –  **новий запит на обслуговування**.
+2. Не вдається вийти з назви та опису як  **невідповідність ідентифікатора користувача сайту Onedrive**.
 3. Після надсилання квитка оновіть її, виконавши наведені нижче відомості.
     - Порушено URL-адресу сайту OneDrive.
     - Ім'я учасника-користувача (UPN) для ураженого користувача.
-
-
-
