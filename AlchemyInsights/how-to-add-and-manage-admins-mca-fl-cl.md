@@ -1,5 +1,5 @@
 ---
-title: Додавання та керування адміністраторами – MCA FL/CL
+title: Додавання адміністраторів і керування ними
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692457"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755532"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Додавання та керування адміністраторами – MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Додавання адміністраторів і керування ними
+
+На основі опису проблеми ми знайшли рішення для вас. Більшість клієнтів змогли вирішити свою проблему самостійно, дотримуючись нашої документації.
 
 Щоб керувати обліковим записом для виставлення рахунків за угодою клієнтів Microsoft (MCA), можна використовувати різні ролі з потрібним рівнем доступу. Ці ролі Крім вбудованих ролей служби, які допоможуть вам керувати ресурсами.
 

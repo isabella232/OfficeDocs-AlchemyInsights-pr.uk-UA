@@ -1,5 +1,5 @@
 ---
-title: PayNow/Make платіж відразу-Legacy EA
+title: PayNow/здійснення платежу негайно
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49692481"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755712"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>PayNow/Make платіж відразу-Legacy EA
+# <a name="paynowmake-payment-immediately"></a>PayNow/здійснення платежу негайно
+
+На основі опису проблеми ми знайшли рішення для вас. Більшість клієнтів змогли вирішити свою проблему самостійно, дотримуючись нашої документації.
 
 Для передплатою за лазуровий корпоративний договір не підтримується "Додати/оновити/змінити спосіб оплати". Якщо ви хочете змінити адресу наявного рахунка-фактури, зверніться до свого представника корпорації Майкрософт.
 

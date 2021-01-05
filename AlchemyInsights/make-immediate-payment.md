@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7286"
-ms.openlocfilehash: 9132b5ed851ba06b90f22adc6f47583064e60e92
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: d2e48c926fa99525cdec503a729b14f2ea7f5100
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714968"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755820"
 ---
 # <a name="make-immediate-payment---recommended-steps"></a>Здійснення негайної оплати – Рекомендовані кроки
+
+На основі опису проблеми ми знайшли рішення для вас. Більшість клієнтів змогли вирішити свою проблему самостійно, дотримуючись нашої документації.
 
 Щоб здійснити негайний платіж, необхідно вирішити прострочені заборгованості. Якщо ваш платіж не отримано або не вдається обробити ваш платіж, ви можете отримати повідомлення електронної пошти або переглянути прострочені оповіщення про прострочену рівновагу в центрі бізнес-партнера або на порталі Azure Portal. 
 

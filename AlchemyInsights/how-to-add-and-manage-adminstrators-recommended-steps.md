@@ -1,5 +1,5 @@
 ---
-title: Додавання та керування adminstrators-рекомендованими кроками
+title: Додавання та керування адміністраторами – Рекомендовані кроки
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678867"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755856"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Додавання та керування adminstrators-рекомендованими кроками
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Додавання та керування адміністраторами – Рекомендовані кроки
+
+На основі опису проблеми ми знайшли рішення для вас. Більшість клієнтів змогли вирішити свою проблему самостійно, дотримуючись нашої документації.
 
 **Редагування адміністратора або Співадміністратора за передплатою**
 
