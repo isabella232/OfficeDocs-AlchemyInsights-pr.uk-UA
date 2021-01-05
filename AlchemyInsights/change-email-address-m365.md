@@ -1,5 +1,5 @@
 ---
-title: Змінення адреси електронної пошти групи Microsoft 365
+title: Змінення адреси електронної пошти групи Microsoft 365 або Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: f54ca5df09d0604f6d58c6c8a41dc907485e1f04
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
-ms.translationtype: MT
+ms.openlocfilehash: ff7abaf3d8e0ed977eba5712bdd19185738fa75c
+ms.sourcegitcommit: 8be59778b7d39213a27a471802eae7fc006eb1ff
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48462061"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49756578"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>Змінення адреси електронної пошти групи Microsoft 365
+# <a name="change-email-address-of-a-microsoft-365-group-or-microsoft-teams"></a>Змінення адреси електронної пошти групи Microsoft 365 або Microsoft Teams
 
-Ви можете змінити адресу електронної пошти групи Microsoft 365 за допомогою Центру адміністрування. Просто виберіть групу та виберіть @edit адресу електронної пошти.
+Адресу електронної пошти групи Microsoft 365 або Microsoft Teams можна змінити за допомогою [Центру адміністрування Microsoft 365](https://admin.microsoft.com/). Просто виберіть групу та натисніть @редагувати адресу електронної пошти.
 
-Ви також можете скористатися командою EXO PowerShell, щоб змінити основну адресу SMTP групи Microsoft 365.
+Щоб змінити основну SMTP-адресу групи Microsoft 365 або Teams, можна також скористатися такою командою EXO PowerShell:
 
 `Set-UnifiedGroup <Group Name> -PrimarySmtpAddress <new SMTP Address>`
 
-Наприклад
+Приклад.
 
-`et-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
+`Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com`
