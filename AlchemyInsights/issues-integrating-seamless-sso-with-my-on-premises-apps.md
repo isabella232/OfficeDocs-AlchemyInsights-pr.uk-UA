@@ -1,0 +1,41 @@
+---
+title: Проблеми з інтеграцією безшовного входу в Локальні програми
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/13/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004356"
+- "7798"
+ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.translationtype: MT
+ms.contentlocale: uk-UA
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49868771"
+---
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a><span data-ttu-id="4d506-102">Проблеми з інтеграцією безшовного входу в Локальні програми</span><span class="sxs-lookup"><span data-stu-id="4d506-102">Issues with integrating Seamless SSO with my on-premises apps</span></span>
+
+<span data-ttu-id="4d506-103">Щоб вирішити проблеми з інтеграцією безшовного входу в Локальні програми, виконайте наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="4d506-103">To troubleshoot issues with integrating Seamless SSO with on-premises applications, do the following:</span></span>
+
+<span data-ttu-id="4d506-104">**Рекомендовані дії**</span><span class="sxs-lookup"><span data-stu-id="4d506-104">**Recommended steps**</span></span>
+
+1. <span data-ttu-id="4d506-105">Щоб настроїти **локальну програму** для **окремого входу за допомогою проксі-сервера програми**, перегляньте статтю " [для входу паролем" за допомогою проксі-сервера програми "єдиний вхід](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting)".</span><span class="sxs-lookup"><span data-stu-id="4d506-105">To configure an **on-premises application** for **single sign-on through Application Proxy**, see [Password vaulting for single sign-on with Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).</span></span>
+1. <span data-ttu-id="4d506-106">**Виправлення неполадок із проксі-сервером програми**: радимо розпочати перегляд потоку виправлення неполадок, [проблем із коннектором програми налагодження](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), щоб визначити, чи правильно настроєно сполучні лінії проксі-сервера програми.</span><span class="sxs-lookup"><span data-stu-id="4d506-106">**Troubleshooting Application Proxy issues**: we recommend that you start with reviewing the troubleshooting flow, [Debug Application Proxy Connector issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), to determine if Application Proxy connectors are configured correctly.</span></span> <span data-ttu-id="4d506-107">Якщо ви все ще не змогли підключитися до програми, виконайте вказівки з виправлення неполадок у [вирішенні проблем програми налагодження проксі-](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)застосунку.</span><span class="sxs-lookup"><span data-stu-id="4d506-107">If you're still having trouble connecting to the application, follow the troubleshooting steps in [Debug Application Proxy application issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps).</span></span> <span data-ttu-id="4d506-108">За допомогою наведених нижче засобів відладки в браузері можна [визначити проблеми з CNAME](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) :</span><span class="sxs-lookup"><span data-stu-id="4d506-108">You can [identify CORS issues](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) by using the following browser debug tools:</span></span>
+    1. <span data-ttu-id="4d506-109">Запустіть браузер і перейдіть до веб-програми.</span><span class="sxs-lookup"><span data-stu-id="4d506-109">Launch the browser and browse to the web app.</span></span>
+    1. <span data-ttu-id="4d506-110">Натисніть клавішу **F12** , щоб відкрити консоль налагодження.</span><span class="sxs-lookup"><span data-stu-id="4d506-110">Press **F12** to bring up the debug console.</span></span>
+    1. <span data-ttu-id="4d506-111">Виконайте спроби відтворити транзакцію та переглянути Консольне повідомлення.</span><span class="sxs-lookup"><span data-stu-id="4d506-111">Try to reproduce the transaction, and review the console message.</span></span> <span data-ttu-id="4d506-112">Під час порушення функції "Джерело" створюється помилка в консолі.</span><span class="sxs-lookup"><span data-stu-id="4d506-112">A CORS violation produces a console error about origin.</span></span>
+    1. <span data-ttu-id="4d506-113">Деякі проблеми із входом не можна усунути, наприклад, коли програма переспрямовує на login.microsoftonline.com для автентифікації, а маркер доступу завершується.</span><span class="sxs-lookup"><span data-stu-id="4d506-113">Some CORS issues can't be resolved, such as when your app redirects to login.microsoftonline.com to authenticate, and the access token expires.</span></span> <span data-ttu-id="4d506-114">Під час виклику "виклики" не вдасться виконати виклик.</span><span class="sxs-lookup"><span data-stu-id="4d506-114">The CORS call then fails.</span></span> <span data-ttu-id="4d506-115">Спосіб вирішення цього сценарію – подовжити термін дії маркера доступу, щоб запобігти його появі під час сеансу користувача.</span><span class="sxs-lookup"><span data-stu-id="4d506-115">A workaround for this scenario is to extend the lifetime of the access token, to prevent it from expiring during a user’s session.</span></span> <span data-ttu-id="4d506-116">Щоб отримати докладні відомості про те, як це зробити, ознайомтеся [з Настроювана маркером користувача в платформі Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span><span class="sxs-lookup"><span data-stu-id="4d506-116">For more information about how to do this, see [Configurable token lifetimes in Microsoft identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).</span></span>
+
+<span data-ttu-id="4d506-117">**Рекомендовані документи**</span><span class="sxs-lookup"><span data-stu-id="4d506-117">**Recommended documents**</span></span>
+
+- [<span data-ttu-id="4d506-118">Настроювання компонента "єдиний вхід у програму" для проксі-сервера програми</span><span class="sxs-lookup"><span data-stu-id="4d506-118">How to configure single sign-on to an Application Proxy application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [<span data-ttu-id="4d506-119">Єдиний вхід для локальних програм із проксі-сервером програми</span><span class="sxs-lookup"><span data-stu-id="4d506-119">SAML single sign-on for on-premises applications with Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [<span data-ttu-id="4d506-120">Розуміння та вирішення проблем із проксі-сервером у службі "Azure Active Directory"</span><span class="sxs-lookup"><span data-stu-id="4d506-120">Understand and solve Azure Active Directory Application Proxy CORS issues</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [<span data-ttu-id="4d506-121">Усунення несправностей у конфігурації делегування для протоколу Kerberos для проксі-сервера програми</span><span class="sxs-lookup"><span data-stu-id="4d506-121">Troubleshoot Kerberos constrained delegation configurations for Application Proxy</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
