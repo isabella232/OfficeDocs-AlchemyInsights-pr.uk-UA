@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502592"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880187"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Змінення дозволів для поштової скриньки
 
-Якщо користувачам потрібен доступ до поштових скриньок, крім власних, їм потрібно надати дозволи на роботу з цими поштовими скриньками. Спосіб призначення цих дозволів залежить від типу поштової скриньки. Якщо користувачам потрібен доступ до:
+Якщо користувачам потрібен доступ до поштових скриньок, відмінних від своїх, їм потрібно надати дозволи для роботи з цими поштовими скриньками. Спосіб призначення цих дозволів залежить від типу поштової скриньки. Якщо користувачам потрібен доступ до:
   
-- Поштові скриньки інших користувачів-перегляньте, будь ласка [, надайте дозволи на доступ до іншого користувача](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Поштові скриньки інших користувачів – зверніться [до служби надання дозволів для поштової скриньки іншому користувачу](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Спільної поштової скриньки-будь ласка, див [Додавання або видалення учасників зі спільної поштової скриньки](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Спільна поштова скринька – Дізнайтеся, як [настроїти спільні параметри поштової скриньки](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Якщо дозволи не працюють належним чином після виконання наведених вище дій, перейдіть до центру адміністрування Exchange і спробуйте встановити дозволи звідти (див. [Керування дозволами для одержувачів](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Якщо після виконання наведених вище дій дозволи не працюватимуть належним чином, перейдіть до центру адміністрування Exchange і виберіть потрібні дозволи (див. [Керування дозволами для одержувачів](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
