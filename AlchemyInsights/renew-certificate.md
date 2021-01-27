@@ -1,5 +1,5 @@
 ---
-title: Поновити сертифікат
+title: Поновлення сертифіката
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7750"
 - "9004340"
-ms.openlocfilehash: a1a931df944ed83d538215ad7527bec9ef370469
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: a383124fb4e2a5cd4373be0731a233215bed3725
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: uk-UA
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974931"
+ms.locfileid: "49976834"
 ---
-# <a name="renew-certificate"></a>Поновити сертифікат
+# <a name="renew-certificate"></a>Поновлення сертифіката
 
-Щоб поновити сертифікат, який незабаром завершиться, у статті [керування сертифікатами для компонента інтегрованого входу в Azure в службі Лазурний Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
+Щоб поновити сертифікат, який незабаром припинить дію, перейдіть до розділу [Керування сертифікатами для федеративного єдиного входу в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-Щоб отримати додаткові відомості про те, як керувати сертифікатами підпису та зберігати їх під час синхронізації з Azure AD, [відновлюйте сертифікати Федерації для Microsoft 365 і "Лазурний Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs)".
+Докладні відомості про те, як керувати сертифікатами підписування за допомогою маркерів і синхронізувати їх із Azure AD, наведено в статті [Поновлення сертифікатів федерації для Microsoft 365 і Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).
 
