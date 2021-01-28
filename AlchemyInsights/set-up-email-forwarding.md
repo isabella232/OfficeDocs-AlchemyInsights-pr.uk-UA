@@ -13,16 +13,16 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
+ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49847621"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "50037206"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Перевірка параметрів пересилання електронної пошти для поштової скриньки
 
-По-перше, пересилання електронної пошти має бути активовано на рівні клієнта. Якщо ви настроїли пересилання електронної пошти в поштовій скриньці, але він не працює, зверніться [до служби автоматичного пересилання зовнішньої електронної пошти в Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+По-перше, пересилання електронної пошти має бути активовано на рівні клієнта. Якщо ви настроїли пересилання електронної пошти в поштовій скриньці, але він не працює (з'являється повідомлення про помилку **"550 5.7.520 Access відмовлено, ваша організація не підтримує зовнішню переадресацію"**), зверніться [до елемента керування автоматичної маршрутизації електронної пошти в Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
 
 Можна легко перевірити параметри пересилання електронної пошти в поштовій скриньці! Просто виконайте наведені нижче дії.
   
