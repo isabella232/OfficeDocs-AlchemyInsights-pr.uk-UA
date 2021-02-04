@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 0eecd89b2558359702935379d7ffbd8b7508f4cd
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1e90aedab20c8abaa021ed980e868cea0503b7b1
+ms.sourcegitcommit: db95fd628c45d9810e5af5c5a4e6388c793339ac
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560461"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50093376"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Увімкнути зворотний запис пароля в Azure AD Connect
 
@@ -43,4 +43,4 @@ ms.locfileid: "49560461"
 Докладні відомості наведено в статті [Увімкнення зворотного запису для самостійного скидання пароля в Enable Azure Active Directory в локальному середовищі](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback).
 
 > [!NOTE]
->  Коли адміністратор скидає на порталі Azure пароль федеративного користувача або пароль із синхронізованим гешем, цей пароль записується локально. Цей функціонал зараз не підтримується на порталі адміністрування Office.
+>  Коли адміністратор скидає на порталі Azure пароль федеративного користувача або пароль із синхронізованим гешем, цей пароль записується локально. Ця функція вимагає ліцензії Azure Premium (P1 або P2) і зараз не підтримується на порталі адміністрування Office.
