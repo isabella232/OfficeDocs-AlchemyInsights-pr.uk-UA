@@ -8,24 +8,23 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "1500001"
 - "277"
 - "4852"
-ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 710e4817fa0b3e7696f4cbf2dd4087c068a7c73e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28ea821446a563650121f80fdfe1b81604b276b6
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681856"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152467"
 ---
 # <a name="change-payment-method"></a>Змінення методу оплати
 
 Ви можете змінити спосіб оплати в **центрі адміністрування Microsoft 365**.
   
-1. У центрі адміністрування перейдіть на сторінку виставлення рахунків **Billing**  >  **&**  >  [способів оплати](https://go.microsoft.com/fwlink/p/?linkid=2018806) платежів.
+1. У центрі адміністрування перейдіть на сторінку виставлення рахунків   >  **&**  >  [способів оплати](https://go.microsoft.com/fwlink/p/?linkid=2018806) платежів.
 2. Виберіть рядок способу оплати, який потрібно замінити. У правій області перелічено всі профілі виставлення рахунків і окремі передплати, які використовують вибраний спосіб оплати.
 3. В області праворуч виберіть пункт **замінити спосіб оплати для всіх об'єктів**.
 4. Щоб використати наявний спосіб оплати, виберіть один із розкривного списку, а потім натисніть кнопку **замінити**.
@@ -35,6 +34,6 @@ ms.locfileid: "47681856"
 6. У області **Додавання способу оплати** Введіть відомості про обліковий запис, а потім натисніть кнопку **зберегти**. Ви повинні використовувати спосіб оплати з тієї самої країни, що й ваш клієнт.
 7. Новий спосіб оплати уже вибрано в розкривному списку. Натисніть кнопку **замінити**.
 
-Докладні відомості наведено в статті [керування способами оплати](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Щоб дізнатися, як додавати, оновлювати, замінювати або видаляти способи оплати, перегляньте статтю [керування способами оплати](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Щоб дізнатися, як перейти від оплати кредитною карткою до оплати за рахунком-фактурою, перегляньте статтю [зміни з кредитної картки або банківського рахунку на рахунок-фактуру](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method#change-from-credit-card-or-bank-account-to-invoice).
+Щоб дізнатися, як можна змінити спосіб оплати, Дізнайтеся, [як оплатити свою абонентську](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)плату.
