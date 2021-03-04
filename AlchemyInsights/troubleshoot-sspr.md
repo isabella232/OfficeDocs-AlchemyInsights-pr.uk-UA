@@ -1,0 +1,52 @@
+---
+title: Виправлення неполадок із SУРП
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 03/04/2021
+ms.topic: article
+ms.audience: Admin
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003259"
+- "6128"
+ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
+ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.translationtype: MT
+ms.contentlocale: uk-UA
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50430362"
+---
+# <a name="troubleshoot-sspr"></a><span data-ttu-id="20d17-102">Виправлення неполадок із SУРП</span><span class="sxs-lookup"><span data-stu-id="20d17-102">Troubleshoot SSPR</span></span>
+
+<span data-ttu-id="20d17-103">**У мене виникли проблеми з настроюванням скидання пароля**</span><span class="sxs-lookup"><span data-stu-id="20d17-103">**I'm having trouble configuring password reset**</span></span>
+
+- <span data-ttu-id="20d17-104">Якщо ви адміністратор і шукаєте, як можна ввімкнути скидання пароля самостійно, ознайомтеся з посібником з [ввімкнення функції sурп](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), щоб настроїти скидання пароля для вашої організації.</span><span class="sxs-lookup"><span data-stu-id="20d17-104">If you are administrator and looking for how to enable self-service password reset, see [Tutorial enable SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), to configure password reset for your organization.</span></span> <span data-ttu-id="20d17-105">Ви також можете переглянути [вимоги до ліцензування](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="20d17-105">You may also want to review the [licensing requirements](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span> <span data-ttu-id="20d17-106">Потрібно мати принаймні одну ліцензію, призначену в організації.</span><span class="sxs-lookup"><span data-stu-id="20d17-106">You must have at least one license assigned in your organization.</span></span>
+    - <span data-ttu-id="20d17-107">**Хмарні тільки користувачі** – будь-який Office 365 (O365) платний обліковий номер або ЛАЗУРНЕ AD Basic</span><span class="sxs-lookup"><span data-stu-id="20d17-107">**Cloud only users** - Any Office 365 (O365) paid SKU, or Azure AD Basic</span></span>
+    - <span data-ttu-id="20d17-108">**Хмарні та/або Локальні користувачі** – AZURE AD Premium P1 або P2, Enterprise Mobility + Security (EMS) або захищене продуктивне підприємство (SPE).</span><span class="sxs-lookup"><span data-stu-id="20d17-108">**Cloud and/or on-premises users** - Azure AD Premium P1 or P2, Enterprise Mobility + Security (EMS), or Secure Productive Enterprise (SPE)</span></span>
+- <span data-ttu-id="20d17-109">Щоб отримати додаткові запитання про скидання пароля служби самообслуговування, перегляньте [наші запитання й відповіді](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="20d17-109">For additional questions about self-service password reset, review [our FAQ](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="20d17-110">**Я можу отримати повідомлення про помилку**</span><span class="sxs-lookup"><span data-stu-id="20d17-110">**I'm getting an error message**</span></span>
+
+<span data-ttu-id="20d17-111">Перегляньте цю статтю, щоб отримати поширені помилки та їх вирішення: [Виправлення неполадок із скидленням пароля для самостійного обслуговування](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="20d17-111">Review this article to find common errors and their solutions: [Troubleshoot self-service password reset](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="20d17-112">**Виникла проблема з політикою скидання пароля**</span><span class="sxs-lookup"><span data-stu-id="20d17-112">**I'm having a problem with my password reset policy**</span></span>
+
+- <span data-ttu-id="20d17-113">Якщо політика скидання пароля не працює належним чином, або якщо у вас виникли запитання про політику скидання пароля, перегляньте цю статтю: [політики паролів і обмеження в Лазурому Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="20d17-113">If your password reset policy is not behaving as expected, or if you have questions about password reset policies, review this article: [Password policies and restrictions in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+- <span data-ttu-id="20d17-114">Політики скидання пароля не застосовуватимуться до адміністраторів.</span><span class="sxs-lookup"><span data-stu-id="20d17-114">Password reset policies do not apply to administrators.</span></span> <span data-ttu-id="20d17-115">Корпорація Майкрософт забезпечує сильну політику скидання пароля за два ворота за замовчуванням для будь-якого ролі «Лазурний адміністратор».</span><span class="sxs-lookup"><span data-stu-id="20d17-115">Microsoft enforces a strong default two-gate password reset policy for any Azure administrator role.</span></span> <span data-ttu-id="20d17-116">Переконайтеся, що ви тестуєте з користувачем, який не є адміністратором.</span><span class="sxs-lookup"><span data-stu-id="20d17-116">Make sure that you are testing with a user who is not an administrator.</span></span> <span data-ttu-id="20d17-117">Докладні відомості про політику скидання адміністратора наведено в статті: [відмінності політики скидання адміністратора](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span><span class="sxs-lookup"><span data-stu-id="20d17-117">For more information on the administrator reset policy, see this article: [Administrator reset policy differences](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).</span></span>
+
+<span data-ttu-id="20d17-118">**Я не хочу, щоб користувачі зареєструвати додаткові відомості про безпеку для скидання пароля**</span><span class="sxs-lookup"><span data-stu-id="20d17-118">**I don't want my users to register additional security info for password reset**</span></span>
+
+<span data-ttu-id="20d17-119">Ви можете попередньо заповнити дані (електронні листи та телефонні атрибути) для користувачів за допомогою API, PowerShell або Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="20d17-119">You can pre-populate data (email and phone attributes) for your users using an API, PowerShell, or Azure AD Connect.</span></span> <span data-ttu-id="20d17-120">Дізнайтеся, як читати:</span><span class="sxs-lookup"><span data-stu-id="20d17-120">To learn how read:</span></span>
+
+- [<span data-ttu-id="20d17-121">Розгортання скидання пароля без необхідності реєструвати користувачів</span><span class="sxs-lookup"><span data-stu-id="20d17-121">Deploying password reset without requiring users to register</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [<span data-ttu-id="20d17-122">Дані, які використовуються для скидання пароля</span><span class="sxs-lookup"><span data-stu-id="20d17-122">What data is used by password reset</span></span>](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
+
+<span data-ttu-id="20d17-123">**Я хочу, щоб користувачі зареєструвати свої додаткові відомості про безпеку для скидання пароля**</span><span class="sxs-lookup"><span data-stu-id="20d17-123">**I want my users to register their additional security info for password reset**</span></span>
+
+1. <span data-ttu-id="20d17-124">Попросіть користувачів зареєструвати свою інформацію про безпеку для скидання пароля служби самообслуговування, спрямовуючи їх на [AKA.MS/ssprsetup](https://mysignins.microsoft.com/security-info).</span><span class="sxs-lookup"><span data-stu-id="20d17-124">Have your users register their security info for self service password reset by directing them to [aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).</span></span>
+1. <span data-ttu-id="20d17-125">Після заповнення даних для користувача (користувачем або адміністратором) спрямувати користувача на [AKA.MS/sspr](https://passwordreset.microsoftonline.com/) , щоб користувачі могли мати можливість скинути власні паролі.</span><span class="sxs-lookup"><span data-stu-id="20d17-125">After data is populated for the user (by the user or by the admin), direct your user to [aka.ms/sspr](https://passwordreset.microsoftonline.com/) so your users can be empowered to reset their own passwords.</span></span>
+1. <span data-ttu-id="20d17-126">Якщо користувачі все ще зазнають проблем, які вони найчастіше можуть використовувати **Федеративні** або **гешування паролів** користувачів.</span><span class="sxs-lookup"><span data-stu-id="20d17-126">If users are still experiencing problems they are most likely **federated** or **password hash synched** users.</span></span> <span data-ttu-id="20d17-127">Це означає, що скоріш за все виникла проблема з Wriliback для роботи з паролем.</span><span class="sxs-lookup"><span data-stu-id="20d17-127">This means there is likely a problem with the Password Writeback service.</span></span>
