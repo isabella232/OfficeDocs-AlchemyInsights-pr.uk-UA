@@ -1,8 +1,8 @@
 ---
 title: Придбання програми Microsoft Defender для Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801200"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469827"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Придбання програми Microsoft Defender для Office 365
 
-Програма Microsoft Defender для Office 365 (АТФ) входить у певні передплати, наприклад Microsoft 365 E5, Office 365 E5, Office 365 a5 і Microsoft 365 Business Premium. Якщо ваша Передплата не включає АТФ Office 365, ви можете придбати план [АТФ 1 або АТФ плану 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) як надбудову для певної передплатою. Щоб придбати в центрі адміністрування Microsoft 365, виконайте такі дії:
+Програма Microsoft Defender для Office 365 включена в певні передплати, наприклад Microsoft 365 E5, Office 365 E5, Office 365 a5 і Microsoft 365 Business Premium. Якщо ваша Передплата не включає Microsoft Defender для Office 365, ви можете придбати [програму Microsoft Defender для office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) як надбудову для певної передплатою. Щоб придбати в центрі адміністрування Microsoft 365, виконайте такі дії:
 
-1. Перейдіть до **Billing**   >   [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)рахунків.
-2. Виберіть пункт " **додаткові компоненти**  " з **інших категорій, які можуть вас зацікавити.**
-3. Виберіть потрібний план захисту від загроз, який потрібно придбати. Ви також можете вибрати ознайомлювальний план.
-4. Виберіть кількість користувачів, які будуть використовувати розширений захист від загроз.
+1. У центрі адміністрування перейдіть на   >  сторінку[служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
+2. У нижній частині сторінки " **послуги придбання** " в розділі " **додаткові компоненти** " знайдіть додатковий компонент Microsoft Defender для Office 365 і натисніть кнопку **докладно**.
+3. На сторінці відомості про продукт натисніть кнопку **придбати**.
+4. Якщо потрібно, заповніть будь-які інші відомості про замовлення. У цій інформації може знадобитися вибрати додатковий компонент, а також кількість користувачів, які його використовують. Завершивши, натисніть кнопку **витягнути зараз**.
+5. Якщо потрібно, перегляньте відомості про замовлення та ціноутворення, а потім натисніть кнопку **Далі**.
+6. Виберіть спосіб оплати або додайте новий, а потім виберіть пункт **місце замовлення**,  >  **щоб перейти до адміністратора дому**.
 
 Щоб призначати ліцензії користувачам, ознайомтеся [з користувачами призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
-Відомості про те, як придбати або видалити ліцензії, див. в статті [Додавання ліцензій і вилучення їх із передплати](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Щоб придбати додаткові або видалити ліцензії, ознайомтеся з пунктом [придбати або видалити ліцензії](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
