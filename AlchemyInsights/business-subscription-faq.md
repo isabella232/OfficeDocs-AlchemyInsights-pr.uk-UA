@@ -1,10 +1,11 @@
 ---
 title: Запитання й відповіді про передплату для бізнесу
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -19,23 +20,24 @@ ms.custom:
 - "5169"
 - "9002661"
 - "5161"
-ms.openlocfilehash: 5ceadd44976b61f3570d9f15dbf724aed0b44e38
-ms.sourcegitcommit: 9ed8b920cb598f9e22f54964029b3bef8e22a630
-ms.translationtype: MT
+- commerce
+ms.openlocfilehash: 80191be73c91faa9fe0fce12eed4c9a6f9ab8507
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "45169729"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469071"
 ---
 # <a name="business-subscription-faq"></a>Запитання й відповіді про передплату для бізнесу
 
 - Щоб переглянути варіанти планів Microsoft 365 для бізнесу, див. статтю [Порівняння планів для бізнесу](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2). Щоб отримати докладні відомості, зверніться до відділу збуту за номером 1-855-270-0615.
-- Щоб **придбати** план, виберіть **Виставлення рахунків > [Придбання послуг](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Виберіть план і кількість користувачів. Докладні відомості див. в статті [Придбання передплат](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- Щоб **змінити план**, див. статтю [Зміна планів Microsoft 365 для бізнесу вручну](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Щоб **призначати користувачів** ліцензій, виберіть **Виставлення рахунків > [Ліцензії](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Докладні відомості див. в статті [Призначення ліцензій](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Щоб **додати чи видалити ліцензії**, клацніть **Виставлення рахунків > [Продукти й послуги](https://go.microsoft.com/fwlink/p/?linkid=842054)** і виберіть **Додати або видалити ліцензії**. Докладні відомості див. в статті [Додавання або видалення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Щоб **скасувати** ліцензії, клацніть **Виставлення рахунків > [Продукти й послуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, виберіть **Параметри та дії** і клацніть елемент **Скасувати передплату**. Докладні відомості див. в статті [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Щоб **придбати** план, виберіть **Виставлення рахунків > [Придбання послуг](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Виберіть план і кількість користувачів. Докладні відомості див. в статті [Придбання іншої передплати](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Відомості про **змінення плану** див. в статті [Перехід на інший план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Щоб **призначити** користувачам ліцензії, перейдіть до розділу **Виставлення рахунків > [Ліцензії](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Докладні відомості див. в статті [Призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Щоб **придбати або вилучити** ліцензі, перейдіть до розділу **Виставлення рахунків > [Ваші продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Докладні відомості див. в статті [Придбання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Щоб **скасувати** передплату, перейдіть до розділу **Виставлення рахунків > [Ваші продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**, виберіть передплату та в розділі **Передплата та параметри платежів** виберіть **Скасувати передплату**. Докладні відомості див. в статті [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 - Відомості, які слід використовувати, щоб **активувати** передплату, див. в статті [Активація передплати](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Відомості, які слід використовувати, щоб **повторно активувати передплату, термін якої вже минув**, див. в статті [Повторна активація передплати](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Відомості, які слід використовувати, щоб **подовжити термін дії ознайомлювальної версії**, див. в статті [Подовження терміну дії ознайомлювальної версії](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- Відомості про **повторну активацію** передплати див. в статті [Повторна активація передплати](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Відомості про **подовження терміну дії** ознайомлювальної версії див. в статті [Подовження терміну дії ознайомлювальної версії](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Докладні відомості див. в статті [Керування ліцензіями](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Докладні відомості див. в статті [Придбання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

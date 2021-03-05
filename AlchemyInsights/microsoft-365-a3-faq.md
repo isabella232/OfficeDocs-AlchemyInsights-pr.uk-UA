@@ -1,33 +1,35 @@
 ---
-title: Запитання й відповіді про Microsoft 365 a3
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: 'Microsoft 365 A3: запитання й відповіді'
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002871"
 - "5417"
-ms.openlocfilehash: 30dca17df71b2237a1ed1546a4cc2f9cbd3b5f20
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+- commerce
+ms.openlocfilehash: 57e897ffc00393df5997bfda526c7c4e2284c3da
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510377"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469981"
 ---
-# <a name="microsoft-365-a3-faq"></a>Запитання й відповіді про Microsoft 365 a3
+# <a name="microsoft-365-a3-faq"></a>Microsoft 365 A3: запитання й відповіді
 
 - Щоб порівняти плани Microsoft 365 Education A1, A3 та A5, ознайомтеся з планами [для студентів](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) і [для вчителів, викладачів і співробітників](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr2).
-- Щоб **придбати** a3, перейдіть до **виставлення рахунків > [придбання послуг](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Використовуйте вікно пошуку для пошуку "a3"; Виберіть план і кількість користувачів. Докладні відомості див. в статті [Придбання передплат](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
-- Щоб **змінити план**, див. статтю [Зміна планів Microsoft 365 для бізнесу вручну](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- Щоб **призначити** користувачів a3 ліцензій, перейдіть до **виставлення рахунків > [ліцензій](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Докладні відомості див. в статті [Призначення ліцензій](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- Щоб **Додати/видалити** a3 ліцензії, перейдіть до **виставлення рахунків > [продуктів & послуг](https://go.microsoft.com/fwlink/p/?linkid=842054) ** і натисніть кнопку **Додати/видалити ліцензії**. Докладні відомості див. в статті [Додавання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
-- Щоб **скасувати** ліцензії a3, перейдіть до **виставлення рахунків > [продукти & послуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**, натисніть **налаштування & дії**та натисніть **скасувати підписку**. Докладні відомості див. в статті [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- Щоб **активувати** підписку a3, зверніться до [активувати свою підписку](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
-- Щоб **повторно активувати** підписку a3, зверніться до [повторної активації передплати](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- Щоб [продовжити ознайомлювальну версію a3, див.](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business)
+- Щоб **придбати** план A3, перейдіть до розділу **Виставлення рахунків > [Придбання послуг](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Скористайтеся полем пошуку, щоб знайти "A3", виберіть план і кількість користувачів. [Придбайте іншу передплату](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
+- Відомості про **змінення плану** див. в статті [Перехід на інший план](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- Щоб **призначити** користувачам ліцензії A3, перейдіть до розділу **Виставлення рахунків > [Ліцензії](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Докладні відомості див. в статті [Призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Щоб **придбати або вилучити** ліцензії A3, перейдіть до розділу **Виставлення рахунків > [Ваші продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**. Докладні відомості див. в статті [Придбання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Щоб **скасувати** передплату A3, перейдіть до розділу **Виставлення рахунків > [Ваші продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)**, виберіть передплату та в розділі **Передплата та параметри платежів** виберіть **Скасувати передплату**. Докладні відомості див. в статті [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- Відомості про **активацію** передплати A3 див. в статті [Активація передплати](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
+- Відомості про **повторну активацію** передплати A3 див. в статті [Повторна активація передплати](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
+- Відомості про **подовження терміну дії** ознайомлювальної версії A3 див. в статті [Подовження терміну дії ознайомлювальної версії](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).
 
-Докладні відомості див. в статті [Керування ліцензіями](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Докладні відомості див. в статті [Придбання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
