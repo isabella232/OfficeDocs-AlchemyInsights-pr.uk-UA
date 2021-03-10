@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4964"
-- commerce
-ms.openlocfilehash: 9f95fff929f5637bccfa3f9d6a79281d2cb09003
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 85e6105483a6b493753cdea48262d3e3a2141a50
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469575"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601809"
 ---
 # <a name="assign-power-bi-to-users"></a>Призначення Power BI користувачам
 
@@ -31,4 +30,4 @@ ms.locfileid: "50469575"
 5. Натисніть **Увімкнення та вимкнення програм і служб**, щоб призначити або вилучити їх.
 6. Натисніть **Призначити**, а потім – **Закрити**.
 
-Відомості про те, як придбати або видалити ліцензії, див. в статті [Придбання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Відомості про те, як придбати або вилучити ліцензії, див. в статті [Придбання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
