@@ -13,18 +13,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 7db0963bd43115fbd6b793751219ab93640b8310
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7bf64c009235bc1dbd3e922296ff6c4bb239450
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700764"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708299"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Відновлення видалених повідомлень із SharePoint
 
 Коли ви видаляєте елемент або сайт зі служби SharePoint, він не видаляється відразу. Видалені елементи потрапляють до кошика, де зберігаються деякий час. Протягом цього періоду можна відновити видалені елементи до вихідного розташування. Щоб отримати докладніші відомості, перейдіть на посилання нижче.
 
-- [Відновлення об'єктів у кошику сайту SharePoint](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
+- [Відновлення об'єктів у кошику сайту SharePoint](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
 
 - [Відновлення видалених файлів або папок у OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
