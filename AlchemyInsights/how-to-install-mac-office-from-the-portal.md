@@ -13,12 +13,12 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 0e208251ac345c4151eb949892768842ef503cef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbaa197d274c476d74f5c213d6efdf47862fa6e6
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704078"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707795"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>Інсталяція пакета Office для Mac на порталі
 
@@ -26,6 +26,6 @@ ms.locfileid: "47704078"
 
 2. [Керування настройками завантаження програмного забезпечення](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [Призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+3. [Призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
 4. Користувачі можуть інсталювати програмне забезпечення Office самостійно, або ви можете використовувати [розгортання Office для користувачів Mac](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).

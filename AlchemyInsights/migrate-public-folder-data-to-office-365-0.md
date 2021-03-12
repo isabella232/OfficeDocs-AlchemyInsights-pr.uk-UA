@@ -12,12 +12,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 778caff63db2c61c07f510309754681c3cab2c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dac268b3371af3a28bf8ef598e3a74d954a595c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674635"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707327"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>Перенесення даних загальнодоступної папки до Microsoft 365
 
@@ -29,5 +29,5 @@ ms.locfileid: "47674635"
 
 - [Перенесення Exchange 2013, Exchange 2016 або Exchange 2019 спільних папок](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Ви також маєте можливість [перенести спільні папки до груп Microsoft 365](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Ви також маєте можливість [перенести спільні папки до груп Microsoft 365](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/migrate-your-public-folders-to-microsoft-365-groups).
   

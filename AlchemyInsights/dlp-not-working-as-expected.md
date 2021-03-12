@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679714"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707831"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP не працює належним чином
 
@@ -28,7 +28,7 @@ ms.locfileid: "47679714"
 
 У вас виникли проблеми з **запобіганням втрати даних (DLP)** у службі Office 365, які не працюють належним чином? Якщо так, переконайтеся, що **політику DLP** настроєно правильно, і дані, що містяться в **політиці DLP** , шукають, коли її буде оцінено.
   
-Політики DLP дають змогу виявляти та захищати конфіденційну інформацію в організації. Щоб налаштувати політики DLP, скористайтеся інформацією [тут](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Політики DLP дають змогу виявляти та захищати конфіденційну інформацію в організації. Щоб налаштувати політики DLP, скористайтеся інформацією [тут](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template).
   
  **Що таке політики DLP, які шукають**
   
@@ -44,7 +44,7 @@ ms.locfileid: "47679714"
 
 **Перевірка політики DLP**
 
-Щоб перевірити дані з вбудованим або настроюваним типом конфіденційної інформації, скористайтеся параметром **тип тесту** в розділі **класифікації**  >  **конфіденційних відомостей про типи**даних. Докладні відомості наведено в статті [перевірка користувацьких чутливих типів даних](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Щоб перевірити дані з вбудованим або настроюваним типом конфіденційної інформації, скористайтеся параметром **тип тесту** в розділі **класифікації**  >  **конфіденційних відомостей про типи** даних. Докладні відомості наведено в статті [перевірка користувацьких чутливих типів даних](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Звіти**
   
