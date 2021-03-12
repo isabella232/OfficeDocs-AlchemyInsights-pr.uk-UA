@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366449"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708695"
 ---
 # <a name="monitoring-conditional-access-for-exchange"></a>Моніторинг умовного доступу для Exchange
 
@@ -27,7 +27,7 @@ ms.locfileid: "48366449"
 - На порталі "Лазурний" перейдіть на сайт > відповідність пристрою. У розділі керування виберіть елемент політики. У списку політик відповідності переконайтеся, що профіль призначається для вашого пристрою користувача. Якщо не призначено профіль, функція Inune не зможе підтвердити стан відповідності пристрою.
 - Редагування призначення умовного доступу користувача.
 
-1. На порталі Лазурне **перейдіть до**  >  **політики умовного доступу**, що містяться в службі Access  >  **Policies**.
+1. На порталі Лазурне **перейдіть до**  >  **політики умовного доступу**, що містяться в службі Access  >  .
 2. Виберіть політику зі списку.
 3. Виберіть елемент користувачі та групи.
 4. Щоб націлити певну політику на когось, додайте їх до списку include. Щоб переконатися, що особу пропущено від політики, додайте їх до списку винятків.
@@ -38,8 +38,8 @@ ms.locfileid: "48366449"
 
 [Виправлення неполадок із CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[Виправлення неполадок із політикою](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[Виправлення неполадок із політикою](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
 [Відстеження відповідності пристрою](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-Зверніть увагу, що ці дії доступні лише для виправлення неполадок із умовною доступом до функції "Лазурний". Крім того, можна використовувати карантин пристрою, що блокує доступ до електронної пошти з політикою Exchange. Додаткові відомості про керування пристроями Exchange можна знайти [тут](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+Зверніть увагу, що ці дії доступні лише для виправлення неполадок із умовною доступом до функції "Лазурний". Крім того, можна використовувати карантин пристрою, що блокує доступ до електронної пошти з політикою Exchange. Додаткові відомості про керування пристроями Exchange можна знайти [тут] ( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

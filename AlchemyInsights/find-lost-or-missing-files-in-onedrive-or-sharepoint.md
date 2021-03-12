@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 1d615bf8dc16528d9cbf283672225364aaae9949
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa0cd1e4d5e89b9fb601c37030440bdfd2b66260
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708560"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708443"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>Виявлення втрачених або відсутніх файлів у OneDrive або SharePoint
 
@@ -25,7 +25,7 @@ ms.locfileid: "47708560"
     
 - Якщо ви синхронізуєте файли на комп'ютері, установіть прапорець кошик на вашому комп'ютері. 
     
-- Якщо потрібний елемент не відображається, а його видалено нещодавно, адміністратор колекції сайтів може відновити її з кошика колекції сайтів. Якщо ви – адміністратор колекції сайтів, ознайомтеся [зі службою відновлення видалених повідомлень із кошика колекції сайтів](https://go.microsoft.com/fwlink/?linkid=866439).
+- Якщо потрібний елемент не відображається, а його видалено нещодавно, адміністратор колекції сайтів може відновити її з кошика колекції сайтів. Якщо ви – адміністратор колекції сайтів, ознайомтеся [зі службою відновлення видалених повідомлень із кошика колекції сайтів](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be).
     
 [Додаткова довідка з відновлення видалених файлів і папок у OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   

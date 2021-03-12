@@ -13,12 +13,12 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: b5cb2e8a76e8e7d91bd9cd8789ae1623a7f96579
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689975"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709019"
 ---
 # <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Виправлення неполадок під час реєстрації пристроїв на платформі Android у Microsoft InTune
 
@@ -34,7 +34,7 @@ ms.locfileid: "47689975"
 
 2. Оновіть пристрій до Android 6,0 або новішої версії.
 
-3. Вимкніть програму Samsung Smart Manager від керування порталом компанії Inune. Перегляньте [цей документ](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , щоб отримати докладні відомості про ці проблеми та способи вирішення.
+3. Вимкніть програму Samsung Smart Manager від керування порталом компанії Inune. Перегляньте [цей документ](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , щоб отримати докладні відомості про ці проблеми та способи вирішення.
 
  Помилка **типу ліцензії користувача** або **ім'я користувача не розпізнано:** користувач має бути призначений ЛІЦЕНЗІЄЮ inune або EMS. Перегляньте ці документи, щоб призначити ліцензію через: Центр адміністрування Office або портал Azure Portal.
   
@@ -42,6 +42,6 @@ ms.locfileid: "47689975"
   
 1. Використовуйте [портал виправлення неполадок](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , щоб діагностувати та усунути поширені помилки в реєстрації. Перегляньте [цей документ](https://docs.microsoft.com/intune/help-desk-operators) , щоб отримати докладні відомості.
 
-2. Перегляньте [цей документ](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) для списку поширених помилок, які перешкоджають виконанню та дозволах для кожного з них.
+2. Перегляньте [цей документ](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) для списку поширених помилок, які перешкоджають виконанню та дозволах для кожного з них.
 
 3. [Дізнайтеся, як зареєструвати пристрої Android у Microsoft InTune](https://docs.microsoft.com/intune/android-enroll).
