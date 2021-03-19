@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706400"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897104"
 ---
-# <a name="getting-started-with-intune"></a><span data-ttu-id="bc3e7-102">Початок роботи з Inteune</span><span class="sxs-lookup"><span data-stu-id="bc3e7-102">Getting Started with Intune</span></span>
+# <a name="getting-started-with-intune"></a><span data-ttu-id="21c55-102">Початок роботи з Inteune</span><span class="sxs-lookup"><span data-stu-id="21c55-102">Getting Started with Intune</span></span>
 
-<span data-ttu-id="bc3e7-103">Щоб отримати короткий огляд веб-програми Inteune і консоль адміністрування, ознайомтеся з [Покрокове керівництво компанії на порталі "Лазурний"](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).</span><span class="sxs-lookup"><span data-stu-id="bc3e7-103">For a quick tour of Intune and the Admin console, check out [Walkthrough of Intune in the Azure Portal](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).</span></span>
+<span data-ttu-id="21c55-103">Щоб отримати короткий огляд веб-програми Inteune і консоль адміністрування, ознайомтеся з [Покрокове керівництво компанії на порталі "Лазурний"](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).</span><span class="sxs-lookup"><span data-stu-id="21c55-103">For a quick tour of Intune and the Admin console, check out [Walkthrough of Intune in the Azure Portal](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).</span></span>
 
-<span data-ttu-id="bc3e7-104">Якщо ви хотіли б спробувати відповідь або настроїти ознайомлювальну версію, перегляньте [програму QuickStart: випробуйте Microsoft InTune безкоштовно](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span><span class="sxs-lookup"><span data-stu-id="bc3e7-104">If you would like to try out Intune or set up a trial, review [Quickstart: Try Microsoft Intune for free](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span></span>
+<span data-ttu-id="21c55-104">Якщо ви хотіли б спробувати відповідь або настроїти ознайомлювальну версію, перегляньте [програму QuickStart: випробуйте Microsoft InTune безкоштовно](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span><span class="sxs-lookup"><span data-stu-id="21c55-104">If you would like to try out Intune or set up a trial, review [Quickstart: Try Microsoft Intune for free](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).</span></span>
 
-<span data-ttu-id="bc3e7-105">Якщо у вас уже є "Inune" і готові почати використовувати його, ознайомтеся з нашою програмою [налаштування inune](https://docs.microsoft.com/intune/fundamentals/setup-steps) .</span><span class="sxs-lookup"><span data-stu-id="bc3e7-105">If you already have Intune and are ready to start using it, review our [Set up Intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) guide.</span></span> 
+<span data-ttu-id="21c55-105">Якщо ви готові почати використовувати програму Inune, перегляньте [Настроювання програми intetune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps).</span><span class="sxs-lookup"><span data-stu-id="21c55-105">If you are ready to start using Intune, review [Set up Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps).</span></span> <span data-ttu-id="21c55-106">Для роботи з інтерактивними настройками зверніться до [посібника з настроювання Inune](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).</span><span class="sxs-lookup"><span data-stu-id="21c55-106">For a guided setup experience, refer to the [Intune setup guide](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).</span></span>
