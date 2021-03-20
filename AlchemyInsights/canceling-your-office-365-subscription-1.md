@@ -13,20 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 93c427346271d9c730f0e5f03aee4736d1d07f06
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
+ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
 ms.translationtype: MT
 ms.contentlocale: uk-UA
 ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896924"
+ms.locfileid: "50931669"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="7bf35-102">Скасування підключення до служби Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="7bf35-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="78b8d-102">Скасування підключення до служби Microsoft 365?</span><span class="sxs-lookup"><span data-stu-id="78b8d-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="7bf35-103">На жаль, ви можете перейти до цієї статті, виконавши наведені нижче дії, щоб скасувати передплату.</span><span class="sxs-lookup"><span data-stu-id="7bf35-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
+<span data-ttu-id="78b8d-103">На жаль, ви можете перейти до цієї статті, виконавши наведені нижче дії, щоб скасувати передплату.</span><span class="sxs-lookup"><span data-stu-id="78b8d-103">We're sorry to see you go, here are the steps to cancel your subscription:</span></span>
 
-1. <span data-ttu-id="7bf35-104">У центрі адміністрування перейдіть на сторінку " **виставлення рахунків** на  >  **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", а потім перейдіть на вкладку " **товари** ".</span><span class="sxs-lookup"><span data-stu-id="7bf35-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
-2. <span data-ttu-id="7bf35-105">Дізнайтеся про передплату, яку потрібно скасувати.</span><span class="sxs-lookup"><span data-stu-id="7bf35-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="7bf35-106">Виберіть пункт **додаткові дії** (три крапки), а потім натисніть **кнопку Скасувати передплату**.</span><span class="sxs-lookup"><span data-stu-id="7bf35-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
-3. <span data-ttu-id="7bf35-107">В області **скасування передплати** виберіть причину скасування.</span><span class="sxs-lookup"><span data-stu-id="7bf35-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="7bf35-108">За потреби надайте будь-які відгуки.</span><span class="sxs-lookup"><span data-stu-id="7bf35-108">Optionally, provide any feedback.</span></span>
-4. <span data-ttu-id="7bf35-109">Натисніть кнопку **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="7bf35-109">Select **Save**.</span></span>
+1. <span data-ttu-id="78b8d-104">У центрі адміністрування перейдіть на сторінку " **виставлення рахунків** на  >  **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ", а потім перейдіть на вкладку " **товари** ".</span><span class="sxs-lookup"><span data-stu-id="78b8d-104">In the admin center, go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then select the **Products** tab.</span></span>
+2. <span data-ttu-id="78b8d-105">Дізнайтеся про передплату, яку потрібно скасувати.</span><span class="sxs-lookup"><span data-stu-id="78b8d-105">Find the subscription that you want to cancel.</span></span> <span data-ttu-id="78b8d-106">Виберіть пункт **додаткові дії** (три крапки), а потім натисніть **кнопку Скасувати передплату**.</span><span class="sxs-lookup"><span data-stu-id="78b8d-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="78b8d-107">В області **скасування передплати** виберіть причину скасування.</span><span class="sxs-lookup"><span data-stu-id="78b8d-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="78b8d-108">За потреби надайте будь-які відгуки.</span><span class="sxs-lookup"><span data-stu-id="78b8d-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="78b8d-109">Натисніть кнопку **зберегти**.</span><span class="sxs-lookup"><span data-stu-id="78b8d-109">Select **Save**.</span></span>
 
-<span data-ttu-id="7bf35-110">Щоб дізнатися більше про скасування передплати або параметрів, перегляньте статтю [скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="7bf35-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="78b8d-110">Щоб дізнатися більше про скасування передплати або параметрів, перегляньте статтю [скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="78b8d-110">To learn more about canceling a subscription, or options, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+
+<span data-ttu-id="78b8d-111">Якщо ви хочете продовжити використання передплати протягом терміну дії ознайомлювальної версії, ви можете вимкнути повторюване виставлення рахунків для передплати.</span><span class="sxs-lookup"><span data-stu-id="78b8d-111">If you’d like to continue using your subscription for the duration of your trial, you can turn off recurring billing for the subscription.</span></span> <span data-ttu-id="78b8d-112">Докладніше про це читайте в статті [Відновлення Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="78b8d-112">To learn how, see [Renew Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).</span></span>
