@@ -1,5 +1,5 @@
 ---
-title: Використання Microsoft EDGE для віддаленого налагодження пристрою Android із комп'ютера розробки
+title: Віддалене налагодження пристрою з Android із комп'ютера для розробки за допомогою Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583934"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398714"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="d3a65-102">Використання Microsoft EDGE для віддаленого налагодження пристрою Android із комп'ютера розробки</span><span class="sxs-lookup"><span data-stu-id="d3a65-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="ca191-102">Віддалене налагодження пристрою з Android із комп'ютера для розробки за допомогою Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="ca191-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
 
-<span data-ttu-id="d3a65-103">Щоб віддалено налагодити прямий вміст на пристрої Android із комп'ютера, виконайте такі дії:</span><span class="sxs-lookup"><span data-stu-id="d3a65-103">To remotely debug live content on an Android device from your computer:</span></span>
+<span data-ttu-id="ca191-103">Щоб віддалено налагодити динамічний вміст на пристрої Android з комп'ютера:</span><span class="sxs-lookup"><span data-stu-id="ca191-103">To remotely debug live content on an Android device from your computer:</span></span>
 
-1. <span data-ttu-id="d3a65-104">Настройте пристрій Android для віддаленого налагодження та відкрийте його з комп'ютера розробки.</span><span class="sxs-lookup"><span data-stu-id="d3a65-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
-2. <span data-ttu-id="d3a65-105">З комп'ютера розробки Перевірте та налагоджують прямий вміст на пристрої Android.</span><span class="sxs-lookup"><span data-stu-id="d3a65-105">From the development computer, inspect and debug live content on the Android device.</span></span>
-3. <span data-ttu-id="d3a65-106">Скрінкасти в живому вмісті з пристрою Android на екземпляр DevTools на комп'ютері розробки.</span><span class="sxs-lookup"><span data-stu-id="d3a65-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
+1. <span data-ttu-id="ca191-104">Налаштуйте пристрій з Android для віддаленого налагодження та відкрийте для нього програму на комп'ютері розробки.</span><span class="sxs-lookup"><span data-stu-id="ca191-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
+2. <span data-ttu-id="ca191-105">На комп'ютері розробників перевіряти вміст на пристрої з Android і налагодити його.</span><span class="sxs-lookup"><span data-stu-id="ca191-105">From the development computer, inspect and debug live content on the Android device.</span></span>
+3. <span data-ttu-id="ca191-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span><span class="sxs-lookup"><span data-stu-id="ca191-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
