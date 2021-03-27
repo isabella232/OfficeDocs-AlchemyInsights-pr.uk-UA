@@ -1,5 +1,5 @@
 ---
-title: Вхід у Microsoft EDGE уручну
+title: Вхід у Microsoft Edge вручну
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678845"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398678"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Вхід у Microsoft EDGE уручну
+# <a name="sign-in-to-microsoft-edge-manually"></a>Вхід у Microsoft Edge вручну
 
-Якщо користувач не має автоматичного входу під час першого запуску, користувач може вручну ввійти через настройки браузера або спливаюче вікно. Щоб керувати входом, використовуйте наведені нижче політики.
+Якщо користувач не входив автоматично під час першого запуску, користувач може вручну ввійти в настройки браузера або вилітає ідентичність. Щоб керувати входом, використовуйте такі політики:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – щоб переконатися, що користувач завжди має профіль роботи в Microsoft EDGE.
-2. [Обмежити"](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) обмежити вхід у набір надійних облікових записів".
-3. [Browsign](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – щоб вимкнути вхід або примусити користувачів ввійти.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – щоб користувач завжди був із робочим профілем у Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – обмеження входу до набору надійних облікових записів.
+3. [BrowserSignin –](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) вимкнення входу або примусове входу користувачів.
 

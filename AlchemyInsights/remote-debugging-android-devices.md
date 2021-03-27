@@ -1,5 +1,5 @@
 ---
-title: Використання Microsoft EDGE для віддаленого налагодження пристрою Android із комп'ютера розробки
+title: Віддалене налагодження пристрою з Android із комп'ютера для розробки за допомогою Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583934"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398714"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Використання Microsoft EDGE для віддаленого налагодження пристрою Android із комп'ютера розробки
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>Віддалене налагодження пристрою з Android із комп'ютера для розробки за допомогою Microsoft Edge
 
-Щоб віддалено налагодити прямий вміст на пристрої Android із комп'ютера, виконайте такі дії:
+Щоб віддалено налагодити динамічний вміст на пристрої Android з комп'ютера:
 
-1. Настройте пристрій Android для віддаленого налагодження та відкрийте його з комп'ютера розробки.
-2. З комп'ютера розробки Перевірте та налагоджують прямий вміст на пристрої Android.
-3. Скрінкасти в живому вмісті з пристрою Android на екземпляр DevTools на комп'ютері розробки.
+1. Налаштуйте пристрій з Android для віддаленого налагодження та відкрийте для нього програму на комп'ютері розробки.
+2. На комп'ютері розробників перевіряти вміст на пристрої з Android і налагодити його.
+3. Screencast live content from the Android device onto a DevTools instance on the development computer.

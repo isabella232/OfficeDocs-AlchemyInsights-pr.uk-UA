@@ -2,7 +2,7 @@
 title: Указівки з інсталяції Office
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,19 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 7f61ff7eb02371790ecb335841244eddb2bcbb2e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: d2e11c59f3b47095e272a5c27446e584ed90c879
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707759"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200658"
 ---
 # <a name="how-to-install-office"></a>Указівки з інсталяції Office
 
-Щоб інсталювати клієнтські програми Office, потрібна передплата для бізнесу, як-от "Office 365 Business преміум стандартний", "Програми Microsoft 365 для бізнесу" або Office 365 Education.
+Щоб інсталювати клієнтські програми Office, потрібна передплата для бізнесу, як-от "Microsoft 365 Бізнес Стандарт", "Програми Microsoft 365 для бізнесу" або "Microsoft Office 365 для навчальних закладів".
   
-*ПРИМІТКА. [Office Для дому та бізнесу](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) – це продукт [Office для дому](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA), який не передбачає бізнес-передплати. Також радимо переглянути статті про [інсталяцію Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) та [Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281).*
+> [!NOTE]
+> [Office для дому та бізнесу](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) – це продукт [Office для дому](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia), який не входить у передплату для бізнесу. Докладні вказівки щодо Visio або Project див. в статті [Інсталяція Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) або [Інсталяція Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Створіть облікові записи користувачів і додайте свій домен. Переконайтеся, що користувачу [призначено ліцензію](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
