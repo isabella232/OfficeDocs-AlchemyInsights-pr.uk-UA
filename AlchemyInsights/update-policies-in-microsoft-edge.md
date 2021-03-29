@@ -1,5 +1,5 @@
 ---
-title: Використання групової політики, пов'язаної з оновленням, доступних у Microsoft EDGE
+title: Використання політик груп, пов'язаних із оновленнями, доступних у Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,14 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003843"
+- "9004632"
 - "7092"
-ms.openlocfilehash: 506681be0666c8091b86c173635f6eaa9552432d
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8359"
+ms.openlocfilehash: 3477b5a1754815e22f34a866e285096af94d6d78
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573891"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403692"
 ---
-# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Використання групової політики, пов'язаної з оновленням, доступних у Microsoft EDGE
+# <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>Використання політик груп, пов'язаних із оновленнями, доступних у Microsoft Edge
 
-Щоб керувати тим, як і коли Microsoft EDGE оновлюється, використовуйте [політики](https://go.microsoft.com/fwlink/?linkid=2134862) , доступні в Microsoft EDGE (версія 77 або пізніша).
+Використовуйте [політики, доступні](https://go.microsoft.com/fwlink/?linkid=2134862) в Microsoft Edge (версії 77 або пізнішої), щоб керувати способом і часом оновлення Microsoft Edge.

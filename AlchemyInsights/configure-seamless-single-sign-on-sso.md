@@ -1,5 +1,5 @@
 ---
-title: Настроювання єдиного входу (SSO)
+title: Настроювання нескладного єдиного входу (SSO)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,47 +11,49 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9004344"
+- "9004357"
 - "9384"
-ms.openlocfilehash: 32790b23547de36cd2864e85ebae67f54ad91707
-ms.sourcegitcommit: 309b9f3e6e2ff622f95bb860d337d2c05b7bbe54
+- "9863"
+ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "50841668"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402288"
 ---
-# <a name="configure-seamless-single-sign-on-sso"></a>Настроювання єдиного входу (SSO)
+# <a name="configure-seamless-single-sign-on-sso"></a>Настроювання нескладного єдиного входу (SSO)
 
 **Настроювання програм**
 
-1. Ви повинні отримати значення з постачальника програм. Ви можете вручну вказати значення або передати файл метаданих, щоб витягти значення полів.
-2. Багато програм уже настроєно для роботи з Azure AD. Ці програми наведено в колекції програм, які можна переглядати, коли ви додаєте програму до свого клієнта Azure AD. [Цикл швидкого запуску](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) проходить процес.
-3. Щоб створити програму, яка не є колекцією, можна натиснути кнопку **+ створити власну програму** та надати ім'я для своєї програми.
-    - За замовчуванням буде вибрано **інтегрувати будь-яку іншу програму, яку не можна виявити в колекції** , яка є правильним варіантом для програм, які не використовують галерею.
-    - Після натискання кнопки " **створити** " після введення імені для програми буде створено нову програму, яка не є колекцією для підприємств.
-    - Після цього ви можете переходити на **єдиний вхід** у розділі **керування** цією програмою, і ви зможете переглянути різні методики для її реалізації у вашому середовищі.
+1. Значення слід отримувати від постачальника програми. Ви можете вручну ввести значення або передати файл метаданих, щоб видобути значення полів.
+2. Багато програм уже попередньо налаштовано для роботи з Azure AD. Ці програми наведено в колекції програм, які можна переглянути під час додавання програми до клієнта Azure AD. У [короткому посібнику](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-configure) з'являться покроки, які потрібно пройти.
+3. Щоб створити програму, яка не є колекцією, натисніть кнопку **+ Створити** власну кнопку програми та дайте ім'я своїй програмі.
+    - За замовчуванням вона вибере **пункт** Інтегрувати будь-яку іншу програму, якої немає в колекції, яка є правильним варіантом для програм, які не надається в колекції.
+    - Коли ви **натиснете** кнопку Створити, коли введете ім'я для програми, буде створено новий корпоративний застосунок, який не є колекцією.
+    - Потім у розділі Керування  програмою можна  перейти до кнопки Єдиний вхід і переглянути різні методи її впровадження в середовищі.
 
-**Настроювання безшовного єдиного входу для певної програми**
+**Налаштування несмісного єдиного входу для певної програми**
 
-Для програм у колекції ви зможете знайти докладні покрокові вказівки. Щоб отримати доступ до цих кроків, ви можете переглянути список усіх підручників із конфігурації програм [SaaS](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list).
+Для програм у колекції ви знайдете докладні покрокові вказівки. Щоб отримати доступ до кроків, ви можете переглянути список усіх посібників із конфігурації програм на сторінці Посібники з настроювання [програми SaaS.](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list)
 
 **Настроювання єдиного входу на основі SAML**
 
-1. [QuickStart: налаштування єдиного входу (SSO) для програми в клієнті Azure Active Directory (Лазурний рекламний)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso).
-2. Щоб дізнатися більше про параметр "на основі SAML" для служби "єдиний вхід", ознайомтеся з відомостями про службу " [єдиний вхід" на основі SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on).
-3. Щоб дізнатися про запити автентифікації SAML 2,0 і відповідей, які підтримує "Лазурний" (Azure AD), підтримуються для єдиного Sign-On (SSO), ознайомтеся з [єдиним Sign-On SAML-протоколом](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol).
-4. Щоб дізнатися, як створити та настроїти єдиний вхід на основі SAML (SSO) для програми в Лазурому Active Directory (Azure AD) за допомогою API Microsoft Graph, перегляньте статтю [настроїти єдиний вхід на основі SAML для своєї програми за допомогою API Microsoft Graph](https://docs.microsoft.com/graph/application-saml-sso-configure-api).
-5. Щоб дізнатися, як Azure AD використовує протокол SAML, Дізнайтеся, [як платформа ідентифікації Microsoft використовує протокол SAML](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference).
+1. [Короткий посібник.](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)Настроювання єдиного входу на основі SAML для програми в клієнта Azure Active Directory (Azure AD).
+2. Докладні відомості про параметр на основі SAML для єдиного входу див. в статтях Загальні відомості про єдиний вхід на [основі SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
+3. Щоб дізнатися про запити на автентифікацію SAML 2.0 і відповіді, які підтримуються в службі Azure Active Directory (Azure AD) для єдиного входу Sign-On (SSO), див. Sign-On протокол [SAML.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
+4. Щоб дізнатися, як створити та настроїти єдиний вхід на основі SAML для програми в Azure Active Directory (Azure AD) за допомогою API Microsoft Graph, див. номери Настроювання єдиного входу на основі SAML для програми за допомогою [Microsoft Graph API.](https://docs.microsoft.com/graph/application-saml-sso-configure-api)
+5. Відомості про те, як Azure AD використовує протокол SAML, див. в статті Використання протоколу [SAML на платформі Microsoft.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
 
-**Настроювання маркерів і тверджень**
+**Настроювання маркерів і вимог**
 
-1. [Як настроїти претензії, видані в маркер SAML для корпоративних програм](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
-2. Щоб дізнатися, як настроїти претензії за допомогою PowerShell, Дізнайтеся, [як настроїти претензії, що випускаються в маркерів для певної програми в клієнті (ознайомлювальну версію)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-3. Щоб дізнатися, як настроїти необов'язкові твердження, Дізнайтеся, [як надати до програми додаткові вимоги](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-4. Щоб дізнатися, як використовувати атрибути розширення схем каталогів для надсилання даних користувача до програм у відповідних позовах, ознайомтеся [з атрибутами розширення схеми каталогів у позовах](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions).
-5. Щоб дізнатися, як настроїти тривалість маркера життя, ознайомтеся з [настроюванням маркера життя в платформі ідентифікації Microsoft (ознайомлювальну версію)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
-6. [Настроювання політик тривалості життя маркера (ознайомлювальну версію)](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) – у цій статті ми пройтимемо за загальним сценарієм політики, за допомогою якого можна накладати нові правила для життя маркера. У цьому прикладі ви дізнаєтеся, як створити політику, яка вимагає, щоб користувачі могли перевіряти автентифікацію частіше в веб-програмі.
+1. [Інструкції: настроювання тверджень, виданих у маркері SAML для корпоративних програм.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
+2. Відомості про те, як налаштувати твердження за допомогою PowerShell, див. в статті Налаштування тверджень, що вимагаються маркерами для певної програми в ознайомлювальної [версії клієнта.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+3. Щоб дізнатися, як додатково настроїти вимоги, див. діяти як: указати додаткові вимоги [для програми.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+4. Щоб дізнатися, як за допомогою атрибутів розширення схеми каталогів надсилати дані користувачів застосункам у твердження щодо маркера, див. номери атрибутів розширення схеми каталогу в [твердженнях.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions)
+5. Відомості про те, як налаштувати час життя маркерів, див. в статті Час життя маркерів, що можна настроювати на платформі ідентичності [Microsoft (ознайомча версія).](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
+6. [Налаштуйте політики часу життя](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) маркерів (попередній перегляд). У цій статті описано типовий сценарій політики, який допоможе настроювати нові правила для терміну служби маркерів. У прикладі ви дізнаєтеся, як створити політику, яка вимагає, щоб користувачі автентифікуватимуться частіше у веб-програмі.
 
-**Виправлення неполадок із конфігурацією єдиного входу**
+**Усунення несправностей із конфігурацією єдиного**
 
-- На запитання й відповіді про нетипові Sign-On (безшовні SSO) в [надбудові "Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)для безшовних": запитання й відповіді.
-- Щоб отримати відомості про поширені проблеми, пов'язані з нестандартними відомостями про "Лазурне" ("Лазурний") безшовні Sign-On (безшовне єдиного входу), перегляньте статтю [Виправлення неполадок із єдиним входом в Azure для Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)
+- Запитання й відповіді про Azure Active Directory про єдиний вхід Sign-On (без проблемний єдиний вхід) див. в запитаннях і відповідей про єдиний вхід в [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
+- Відомості про виправлення неполадок, пов'язаних із Azure Active Directory (Azure AD), див. в Sign-On єдиного входу в [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)
