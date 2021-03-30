@@ -1,5 +1,5 @@
 ---
-title: Надання спільного доступу до файлів і папок SharePoint
+title: Надання спільного доступу до файлів і папок SharePoint або OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779036"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408135"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Надання спільного доступу до файлів і папок SharePoint
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Надання спільного доступу до файлів і папок SharePoint або OneDrive
 
-Файли, які зберігаються на сайті SharePoint, зазвичай доступні всім користувачам із дозволами на сайт, але, можливо, потрібно надати спільний доступ до певних файлів або папок іншим користувачам, які не мають доступу до сайту. Коли ви надаєте спільний доступ до файлів і папок, ви можете вирішити, чи можна дозволити користувачам редагувати або просто переглядати їх.
+Файли, які зберігаються на сайті SharePoint, зазвичай доступні для всіх, хто має дозволи на доступ до сайту, але, можливо, ви захочете надати спільний доступ до певних файлів або папок користувачам, які не мають доступу до сайту в іншому випадку. Під час надання спільного доступу до файлів і папок можна дозволити користувачам редагувати або лише переглядати їх. Докладні відомості:
 
 [Надання спільного доступу до файлів і папок SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Надання спільного доступу до файлів і папок у Службі OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
