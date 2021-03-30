@@ -1,33 +1,44 @@
 ---
-title: Настроювання кінцевої точки ЗВД
+title: Налаштування Endpoint DLP
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: 039c8f78c5896b66eab5763fb0bbddd3f0b06f2d
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
-ms.translationtype: MT
+ms.openlocfilehash: 36af769b67f8c9aa4b8d17e9f4f3f3b82c8a8534
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46556031"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402465"
 ---
-# <a name="configure-endpoint-dlp"></a>Настроювання кінцевої точки ЗВД
+# <a name="configure-endpoint-dlp"></a>Налаштування Endpoint DLP
 
-Програма Microsoft endPoint ЗВД дає змогу розширити можливості захисту та моніторингу для конфіденційної інформації на пристроях Windows 10. Після того, як пристрої, які сіли на пристрій керування, можна створити ЗВД політики для виконання захисних дій на елементи. Провідник активності можна використовувати для відстеження активності чутливих елементів. Для отримання додаткових [відомостей див.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)  
+Microsoft Endpoint DLP дає змогу використовувати захист і моніторинг ЗВД для делікатної інформації на пристроях із Windows 10. Після приєднання пристроїв до системи керування пристроями можна створити політики ЗВД, щоб застосовувати захисні дії до елементів. Для моніторингу дій із делікатними елементами можна використовувати оглядач діяльності. Докладні відомості див. в статті [Приєднання пристроїв до системи керування пристроями](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
-Щоб почати з кінцевої точки ЗВД:
+Щоб почати роботу з Endpoint DLP:
 
-- Переконайтеся, що у вас є відповідні номер ліцензії/передплати. Для отримання додаткових [відомостей див.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing)
-- Перевірте дозволи, потрібні для ввімкнення керування пристроями, доступ до сторінки для публікування або Увімкнення/вимкнення моніторингу пристроїв. Щоб отримати додаткові відомості, перегляньте [дозволи](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- На борту пристроїв у керування пристроями, дотримуючись процедури для ознайомлення. Якщо у вас відсутня опція ознайомлення з пристроєм (попередній перегляд) у розділі **Параметри**відповідності M365, підтвердьте, що у вас є відповідна ліцензія та дозволи, які згадуються вище. Докладніше про це у [пристрої](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- Створення ЗВД політики для захисту конфіденційних елементів. Для отримання [відомостей див.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios)
+- Переконайтеся, що у вас є відповідні ліцензії на продукти або передплачені ліцензії. Докладні відомості див. в статті [Ліцензії на продукти або передплачені ліцензії](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
+- Перевірте наявність дозволів, необхідних для вмикання керування пристроями, доступу до сторінки приєднання та вмикання або вимикання моніторингу пристроїв. Докладні відомості див. в статті [Дозволи](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- Приєднайте пристрої до системи керування пристроями за допомогою відповідної процедури. Якщо у вас немає параметра приєднання пристроїв (підготовча версія) в **Параметрах** Центру відповідності Microsoft 365, підтвердьте наявність відповідної ліцензії та дозволів, зазначених вище. Докладні відомості див. в статті [Приєднання пристроїв](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- Створіть політики ЗВД для захисту делікатних елементів. Відомості див. в статті [Сценарії політики захисту від втрати даних у кінцевих точках](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios &preserve-view=true).
 
-Щоб отримати додаткові відомості про Microsoft кінцевої точки ЗВД, див. [відомості про microsoft 365 кінцевої точки попередження про втрату даних (попередній перегляд)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+Додаткові відомості про Microsoft Endpoint DLP див. в статті [Відомості про Захист від втрати даних у кінцевих точках Microsoft 365 (підготовча версія)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
+
+**Важливі кроки зі збирання даних у разі необхідності підтримки:**
+
+1. Завантажте аналізатор клієнта MDATP (підготовча версія) з [https://aka.ms/betamdatpanalyzer](https://aka.ms/betamdatpanalyzer "https://aka.ms/betamdatpanalyzer")
+2. Запустіть інструмент як адміністратор із вікна командного рядка:
+3. MDATPClientAnalyzerPreview\MDATPClientAnalyzer.cmd –t
+4. Коли з’явиться підказка "Введіть кількість хвилин для збирання результатів трасування: ", введіть кількість хвилин, необхідних для виконання сценарію
+5. Виконайте сценарій
+
+Зберіть вихідний ZIP-файл, який потрібно передати агенту підтримки.
