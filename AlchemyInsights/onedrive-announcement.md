@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002660"
 - "9422"
-ms.openlocfilehash: dec51a33f9801291765c48c11ec616e870f3e054
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ecc1ecc0cede129cb66a788130d8d3bd7ab38ecf
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405188"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440905"
 ---
 # <a name="one-drive-announcement"></a>Оголошення про One Drive
 
-Автоматично с резервне копіювання файлів і фотографій, щоб ви завжди мати доступ до них, навіть якщо ПК загублено, пошкоджено або вкрадено. Докладні відомості див. в [відомості про налаштування безкоштовного резервного копіювання папок на ПК у OneDrive.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
+Автоматично с резервне копіювання файлів і фотографій, щоб ви завжди мати доступ до них, навіть якщо ПК загублено, пошкоджено або вкрадено. [Налаштуйте безкоштовне резервне копіювання папок на ПК у OneDrive.](https://www.microsoft.com/microsoft-365/onedrive/pc-cloud-backup)
