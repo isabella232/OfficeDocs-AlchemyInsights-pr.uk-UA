@@ -1,5 +1,5 @@
 ---
-title: Настроювання захисту інформації Microsoft
+title: Настроювання Захисту даних у продуктах Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679348"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440950"
 ---
-# <a name="set-up-microsoft-information-protection"></a><span data-ttu-id="28f65-102">Настроювання захисту інформації Microsoft</span><span class="sxs-lookup"><span data-stu-id="28f65-102">Set up Microsoft information protection</span></span>
+# <a name="set-up-microsoft-information-protection"></a><span data-ttu-id="cf099-102">Настроювання Захисту даних у продуктах Microsoft</span><span class="sxs-lookup"><span data-stu-id="cf099-102">Set up Microsoft information protection</span></span>
 
-<span data-ttu-id="28f65-103">Отримайте Огляд можливостей, які можна використовувати для стратегії захисту інформації, щоб ви могли бути впевнені, що ви захищаєте конфіденційну інформацію.</span><span class="sxs-lookup"><span data-stu-id="28f65-103">Get an overview of the capabilities you can apply to your Information Protection strategy so that you can be confident your sensitive information is protected.</span></span> <span data-ttu-id="28f65-104">Скористайтеся чотириступеневим підходом життєвого циклу, у якому ви виявите, класифікуємо, захищаєте та Відстежуйте конфіденційні відомості.</span><span class="sxs-lookup"><span data-stu-id="28f65-104">Use a four-stage lifecycle approach in which you discover, classify, protect, and monitor sensitive information.</span></span> <span data-ttu-id="28f65-105">Посібник із використання засобу "Настроювання захисту інформації Microsoft" дає вказівки з виконання кожного з цих етапів.</span><span class="sxs-lookup"><span data-stu-id="28f65-105">The "Microsoft information protection setup" guide provides guidance for completing each of these stages.</span></span>
+<span data-ttu-id="cf099-103">Огляд можливостей, які можна застосувати до стратегії Захисту даних для впевненості, що вашу конфіденційну інформацію захищено.</span><span class="sxs-lookup"><span data-stu-id="cf099-103">Get an overview of the capabilities you can apply to your Information Protection strategy so that you can be confident your sensitive information is protected.</span></span> <span data-ttu-id="cf099-104">Використовуйте чотирьохетапний життєвий цикл, щоб виявляти, класифікувати, захищати та відстежувати ваші конфіденційні дані.</span><span class="sxs-lookup"><span data-stu-id="cf099-104">Use a four-stage lifecycle approach in which you discover, classify, protect, and monitor sensitive information.</span></span> <span data-ttu-id="cf099-105">Посібник [Захист даних у продуктах Microsoft](https://go.microsoft.com/fwlink/?linkid=2146619) містить вказівки з виконання кожного з цих етапів.</span><span class="sxs-lookup"><span data-stu-id="cf099-105">The [Microsoft information protection setup guide](https://go.microsoft.com/fwlink/?linkid=2146619) provides guidance for completing each of these stages.</span></span>
