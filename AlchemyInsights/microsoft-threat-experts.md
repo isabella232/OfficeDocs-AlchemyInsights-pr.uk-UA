@@ -1,5 +1,5 @@
 ---
-title: Експерти Microsoft Thread
+title: Фахівці з Microsoft Thread
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: f14410c61fe5c9dd3a72124da12915bc4dbf7182
-ms.sourcegitcommit: aebf4e1ef31305c2219f0c2ac7c3f1e30f6f1e66
+ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50714546"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505413"
 ---
-# <a name="microsoft-threat-experts"></a>Експерти з загроз корпорації Майкрософт
+# <a name="microsoft-threat-experts"></a>Фахівці корпорації Майкрософт із загроз
 
-Експерти з загроз Microsoft – це керована служба полювання на загрозу в програмі Microsoft Defender для кінцевої точки.  Ми співпрацюємо з центром операцій безпеки, щоб відстежувати, аналізувати та надавати підтримку для виявлення та відповіді на критичні загрози в унікальному середовищі.
+Фахівці з загроз Microsoft – це служба пошуку загроз у Microsoft Defender для кінцевих точок.  Ми співпрацюємо з вашим центром операцій безпеки, щоб відстежувати, аналізувати й підтримувати виявлення критичних загроз і відповідати на них у вашому унікальному середовищі.
 
-Ця служба мисливського загроз надає експертне розуміння та дані за допомогою цих двох можливостей: сповіщення про цільові атаки та доступ до експертів на вимогу. Докладні відомості наведено в статті [експерти з загроз корпорації Майкрософт](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-threat-experts) .
+Ця служба пошуку загроз, що керується, забезпечує аналіз і дані експертів за допомогою цих двох можливостей: оповіщення про цільову атаку та доступ до експертів на вимогу. Докладні відомості про кінцеву точку для Microsoft Defender див. в статті [Фахівці з загроз Microsoft]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts).
+
+Докладні відомості про службу пошуку керованих загроз у контексті захисту кінцевих точок, електронної пошти та ідентичностей організації див. в огляді Microsoft Threat Experts у [Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)
