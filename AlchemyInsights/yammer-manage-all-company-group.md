@@ -1,5 +1,5 @@
 ---
-title: Yammer керувати всіма групами компаній
+title: Yammer Manage All Company Group
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688859"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505449"
 ---
-# <a name="all-company-group"></a><span data-ttu-id="a4a74-102">Група «усі компанії»</span><span class="sxs-lookup"><span data-stu-id="a4a74-102">All Company Group</span></span>
+# <a name="all-company-group"></a><span data-ttu-id="d3dfd-102">All Company Group</span><span class="sxs-lookup"><span data-stu-id="d3dfd-102">All Company Group</span></span>
 
-<span data-ttu-id="a4a74-103">Під час створення мережі Yammer буде автоматично створено групу **"Усі компанії"** .</span><span class="sxs-lookup"><span data-stu-id="a4a74-103">The **All Company** group is automatically created when you create a Yammer network.</span></span> <span data-ttu-id="a4a74-104">Це системна Група за замовчуванням, яку не можна перейменовувати або видаляти.</span><span class="sxs-lookup"><span data-stu-id="a4a74-104">It is a default system group that cannot be renamed or deleted.</span></span> <span data-ttu-id="a4a74-105">Усі користувачі можуть опублікувати в групі **"Усі компанії"** , але лише адміністратори мережі Yammer можуть публікувати оголошення в групі.</span><span class="sxs-lookup"><span data-stu-id="a4a74-105">Everyone can post to the **All Company** group, but only Yammer network administrators can post announcements to the group.</span></span> <span data-ttu-id="a4a74-106">Щоб переглянути відомості про участь у групі **"уся компанія"** , використовуйте **статистику груп**.</span><span class="sxs-lookup"><span data-stu-id="a4a74-106">Use **Group Insights**to view information about engagement in the **All Company** group.</span></span>
+<span data-ttu-id="d3dfd-103">Спільнота "Уся компанія" тепер підтримує аналогічні можливості для інших спільнот у Yammer.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-103">The All Company community now supports similar capabilities to other communities in Yammer.</span></span> <span data-ttu-id="d3dfd-104">До них належать такі параметри, як обкладинка фотографій і іменування.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-104">This includes options such as cover photos and naming.</span></span> <span data-ttu-id="d3dfd-105">Крім того, ви можете обмежити дописи в усій компанії в Yammer.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-105">It's also possible to restrict All Company posts in Yammer.</span></span> <span data-ttu-id="d3dfd-106">Докладні відомості див. в [документі Уся компанія тепер працює як інші спільноти Yammer.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)</span><span class="sxs-lookup"><span data-stu-id="d3dfd-106">For more information, see [All Company now works like other Yammer communities](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community).</span></span>
 
-<span data-ttu-id="a4a74-107">Докладні відомості наведено в статті [керування групою в Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span><span class="sxs-lookup"><span data-stu-id="a4a74-107">For more information, see [Manage a Group in Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).</span></span>
+## <a name="common-issues-and-solutions"></a><span data-ttu-id="d3dfd-107">Поширені проблеми та вирішення</span><span class="sxs-lookup"><span data-stu-id="d3dfd-107">Common issues and solutions</span></span>
+
+- <span data-ttu-id="d3dfd-108">Усі обмеження щодо настроювання або опублікування в компанії недоступні для адміністраторів мережі.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-108">All Company customization or posting restriction is not available to network admins.</span></span> <span data-ttu-id="d3dfd-109">Відкрийте запит на обслуговування, щоб активувати сучасну групу "Уся компанія".</span><span class="sxs-lookup"><span data-stu-id="d3dfd-109">Open a service request to enable the modern All Company group.</span></span>
+
+- <span data-ttu-id="d3dfd-110">У поданні "Знарядь спільноти" старі дані не батьки.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-110">Community Insights doesn't show old data.</span></span> <span data-ttu-id="d3dfd-111">Тепер, коли "Уся компанія" – це реальна спільнота, попередні дані для мережі не відображаються.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-111">Now that All Company is a real community, the previous data for the network is not shown.</span></span>
+
+- <span data-ttu-id="d3dfd-112">Схоже, що видалено всю компанію.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-112">All Company seems to be deleted.</span></span> <span data-ttu-id="d3dfd-113">Коли спільноту підключено до групи Microsoft 365, цю групу можна видалити.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-113">When the community is connected to an Microsoft 365 group, that group can be deleted.</span></span> <span data-ttu-id="d3dfd-114">Групу Microsoft 365 потрібно відновити в цьому клієнта.</span><span class="sxs-lookup"><span data-stu-id="d3dfd-114">The Microsoft 365 group must be restored in the tenant.</span></span>
+
