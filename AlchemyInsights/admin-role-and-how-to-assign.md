@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: ebc5d8fd2725103b7cfd242a7f5deacb183e45bb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 116b92824b4046766d9c8b869ef0cfc655ee2395
+ms.sourcegitcommit: ce1a381ca3b24b8b4e60c5b83fae3ec7609eaf9d
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708996"
+ms.lasthandoff: 04/05/2021
+ms.locfileid: "51585996"
 ---
-# <a name="admin-roles"></a><span data-ttu-id="a8940-102">Ролі адміністратора</span><span class="sxs-lookup"><span data-stu-id="a8940-102">Admin roles</span></span>
+# <a name="admin-roles"></a><span data-ttu-id="bfb5d-102">Ролі адміністратора</span><span class="sxs-lookup"><span data-stu-id="bfb5d-102">Admin roles</span></span>
 
-- <span data-ttu-id="a8940-103">Виберіть елемент [Ролі](https://admin.microsoft.com/Adminportal/Home#/roles) в центрі адміністрування, щоб призначити або отримати додаткові відомості про ролі адміністратора.</span><span class="sxs-lookup"><span data-stu-id="a8940-103">Select [Roles](https://admin.microsoft.com/Adminportal/Home#/roles) in the admin center to assign or learn more about admin roles.</span></span>
+- <span data-ttu-id="bfb5d-103">Щоб призначити роль, виберіть **Активні користувачі** в [центрі адміністрування](https://admin.microsoft.com/Adminportal/Home#/users), клацніть ім’я користувача та виберіть **Керування ролями**.</span><span class="sxs-lookup"><span data-stu-id="bfb5d-103">To assign a role, select **Active Users** in the [admin center](https://admin.microsoft.com/Adminportal/Home#/users), select a user name, and then select  **Manage Roles**.</span></span>
 
-- <span data-ttu-id="a8940-104">Потім виберіть ім’я чи імена ролі та натисніть кнопку **Призначити роль**. Щоб отримати докладніші відомості, клацніть **Порівняти ролі**.</span><span class="sxs-lookup"><span data-stu-id="a8940-104">Then select the role name(s) and click **assign role**, or click **compare roles** to learn more.</span></span>
+- <span data-ttu-id="bfb5d-104">Щоб дізнатися більше про роль, клацніть **i** поруч із роллю або перегляньте статтю [Про ролі адміністратора](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="bfb5d-104">For more information about a role, click the **i** next to the role, or see [About admin roles](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).</span></span>
