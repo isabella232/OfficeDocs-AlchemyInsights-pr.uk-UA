@@ -1,5 +1,5 @@
 ---
-title: Проблеми з безпекою пристроїв на поверхні, Xbox і Microsoft
+title: Питання безпеки пристроїв Surface, Xbox і Microsoft
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9754"
 - "9005644"
-ms.openlocfilehash: c0436154860a81ab1628407eaa808c225a790b11
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 5bdfc0d0a4d49ce8de50f1fa69472c834cf213b7
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037540"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505773"
 ---
-# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Проблеми з безпекою пристроїв на поверхні, Xbox і Microsoft
+# <a name="surface-xbox-and-microsoft-devices-safety-concerns"></a>Питання безпеки пристроїв Surface, Xbox і Microsoft
 
-Якщо ви хочете обговорити проблему з безпекою продукту (особиста травма, пошкодження майна, видимий дим), виберіть посилання **зв'язатися з нами** в нижньому лівому куті, щоб бути безпосередньо пов'язано з адвокатом допомоги.
+Якщо у вас є питання щодо безпеки продуктів (травма, пошкодження майна, дим із пристрою), виберіть **Контактні дані** або **Додаткові джерела довідки** нижче та поспілкуйтеся зі спеціалістом служби підтримки.
