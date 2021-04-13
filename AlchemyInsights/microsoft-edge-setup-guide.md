@@ -1,5 +1,5 @@
 ---
-title: Початок використання Microsoft EDGE
+title: Початок використання Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679828"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692775"
 ---
-# <a name="start-using-microsoft-edge"></a><span data-ttu-id="ea2ec-102">Початок використання Microsoft EDGE</span><span class="sxs-lookup"><span data-stu-id="ea2ec-102">Start using Microsoft Edge</span></span>
+# <a name="start-using-microsoft-edge"></a><span data-ttu-id="99b1c-102">Початок використання Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="99b1c-102">Start using Microsoft Edge</span></span>
 
-<span data-ttu-id="ea2ec-103">Корпорація Майкрософт випустила нову програму Microsoft EDGE, яка є наступним поколінням веб-браузера.</span><span class="sxs-lookup"><span data-stu-id="ea2ec-103">Microsoft has released the new Microsoft Edge, which is the next generation of its web browser.</span></span> <span data-ttu-id="ea2ec-104">Він створений на основі відкритого джерела хрому та оптимізовано для роботи з продуктами Microsoft, наприклад SharePoint і OneDrive.</span><span class="sxs-lookup"><span data-stu-id="ea2ec-104">It is built on the Chromium open-source foundation and has been optimized to work with Microsoft products, like SharePoint and OneDrive.</span></span>
+<span data-ttu-id="99b1c-103">Корпорація Майкрософт випустила нову версію Microsoft Edge – це наступне покоління браузера.</span><span class="sxs-lookup"><span data-stu-id="99b1c-103">Microsoft has released the new Microsoft Edge, which is the next generation of its web browser.</span></span> <span data-ttu-id="99b1c-104">Він побудований на основі основ із відкритим кодом Chromium і оптимізовано для роботи з продуктами Microsoft, як-от SharePoint і OneDrive.</span><span class="sxs-lookup"><span data-stu-id="99b1c-104">It is built on the Chromium open-source foundation and has been optimized to work with Microsoft products, like SharePoint and OneDrive.</span></span>
 
-<span data-ttu-id="ea2ec-105">Якщо у вас виникли проблеми з Google Chrome, Mozilla Firefox або Safari, радимо скористатися Microsoft EDGE.</span><span class="sxs-lookup"><span data-stu-id="ea2ec-105">If you are experiencing issues with Google Chrome, Mozilla Firefox, or Safari, we recommend using Microsoft Edge.</span></span>
+<span data-ttu-id="99b1c-105">Якщо у вас виникають проблеми з Google Chrome, Mozilla Firefox або Safari, радимо використовувати Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="99b1c-105">If you are experiencing issues with Google Chrome, Mozilla Firefox, or Safari, we recommend using Microsoft Edge.</span></span>
 
-<span data-ttu-id="ea2ec-106">Якщо ви – адміністратор великої організації, скористайтеся нашим [посібником із настроювання Microsoft EDGE](https://go.microsoft.com/fwlink/?linkid=2142423) , щоб почати роботу.</span><span class="sxs-lookup"><span data-stu-id="ea2ec-106">If you are an admin of a large organization, use our [Microsoft Edge setup guide](https://go.microsoft.com/fwlink/?linkid=2142423) to get started.</span></span>
+<span data-ttu-id="99b1c-106">Якщо ви адміністратор великої організації, скористайтеся нашим посібником із настроювання [Microsoft Edge,](https://go.microsoft.com/fwlink/?linkid=2142423) щоб почати роботу.</span><span class="sxs-lookup"><span data-stu-id="99b1c-106">If you are an admin of a large organization, use our [Microsoft Edge setup guide](https://go.microsoft.com/fwlink/?linkid=2142423) to get started.</span></span>
 
-<span data-ttu-id="ea2ec-107">Щоб одночасно завантажити Microsoft EDGE на один пристрій, перейдіть на сторінку [введення нового краю Microsoft](https://go.microsoft.com/fwlink/?linkid=2141049).</span><span class="sxs-lookup"><span data-stu-id="ea2ec-107">To download Microsoft Edge on one device at a time, go to [Introducing the new Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).</span></span>
+<span data-ttu-id="99b1c-107">Щоб завантажити Microsoft Edge на одному пристрої за раз, перейдіть до статті [Знайомство з новою програмою Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)</span><span class="sxs-lookup"><span data-stu-id="99b1c-107">To download Microsoft Edge on one device at a time, go to [Introducing the new Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).</span></span>
