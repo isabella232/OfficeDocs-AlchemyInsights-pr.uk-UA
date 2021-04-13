@@ -1,5 +1,5 @@
 ---
-title: Настроювання маршрутизації для прямих груп
+title: Налаштування прямої маршрутизації Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,19 +13,19 @@ ms.custom:
 - "1945"
 - "2659"
 - "9000321"
-ms.openlocfilehash: 7143fda9fc744375571e8b39dc281fbac2d17d46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c001cc394088d977e5544551a44f6f765f35ce3c
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704915"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692163"
 ---
-# <a name="phone-system-direct-routing-for-microsoft-teams"></a>Пряме маршрутизацію телефонної системи для команд Microsoft
+# <a name="direct-routing-for-microsoft-teams"></a>Пряма маршрутизація для Microsoft Teams
 
-Перегляньте наведені нижче статті, щоб дізнатися більше про [пряму маршрутизацію телефонної системи для команд Microsoft](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page): 
+Перегляньте наведені нижче статті, щоб дізнатися більше про [пряму маршрутизацію для Microsoft Teams:](https://docs.microsoft.com/MicrosoftTeams/direct-routing-landing-page) 
 
-- [Планування прямої маршрутизації](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
+- [Пряма маршрутизація плану](https://docs.microsoft.com/MicrosoftTeams/direct-routing-plan)
 - [Настроювання прямої маршрутизації](https://docs.microsoft.com/MicrosoftTeams/direct-routing-configure) 
-- [Відстеження та усунення несправностей зі прямим маршрутизацією](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
+- [Моніторинг і усунення несправностей прямої маршрутизації](https://docs.microsoft.com/MicrosoftTeams/direct-routing-monitor-and-troubleshoot)
 
-**Примітка.** Крім того, ви можете ознайомитися з [командами академії Direct маршрутизацією](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) відео YouTube.
+**Примітка.** Ви також можете переглянути відео YouTube, що [маршрутизує teams Academy](https://www.youtube.com/watch?v=1ASftX_Msb8&index=10&list=PLaSOUojkSiGnKuE30ckcjnDVkMNqDv0Vl) Direct.

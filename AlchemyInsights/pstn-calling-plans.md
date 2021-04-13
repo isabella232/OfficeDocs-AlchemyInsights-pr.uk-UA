@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: ecfdc59afeb8cd3dae8ae1b2cfba4618bbffe126
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff0de1a4c0c86aef7cf98981b785109bc69dddd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662526"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692487"
 ---
 # <a name="pstn-calling-plans"></a>Плани викликів через ТМЗК
 
@@ -28,4 +28,4 @@ ms.locfileid: "47662526"
 
 - Налаштуйте [кошти для спілкування](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization), щоб у ваших користувачів ніколи **не завершувалися хвилини для спілкування**. Ставки перегляньте [тут](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Докладні відомості див. в статтях [Телефонна система та тарифні плани](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) або [Що таке кошти для спілкування?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Докладні відомості див. в [розділах Телефони Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) і Плани викликів Microsoft Teams або [Що таке рахунок для спілкування?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
