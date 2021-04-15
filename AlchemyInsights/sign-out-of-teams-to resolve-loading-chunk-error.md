@@ -1,8 +1,8 @@
 ---
-title: Вихід із команди для усунення помилки завантаження
+title: Вихід із Teams для усунення помилки завантаження шахрайської помилки
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002922"
 - "5592"
-ms.openlocfilehash: c78ab298471b490ec3a0fa1ac3411545de8602eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51ba8ef206340c8edb63a905d87ce6ac6355d503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661905"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786942"
 ---
-# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Вихід із команди для усунення помилки завантаження
+# <a name="sign-out-of-teams-to-resolve-loading-chunk-error"></a>Вихід із Teams для усунення помилки завантаження шахрайської помилки
 
-Якщо під час доступу до вкладки файли в командах з'являється повідомлення про помилку "**завантаження не вдалося завантажити XXX**", спробуйте вийти з команди, а потім знову ввійти, щоб усунути помилку.
+Якщо з'являється повідомлення про помилку "Не вдалося завантажити шахрай **xxx**" під час доступу до вкладки "Файли" в Teams, спробуйте вийти з команд, а потім знову ввійти, щоб усунути помилку.
 
-- Щоб зрозуміти, як вийти з команд, перегляньте статтю [вийти з команд](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487).
+- Щоб дізнатися, як вийти з Teams, див. 30. [Вихід із Teams.](https://support.microsoft.com/en-ie/office/sign-out-of-teams-a6d76e69-e1dd-4bc4-8e5f-04ba48384487)

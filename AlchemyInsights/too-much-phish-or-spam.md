@@ -1,26 +1,30 @@
 ---
-title: 665 ви отримуєте забагато Фіш або спаму в поштовій скриньці?
+title: 665 Ви отримуєте забагато фішинг або спаму в поштовій скриньці?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.audience: ITPro
+ms.date: 04/14/2021
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 17b31d712ce6fdb36da8bbc2839c2b1df1de3cb4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
+ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700260"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767958"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ви отримуєте забагато користувачів або спаму в поштовій скриньці?
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ви отримуєте забагато фішинг або спаму в поштовій скриньці?
 
-Адміністратор Microsoft 365 – це оптимальний спосіб дізнатися, чому було доставлено фішинговий або спам-повідомлення – надіслати зразок корпорації Майкрософт у [провіднику матеріалів](https://protection.office.com/reportsubmission). Ви отримаєте негайний відгук, пов'язаний із фільтрацією повідомлень, і чому виникають проблеми.
+> [!NOTE]
+> Отримати доступ до Центру безпеки Microsoft 365 можна в [security.microsoft.com](https://security.microsoft.com).
 
-Щоб зробити це easer, ви можете дозволити своїм користувачам повідомляти безпосередньо корпорацію Майкрософт за допомогою [надбудови повідомлення звіту](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Як адміністратор Microsoft 365, найкращий спосіб визначити, чому доставлено фішинг або спам– надіслати зразок до корпорації Майкрософт у провіднику надісланих [повідомлень.](https://security.microsoft.com/reportsubmission) Ви негайно отримаєте відгуки щодо фільтрування повідомлень і причини проблем.
 
-**Ви знаєте**: тепер ви можете надсилати зразки безпосередньо з [трасування повідомлень](https://protection.office.com/messagetrace) і E5/ATP (2), які можуть надсилати зразки за допомогою [провідника загроз](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+Щоб полегшити створення звітів, можна дозволити користувачам безпосередньо повідомляти про це в корпорації Майкрософт за допомогою надбудови ["Повідомлення зі звітами".](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
+
+**Чи знаєте ви? Тепер** ви можете надсилати зразки безпосередньо з трасування повідомлень, а клієнти плану [2](https://security.microsoft.com/messagetrace) для E5 або АТС можуть надсилати зразки з [провідника загроз.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)

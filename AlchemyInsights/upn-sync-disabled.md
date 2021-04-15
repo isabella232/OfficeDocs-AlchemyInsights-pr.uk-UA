@@ -1,8 +1,8 @@
 ---
-title: Синхронізація за допомогою UPN
+title: Синхронізацію UPN вимкнуто
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 31947d7c491e4116ffdb9baadf286cd4fbb50f2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749535"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782172"
 ---
-# <a name="upn-sync-disabled"></a>Синхронізація за допомогою UPN
+# <a name="upn-sync-disabled"></a>Синхронізацію UPN вимкнуто
 
-Якщо ви почали синхронізуватися в Azure AD до 30 березня 2016, запустіть цей командлет, щоб увімкнути м'який засіб для організації, виконавши такі дії:
+Якщо синхронізація з Azure AD почалася до 30 березня 2016 р., запустіть цей командлет Azure AD PowerShell, щоб активувати лише м'які збіги UPN для організації:
   
- **Set-Msololrsyncфункція – функція EnableSoftMatchOnUpn-увімкнути $True**
+ **Set-MsolDirSyncFeature -Feature EnableSoftMatchOnUpn -Enable $True**
   
-Для організацій, які почали синхронізуватися з Azure AD на або після 30 березня 2016, автоматично вмикається відповідність.
+М'які збіги upN автоматично активуються для організацій, які почали синхронізуватися з Azure AD 30 березня 2016 р. або після 30 березня 2016 р.
   
-Щоб дізнатися більше про те, як ввімкнути м'яку відповідність за допомогою функції UPN та інших функцій синхронізації, ознайомтеся з [функціями служби синхронізації Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Докладні відомості про те, як ввімкнути м'які збіги в UPN та інші функції синхронізації, див. в статтях [Функції служби синхронізації Azure AD Connect.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)
   
 

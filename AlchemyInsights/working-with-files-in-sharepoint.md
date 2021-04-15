@@ -1,8 +1,8 @@
 ---
-title: Робота з файлами в службі SharePoint Online
+title: Робота з файлами в SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5804"
-ms.openlocfilehash: 7b8466e4b96cc471e3f35b2f7eb682f4073e57dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74306672c3da424829c1476245a6dac960f264d5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725536"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770760"
 ---
-# <a name="working-with-files-in-sharepoint-online"></a>Робота з файлами в службі SharePoint Online
+# <a name="working-with-files-in-sharepoint-online"></a>Робота з файлами в SharePoint Online
 
-Нижче наведено кілька поширених розділів для керування файлами SharePoint Online.
+Нижче наведено кілька поширених тем для керування файлами SharePoint Online.
 
 - [Робота з файлами в бібліотеці документів](https://support.microsoft.com/office/a9d89171-1673-4892-9dd2-1ca52037dea2)
 - [Обмеження файлів](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
