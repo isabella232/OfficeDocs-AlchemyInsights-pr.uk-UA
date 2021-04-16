@@ -2,39 +2,40 @@
 title: Використання MIP SKD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358685"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770976"
 ---
 # <a name="using-mip-skd"></a>Використання MIP SKD
 
-Для використання MIP SDK, є кілька кроків, необхідних для налаштування та налаштування передплати Office 365 і клієнтської робочої станції. Ці кроки включають в себе:
+Щоб використовувати пакет MIP SDK, потрібно виконати кілька кроків для налаштування й конфігурації передплати на Office 365 та робочої станції клієнта. Зокрема:
 
-- Підпишіться на передплату Office 365.
-- Налаштуйте Мітки чутливості.
-- Настройте клієнтську робочу станцію.
-- Зареєструйте клієнтський застосунок із Azure Active Directory.
-- Запросити договір про інтеграцію з захистом інформації (IPIA).
-- Переконайтеся, що ваш додаток має необхідні виконавчі файли.
+- Зареєструйтеся для передплати на Office 365.
+- Налаштуйте мітки конфіденційності.
+- Налаштуйте робочу станцію клієнта.
+- Зареєструйте клієнтську програму в Azure Active Directory.
+- Надішліть запит на Угоду про інтеграцію захистуданих (IPIA).
+- Переконайтеся, що ваша програма має необхідний час роботи.
 
-Для отримання додаткової інформації про дисертацій кроки, див [налаштування і налаштування MIP SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+Докладніше про ці кроки див. [Налаштування й конфігурація MIP SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
-Додаткові ресурси див.:
+Додаткові ресурси:
 
-- [Документація SDK захисту інформації корпорації Майкрософт](https://docs.microsoft.com/information-protection/develop/)
-- [Посібник розробника захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Завантажити пакет розробки програмного забезпечення для захисту інформації Microsoft](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Настроювання та конфігурація SDK для захисту інформації Microsoft (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [Зразки коду Azure для пакета SDK для MIP](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [Документація SDK щодо Захисту даних у продуктах Microsoft](https://docs.microsoft.com/information-protection/develop/)
+- [Посібник розробника щодо Захисту даних Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Завантажити комплект для розробки програмного забезпечення Microsoft Software Protection](https://www.microsoft.com/download/details.aspx?id=57392)
+- [Налаштування та конфігурація пакета SDK для захисту даних від Microsoft (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Зразки коду Azure для MIP SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
