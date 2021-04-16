@@ -1,8 +1,8 @@
 ---
-title: Excel збій?
+title: Програма Excel аварійно завершує роботу?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359318"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804834"
 ---
-# <a name="frequent-excel-crashes"></a>Часті збої Excel?
+# <a name="frequent-excel-crashes"></a>Часті аварійні завершення роботи Excel
 
-Часті збої в Excel може бути викликана несправним надбудови. Можна вимкнути надбудову Excel, виконайте наступні дії:
+Часто несправність програми Excel може спричиняти несправні надбудови. Надбудову Excel можна вимкнути, виконавши такі дії:
   
-1. Виберіть " **файл** " \> **Параметри**, \> **Надбудови**.
+1. Виберіть **Параметри** \> **файлу**, \> **Надбудови**.
 
-2. У полі **керування** виберіть **надбудов COM**і натисніть кнопку **перейти**.
+2. У **полі** Керування виберіть **пункт Надбудови COM** і натисніть кнопку **Перейти.**
 
-3. У полі Наявні надбудови зніміть прапорець поруч із надбудови який потрібно вимкнути і натисніть кнопку **ОК**.
+3. У Add-Ins зніміть прапорець поруч із надбудовою, яку потрібно вимкнути, і натисніть кнопку **OK.**
 
 > [!NOTE]
-> Якщо Excel аварій під час запуску, будь ласка, запустіть його в безпечному режимі, натиснувши і утримуючи клавішу Ctrl під час запуску програми.
+> Якщо Excel аварійно завершує роботу під час запуску, запустіть її в безпечному режимі, натиснувши й утримуючи клавішу Ctrl під час запуску програми.
   
-Якщо проблеми не зникають, зверніться до таких статей:
+Якщо проблеми не зникли, див. такі статті:
   
-- [Мені повідомлення про помилку "перестав працювати" після запуску Office 2016 або 2013 додатків на моєму комп'ютері](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Під час запуску програм Office 2016 або 2013 на ПК з'являється повідомлення про помилку "Роботу припинено"](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [Як виправити неполадки гуркіт і не учасниць дослідження з Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [Виправлення неполадок, пов'язаних із аварійним завершенням роботи та відповіддю на них в Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel не відповідає, зависає, зависає або припиняє роботу](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Програма Excel не відповідає, не реагує, припиняє реагувати або припиняє працювати](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

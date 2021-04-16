@@ -2,21 +2,22 @@
 title: Поширені проблеми та способи їх вирішення в Visio
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505220"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806607"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Поширені проблеми та способи їх вирішення в Visio
 
@@ -24,7 +25,7 @@ ms.locfileid: "44505220"
 
 **Варіанти Visio Online**
 
-- Visio продається як [окрема програма](https://products.office.com/visio/flowchart-software). Адміністратори можуть придбати [передплату Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) з центру адміністрування Microsoft 365.
+- Visio продається як [окрема програма](https://products.office.com/visio/flowchart-software). Адміністратори можуть придбати [передплату на Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) в Центрі адміністрування Microsoft 365.
 
 - Visio пропонується в [різних планах передплат](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Якщо вам у Visio бракує якоїсь функції, [порівняйте відмінності Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) в плані 1 і 2.  Зверніть увагу, що передплата на Visio Online (план 1) не містить класичної програми Visio.
 
