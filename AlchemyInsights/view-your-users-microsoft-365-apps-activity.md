@@ -1,8 +1,8 @@
 ---
-title: Перегляд дій програм Microsoft 365 для користувачів
+title: Перегляд дій користувачів у програмах Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664659"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806643"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a><span data-ttu-id="cbea5-102">Перегляд дій програм Microsoft 365 для користувачів</span><span class="sxs-lookup"><span data-stu-id="cbea5-102">View your users' Microsoft 365 apps activity</span></span>
+# <a name="view-your-users-microsoft-365-apps-activity"></a><span data-ttu-id="018d1-102">Перегляд дій користувачів у програмах Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="018d1-102">View your users' Microsoft 365 apps activity</span></span>
 
-<span data-ttu-id="cbea5-103">[Звіт про активацію Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) дає змогу переглянути, які користувачі інсталювали та активували програми Microsoft 365 принаймні на одному пристрої.</span><span class="sxs-lookup"><span data-stu-id="cbea5-103">The [Office Activation report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gives you a view of which users have installed and activated their Microsoft 365 apps on at least one device.</span></span>
+<span data-ttu-id="018d1-103">У звіті "Активація [Office"](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) можна переглянути програми Microsoft 365, інстальовані та активовані принаймні на одному пристрої.</span><span class="sxs-lookup"><span data-stu-id="018d1-103">The [Office Activation report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) gives you a view of which users have installed and activated their Microsoft 365 apps on at least one device.</span></span>
 
-<span data-ttu-id="cbea5-104">Крім того, ви можете отримати подання до дій користувачів програми Microsoft 365 за допомогою [звіту про використання програм microsoft 365](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="cbea5-104">Additionally, you can get a view into your users' Microsoft 365 Apps activity by using the [Microsoft 365 Apps usage report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span></span>
+<span data-ttu-id="018d1-104">Крім того, за допомогою звіту Про використання програм Microsoft 365 ви можете переглянути дії користувачів у [програмах Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="018d1-104">Additionally, you can get a view into your users' Microsoft 365 Apps activity by using the [Microsoft 365 Apps usage report](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).</span></span>
