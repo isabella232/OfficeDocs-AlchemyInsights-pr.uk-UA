@@ -2,7 +2,7 @@
 title: Самостійне придбання PowerShell
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3516"
-ms.openlocfilehash: e6cc504ebef19cbe78f576d9b207fe2d951d0ef5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 48b5b0a1be1bc03d45a531a1093f18a3f750c37d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739991"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797742"
 ---
 # <a name="self-service-purchase-of-powershell"></a>Самостійне придбання PowerShell
 
-Щоб скористатися модулем PowerShell MSCommerce, потрібно інсталювати його на пристрої з Windows 10 із протоколом TLS 1,2 (потрібен локальний дозвіл адміністратора).  Імпорт і підключення до модуля MSCommerce.  Коли з'явиться відповідний запит на вхід, потрібно буде використовувати облікові дані ролей глобального або облікового запису адміністратора.  
+Щоб використовувати модуль MSCommerce PowerShell, потрібно інсталювати його на пристрої з Windows 10 з TLS 1.2 (потрібні дозволи локального адміністратора).  Імпорт і підключення до модуля MSCommerce.  Коли з'явиться запит на вхід, знадобиться використовувати облікові дані ролі глобального або облікового адміністратора.  
 
-Якщо у вас немає TLS 1,2, під час спроби отримати або оновити політику може з'явитися таке повідомлення про помилку:
+Якщо у вас немає протоколу TLS 1.2, під час спроби отримати або оновити політику може з'явитися таке повідомлення про помилку:
 
-*Erritmessage-вихідне підключення було закрито: під час надісланого повідомлення сталася неочікувана помилка*.
+ErrorMessage – основне підключення закрито: під час надсилання сталася *неочікувана помилка.*
 
 
 
