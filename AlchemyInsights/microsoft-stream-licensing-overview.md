@@ -2,7 +2,7 @@
 title: Огляд ліцензування Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: ed25e76647dfe59e9179fc05dccd9dc139ee639e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675355"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794241"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>Огляд ліцензування Microsoft Stream
 
-Microsoft Stream – це хмарна служба, ліцензована на основі абонентської плати за користувача. Він доступний як частину відповідних передплати на Microsoft 365. Ознайомтеся з ціноутворенням Microsoft 365 для отримання відомостей про кожний тип передплатою.
+Microsoft Stream – це хмарна служба, що надається за ліцензією кожного користувача. Вона доступна у відповідних передплатах на Microsoft 365. Докладні відомості про кожен тип передплати див. в статті Ціни на Microsoft 365.
 
 - [Огляд ліцензування Microsoft Stream](https://docs.microsoft.com/stream/license-overview)

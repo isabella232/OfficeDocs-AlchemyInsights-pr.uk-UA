@@ -1,8 +1,8 @@
 ---
-title: Стан справності служби Microsoft 365
+title: Справність служби Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742764"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794493"
 ---
-# <a name="microsoft-365-service-health"></a>Стан справності служби Microsoft 365
+# <a name="microsoft-365-service-health"></a>Справність служби Microsoft 365
 
 
-Перевірте справність служби будь-якої служби з [приладної дошки справності служби](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). Вибравши **новий Центр адміністрування** у верхньому правому куті, відобразяться нові варіанти справності служби.
+Перевірте справність будь-якої служби з [приладної дошки Справність служби.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Вибравши **Новий Центр адміністрування у** верхньому правому куті, ви побачите нові параметри справності служби.
 
-- Натисніть кнопку **Параметри** , щоб отримати сповіщення про справність служби **електронної пошти**.
+- Виберіть **елемент Параметри, щоб** отримувати сповіщення електронною поштою про **справність служби.**
 
-- Якщо виникла проблема з службою, виберіть **повідомити про проблему** .
+- Натисніть **кнопку Повідомити** про проблему, якщо виникла проблема зі службою.
 
-- Виберіть **журнал** , щоб переглянути історію справності служби організації. 
+- Виберіть **елемент Журнал,** щоб переглянути журнал справності служби в організації. 
 
-Щоб отримати докладні відомості, Дізнайтеся, [як перевірити справність служби Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+Докладні відомості див. [в статті Перевірка справності служби Microsoft 365.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
