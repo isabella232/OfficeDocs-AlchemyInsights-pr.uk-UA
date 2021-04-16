@@ -1,29 +1,30 @@
 ---
-title: Microsoft 365 груп питання та відповіді
+title: 'Групи Microsoft 365: запитання й відповіді'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: fa6b2a1984a1c0b01938cf6310933e44c04397b6
-ms.sourcegitcommit: 7a1ff0314df06e386f32a2439fe060baa480e8f8
-ms.translationtype: MT
+ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/30/2020
-ms.locfileid: "44931438"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794565"
 ---
-# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="6d3c5-102">Microsoft 365 груп питання та відповіді</span><span class="sxs-lookup"><span data-stu-id="6d3c5-102">Microsoft 365 Groups FAQ</span></span>
+# <a name="microsoft-365-groups-faq"></a><span data-ttu-id="f5d3c-102">Групи Microsoft 365: запитання й відповіді</span><span class="sxs-lookup"><span data-stu-id="f5d3c-102">Microsoft 365 Groups FAQ</span></span>
 
-<span data-ttu-id="6d3c5-103">Будь ласка, перевірте **[Microsoft 365 Група FAQ](https://aka.ms/M365GroupsFAQ)** для топ-адміністрування завдань, пов'язаних з Microsoft 365 груп.</span><span class="sxs-lookup"><span data-stu-id="6d3c5-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
+<span data-ttu-id="f5d3c-103">Перегляньте статтю **[Групи Microsoft 365: запитання й відповіді](https://aka.ms/M365GroupsFAQ)**, щоб дізнатися основні завдання адміністратора, пов’язані з групами Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f5d3c-103">Please check **[Microsoft 365 Group FAQ](https://aka.ms/M365GroupsFAQ)** for top admin tasks related to Microsoft 365 Groups.</span></span>
 
-- <span data-ttu-id="6d3c5-104">Проблеми з потоком пошти</span><span class="sxs-lookup"><span data-stu-id="6d3c5-104">Mail flow issues</span></span>
-- <span data-ttu-id="6d3c5-105">Керування адресами електронної пошти</span><span class="sxs-lookup"><span data-stu-id="6d3c5-105">Email address management</span></span>
-- <span data-ttu-id="6d3c5-106">Сценарії для експорту відомостей про учасників групи</span><span class="sxs-lookup"><span data-stu-id="6d3c5-106">Scripts to export group member information</span></span>
-- <span data-ttu-id="6d3c5-107">Відправлення та інша делегація</span><span class="sxs-lookup"><span data-stu-id="6d3c5-107">Send-As and other delegation</span></span>
-- <span data-ttu-id="6d3c5-108">Групи не відображаються або доступні з Outlook клієнта</span><span class="sxs-lookup"><span data-stu-id="6d3c5-108">Groups not showing/accessible from Outlook client</span></span>
+- <span data-ttu-id="f5d3c-104">Проблеми з передаванням пошти</span><span class="sxs-lookup"><span data-stu-id="f5d3c-104">Mail flow issues</span></span>
+- <span data-ttu-id="f5d3c-105">Керування адресою електронної пошти</span><span class="sxs-lookup"><span data-stu-id="f5d3c-105">Email address management</span></span>
+- <span data-ttu-id="f5d3c-106">Скрипти для експорту інформації про учасників групи</span><span class="sxs-lookup"><span data-stu-id="f5d3c-106">Scripts to export group member information</span></span>
+- <span data-ttu-id="f5d3c-107">"Надіслати як" та інші делегування</span><span class="sxs-lookup"><span data-stu-id="f5d3c-107">Send-As and other delegation</span></span>
+- <span data-ttu-id="f5d3c-108">Групи не відображаються/недоступні з клієнта Outlook</span><span class="sxs-lookup"><span data-stu-id="f5d3c-108">Groups not showing/accessible from Outlook client</span></span>
