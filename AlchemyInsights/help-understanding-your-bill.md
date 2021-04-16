@@ -1,8 +1,8 @@
 ---
-title: Допомога в розумінні вашого рахунка
+title: Розуміння рахунка
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705464"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811621"
 ---
-# <a name="help-understanding-your-bill"></a><span data-ttu-id="aea75-102">Допомога в розумінні вашого рахунка</span><span class="sxs-lookup"><span data-stu-id="aea75-102">Help understanding your bill</span></span>
+# <a name="help-understanding-your-bill"></a><span data-ttu-id="ec075-102">Розуміння рахунка</span><span class="sxs-lookup"><span data-stu-id="ec075-102">Help understanding your bill</span></span>
 
-<span data-ttu-id="aea75-103">Сума, що виставляється за вашу передплату, відображає ціну ліцензії, помножену на кількість придбаних ліцензій і будь-яких обов'язкових податків і зборів.</span><span class="sxs-lookup"><span data-stu-id="aea75-103">The amount billed for your subscription reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
+<span data-ttu-id="ec075-103">Сума, виставлена за передплатою, відображає ціни на ліцензію, множиться на кількість придбаних ліцензій і будь-які податки та збори.</span><span class="sxs-lookup"><span data-stu-id="ec075-103">The amount billed for your subscription reflects the license price multiplied by the number of licenses purchased and any required taxes/fees.</span></span>
   
-<span data-ttu-id="aea75-104">Якщо сума, за якою виставлено рахунок, відрізняється від очікуваної причини, це може статися з таких причин:</span><span class="sxs-lookup"><span data-stu-id="aea75-104">If the amount billed is different then expected, there are a few reasons this may happen:</span></span>
+<span data-ttu-id="ec075-104">Якщо сума виставлення рахунків відрізняється від очікуваної, це може статися з кількох причин:</span><span class="sxs-lookup"><span data-stu-id="ec075-104">If the amount billed is different then expected, there are a few reasons this may happen:</span></span>
   
-- <span data-ttu-id="aea75-105">Ліцензії додано або видалено з вашої передплатою.</span><span class="sxs-lookup"><span data-stu-id="aea75-105">Licenses were added or removed from your subscription.</span></span> <span data-ttu-id="aea75-106">Якщо ліцензії змінилися в середньостроковій перспективі, це відображається в наведеному нижче рахунку-фактурі.</span><span class="sxs-lookup"><span data-stu-id="aea75-106">When licenses are changed mid-term, this is reflected on the following invoice.</span></span> <span data-ttu-id="aea75-107">Там може вказуватися новий рахунок або кредит за попередній період обслуговування.</span><span class="sxs-lookup"><span data-stu-id="aea75-107">You may see a credit and re-bill for the previous service period to account for this change.</span></span>
+- <span data-ttu-id="ec075-105">Ліцензії додано до передплати або вилучено з неї.</span><span class="sxs-lookup"><span data-stu-id="ec075-105">Licenses were added or removed from your subscription.</span></span> <span data-ttu-id="ec075-106">Якщо ліцензії змінюються в середині терміну, це відображається в наступному рахунку-фактурі.</span><span class="sxs-lookup"><span data-stu-id="ec075-106">When licenses are changed mid-term, this is reflected on the following invoice.</span></span> <span data-ttu-id="ec075-107">Там може вказуватися новий рахунок або кредит за попередній період обслуговування.</span><span class="sxs-lookup"><span data-stu-id="ec075-107">You may see a credit and re-bill for the previous service period to account for this change.</span></span>
 
-- <span data-ttu-id="aea75-108">Передплату скасовано.</span><span class="sxs-lookup"><span data-stu-id="aea75-108">The subscription was cancelled.</span></span> <span data-ttu-id="aea75-109">Після скасування ви отримаєте рахунок-фактуру з вказаним залишком заборгованості без будь-яких кредитів.</span><span class="sxs-lookup"><span data-stu-id="aea75-109">You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
+- <span data-ttu-id="ec075-108">Передплату скасовано.</span><span class="sxs-lookup"><span data-stu-id="ec075-108">The subscription was cancelled.</span></span> <span data-ttu-id="ec075-109">Після скасування ви отримаєте рахунок-фактуру з вказаним залишком заборгованості без будь-яких кредитів.</span><span class="sxs-lookup"><span data-stu-id="ec075-109">You will receive an invoice after cancellation with any outstanding balance minus any credits.</span></span>
 
-- <span data-ttu-id="aea75-110">Термін дії передплати подовжено, а ціна на ліцензію змінилася.</span><span class="sxs-lookup"><span data-stu-id="aea75-110">Your subscription renewed for a new term and the license price changed.</span></span>
+- <span data-ttu-id="ec075-110">Термін дії передплати подовжено, а ціна на ліцензію змінилася.</span><span class="sxs-lookup"><span data-stu-id="ec075-110">Your subscription renewed for a new term and the license price changed.</span></span>
 
-<span data-ttu-id="aea75-111">Докладні відомості про ваш рахунок-фактуру наведено в статті: [розуміння рахунка-фактури](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="aea75-111">For more information about your invoice, see: [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span></span>
+<span data-ttu-id="ec075-111">Докладні відомості про рахунок-фактуру див. в: Розуміння [рахунка-фактури.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span><span class="sxs-lookup"><span data-stu-id="ec075-111">For more information about your invoice, see: [Understand your invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)</span></span>
