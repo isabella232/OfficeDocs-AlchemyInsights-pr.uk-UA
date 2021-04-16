@@ -2,7 +2,7 @@
 title: Office 2019 на сервері терміналів або RDS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754586"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791001"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Розгортання Office 2019 для спільного використання в RDS, сервері терміналів або VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Розгортання Office 2019 для спільного використання в службах RDS, Термінал Server або VDI
 
-Якщо пакет Office уже інстальовано на сервері RDS за допомогою будь-яких інших планів Office, видаліть його. Наприклад, відкрийте **панель керування**, щоб  >  **видалити програму**. Якщо виникають проблеми, видаліть її за допомогою [помічника з підтримки й відновлення Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Якщо Office уже інстальовано на сервері RDS за допомогою будь-яких інших планів Office, видаліть його. Наприклад, перейдіть на **Панель керування**  >  **Видалення програми.** Якщо у вас виникли проблеми, видаліть його за допомогою [Помічника з підтримки й відновлення Microsoft.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Інсталяція пакета Office за допомогою засобу розгортання Office (ODT). Докладні вказівки наведено в статті [розгортання Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+Щоб інсталювати Office, скористайтеся засобом розгортання Office (ODT). Докладні інструкції див. [в статті Розгортання Office 2019.](https://docs.microsoft.com/deployoffice/office2019/deploy)
 
-У цій статті наведено [огляд того, як активувати Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Відомості про активацію [див. в описі корпоративної активації Office.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
