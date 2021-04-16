@@ -1,8 +1,8 @@
 ---
-title: Параметри безпеки
+title: "\"Настройки безпеки за замовчуванням\""
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809208"
 ---
-# <a name="security-defaults"></a>Параметри безпеки
+# <a name="security-defaults"></a>"Настройки безпеки за замовчуванням"
 
-Докладні відомості про стандартні параметри безпеки наведено в статті [що таке за замовчуванням безпеки?](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+Відомості про стандартні параметри безпеки див. в цьому [документі.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 
-Стандартні параметри безпеки в "Блакитний" ("Лазурний") полегшують безпеку та захист вашої організації. За замовчуванням в безпеці містяться налаштовані параметри безпеки для поширених атак.
+Стандартні параметри безпеки в Azure Active Directory (Azure AD) спрощують захист і захист організації. Стандартні параметри безпеки містять попередньо настроєні параметри безпеки для поширених атак.
 
-Корпорація Майкрософт робить доступні для всіх стандартні параметри безпеки. Мета полягає в тому, щоб усі організації мали базовий рівень безпеки, який можна активувати без зайвих витрат. Ви вмикаєте безпеку за замовчуванням на порталі Лазур.
+Корпорація Майкрософт робить стандартні параметри безпеки доступними для всіх користувачів. Мета – переконатися, що в усіх організаціях активовано базовий рівень безпеки без додаткової плати. На порталі Azure увімкнуто стандартні параметри безпеки.

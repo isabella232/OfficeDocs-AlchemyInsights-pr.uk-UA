@@ -1,8 +1,8 @@
 ---
 ms.author: pebaum
-title: Проблеми з Outlook у службі Exchange 2007
+title: Проблеми з Exchange 2007
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0123668d-e18b-4186-9c58-4325168d8aec
-ms.openlocfilehash: c91a83cc3b83c9e142dfe9bfc491f9622885ba41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5b8988e234a4cb15d7c3388d1727efe5840f3038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722044"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810037"
 ---
-# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Рішення про помилку "ви не зможете отримувати пошту з поточної поштової скриньки"
-Якщо ви намагаєтеся використовувати програму Outlook 365/2016 із сервером Exchange 2007, з'явиться таке повідомлення про помилку:
+# <a name="solution-for-error-you-wont-be-able-to-receive-mail-from-a-current-mailbox"></a>Вирішення помилки "Не вдається отримувати пошту з поточної поштової скриньки"
+Під час спроби використати Outlook 365/2016 із сервером Exchange 2007 з'являться такі повідомлення про помилки:
 
-*Припиніть, потрібно дочекатися інсталяції пакета Office 2016. Ви не зможете отримувати пошту з поточної поштової скриньки. Програма Outlook 2016 не сумісна з Exchange 2007. Можливо, ви захочете звернутися до постачальника поштової скриньки або системного адміністратора з цієї проблеми. Ресурс, який ви намагаєтеся використовувати, розташовано в непідтримуваній версії Microsoft Exchange. Зверніться до адміністратора електронної пошти, щоб отримати допомогу.*
+*Інсталювати Office 2016 можна буде ще раз. Ви не зможете отримувати пошту з поточної поштової скриньки. Програма Outlook 2016 не сумісна з Exchange 2007. Зверніться до постачальника поштової скриньки або системного адміністратора, щоб дізнатися про цю проблему. Ресурс, який ви намагаєтеся використати, розташовано на сервері Microsoft Exchange непідтримуваної версії. Зверніться по допомогу до адміністратора електронної пошти.*
 
-Щоб використовувати програму Outlook із Exchange 2007, можна інсталювати програму Outlook 2013, якщо ви оновили попередню версію програми Outlook. Докладні відомості наведено в статті [як повторно інсталювати пакет office 2013 після оновлення office 2016?](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)
+Щоб використовувати програму Outlook із сервером Exchange 2007, можна інсталювати програму Outlook 2013, якщо ви оновили попередню версію програми. Докладні відомості див. в статті Повторна інсталяції [пакета Office 2013 після оновлення до версії Office 2016.](https://support.office.com/article/a6ca92f4-cbb4-4609-9fdb-f8d3dd6812f3)

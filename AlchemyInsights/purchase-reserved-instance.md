@@ -1,8 +1,8 @@
 ---
-title: Екземпляр зарезервованого товару
+title: Придбання зарезервованого екземпляра
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,47 +12,47 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6816"
-ms.openlocfilehash: 59b34a323e28c16869a97b10a16091de7b80ad43
-ms.sourcegitcommit: e2bc22150b58db99452a79b33a926e0e66e2a98b
-ms.translationtype: MT
+ms.openlocfilehash: 4e42d4a3d7c3cb3a08264fac768606319ffe0043
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48741388"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809928"
 ---
-# <a name="questions-before-purchase"></a>Запитання перед покупкою
+# <a name="questions-before-purchase"></a>Запитання щодо придбання
 
-**Як відбувається знижка на резервування для наявної ресурсів?**  
-Корисна допомога автоматично застосовується до діючих ресурсів, які відповідають типу "ОБЛІКОВИЙ номер", "регіон" і "Масштаб". Немає позначки застереження для ресурсу. [Дізнатися більше](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
+**Як знижка на резервування застосовується до наявних ресурсів?**  
+Переваги автоматично поширюється на наявні ресурси з відповідними обліковим номером, регіоном та областю резервування. Ресурси не потрібно відмічати позначками резервувань. [Додаткові відомості](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support#how-reservation-discount-is-applied) 
 
-**Який розмір VM мені потрібно придбати?**  
-Прочитайте цю статтю: [визначте потрібний розмір віртуальної машини, перш ніж купувати](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+**Якого розміру віртуальну машину мені придбати?**  
+Докладніше читайте у статті [«Визначення розміру віртуальної машини перед придбанням»](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 
-**Запитання про те, як придбати зарезервований потенціал SQL?**  
-Прочитайте цю статтю: [придбайте захищені можливості бази даних SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
+**Виникли запитання щодо купівлі зарезервованої ємності SQL?**  
+Докладніше читайте у статті [«Придбання зарезервованої ємності бази даних SQL»](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?toc=/azure/billing/TOC.json&WT.mc_id=Portal-Microsoft_Azure_Support#buy-sql-database-reserved-capacity)
 
-**Я в непрямому клієнті EA, чи потрібен мій партнер придбати?**  
-Ні, ви можете придбати RI, якщо ви власник за передплатою EA.
+**Зі мною укладено непрямий договір “Enterprise Agreement”. Чи потрібен мені партнер для придбання резервувань?**  
+Ні, ви можете придбати зарезервовані екземпляри, якщо маєте роль власника передплати за договором “Enterprise Agreement”.
 
-**Чи є у вас придбання від грошової зобов ‟ язання?**  
-Так. Якщо ви не маєте достатнього грошового зобов'язання, ви отримуєте рахунок-фактуру за суму, яка перевищує доступні грошові зобов'язання.
+**Вартість придбання зарезервованих екземплярів вираховується із фінансового зобов’язання?**  
+Так. Якщо розміру вашого фінансового зобов’язання недостатньо, ви отримаєте рахунок-фактуру на суму, що перевищує доступний залишок фінансового зобов’язання.
 
-**Спосіб зарезервованого екземпляра, який стосується використання віртуальних машин Windows або IP-адрес SQL?**  
-Зарезервований екземпляр екземпляра застосовується лише до обчислення. Вартість IP-АДРЕС Windows або IP-сервера SQL стягується окремо, і не отримують знижку RI. [Витрати на програмне забезпечення, які не входять до складу Azure зарезервованих екземплярів VM](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Як придбання зарезервованого екземпляра впливає на вартість віртуальних машин Windows або наявні IP-адреси в SQL?**  
+Знижка на зарезервовані екземпляри застосовується лише до обчислювальних потужностей, які ви використовуєте. Вартість IP-адрес у Windows або SQL обчислюється окремо й не підпадає під дію знижки на зарезервовані екземпляри. [Вартість програмного забезпечення, яке не входить у вартість зарезервованих екземплярів віртуальних машин Azure](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs?WT.mc_id=Portal-Microsoft_Azure_Support)  
       
-**Виставлення рахунків за зарезервованим екземпляром придбання**  
+**Виставлення рахунків за придбання зарезервованих екземплярів**  
       
-Придбання зарезервованого екземпляра – це спосіб оплати, пов'язаний із передплатою, який ви вибрали під час придбання. Тип передплатою має бути корпоративною угодою (номер пропозиції: MS-AZR-0017P), Pay-As-You-Go (номер пропозиції: MS-AZR-0003P), угода про клієнтів Microsoft або CSP.
+Кошти за придбані зарезервовані екземпляри стягуються в порядку, передбаченому передплатою, яку ви виберете під час купівлі. Необхідна оформити одну з таких підписок: договір “Enterprise Agreement” (пропозиція номер MS-AZR-0017P), пропозиція з похвилинною оплатою (номер MS-AZR-0003P), клієнтська угода або договір з постачальником хмарних рішень Microsoft.
 
--   Для корпоративної абонентської плати відповідно стягується плата за грошові кошти, які відповідальності за зарахування коштів або нараховані в разі перевищення терміну дії.
--   Якщо ви платите за передплатою за користування платіжною карткою, Оплата стягується на рахунок кредитної картки або рахунка-фактури за передплатою.
+-   За наявності корпоративної передплати вартість резервування списується з балансу фінансового зобов’язання, оформленого під час реєстрації, або сплачується згідно рахунка-фактури.
+-   За наявності похвилинної передплати вартість резервування оплачується кредитною карткою або згідно рахунка-фактури відповідно до умов підписки.
 
-**Придбайте план обслуговування.**
+**Придбання плану послуг:**
 
--   [Передоплата за резервним потенціалом для Cosmos DB](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Передоплата для бази даних SQL для обчислення ресурсів з базою даних Azure SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Передоплата для віртуальних машин за допомогою Azure зарезервованих екземплярів VM](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Передплатити зарезервовану ємність бази даних Cosmos](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Передплатити обчислювальні ресурси бази даних SQL із зарезервованою ємністю бази даних Azure SQL](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Передплатити віртуальні машини з зарезервованими екземплярами віртуальних машин Azure](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Придбайте план програмного забезпечення.**
+**Придбання плану програмного забезпечення:**
 
--   [Передоплата за план програмного забезпечення Red Hat з застережень Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
--   [Передоплата для програмних планів із Azure "замовлення"](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Передплатити плани програмного забезпечення Red Hat від резервувань Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-rhel-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Передплатити плани програмного забезпечення SUSE від резервувань Azure](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges?WT.mc_id=Portal-Microsoft_Azure_Support)

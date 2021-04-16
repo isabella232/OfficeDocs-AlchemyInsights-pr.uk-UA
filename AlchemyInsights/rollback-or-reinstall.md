@@ -1,8 +1,8 @@
 ---
-title: Відкочування або повторна інсталяція
+title: Відкочування або повторна інсталювати
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 4a5c613cecf9287ca4a7ac709fc5993a480d8bd8
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 51ec547d99c6d13ddc14bc1b3288ff54fb1cd056
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560533"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809244"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Повторна інсталяція та відкотіть Office
+# <a name="reinstall-or-roll-back-office"></a>Повторна інсталювати або відкотити Office
 
-Якщо ви зіткнулися з загальними проблемами після нещодавнього оновлення пакета Office, можливо, ви зможете вирішити цю проблему, виконавши повторну інсталяцію пакета Office або поверніться до попередньої версії Office.
+Якщо після останнього оновлення програмного комплексу Office виникли загальні проблеми, можна вирішити цю проблему, виконавши повторну інсталювати пакет Office або поверніться до попередньої версії Office.
 
-Щоб виконати **повторну інсталяцію** Office, ознайомтеся зі статтею [завантаження та інсталяція або повторна інсталяція пакета Office 365 або Office 2019 на ПК або комп'ютері Mac](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658).
+Щоб виконати **повторну** інсталяцію Пакета Office, див. ість Завантаження, інсталяція та повторна інсталяція [Office 365 або Office 2019 на ПК чи комп'ютері Mac.](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
 
-Щоб виконати **відкочування** Office, ознайомтеся з тим, [як повернутися до попередньої версії Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).
+Відомості про те, **як відкотити** пакет Office до попередньої версії, див. в [цій статті.](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic)
