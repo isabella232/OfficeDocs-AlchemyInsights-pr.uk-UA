@@ -2,7 +2,7 @@
 title: Вимкнення MyAnalytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001697"
 - "5887"
-ms.openlocfilehash: 1175fdc35d5af7f7a63674cd6004b98b28b6b8aa
-ms.sourcegitcommit: 2fc3f2a83aee6ef290a1ffddc0312877f07b231d
+ms.openlocfilehash: df8eac296a86093943cb3b6ce13df4296cff7365
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194268"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815231"
 ---
 # <a name="disable-myanalytics"></a>Вимкнення MyAnalytics
 
-Щоб вимкнути MyAnalytics, Дізнайтеся, як вимкнути [myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya). 
+Відомості про те, як вимкнути MyAnalytics, див. в статтях Відмова [від MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/use/opt-out-of-mya) 
 
-Щоб отримати додаткові відомості про MyAnalytics, ознайомтеся з [введенням myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page).
+Докладні відомості про MyAnalytics див. в [вступі до MyAnalytics.](https://docs.microsoft.com/workplace-analytics/myanalytics/mya-landing-page)

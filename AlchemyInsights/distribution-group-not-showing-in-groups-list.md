@@ -1,8 +1,8 @@
 ---
-title: Група розсилки не відображається в списку "групи"
+title: Група розсилки не відображається в списку груп
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,16 +14,16 @@ ms.custom:
 - "13"
 - "2"
 ms.assetid: 7d193eb3-dfaf-4be8-a03c-151905a1e9f1
-ms.openlocfilehash: 2e836c416daa0fc78576f4e50cea6a63b6723b9f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82b3624de2f574364270ead70f64ae97e9821380
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712097"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815123"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Група розсилки не відображається в списку "групи"
+# <a name="distribution-group-not-showing-in-groups-list"></a>Група розсилки не відображається в списку груп
 
-Ви можете пройти до 60 хвилин, перш ніж в центрі адміністрування відображається новий список розсилки.
+Перш ніж новий список розсилки відобразиться в Центрі адміністрування, може пройти до 60 хвилин.
   
-Якщо потрібно додати учасників або внести інші зміни прямо зараз, скористайтеся функцією "групи" в [центрі адміністрування Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1).
+Щоб додати учасників або внести інші зміни просто зараз, скористайтеся функцією "Групи" в [Центрі адміністрування Exchange.](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1)
   

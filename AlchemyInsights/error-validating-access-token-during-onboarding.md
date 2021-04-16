@@ -1,8 +1,8 @@
 ---
-title: Сталася помилка під час перевірки помилки маркера доступу під час настільних аналітику на основі програми-інтернату
+title: Під час аналітики desktop Analytics під час перевірення маркера доступу сталася помилка
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2536"
 - "9000657"
-ms.openlocfilehash: 45c6fb1a1632799a07c028c0791b6b8e77635293
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12e5906ba8cbc76ba1fd99dde1cf76396c3a6942
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783572"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813709"
 ---
-# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Помилка під час перевірки помилки "Маркер доступу" під час настільних аналітики переходу
+# <a name="there-was-an-error-validating-access-token-error-during-desktop-analytics-onboarding"></a>Під час підключення до Desktop Analytics сталася помилка під час перевірки маркера доступу
 
-Ця помилка зазвичай спостерігається, коли термін дії маркера автентифікації завершується. Зазвичай оновлення сторінки оновлює маркер. Однак ця проблема може зберігатися, якщо в обліковому записі, що використовується для настільних комп'ютерів, застосовуються будь-які політики умовного доступу, застосовані до облікового запису. Щоб дізнатися, чи є помилки входу для облікового запису, який використовується для настільних аналізування, можна переглянути в журналах лазуровий вхід на порталі Azure AD.
+Зазвичай ця помилка виникає після завершення терміну дії маркера автентифікації. Зазвичай після оновлення сторінки оновлюється маркер. Однак ця проблема може виникати, якщо до облікового запису застосовуються будь-які політики умовного доступу, застосовані до борту Desktop Analytics. Ви можете переглянути журнали входу в Azure AD на порталі Azure, щоб дізнатися, чи не вдається ввійти в обліковий запис, який використовується для підключення до Desktop Analytics.
 
-Щоб отримати докладні відомості про умовний доступ, перегляньте [план розгортання умовного доступу](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access).
+Докладні відомості про умовний доступ див. в [цьому документі.](https://docs.microsoft.com/azure/active-directory/conditional-access/plan-conditional-access)

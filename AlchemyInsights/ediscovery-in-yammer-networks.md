@@ -1,8 +1,8 @@
 ---
-title: Виявлення електронної інформації в мережах Yammer
+title: Витребування електронної пошти в мережах Yammer
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710937"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814501"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>Виявлення електронної інформації в мережах Yammer
+# <a name="ediscovery-in-yammer-networks"></a>Витребування електронної пошти в мережах Yammer
 
-Тепер можна виконувати пошук за вмістом Yammer.  Щоб виконати пошук за допомогою пошуку або експортувати вміст Yammer, потрібно виконати наведені нижче дії.
+Тепер ви можете шукати вміст Yammer за допомогою функції витребування електронної пошти.  Для виконання пошуку або експорту вмісту Yammer потрібно виконати такі дії:
 
-1. Спочатку потрібно перенести мережу Yammer Enterprise в рідний режим, щоб вони могли виявити ваші повідомлення та файли Yammer. **Примітка: Якщо ви – новий клієнт за станом на 9 січня 2020 і мережа Yammer вже перебуває в рідному режимі, ваші дані тепер можна виявити за допомогою функції eDiscovery**.
+1. Щоб повідомлення та файли Yammer було видимими, потрібно спочатку перенести мережу Yammer Enterprise до власного режиму. Примітка. Якщо ви новий клієнт станом на 9 січня **2020 р.** і мережа Yammer вже в режимі власного використання, дані тепер видимі за допомогою витребування електронної інформації.
 
-2. Для виходу з клієнтів, eDiscovery for Yammer стане доступним, коли засіб вирівнювання за рідним режимом випущено, а перенесення рідного режиму завершується в Yammer клієнта.
+2. Витребування електронної даних для Yammer буде доступне для клієнтів, щойно випуститься засіб вирівнювання власного режиму, а перенесення власного режиму завершиться для Yammer в клієнті.
 
-Додаткові відомості:
+Докладні відомості про:
 
-- Рідний режим у Yammer: [Огляд рідного режиму](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- eDiscovery у мережі Yammer: [Огляд електронного розкриття інформації в мережах Yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- eDiscovery в Microsoft 365, перегляньте статтю [eDiscovery у microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Власний режим у Yammer див. в: [Огляд власного режиму.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+- Витребування електронної інформації в мережах Yammer: огляд витребування електронної інформації [в мережах Yammer.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Витребування електронної пошти в Microsoft 365 див. в статті Витребування електронної [пошти в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

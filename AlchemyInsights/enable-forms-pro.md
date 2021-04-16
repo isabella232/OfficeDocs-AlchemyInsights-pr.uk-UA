@@ -1,8 +1,8 @@
 ---
-title: Увімкнення або вимкнення форм Pro
+title: Увімкнення або вимкнення Forms Pro
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: 206cefb7d09b4c9c34ac2d5ca9c3a68d7412bf4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784724"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814249"
 ---
-# <a name="enable-or-disable-forms-pro"></a>Увімкнення або вимкнення форм Pro
+# <a name="enable-or-disable-forms-pro"></a>Увімкнення або вимкнення Forms Pro
 
-Microsoft Forms Pro перетворився на динамічність клієнта 365, надаючи користувачам додаткові можливості опитування та вигоди для бізнесу. Докладні відомості наведено в статті [Довідкові ресурси для динаміки клієнтів 365](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+Програма Microsoft Forms Pro перетворювалася на Dynamics 365 Customer Voice, що надає додаткові можливості опитування та бізнес-переваги. Докладні відомості див. в [довідці з Dynamics 365 Customer Voice.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
 
-Корпорація Майкрософт Forms Pro входить до складу ліцензії "Dynamics 365 Enterprise". Крім того, адміністратор може придбати ліцензію Microsoft Forms Pro. Ви також можете видалити ліцензію Microsoft Forms Pro від користувача.  
+Microsoft Forms Pro входить до складу ліцензії Dynamics 365 для підприємств. Або адміністратор може придбати ліцензію на Microsoft Forms Pro. Ви також можете вилучити ліцензію Microsoft Forms Pro в користувача.  
 
-Докладні відомості про ліцензування наведено в статті [придбання Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) і [вимкнення Microsoft Forms Pro для користувача](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+Докладні відомості про ліцензування див. в розділах Придбання [Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) та [Вимкнення Microsoft Forms Pro для користувача.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
   
-Щоб отримати довідкові ресурси, ознайомтеся з [проблемами виправлення неполадок у формах Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
+Довідк щоб отримати довідку, [див. в ційи: Виправлення неполадок у Forms Pro.](https://docs.microsoft.com/forms-pro/troubleshoot)
