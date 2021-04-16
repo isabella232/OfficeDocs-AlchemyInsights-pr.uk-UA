@@ -2,30 +2,31 @@
 title: Не вдалося створити шаблон сайту
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 0b5e5d7cc2ddd939562ac6bb392441120c703515
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358573"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786906"
 ---
 # <a name="site-template-cannot-be-created"></a>Не вдалося створити шаблон сайту
 
-Можливо, шаблон відсутній, а функція не активується. Якщо функція недоступна для активації в поточній колекції сайтів, не можна використовувати шаблон сайту для створення сайту.
+Можливо, у шаблоні відсутня функція, і він не активується. Якщо функція недоступна для активації в поточній колекції сайтів, ви не можете використовувати шаблон для створення веб-сайту.
 
-- Перевірте, чи будь-які списки або бібліотеки перевищують [граничне значення обмеження подання списку](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) 5000 елементів, оскільки це може блокувати створення шаблону сайту.
+- Перевірте, чи не перевищено в якихось списках або бібліотеках [обмеження для подання списку](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) в 5000 елементів, оскільки це може заважати створити шаблон.
 
-- Можливо, сайт використовує забагато ресурсів, і тому шаблон сайту перевищує ліміт 50 МБ.
+- Можливо, веб-сайт використовує занадто багато ресурсів, а тому шаблон веб-сайту перевищує обмеження в 50 МБ.
 
-- Є проблеми з відображенням даних зі списку, який використовує стовпець підстановки. Для отримання додаткових відомостей див. у [списку шаблон не відображаються дані зі списку правильні підстановки в SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- Існують проблеми з відображенням даних зі списку, у якому використовується стовпець підстановки. Докладніше див. в статті [У списку, створеному за шаблоном, не відображаються дані з правильного списку підстановки у службі SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-Для отримання більш детальної інформації про типові проблеми та рішення, будь ласка, дивіться [створення і використання шаблонів сайтів](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+Докладніше про загальні проблеми та способи їх вирішення див. статтю [Створення й використання шаблонів веб-сайтів](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).

@@ -2,7 +2,7 @@
 title: Переміщення блокнота
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2495"
 - "9000580"
-ms.openlocfilehash: d6cc387f5d1cd8293ce85b65d4a0e5b024c71daf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38bfd961675dfb25170ba05c4aac52711eabb20e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703754"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51803637"
 ---
 # <a name="how-to-move-a-onenote-notebook"></a>Переміщення блокнота OneNote
 
-* Щоб пересунути блокнот OneNote до onedrive, перейдіть до **папки**"спільний доступ до файлу", щоб  >  **Share**  >  **перенести блокноти** у програмі OneNote 2016. Щоб отримати докладніші відомості, перегляньте статтю [переміщення блокнота OneNote до служби "OneDrive](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) ".
+* Щоб перемістити блокнот OneNote до OneDrive, перейдіть до пункту Надання спільного доступу до   >    >  **файлів перемістити блокноти** в програмі OneNote 2016. Докладні [відомості див. в статтях](https://support.office.com/article/Move-a-OneNote-notebook-to-OneDrive-0af0a141-0bdf-49ab-9e50-45dbcca44082) Переміщення блокнота OneNote до OneDrive.
 
-* Щоб отримати додаткові відомості про практичні поради з підготовки до переміщення блокнотів, ознайомтеся з порадами щодо [синхронізації в програмі OneNote](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices).
+* Докладні відомості про те, як підготуватися до переміщення блокнотів, див. в розділі Поради із [синхронізації програми OneNote.](https://support.microsoft.com/help/2819334/onenote-syncing-best-practices)
 
-* [Перемістіть блокнот OneNote для Windows, до якого надано спільний доступ іншим користувачам,](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) надає докладні відомості про переміщення спільних блокнотів.
+* [Перемістіть блокнот OneNote для Windows,](https://support.office.com/article/Move-a-OneNote-for-Windows-notebook-that-you-ve-shared-with-others-56c7659e-1850-49a6-8874-e2db6b440cd4) до якого надано спільний доступ іншим користувачам, щоб отримати докладніші відомості про переміщення спільних блокнотів.
