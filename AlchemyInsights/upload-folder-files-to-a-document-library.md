@@ -1,33 +1,34 @@
 ---
-title: Завантаження папки або файлів до бібліотеки документів
+title: Передавання папки або файлів до бібліотеки документів
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002296"
 - "4447"
-ms.openlocfilehash: 9691ca17c5adc02893363fffc88207b87ee79132
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.openlocfilehash: 57f2c0cc7315684eb0d00ae60c6035f604c48017
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44283199"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782460"
 ---
-# <a name="upload-a-folder-or-files-to-a-document-library"></a>Завантаження папки або файлів до бібліотеки документів
+# <a name="upload-a-folder-or-files-to-a-document-library"></a>Передавання папки або файлів до бібліотеки документів
 
-Можна передавати файли у OneDrive.
+Ви можете завантажувати файли на OneDrive.
 
-- [Завантаження за допомогою синхронізації OneDrive](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Завантажити за допомогою синхронізатора OneDrive](https://support.office.com/article/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-Усунення проблем із завантаженням файлів у OneDrive або SharePoint. Див. статтю
+Вирішення проблем із завантаженням файлів у OneDrive або SharePoint. Див. статтю:
 
-- [Як вирішити проблеми з завантаженням файлів на веб-сайті OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [Вирішення проблем із передаванням файлів на веб-сайті OneDrive](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
-- [Обмеження файлів (неприпустимі символи, розмір завантаження файлу, довжина контуру тощо)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [Обмеження файлів (недійсні символи, розмір файлу, довжина шляху тощо)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
 - [Вирішення проблем із синхронізацією OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
