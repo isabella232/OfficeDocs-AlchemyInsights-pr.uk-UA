@@ -1,8 +1,8 @@
 ---
-title: Помилка активації – обліковий запис не дає змоги редагувати на комп'ютері Mac
+title: Проблема з активацією – обліковий запис не дозволяє редагування на комп'ютері Mac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69ccee6d9a412370577becb9c563d32ea0bb4038
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748850"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796005"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Виправлення програм Microsoft 365 "ваш обліковий запис не дає змоги редагувати повідомлення на комп'ютері Mac
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>Виправлення помилок у програмах Microsoft 365 "Ваш обліковий запис не дозволяє редагування на комп'ютері Mac"
 
-Якщо ви отримали це повідомлення, виконайте наведені нижче дії.
+Якщо ви отримали це повідомлення, спробуйте виконати такі дії:
 
 - Перевірте наявність передплати, яка підтримує клієнтські ліцензії, та [переконайтеся, що користувачу призначено ліцензію](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Завантажте та запустіть [засіб вилучення ліцензій](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193).

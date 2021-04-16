@@ -1,8 +1,8 @@
 ---
-title: 'Команди: подія в режимі реального часу – не вдається створити подію за допомогою зовнішнього кодувальника'
+title: 'Teams: подія наживо – не вдається створити подію із зовнішнім кодером'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8af975ce7d19e27b2eefda712ac778c0f703d6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796921"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797022"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Потрібно настроїти подію наживо за допомогою зовнішнього кодувальника?
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Потрібно налаштувати ефірну подію за допомогою зовнішнього кодека?
 
-Якщо у вас виникли проблеми з вашим кодувальником, щоб працювати зі своїми командами в режимі реального часу, ознайомтеся з документацією з настроювання кодувальника: [налаштування кодери для потокового передавання в програмі Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+Якщо у вас виникли проблеми з кодуванням для роботи з подією Teams у прямому ефірі, див. документацію з налаштування кодеків: налаштування кодорів для потокового передавання в [Microsoft Stream.](https://docs.microsoft.com/stream/live-encoder-setup)
