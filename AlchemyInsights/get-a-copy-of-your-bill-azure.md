@@ -1,8 +1,8 @@
 ---
-title: Потрібна копія рахунку або використання
+title: Потрібна копія рахунка або використання
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808373"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812446"
 ---
-# <a name="get-a-copy-of-your-bill-or-usage"></a>Отримання копії рахунку або використання
+# <a name="get-a-copy-of-your-bill-or-usage"></a>Отримання копії рахунка або використання
 
-**Завантажте свій Azure-рахунок (. PDF)**
+**Завантаження рахунка-фактури з Azure (PDF)**
 
-1. Виберіть передплату на сторінці " [передплати](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) " на порталі "Лазурний" як користувач, який [має доступ до рахунків-фактур](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) , а потім виберіть **рахунки-фактури**
-2. Натисніть кнопку **завантажити рахунок-фактуру** , щоб переглянути копію рахунка у форматі PDF. Якщо йдеться про **недоступність** , Дізнайтеся, [чому не відображається рахунок для останнього періоду виставлення рахунків?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Ви також можете переглянути щоденне використання, клацнувши період виставлення рахунків, щоб отримати PDF-фактуру та копію детального щоденного файлу використання (. CSV): [отримання рахунків і даних про використання](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Виберіть свою передплату на сторінці ["Передплати" на](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) порталі Azure як користувача з доступом до рахунків-фактур, [](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) а потім виберіть **Рахунки-фактури**
+2. Натисніть **кнопку Завантажити рахунок-фактуру,** щоб переглянути копію рахунка-фактури у форматі PDF. Якщо відображається повідомлення **Недоступно,** див. номери Чому не відображається рахунок-фактура за останній [розрахунковий період?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Ви також можете переглянути щоденне використання, клацнувши період виставлення рахунків. Щоб отримати pdf-файл рахунка та копію докладного файлу щоденного використання (). CSV: [отримання рахунка-фактури та даних про використання](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Отримання рахунка-фактури в електронному листі (. PDF)**
+**Отримання рахунка-фактури в електронному листі (PDF)**
 
-1. Виберіть передплату на сторінці " [передплати](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)". Виберіть пункт **рахунки** -фактури, а потім – **електронний рахунок**
-2. Натисніть кнопку **Увімкнути** й прийняти умови. Вам доведеться обрати для кожної передплатою, яку ви володієте. Примітка. Якщо ви не отримали повідомлення електронної пошти після виконання наведених нижче інструкцій, переконайтеся, що ваша адреса електронної пошти правильна в [параметрах спілкування в профілі](https://account.windowsazure.com/profile) .
-3. [Блакитні рахунки-фактури з електронною поштою безпосередньо до папки "Вхідні"](https://azure.microsoft.com/blog/azure-email-invoices/)
+1. Виберіть передплату на [сторінці Передплати.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Виберіть пункт **"Рахунки-фактури",** а **потім "Надіслати рахунок електронною поштою"**
+2. Натисніть **кнопку "Погодитися"** та прийміть умови. Вам доведеться погодитися на кожну передплату, якою ви володієте. Примітка. Якщо ви не отримаєте повідомлення електронної пошти після виконання кроків, переконайтеся, що ваша адреса електронної пошти правильна в параметрах [зв'язку у вашому профілі](https://account.windowsazure.com/profile)
+3. [Рахунки-фактури Azure, надіслані електронною поштою безпосередньо до папки "Вхідні"](https://azure.microsoft.com/blog/azure-email-invoices/)
 
-**Розуміння щоденного використання:**  
- [Розуміння рахунка за користування програмою Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Загальні відомості про щоденне використання.**  
+ [Розуміння рахунка за передплату на Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Керування витратами:** [запобігання неочікуваною витратою коштів на Лазурне виставлення рахунків і керування витратами](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Керування витратами. Запобігання** [неочікуваним витратм завдяки Виставленню рахунків і витрат в Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Угода про клієнтів Microsoft (MCA)** :
+**Клієнтська угода корпорації Майкрософт (MCA)**:
 
-Дізнайтеся  [, як перевірити доступ до угоди клієнта Microsoft?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-Якщо у вас є [угода з клієнтом Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), ви можете завантажити використання на [порталі Azure](https://portal.azure.com/)
+[Дізнайтеся, як перевірити доступ до клієнтської угоди Майкрософт?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+Якщо у вас є клієнтська угода [з майкрософт,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)ви можете завантажити її на [порталі Azure](https://portal.azure.com/)
 
-**Отримання рахунків-фактур для клієнтів Microsoft в електронній пошті** :
+**Отримайте рахунки-фактури з клієнтської угоди Майкрософт електронною поштою:**
 
-Якщо у вас є угода з клієнтом Microsoft, ви можете скористатися для отримання рахунка-фактури в електронному листі. Усі власники рахунків-фактур, співавтори, читачі та менеджери рахунків отримають рахунок-фактуру електронною поштою. Читачі не можуть оновлювати параметри рахунка-фактури електронної пошти
+Якщо у вас є Клієнтська угода з майкрософт, ви можете погодитися на отримання рахунка-фактури електронною поштою. Усі власники профілю виставлення рахунків, автори, читачі та менеджери рахунків отриматимуться електронною поштою. Читачі не можуть оновити параметри рахунка-фактури
 
-- Знайдіть **керування витратами + виставлення рахунків** . Виберіть **профіль виставлення рахунка** . У розділі Параметри виберіть пункт **Властивості** .
-- У розділі рахунок-фактура електронної пошти виберіть елемент **оновити параметри рахунка за електронною поштою** . Виберіть пункт Увімкнути. Натисніть кнопку **оновити**
+- Введіть у пошуку **Керування витратами + виставлення рахунків**. Виберіть профіль **виставлення рахунків**. У розділі "Настройки" виберіть пункт **"Властивості"**
+- У розділі Електронний рахунок-фактура виберіть **Оновити параметри рахунка-фактури.** Натисніть кнопку Opt in (Погодитися). Натисніть кнопку **"Оновити"**
 
-**Корпоративні угоди (EA)**
+**Договір "Enterprise Agreement" (EA)**
 
-Щоб переглянути та завантажити дані про використання як клієнта EA, потрібно бути адміністратором підприємства, власником облікового запису або адміністратором відділу з увімкнутою політикою "Перегляд".
+Щоб переглядати та завантажувати дані про використання як клієнта EA, потрібно бути адміністратором підприємства, власником облікового запису або адміністратором відділу, увімкнутою політикою стягування з подання.
 
-- Увійдіть на портал Azure. Знайдіть **керування витратами + виставлення рахунків** . Вибір профілю виставлення рахунка
-- Виберіть пункт використання + звинувачення. Щоб завантажити місяць, натисніть кнопку Завантажити.
+- Увійдіть на портал Azure. Введіть у пошуку **Керування витратами + виставлення рахунків**. Вибір профілю виставлення рахунків
+- Виберіть Використання + платежі. Для місяця, який потрібно завантажити, натисніть кнопку Завантажити
 
-**Передплата на MOHP Azure**  
-[Завантажити рахунок-фактуру "МОПП Лазурний"](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+**Передплата На MOSP Azure**  
+[Завантаження рахунка за передплату на MoSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
-**Усунення несправностей: не вдалося переглянути рахунок для останнього періоду виставлення рахунків?**
+**Усунення несправностей. Не вдається переглянути рахунок за останній розрахунковий період?**
 
-Деякі можливі причини, які можуть не відображатися в рахунку-фактурі:
+Рахунок-фактура може не відображатися з деяких можливих причин:
 
-- Ви маєте щомісячну суму кредиту з передплатою, яку ви не перевищували, або маєте безкоштовну ознайомлювальну версію. Рахунок-фактура генерується тільки тоді, коли ви зобов'язані грошима
-- Це менше 30 днів від дня, коли ви підписалися на Azure
-- Рахунок-фактуру ще не створено. Зачекайте до кінця періоду виставлення рахунків
-- Якщо ви не адміністратор облікового запису, ви можете отримати доступ до старіших рахунків-фактур **: Корпорація** Майкрософт не надає жодних звітів про використання або даних про споживання до клієнтів AZURE CSP. Дані про використання центру партнерів – це спрямовано на партнера
-- Додаткові відомості про виставлення рахунків і використання в програмі AIO (Лазурне відкриття): « [Лазурний](https://azure.microsoft.com/offers/ms-azr-0111p/) »
+- У вас є щомісячна сума кредиту з передплатою, яку ви не перевищили, або у вас є безкоштовне ознайомлення. Рахунок-фактура створюється, лише коли ви ненадійні гроші
+- З дня, коли ви передплатили Azure, менше ніж за 30 днів
+- Ще не створено рахунок-фактуру. Дочекайтеся завершення розрахункового періоду
+- Якщо ви не адміністратор облікового запису, старі рахунки-фактури можуть бути недоступні. Корпорація Майкрософт не надає клієнтам служби Azure CSP звіти про використання та дані про використання.  Дані про використання Центру партнерів – це партнери
+- Докладні відомості про виставлення рахунків і використання AIO (Azure) у відкритому виставленні рахунків і [використанні: Azure у відкритому](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
 **Рекомендовані документи**
 
 - [Чому не відображається рахунок-фактура?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [Запит/завантаження та перегляд даних про використання в лазурі для виставлення рахунків](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Надсилання електронних рахунків-фактур безпосередньо до папки "Вхідні"](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Запит або завантаження й перегляд рахунка-фактури та даних про використання Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Надсилання рахунків-фактур Azure електронною поштою безпосередньо в папку "Вхідні"](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Докладні витрати на використання](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [Розуміння термінів у рахунку-фактурі](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Що таке "рахунок-фактура Azure"](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Розуміння умов у рахунку-фактурі](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Загальні відомості про рахунки-фактури із CSP Azure](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

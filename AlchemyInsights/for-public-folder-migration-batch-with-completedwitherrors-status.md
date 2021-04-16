@@ -1,8 +1,8 @@
 ---
-title: Для пакета перенесення спільних папок із статусом CompletedWithErrors
+title: Пакет перенесення спільних папок зі станом CompletedWithErrors
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3532"
-ms.openlocfilehash: cbf5237fdb5c660057465e67702e35f68e545ddb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ed21bfb9069b56a4fc59b201bb3ad94c6bb6712
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744134"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812485"
 ---
-# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Для пакета перенесення спільних папок із статусом CompletedWithErrors
+# <a name="for-public-folder-migration-batch-with-completedwitherrors-status"></a>Пакет перенесення спільних папок зі станом CompletedWithErrors
 
-Виконайте наведені нижче дії, щоб завершити пакет, пропускаючи великі або погані елементи. 
-1. Затвердити пропущені пункти для пакета перенесення:
+Щоб завершити пакет, виконайте такі дії: 
+1. Затвердження пропущених елементів у пакеті перенесення:
 
     `Set-MigrationBatch \<batchname> -ApproveSkippedItems` 
-2. Виконайте таку команду, щоб затвердити пропущені елементи для запитів міграції, які "синхронізовано", але не завершено:
+2. Щоб схвалити пропущені елементи в запитах на перенесення, які не було виконано, скористайтеся такою командою:
 
     `$pf=Get-PublicFolderMailboxMigrationRequest | Get-PublicFolderMailboxMigrationRequestStatistics -IncludeReport; ForEach ($i in $pf) {if ($i.LargeItemsEncountered -gt 0 -or $i.BadItemsEncountered -gt 0) {Set-PublicFolderMailboxMigrationRequest $i.Identity.IdentifyingGuid -SkippedItemApprovalTime $([DateTime]::UtcNow)}}`
-3. Пакет перенесення та запити слід відновити та завершити протягом кількох хвилин.
+3. Пакети та запити перенесення мають відновитися й виконати через кілька хвилин.
 

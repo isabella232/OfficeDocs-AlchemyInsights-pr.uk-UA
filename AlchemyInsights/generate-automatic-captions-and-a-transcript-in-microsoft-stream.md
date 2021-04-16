@@ -1,8 +1,8 @@
 ---
-title: Створення автоматичних підписів і Стенограма в Microsoft Stream
+title: Створення автоматичних субтитрів і запису стеноксів у Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707804"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812449"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Створення автоматичних підписів і Стенограма в Microsoft Stream
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Створення автоматичних субтитрів і запису стеноксів у Microsoft Stream
 
-Потокове передавання даних може автоматично генерувати підписи за допомогою автоматичних технологій розпізнавання мовлення, а також переглядати вікно "Стенограма прокручування", щоб легко переходити між ними та слідкувати за ними, а також за допомогою усного вмісту відео.
+Потокове передавання може автоматично створювати підписи за допомогою технології автоматичного розпізнавання мовлення, а також переглядати вікно записа розмов, що прокручується, щоб легко переходити між елементами керування й стежити за вмістом відео.
 
-- [Створення автоматичних підписів і Стенограма для відео Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Створення автоматичних субтитрів і запису стеноксів для відео Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Відображення вікна «Стенограма прокручування» для відео в Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Відображення вікна запису стенограми, що прокручується, для відео в Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
