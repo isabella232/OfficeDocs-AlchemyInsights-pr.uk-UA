@@ -1,8 +1,8 @@
 ---
-title: Придбання планів Office 365 для навчальних закладів
+title: Придбання планів Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94e1a17639d69d7271ea9b222486432b998bdcfb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703609"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810829"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="b2c82-102">Придбання планів Office 365 для навчальних закладів</span><span class="sxs-lookup"><span data-stu-id="b2c82-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="8c549-102">Придбання планів Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="8c549-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="b2c82-103">Кваліфікація Office 365 для навчальних закладів перебуває в розділі рецензування.</span><span class="sxs-lookup"><span data-stu-id="b2c82-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="b2c82-104">Ви можете розраховувати на отримання сповіщень про визначення вашого права, перш ніж закінчиться термін дії ознайомлювальної версії.</span><span class="sxs-lookup"><span data-stu-id="b2c82-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
+<span data-ttu-id="8c549-103">Відповідність вашого навчального закладу на кваліфікацію Office 365 Education ще не розглядати.</span><span class="sxs-lookup"><span data-stu-id="8c549-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="8c549-104">Перш ніж термін дії ознайомлювальних передплат завершиться, ви отримаєте сповіщення з рішенням.</span><span class="sxs-lookup"><span data-stu-id="8c549-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>

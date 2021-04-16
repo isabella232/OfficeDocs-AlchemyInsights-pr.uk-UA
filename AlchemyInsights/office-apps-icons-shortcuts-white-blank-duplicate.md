@@ -1,8 +1,8 @@
 ---
-title: Піктограми та сполучення клавіш у програмах Microsoft 365 (білий, пустий або повторюваний)
+title: Піктограми та ярлики програм Microsoft 365 білі, пусті або дублікати
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 57112a1fe9e407d1f95c26fac86c0ae0b60d98d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: df72f583d698cbcbe3e399a94763801935d55ee5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802942"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810145"
 ---
-# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="405ba-102">Піктограми програми Office або ярлики – білий, пустий або повторюваний</span><span class="sxs-lookup"><span data-stu-id="405ba-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
+# <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a><span data-ttu-id="1886d-102">Піктограми програм Office або ярлики білі, пусті або дублікати</span><span class="sxs-lookup"><span data-stu-id="1886d-102">Office app icons or shortcuts are white, blank, or duplicate</span></span>
 
-<span data-ttu-id="405ba-103">Якщо піктограми програми Office виглядають порожніми або білими, скористайтеся [ремонтом програми Office](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span><span class="sxs-lookup"><span data-stu-id="405ba-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="405ba-104">Щоб видалити повторювані піктограми програм Office, ознайомтеся зі [сполученнями клавіш Office, які залишаться після видалення Office](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span><span class="sxs-lookup"><span data-stu-id="405ba-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
+<span data-ttu-id="1886d-103">Якщо піктограми програм Office відображаються пустими або білими, [спробуйте відновити програму Office.](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b)</span><span class="sxs-lookup"><span data-stu-id="1886d-103">If Office app icons appear blank or white, try [Repair an Office application](https://support.office.com/article/repair-an-office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).</span></span> <span data-ttu-id="1886d-104">Відомості про видалення повторюваних піктограм програм Office див. в розділі [Ярлики програм Office після видалення пакета Office.](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565)</span><span class="sxs-lookup"><span data-stu-id="1886d-104">To remove duplicate Office app icons, see [Office shortcuts remain after Office uninstall](https://support.office.com/article/office-shortcuts-remain-after-office-uninstall-cc04b8e2-6e91-4c10-94af-9359e595d565).</span></span>
 
-<span data-ttu-id="405ba-105">Для отримання додаткових відомостей див. [піктограми Office пусті після інсталяції пакета Office із магазину Microsoft](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span><span class="sxs-lookup"><span data-stu-id="405ba-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
+<span data-ttu-id="1886d-105">Докладні відомості див. в статті Після інсталяції Office із Microsoft Store піктограми [пусті.](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59)</span><span class="sxs-lookup"><span data-stu-id="1886d-105">For more information, see [Office icons are blank after installing Office from the Microsoft Store](https://support.office.com/article/office-icons-are-blank-after-installing-office-from-the-microsoft-store-7cdaebde-93d5-4873-b767-d9ddc0474d59).</span></span>
