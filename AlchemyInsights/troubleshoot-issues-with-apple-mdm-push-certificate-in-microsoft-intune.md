@@ -1,8 +1,8 @@
 ---
-title: Виправлення неполадок із сертифікатом Push-служби Apple DM в Microsoft InTune
+title: Усунення несправностей, пов'язаних із сертифікатом Apple MDM Push Certificate у Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,19 +13,19 @@ ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
 ms.custom:
 - "782"
 - "6200002"
-ms.openlocfilehash: efb67cb3609266b40c564569941c1598637b5898
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8154cba0aa63356f83cedd1329366ac5712fe2c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709055"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797418"
 ---
-# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="688ca-102">Виправлення неполадок із сертифікатом Push-служби Apple DM в Microsoft InTune</span><span class="sxs-lookup"><span data-stu-id="688ca-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a><span data-ttu-id="c9fcf-102">Усунення несправностей, пов'язаних із сертифікатом Apple MDM Push Certificate у Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="c9fcf-102">Troubleshoot issues with Apple MDM Push Certificate in Microsoft Intune</span></span>
 
-<span data-ttu-id="688ca-103">Перегляньте наведені нижче ресурси, щоб вирішити проблему.</span><span class="sxs-lookup"><span data-stu-id="688ca-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="c9fcf-103">Перегляньте наведені нижче ресурси, щоб усунути проблему зараз.</span><span class="sxs-lookup"><span data-stu-id="c9fcf-103">Review the resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="688ca-104">Перегляньте [цей документ](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) , щоб настроїти або поновити сертифікат на Push-службу Apple MDM.</span><span class="sxs-lookup"><span data-stu-id="688ca-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span>
+1. <span data-ttu-id="c9fcf-104">Перегляньте [цей документ,](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) щоб налаштувати або поновити сертифікат Push-сертифікат Apple MDM.</span><span class="sxs-lookup"><span data-stu-id="c9fcf-104">Review [this document](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) to configure or renew Apple MDM push certificate.</span></span>
 
-2. <span data-ttu-id="688ca-105">Використовуйте [портал виправлення неполадок](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , щоб діагностувати та усунути поширені помилки в реєстрації.</span><span class="sxs-lookup"><span data-stu-id="688ca-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="688ca-106">Перегляньте [цей документ](https://docs.microsoft.com/intune/help-desk-operators) , щоб отримати докладні відомості.</span><span class="sxs-lookup"><span data-stu-id="688ca-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+2. <span data-ttu-id="c9fcf-105">На [порталі виправлення неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) можна діагностувати та усунути поширені помилки входу.</span><span class="sxs-lookup"><span data-stu-id="c9fcf-105">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="c9fcf-106">Перегляньте [цей документ,](https://docs.microsoft.com/intune/help-desk-operators) щоб дізнатися більше.</span><span class="sxs-lookup"><span data-stu-id="c9fcf-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-3. <span data-ttu-id="688ca-107">Перегляньте ці документи для списку поширених помилок, які перешкоджають виконанню та резолюціям кожного з них: [посібник із виправлення неполадок](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) і [Виправлення неполадок із документами](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="688ca-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).</span></span>
+3. <span data-ttu-id="c9fcf-107">Перегляньте ці документи, щоб отримати список типових помилок, які [](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) запобігають веденю та вирішене проблем із кожним [документом:](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)Посібник із виправлення неполадок і Виправлення неполадок.</span><span class="sxs-lookup"><span data-stu-id="c9fcf-107">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) and [Troubleshooting doc](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).</span></span>

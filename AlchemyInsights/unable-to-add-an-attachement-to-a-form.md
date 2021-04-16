@@ -1,8 +1,8 @@
 ---
-title: Не вдається додати вкладення до форми з зовнішнім обличчям
+title: Не вдається додати вкладення до зовнішньої форми
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 50434b664d0fbec6788f7d5601f39123420489bd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797346"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="a4a0d-102">Не вдається додати вкладення до форми з зовнішнім обличчям</span><span class="sxs-lookup"><span data-stu-id="a4a0d-102">Unable to add an attachment to an externally-facing form</span></span>
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a><span data-ttu-id="8532a-102">Не вдається додати вкладення до зовнішньої форми</span><span class="sxs-lookup"><span data-stu-id="8532a-102">Unable to add an attachment to an externally-facing form</span></span>
 
-<span data-ttu-id="a4a0d-103">Якщо ви намагаєтеся додати вкладення до зовнішнього опитування Microsoft Forms, ця функція ще не доступна.</span><span class="sxs-lookup"><span data-stu-id="a4a0d-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="a4a0d-104">Щоб відстежувати стан запиту на функцію, перейдіть до [цього запису UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)та додайте свій голос.</span><span class="sxs-lookup"><span data-stu-id="a4a0d-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
+<span data-ttu-id="8532a-103">Якщо ви намагаєтеся додати вкладення до зовнішнього опитування Microsoft Forms, ця функція поки що недоступна.</span><span class="sxs-lookup"><span data-stu-id="8532a-103">If you are trying to add an attachment to an external Microsoft Forms survey, that feature is not yet available.</span></span> <span data-ttu-id="8532a-104">Щоб відстежувати стан цього запиту на функції, перейдіть до [цієї заявки UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)і додайте свій голос.</span><span class="sxs-lookup"><span data-stu-id="8532a-104">To track the status of that feature request, go to [this UserVoice entry](https://go.microsoft.com/fwlink/?linkid=2133069), and add your vote.</span></span>
