@@ -1,8 +1,8 @@
 ---
-title: Як формально завершити нараду
+title: Офіційне завершення наради
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780440"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825716"
 ---
-# <a name="how-to-formally-end-a-meeting"></a><span data-ttu-id="46d6a-102">Як формально завершити нараду</span><span class="sxs-lookup"><span data-stu-id="46d6a-102">How to formally end a meeting</span></span>
+# <a name="how-to-formally-end-a-meeting"></a><span data-ttu-id="f1996-102">Офіційне завершення наради</span><span class="sxs-lookup"><span data-stu-id="f1996-102">How to formally end a meeting</span></span>
 
-<span data-ttu-id="46d6a-103">Організатори наради можуть завершити нараду для всіх учасників наради в командах, клацнувши елемент **завершити нараду** в елементах керування наради в межах наради.</span><span class="sxs-lookup"><span data-stu-id="46d6a-103">Meeting organizers can end a meeting for all meeting participants in Teams by clicking **End meeting** in the meeting controls within the meeting.</span></span>  
+<span data-ttu-id="f1996-103">Організатори наради можуть завершити нараду для  всіх учасників наради в Teams, натиснувши кнопку Завершити нараду в елементах керування нарадою.</span><span class="sxs-lookup"><span data-stu-id="f1996-103">Meeting organizers can end a meeting for all meeting participants in Teams by clicking **End meeting** in the meeting controls within the meeting.</span></span>  
 
-<span data-ttu-id="46d6a-104">Щоб завершити нараду під час виконання для всіх учасників, виберіть елемент елементи керування наради, клацніть піктограму 3-точкова, а потім натисніть кнопку завершити нараду.</span><span class="sxs-lookup"><span data-stu-id="46d6a-104">To end an in-progress meeting for all participants, select meeting controls, select the 3-dot icon, and click on End Meeting.</span></span> <span data-ttu-id="46d6a-105">З'явиться запит на підтвердження вибору.</span><span class="sxs-lookup"><span data-stu-id="46d6a-105">You’ll be asked to confirm your selection.</span></span> <span data-ttu-id="46d6a-106">Якщо підтвердити вибраний варіант, нараду буде завершуватиметься для всіх користувачів.</span><span class="sxs-lookup"><span data-stu-id="46d6a-106">Confirming your selection will end the meeting for everyone.</span></span>
+<span data-ttu-id="f1996-104">Щоб завершити активну нараду для всіх учасників, виберіть елементи керування нарадою, клацніть піктограму із 3 крапками та натисніть кнопку Завершити нараду.</span><span class="sxs-lookup"><span data-stu-id="f1996-104">To end an in-progress meeting for all participants, select meeting controls, select the 3-dot icon, and click on End Meeting.</span></span> <span data-ttu-id="f1996-105">Вам буде запропоновано підтвердити вибір.</span><span class="sxs-lookup"><span data-stu-id="f1996-105">You’ll be asked to confirm your selection.</span></span> <span data-ttu-id="f1996-106">Підтвердження вибору завершить нараду для всіх учасників.</span><span class="sxs-lookup"><span data-stu-id="f1996-106">Confirming your selection will end the meeting for everyone.</span></span>
 
-<span data-ttu-id="46d6a-107">Зверніть увагу: лише Організатор наради може "завершити нараду".</span><span class="sxs-lookup"><span data-stu-id="46d6a-107">NOTE: Only the meeting organizer can "end" a meeting.</span></span>
+<span data-ttu-id="f1996-107">ПРИМІТКА. Нараду може "завершити лише організатор наради".</span><span class="sxs-lookup"><span data-stu-id="f1996-107">NOTE: Only the meeting organizer can "end" a meeting.</span></span>

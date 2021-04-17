@@ -2,7 +2,7 @@
 title: Програма Yammer Communities для Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,23 +14,23 @@ ms.custom:
 - "5134"
 - "9002653"
 - "5129"
-ms.openlocfilehash: 89d71126b5663ea11f7ca9166b2e72e854953dcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94c2b184d433c918bc1cf04e0547734e65fb3568
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825860"
 ---
-# <a name="yammer-communities-app-for-microsoft-teams"></a><span data-ttu-id="c1b5c-102">Програма Yammer Communities для Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="c1b5c-102">Yammer Communities app for Microsoft Teams</span></span>
+# <a name="yammer-communities-app-for-microsoft-teams"></a><span data-ttu-id="1f3b6-102">Програма Yammer Communities для Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1f3b6-102">Yammer Communities app for Microsoft Teams</span></span>
 
-<span data-ttu-id="c1b5c-103">Програма Yammer Communities, за допомогою якої можна будувати взаємовідносини та ділитися знаннями в командах і в усій організації, тепер доступна в Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="c1b5c-103">Yammer Communities, which enables you to build relationships and share knowledge across teams and the entire organization, are now available in an app while working in Microsoft Teams.</span></span> <span data-ttu-id="c1b5c-104">Програму можна закріпити в Teams зліва.</span><span class="sxs-lookup"><span data-stu-id="c1b5c-104">You can pin the app to the left side of Teams.</span></span> 
+<span data-ttu-id="1f3b6-103">Програма Yammer Communities, за допомогою якої можна будувати взаємовідносини та ділитися знаннями в командах і в усій організації, тепер доступна в Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="1f3b6-103">Yammer Communities, which enables you to build relationships and share knowledge across teams and the entire organization, are now available in an app while working in Microsoft Teams.</span></span> <span data-ttu-id="1f3b6-104">Програму можна закріпити в Teams зліва.</span><span class="sxs-lookup"><span data-stu-id="1f3b6-104">You can pin the app to the left side of Teams.</span></span> 
 
-- <span data-ttu-id="c1b5c-105">Докладні відомості див. в статті [Програма Yammer Communities для Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="c1b5c-105">Please see [Yammer Communities app for Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409) for more information.</span></span>
+- <span data-ttu-id="1f3b6-105">Докладні відомості див. в статті [Програма Yammer Communities для Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="1f3b6-105">Please see [Yammer Communities app for Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=2127757&clcid=0x409) for more information.</span></span>
 
-<span data-ttu-id="c1b5c-106">**Пряме посилання на програму Yammer Communities**</span><span class="sxs-lookup"><span data-stu-id="c1b5c-106">**Direct link to Yammer Communities app**</span></span>
+<span data-ttu-id="1f3b6-106">**Пряме посилання на програму Yammer Communities**</span><span class="sxs-lookup"><span data-stu-id="1f3b6-106">**Direct link to Yammer Communities app**</span></span>
 
-- <span data-ttu-id="c1b5c-107">Ви можете поділитися [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) з користувачами, щоб напряму пов’язати й **додати** програму Yammer Communities у Teams.</span><span class="sxs-lookup"><span data-stu-id="c1b5c-107">You can share [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) with users to directly link to and **add** the Yammer Communities app within Teams.</span></span>
+- <span data-ttu-id="1f3b6-107">Ви можете поділитися [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) з користувачами, щоб напряму пов’язати й **додати** програму Yammer Communities у Teams.</span><span class="sxs-lookup"><span data-stu-id="1f3b6-107">You can share [https://aka.ms/YammerInTeams](https://aka.ms/YammerInTeams) with users to directly link to and **add** the Yammer Communities app within Teams.</span></span>
 
-<span data-ttu-id="c1b5c-108">**Розгортання в усій організації**</span><span class="sxs-lookup"><span data-stu-id="c1b5c-108">**Company-wide rollout**</span></span>
+<span data-ttu-id="1f3b6-108">**Розгортання в усій організації**</span><span class="sxs-lookup"><span data-stu-id="1f3b6-108">**Company-wide rollout**</span></span>
 
-- <span data-ttu-id="c1b5c-109">Щоб інсталювати програму Yammer Communities для Microsoft Teams в усій організації, адміністратори можуть скористатися [спеціальними політиками](https://docs.microsoft.com/microsoftteams/manage-apps), яка дає змогу розгорнути та закріпити програму для всіх користувачів або окремих підрозділів.</span><span class="sxs-lookup"><span data-stu-id="c1b5c-109">If you'd like to install the Yammer Communities app for Microsoft Teams across your organization, Admins can choose to deploy and pin the app for all users or particular departments through [custom policies](https://docs.microsoft.com/microsoftteams/manage-apps).</span></span> <span data-ttu-id="c1b5c-110">Зверніть увагу, що на те, щоб політика поширилася серед усіх клієнтів, може знадобитися принаймні 2 години.</span><span class="sxs-lookup"><span data-stu-id="c1b5c-110">Please note it may take at least 2 hours for a policy to propagate to all clients.</span></span>
+- <span data-ttu-id="1f3b6-109">Щоб інсталювати програму Yammer Communities для Microsoft Teams в усій організації, адміністратори можуть скористатися [спеціальними політиками](https://docs.microsoft.com/microsoftteams/manage-apps), яка дає змогу розгорнути та закріпити програму для всіх користувачів або окремих підрозділів.</span><span class="sxs-lookup"><span data-stu-id="1f3b6-109">If you'd like to install the Yammer Communities app for Microsoft Teams across your organization, Admins can choose to deploy and pin the app for all users or particular departments through [custom policies](https://docs.microsoft.com/microsoftteams/manage-apps).</span></span> <span data-ttu-id="1f3b6-110">Зверніть увагу, що на те, щоб політика поширилася серед усіх клієнтів, може знадобитися принаймні 2 години.</span><span class="sxs-lookup"><span data-stu-id="1f3b6-110">Please note it may take at least 2 hours for a policy to propagate to all clients.</span></span>
