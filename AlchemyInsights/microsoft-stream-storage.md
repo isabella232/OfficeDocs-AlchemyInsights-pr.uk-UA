@@ -1,8 +1,8 @@
 ---
-title: Сховище потоку Microsoft Stream
+title: Сховище Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001510"
 - "3570"
-ms.openlocfilehash: 448052dba14e42d21ec965c9b38d85a498ac4b82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ee4c331cf706574df5a52ed66c72b775e2eed1d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675319"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833960"
 ---
-# <a name="microsoft-stream-storage"></a><span data-ttu-id="54b2e-102">Сховище потоку Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="54b2e-102">Microsoft Stream Storage</span></span>
+# <a name="microsoft-stream-storage"></a><span data-ttu-id="6e718-102">Сховище Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="6e718-102">Microsoft Stream Storage</span></span>
 
-<span data-ttu-id="54b2e-103">Користувачі Microsoft Stream отримують постійні асигнування на 500 ГБ сховища та додаткові 0,5 ГБ сховища на ліцензований користувач.</span><span class="sxs-lookup"><span data-stu-id="54b2e-103">Microsoft Stream tenants receive a fixed allocation of 500 GB of storage and an additional 0.5 GB of storage per licensed user.</span></span>
-<span data-ttu-id="54b2e-104">Докладні відомості про сховище наведено в статті:</span><span class="sxs-lookup"><span data-stu-id="54b2e-104">For more details on storage, see:</span></span>
+<span data-ttu-id="6e718-103">Клієнтів Microsoft Stream отримують фіксований обсяг сховища обсягом 500 ГБ і додатково 0,5 ГБ сховища для кожного ліцензованого користувача.</span><span class="sxs-lookup"><span data-stu-id="6e718-103">Microsoft Stream tenants receive a fixed allocation of 500 GB of storage and an additional 0.5 GB of storage per licensed user.</span></span>
+<span data-ttu-id="6e718-104">Докладні відомості про сховище див. в перенесених нижче місцях.</span><span class="sxs-lookup"><span data-stu-id="6e718-104">For more details on storage, see:</span></span>
 
-- [<span data-ttu-id="54b2e-105">Огляд сховища Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="54b2e-105">Microsoft Stream Storage Overview</span></span>](https://docs.microsoft.com/stream/license-overview#storage)
-- [<span data-ttu-id="54b2e-106">Додавання сховища до Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="54b2e-106">Add storage to Microsoft Stream</span></span>](https://docs.microsoft.com/stream/storage-add-on)
-- [<span data-ttu-id="54b2e-107">Квоти та обмеження в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="54b2e-107">Quotas and limitations in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/quotas-and-limitations)
+- [<span data-ttu-id="6e718-105">Огляд сховища Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="6e718-105">Microsoft Stream Storage Overview</span></span>](https://docs.microsoft.com/stream/license-overview#storage)
+- [<span data-ttu-id="6e718-106">Додавання сховища до Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="6e718-106">Add storage to Microsoft Stream</span></span>](https://docs.microsoft.com/stream/storage-add-on)
+- [<span data-ttu-id="6e718-107">Квоти та обмеження в Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="6e718-107">Quotas and limitations in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/quotas-and-limitations)

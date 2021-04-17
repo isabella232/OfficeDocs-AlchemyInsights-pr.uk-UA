@@ -1,8 +1,8 @@
 ---
-title: Дослідний досвід групи Microsoft
+title: Ознайомлення з Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480740"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833816"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="8101c-102">Дослідний досвід групи Microsoft</span><span class="sxs-lookup"><span data-stu-id="8101c-102">Microsoft Teams Exploratory experience</span></span>
+# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="37ae6-102">Ознайомлення з Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="37ae6-102">Microsoft Teams Exploratory experience</span></span>
 
-- <span data-ttu-id="8101c-103">Що таке [дослідницький групи](https://docs.microsoft.com/microsoftteams/teams-exploratory)?</span><span class="sxs-lookup"><span data-stu-id="8101c-103">What is [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)?</span></span> <span data-ttu-id="8101c-104">Дослідницький досвід групи Microsoft дає змогу користувачам у вашій організації, які не мають ліцензії для роботи з групами, ініціюють роботу груп.</span><span class="sxs-lookup"><span data-stu-id="8101c-104">The Microsoft Teams Exploratory experience lets users in your organization who are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="8101c-105">Щоб отримати докладніші відомості, ознайомтеся з відомостями про [досвід роботи з групами](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).</span><span class="sxs-lookup"><span data-stu-id="8101c-105">For more information, please see [what's in the Teams Exploratory experience](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).</span></span>
-- [<span data-ttu-id="8101c-106">Скільки часу триває дослідницьке час роботи групи?</span><span class="sxs-lookup"><span data-stu-id="8101c-106">How long does the Teams Exploratory experience last?</span></span>](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) <span data-ttu-id="8101c-107">Дослідницький досвід групи Microsoft доступний без додаткової вартості протягом 12 місяців (від початкового входу користувача) плюс додатковий 30-денна пільговий період.</span><span class="sxs-lookup"><span data-stu-id="8101c-107">The Microsoft Teams Exploratory experience is available at no additional cost for 12 months (from initial user sign-up) plus an additional 30 day grace period.</span></span>
-- <span data-ttu-id="8101c-108">Адміністратор дає змогу [оновлювати користувачів із відповідної](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) ліцензії на групи, придбавши передплату, яка міститиме команди, видаливши передплату на групи, щоб надати користувачу, а також привласнення щойно придбаної ліцензії.</span><span class="sxs-lookup"><span data-stu-id="8101c-108">As an admin, you can [upgrade users from the Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) license by purchasing a subscription that includes Teams, removing the Teams exploratory subscription from the user, and assigning the newly purchased license.</span></span>
-- <span data-ttu-id="8101c-109">Докладні відомості наведено в статті [керування ліцензійними групами](https://docs.microsoft.com/microsoftteams/teams-exploratory).</span><span class="sxs-lookup"><span data-stu-id="8101c-109">For more information, see [Manage the Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory).</span></span>
+- <span data-ttu-id="37ae6-103">Що таке ["Дослідження Teams"?](https://docs.microsoft.com/microsoftteams/teams-exploratory)</span><span class="sxs-lookup"><span data-stu-id="37ae6-103">What is [Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory)?</span></span> <span data-ttu-id="37ae6-104">Ознайомлювачі Microsoft Teams дають змогу користувачам в організації, які не мають ліцензії Teams, ініціювати дослідження Teams.</span><span class="sxs-lookup"><span data-stu-id="37ae6-104">The Microsoft Teams Exploratory experience lets users in your organization who are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="37ae6-105">Докладні відомості див. в цій [програмі.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)</span><span class="sxs-lookup"><span data-stu-id="37ae6-105">For more information, please see [what's in the Teams Exploratory experience](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).</span></span>
+- [<span data-ttu-id="37ae6-106">Скільки часу триває ознайомлення з Teams?</span><span class="sxs-lookup"><span data-stu-id="37ae6-106">How long does the Teams Exploratory experience last?</span></span>](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) <span data-ttu-id="37ae6-107">Можливість ознайомлення з Microsoft Teams доступна безкоштовно протягом 12 місяців (з початкової реєстрації користувача) і додаткового 30-денного пільгного періоду.</span><span class="sxs-lookup"><span data-stu-id="37ae6-107">The Microsoft Teams Exploratory experience is available at no additional cost for 12 months (from initial user sign-up) plus an additional 30 day grace period.</span></span>
+- <span data-ttu-id="37ae6-108">Як адміністратор ви можете оновити користувачів за ліцензією [Teams Exploratory,](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) придбавши передплату з Teams, видаливши передплату на ознайомлювальну версію Teams від користувача та призначивши придбану ліцензію.</span><span class="sxs-lookup"><span data-stu-id="37ae6-108">As an admin, you can [upgrade users from the Teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) license by purchasing a subscription that includes Teams, removing the Teams exploratory subscription from the user, and assigning the newly purchased license.</span></span>
+- <span data-ttu-id="37ae6-109">Докладні відомості див. [в розділі Керування ліцензією teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory).</span><span class="sxs-lookup"><span data-stu-id="37ae6-109">For more information, see [Manage the Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory).</span></span>
