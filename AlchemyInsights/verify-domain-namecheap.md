@@ -1,8 +1,8 @@
 ---
-title: Підтвердження права власності на домен за допомогою Namingдешево
+title: Перевірка домену за допомогою Namecheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 670cdc69c8054c41c0d768d7beafc245b8145f24
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: dbeecb016708a127ea3980f11b793041f2f3f447
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815842"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824276"
 ---
-# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="08a87-102">Підтвердження права власності на домен за допомогою Namingдешево</span><span class="sxs-lookup"><span data-stu-id="08a87-102">Verify your domain with Namecheap</span></span>
+# <a name="verify-your-domain-with-namecheap"></a><span data-ttu-id="25d0d-102">Перевірка домену за допомогою Namecheap</span><span class="sxs-lookup"><span data-stu-id="25d0d-102">Verify your domain with Namecheap</span></span>
 
-<span data-ttu-id="08a87-103">Щоб перевірити свій домен, потрібно додати запис TXT до реєстратора доменів, щоб переконатися, що ви володієте вашим доменом.</span><span class="sxs-lookup"><span data-stu-id="08a87-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
+<span data-ttu-id="25d0d-103">Щоб підтвердити своє права власності на домен, знадобиться додати запис TXT до свого реєстратора доменів.</span><span class="sxs-lookup"><span data-stu-id="25d0d-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> 
 
-<span data-ttu-id="08a87-104">Спершу виконайте [Майстер додавання домену](https://admin.microsoft.com/Adminportal#/Domains) , вибравши пункт **настройки** \> **доменів**, а потім **Додайте домен**.</span><span class="sxs-lookup"><span data-stu-id="08a87-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
+<span data-ttu-id="25d0d-104">Спочатку виконайте вказівки [майстра додавання доменів,](https://admin.microsoft.com/Adminportal#/Domains) вибравши **Параметри** \> **Домени**, а потім – **Додати домен**.</span><span class="sxs-lookup"><span data-stu-id="25d0d-104">First, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains) by selecting **Settings** \> **Domains**, and then **Add domain**.</span></span>
   
-<span data-ttu-id="08a87-105">Перегляньте статтю [створення записів DNS на Namicдешево для Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) для покрокових інструкцій.</span><span class="sxs-lookup"><span data-stu-id="08a87-105">See [Create DNS records at Namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>
+<span data-ttu-id="25d0d-105">Покрокові вказівки див. в статті Створення записів DNS для [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) на сайті Namecheap.</span><span class="sxs-lookup"><span data-stu-id="25d0d-105">See [Create DNS records at Namecheap for Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) for step-by-step instructions.</span></span>
