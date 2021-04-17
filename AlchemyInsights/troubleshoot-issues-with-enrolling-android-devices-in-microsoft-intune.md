@@ -1,8 +1,8 @@
 ---
-title: Виправлення неполадок під час реєстрації пристроїв на платформі Android у Microsoft InTune
+title: Усунення несправностей із записуванням пристроїв Android у Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,35 +13,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: cc8c68a1e838f67c4510002b2c7ff5294a4649fe
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 08620a44dcf693482c65ff05e19f11870f67afbe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709019"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830963"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Виправлення неполадок під час реєстрації пристроїв на платформі Android у Microsoft InTune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Усунення несправностей із записуванням пристроїв Android у Microsoft Intune
 
-Перегляньте наведені нижче ресурси, щоб вирішити проблему.
+Перегляньте наведені нижче ресурси, щоб усунути проблему зараз.
   
-Деякі поширені проблеми та вказівки з вирішення:
+Нижче наведено деякі поширені проблеми та спосіб вирішення.
   
- **Пристрій не зашифрована помилка на порталі компанії:** Новіші версії Android, зокрема, починаючи з v 7.0, вимагають код запуску, щоб переконатися, що пристрій повністю зашифровано. Загальні рішення дають змогу активувати PIN-код або повністю зашифрувати пристрій. Перегляньте [цей документ](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) , щоб отримати докладні відомості.
+ **Помилка пристрою, не зашифрованого на порталі компанії:** Щоб повністю шифрувати пристрій, у новіших версіях Android, особливо починаючи з версії 7.0, потрібен код допуску. Поширені рішення дають змогу ввімкнути pin-код запуску або повністю шифрувати пристрій. Перегляньте [цей документ,](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) щоб отримати докладніші відомості.
   
- **Не вдається виконати вхід за допомогою служби InTune або відображення як "нездорові" в консолі адміністрування inune:** Деякі пристрої Samsung 4,4 і 5,5 можуть не перевіряти в службу. Цю проблему наведено в трьох можливих варіантів:
+ Не вдається перевірити пристрій за допомогою служби Intune або відобразити стан "Несприятливий" у консолі **адміністратора Intune:** Деякі пристрої Samsung 4.4 та 5.5 можуть не потрапити до служби. Цю проблему можна вирішити 3 способами:
   
-1. Вручну відкрийте програму "портал компанії", яка автоматично ініціюватиме синхронізацію пристрою.
+1. Вручну відкрийте програму Intune Company Portal, яка автоматично ініціюватиме синхронізацію пристроїв.
 
-2. Оновіть пристрій до Android 6,0 або новішої версії.
+2. Оновіть пристрій до Android 6.0 або новішої версії.
 
-3. Вимкніть програму Samsung Smart Manager від керування порталом компанії Inune. Перегляньте [цей документ](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) , щоб отримати докладні відомості про ці проблеми та способи вирішення.
+3. Вимкніть Samsung Smart Manager на порталі компанії Intune. Перегляньте [цей документ,](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) щоб отримати додаткові відомості про ці проблеми та вирішення.
 
- Помилка **типу ліцензії користувача** або **ім'я користувача не розпізнано:** користувач має бути призначений ЛІЦЕНЗІЄЮ inune або EMS. Перегляньте ці документи, щоб призначити ліцензію через: Центр адміністрування Office або портал Azure Portal.
+ **Помилка "Тип ліцензії користувача"** Неприпустимий або Не розпізнано ім'я **користувача:** користувачу потрібно призначити ліцензію Intune або EMS. Перегляньте ці документи, щоб призначити ліцензію через: Центр адміністрування Office або портал Azure.
   
-Додаткові ресурси, які допоможуть вирішити проблему.
+Додаткові ресурси, які допоможуть вирішити вашу проблему:
   
-1. Використовуйте [портал виправлення неполадок](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , щоб діагностувати та усунути поширені помилки в реєстрації. Перегляньте [цей документ](https://docs.microsoft.com/intune/help-desk-operators) , щоб отримати докладні відомості.
+1. На [порталі виправлення неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) можна діагностувати та усунути поширені помилки входу. Перегляньте [цей документ,](https://docs.microsoft.com/intune/help-desk-operators) щоб дізнатися більше.
 
-2. Перегляньте [цей документ](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) для списку поширених помилок, які перешкоджають виконанню та дозволах для кожного з них.
+2. Перегляньте [цей документ,](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) щоб переглянути список типових помилок, які запобігають їй в списках і їх вирішення.
 
-3. [Дізнайтеся, як зареєструвати пристрої Android у Microsoft InTune](https://docs.microsoft.com/intune/android-enroll).
+3. [Дізнайтеся, як затвердити пристрої Android у Microsoft Intune.](https://docs.microsoft.com/intune/android-enroll)

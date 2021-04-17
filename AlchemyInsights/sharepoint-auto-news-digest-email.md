@@ -1,8 +1,8 @@
 ---
-title: Електронна пошта автоматичного дайджесту SharePoint
+title: Електронна пошта з автоматичним дайджестом SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751192"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831215"
 ---
-# <a name="sharepoint-auto-digest-email"></a>Електронна пошта автоматичного дайджесту SharePoint
+# <a name="sharepoint-auto-digest-email"></a>Електронна пошта з автоматичним дайджестом SharePoint
 
-У програмі SharePoint Auto-News дайджест надсилає автоматизовану електронну пошту користувачам у вашій компанії про найновіші дописи новин, до яких вони ще не читали.
+Автоматичний дайджест новин SharePoint надсилає користувачам компанії автоматичні електронні листи про останні дописи в каналі новин, які вони ще не прочитали.
 
-Додаткову інформацію можна отримати в будь-який час. [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
+Щоб отримати докладніші відомості, відвідайте сторінку [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
-- ІДЕНТИФІКАТОР дорожньої карти Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Хронометраж: цільові клієнти-релізи в  **середині липня (раніше червня**  та повні для всіх клієнтів у  **середині серпня (раніше на початку серпня)**.
-- Зведення: зведення на рівні користувача
-- Тип елемента керування: елемент керування користувачем, * * адміністратор керування за допомогою PowerShell (незабаром)
+- Код дорожнього карта Microsoft  [365: 64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
+- Хронометраж: клієнти цільового випуску в середині липня **(раніше** у червні та завершувалися для всіх клієнтів до середини серпня (раніше на початку **серпня).**
+- Угортання: розгортання рівня користувача
+- Тип елемента керування: керування користувачами, **Адміністратор за допомогою PowerShell (незабаром)

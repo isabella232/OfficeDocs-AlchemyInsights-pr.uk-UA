@@ -1,8 +1,8 @@
 ---
-title: Не вдається отримати повідомлення електронної пошти з облікових записів Gmail
+title: Не вдається отримати електронну пошту з облікових записів Gmail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735472"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830414"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Не вдається отримати повідомлення електронної пошти з облікових записів Gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Не вдається отримати електронну пошту з облікових записів Gmail
 
-**ПИТАННЯ**
+**ПРОБЛЕМА**
 
-Ми знаємо, що деякі користувачі не зможуть отримувати повідомлення електронної пошти з облікових записів Gmail. Ми розслідуючи можливі проблеми.
+Ми знаємо, що деякі користувачі можуть не отримувати електронну пошту з облікових записів Gmail. Ми вивчаємо можливу проблему.
 
 **СПОСІБ ВИРІШЕННЯ**
 
-Перевірте, чи не було випадково заблоковано домен Gmail під час блокування одного користувача Gmail.
+Переконайтеся, що ви не випадково заблокували домен Gmail під час блокування одного користувача Gmail.
 
-1. Відкрийте [Список заблокованих відправників](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Відкрийте список [заблокованих відправників.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Якщо Gmail.com міститься в списку, клацніть піктограму смітник поряд із записом і натисніть кнопку **зберегти**.
+2. Якщо Gmail.com, клацніть піктограму кошика поруч із записом і натисніть кнопку **Зберегти**.

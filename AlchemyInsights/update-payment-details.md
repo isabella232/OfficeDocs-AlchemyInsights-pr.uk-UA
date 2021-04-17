@@ -2,21 +2,22 @@
 title: Оновити відомості про свою кредитну картку
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 2b39c30406924acb3c1b943b81a2719c41b19432
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720086"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830342"
 ---
 # <a name="update-credit-card-information"></a>Оновити відомості про свою кредитну картку
 
@@ -40,4 +41,4 @@ ms.locfileid: "43720086"
 
 Якщо під час завантаження сторінки виникли проблеми, спробуйте відкрити її в іншому браузері або в приватному вікні, як-от вікно InPrivate у Microsoft Edge або анонімне вікно в Google Chrome. 
 
-Докладні відомості див. в статті [Додавання, оновлення та вилучення кредитної картки або банківського рахунку в Microsoft 365 для бізнесу](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) та розділі [Вирішення проблем, пов’язаних із кредитними картками або банківськими рахунками](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Докладні відомості див. в статті [Керування методами оплати](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

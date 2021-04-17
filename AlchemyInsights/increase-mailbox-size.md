@@ -2,7 +2,7 @@
 title: Збільшення розміру поштової скриньки
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +13,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: fb5662363a385e2fbbae852df77d80b6317698fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756195"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830234"
 ---
-# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Переключення передплати для збільшення розміру поштової скриньки
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>Змінення передплати для збільшення розміру поштової скриньки
 
-Якщо розмір поштової скриньки уже 100 ГБ, його не можна збільшити.
+Якщо розмір поштової скриньки вже 100 ГБ, збільшити її не можна.
   
-Якщо розмір поштової скриньки становить 50 ГБ, його можна збільшити до 100 ГБ, перейшовши на [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) або [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Нижче наведено кроки, які потрібно перейти до іншої абонентської плати.
+Якщо розмір поштової скриньки довший за 50 ГБ, ви можете збільшити її до 100 ГБ, перейнявши на план ["Office 365 для підприємств E3"](https://products.office.com/business/office-365-enterprise-e3-business-software) або ["Office 365 для підприємств E5".](https://products.office.com/business/office-365-enterprise-e5-business-software) Ось як можна перейти на іншу передплату:
   
-1. У центрі адміністрування Microsoft 365 перейдіть на сторінку " **виставлення рахунків** на \> **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ".
+1. У Центрі адміністрування Microsoft 365  перейдіть на сторінку Виставлення \> **[рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
-2. Виберіть абонентську версію, яку потрібно оновити.
+2. Виберіть передплату, яку потрібно оновити.
 
-3. На сторінці відомості про абонентську інформацію натисніть кнопку **оновити**.
+3. На сторінці відомостей про передплату виберіть **Оновити**.
 
-4. Знайдіть план, до якого потрібно оновити, а потім натисніть кнопку **оновити** .
+4. Знайдіть план, до якого потрібно оновити оновлення, а потім натисніть **кнопку** Оновити.
 
-5. Введіть потрібну кількість ліцензій, виберіть, чи потрібно платити щомісяця або протягом цілого року, а потім виберіть пункт **оформити замовлення**.
+5. Введіть потрібну кількість ліцензій, виберіть спосіб оплати (щомісяця або за весь рік), а потім натисніть кнопку **Оплачувати замовлення.**
 
-Докладні відомості наведено в статті [оновлення до іншого плану](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+Докладні відомості див. [в статтях Оновлення до іншого плану.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
 
-Якщо у вас є [Передплата, що підтримує Архів на місці](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), ви також можете отримати додатковий простір для електронної пошти, активувавши поштову скриньку архіву. Поштова скринька архіву надає додатковий обсяг сховища та дає змогу переміщуватися, копіювати та шукати повідомлення в основній і архівній поштовій скриньці. Щоб отримати вказівки з ввімкнення поштової скриньки архіву, перегляньте статтю [увімкнення поштової скриньки архіву](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes).
+Якщо у вас є [передплата,](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)яка підтримує архів на місці, ви також можете отримати додатковий простір у сховищі електронної пошти, ввімкнувши архівну поштову скриньку. Архівна поштова скринька надає додаткове сховище та дає змогу переміщати, копіювати та шукати повідомлення в основній і архівних поштових скриньках. Інструкції з активування архівних поштових скриньок див. в статті [Активація архівних поштових скриньок.](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)

@@ -1,8 +1,8 @@
 ---
-title: Затримки в отриманні сповіщень SharePoint і OneDrive
+title: Затримки отримання оповіщень SharePoint і OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599873"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831251"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Затримки в отриманні сповіщень SharePoint і OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Затримки отримання оповіщень SharePoint і OneDrive
 
-- Якщо **всі оповіщення з кількох файлів або бібліотек затримуються**, перейдіть на [приладну дошку справність служби](https://portal.office.com/adminportal/home?ref=/servicehealth) , щоб перевірити наявність будь-яких інших або інцидентів, які можуть виникнути в службі SharePoint або Exchange.
-- Якщо **окреме оповіщення з певного файлу або бібліотеки не доставлено**, спробуйте видалити та відтворити його повторно. У статті [керування, перегляд і видалення оповіщень SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) для повторного створення оповіщення.
-- Перевірте папку "Небажана пошта" або "спам" у повідомленні електронної пошти.
+- Якщо **затримано** всі оповіщення від кількох файлів або бібліотек, відвідайте приладну дошку Справність служби, щоб перевірити наявність порад або інцидентів із SharePoint або Exchange. [](https://portal.office.com/adminportal/home?ref=/servicehealth)
+- Якщо **окреме оповіщення з певного файлу** або бібліотеки не доставлено, спробуйте видалити й повторно створити його. Докладні [відомості див. в статті Керування, перегляд](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) і видалення оповіщень SharePoint, щоб повторно створити оповіщення.
+- Перевірте папку Небажана пошта або Спам у своїй електронній пошті.
 
 > [!NOTE]
-> - Оповіщення не можна надіслати до групи розсилки. Підтримуються лише групи безпеки та O365.
-> - Ви не можете настроювати шаблони сповіщень електронної пошти. Щоб досягти цих документів, потрібно скористатися робочим циклом Microsoft Flow або конструктора SharePoint Designer.
+> - Оповіщення не можна надсилати групі розсилки. Підтримуються лише групи безпеки та O365.
+> - Настроїти шаблони оповіщень електронною поштою не можна. Щоб досягти таких результатів, потрібно використовувати робочий цикл Microsoft Flow або SharePoint Designer.
