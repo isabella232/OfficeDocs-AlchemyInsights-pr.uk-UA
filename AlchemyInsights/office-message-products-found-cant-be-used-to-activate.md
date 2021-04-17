@@ -1,24 +1,25 @@
 ---
-title: Повідомлення програм Office – Продукти, знайдені в обліковому записі, не можна використовувати для активації
+title: Повідомлення програм Microsoft 365 – Продукти, знайдені на вашому обліковому записі, не можна використовувати для активації
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 6b44c63c3e56b5c748e4d4d4d5bb54a74c32561c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010770"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832943"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Повідомлення програм Office – Продукти, знайдені в обліковому записі, не можна використовувати для активації
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>Повідомлення програм Microsoft 365 – Продукти, знайдені на вашому обліковому записі, не можна використовувати для активації
 
 - Переконайтеся, що [стан передплати](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) дійсний, а уражений користувач має [дійсну призначену ліцензію](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) і підключений до Інтернету. 
 
@@ -26,7 +27,7 @@ ms.locfileid: "44010770"
 
 - Запустіть [Засіб усунення неполадок активації](https://aka.ms/SARA-OfficeActivation-Alchemy) і перезавантажте комп'ютер.
 
-- На пошкодженому комп'ютері, [скиньте стан активації Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- На пошкодженому комп'ютері, [скиньте стан активації Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Відомості про сценарії для спільних комп'ютерів див. в статті [Усунення несправностей активації Програм Microsoft 365 на спільному комп'ютері](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 

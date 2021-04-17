@@ -1,8 +1,8 @@
 ---
-title: Інсталяція сповіщень Office 2013
+title: Сповіщення про інсталяцію пакета Office 2013
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,14 +14,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: f966b407fcbd70ab883027f113fe3aeb2b0f6a91
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 789b68c3cd2765ac63c59c964727f7ce2f6d6333
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755368"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833240"
 ---
-# <a name="upgrade-to-office-2016"></a>Оновлення до Office 2016
+# <a name="upgrade-to-office-2016"></a>Оновлення до версії Office 2016
 
-На жаль, Office 2013 недоступний для завантаження більше, але ви можете оновити її до служби Office 2016 безкоштовно! Щоб отримати докладні відомості та кроки з інсталяції пакета Office 2016, скористайтеся цією статтею: [Інсталяція або оновлення до пакета office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).
+На жаль, пакет Office 2013 більше не можна завантажити, але ви можете безкоштовно оновитися до версії Office 2016! Докладні відомості та інструкції з інсталяції Office 2016 див. в цій статті: Інсталяція або оновлення [до пакета Office 2016.](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx)
   
