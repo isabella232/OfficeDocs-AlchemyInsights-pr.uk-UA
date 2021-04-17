@@ -1,8 +1,8 @@
 ---
-title: Усунення несправностей у OneDrive
+title: Усунення несправностей, пов'язаних із аварійно заверш
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003084"
 - "5885"
-ms.openlocfilehash: 1155d370911b28bbb1ba83a15eace66d1daea28f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4bf45e7780dcbabb95b3eecfb2df55beffde11d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665019"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826220"
 ---
-# <a name="troubleshoot-onedrive-crashes"></a>Усунення несправностей у OneDrive
+# <a name="troubleshoot-onedrive-crashes"></a>Усунення несправностей, пов'язаних із аварійно заверш
 
-Якщо не вдається повторно завершити роботу, виконайте наведені нижче дії з виправлення неполадок.
+Якщо OneDrive неодноразово аварійно завершує роботу, спробуйте виконати наведені нижче дії з виправлення неполадок.
 
-**Переконайтеся, що розділи реєстру не настроєно:**
+**Переконайтеся, що розділи реєстру не настроєно.**
 
-1. У редакторі реєстру перейдіть до HKEY_LOCAL_MACHINE \SOFTWARE\Policies\Microsoft\OneDrive
-2. Якщо DisableFileSyncNGSC присутній і настроєно на 1, відкрийте ключ і змініть значення на 0.
-3. Запуск OneDrive вручну за допомогою переходу на початок ![Натисніть клавішу Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), у полі пошуку введіть OneDrive, а потім клацніть піктограму для настільних комп'ютерів у програмі OneDrive.
+1. За допомогою редактора реєстру перейдіть до HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\OneDrive
+2. Якщо disableFileSyncNGSC встановлено та встановлено значення 1, відкрийте ключ і змініть значення на 0.
+3. Вручну запустіть OneDrive у меню "Пуск" ![Натисніть клавішу Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), введіть OneDrive у полі пошуку, а потім клацніть класичну програму OneDrive.
 
-**Скидання "OneDrive":**
+**Скидання OneDrive**
 
-Нотаток
+Примітки.
 
-- Скидання "OneDrive" відключає всі поточні зв'язки синхронізації (включно з особистим "OneDrive", якщо його настроєно).
-- Ви не втратите файли або дані, скинувши OneDrive на вашому комп'ютері.
+- Під час скидання OneDrive роз'єднує всі наявні підключення для синхронізації (включно з особистим обліковим записом OneDrive, якщо його налаштовано).
+- Ви не втратите файли або дані, якщо скинете параметри OneDrive на комп'ютері.
 
-**Щоб скинути його, виконайте наведені нижче дії.**
+**Щоб скинути параметри OneDrive:**
 
-1. Відкрийте діалогове вікно "виконати", натиснувши клавіші Windows і R.
-2. Введіть% localappdata% \Microsoft\OneDrive\onedrive.exe/Reset. і натисніть кнопку OK. У вікні командного рядка може відображатися короткий час.
-3. Запуск OneDrive вручну за допомогою переходу на початок ![Натисніть клавішу Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), у полі пошуку введіть OneDrive, а потім клацніть піктограму для настільних комп'ютерів у програмі OneDrive.
+1. Відкрийте діалогове вікно "Виконати", натиснувши клавіші Windows і R.
+2. Введіть %localappdata%\Microsoft\OneDrive\onedrive.exe /reset і натисніть кнопку OK. Коротко може з'явитися вікно командного рядка.
+3. Вручну запустіть OneDrive у меню "Пуск" ![Натисніть клавішу Windows](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAOCAYAAADJ7fe0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADxSURBVDhPY/wPBAx4wR+Gd6/fM7x9/ZTh9ZuXDGdPnWE4tH0rw/UHDxlaVp9kCDCSYWABKfv35wfD+/cfGV4+fcLw5uVjhlOXzzFsX/qWYebmZAZPWWOGO2DD8ACQS9Y3e4Bcg4Y9/t94fPa/CoY4Aq8/+xik/T8TkEMxGDyGgANWwSqeobvbGSyAADIM3BwCDKXd3QyfoCLoQEGAA0xTxSWjsYMJwLHjkruU4UXSJ4YnT54x3Dh/luHmjfMMmw9wMjCDlRAGBDPgjy8fGT5//8rw9P4Thge3zzNcvXmDYevmfQzXb1xlmH/0ATADyjAAAKdWkD3ZSwNeAAAAAElFTkSuQmCC), введіть OneDrive у полі пошуку, а потім клацніть класичну програму OneDrive.
 
-Нотаток
+Примітки.
 
-- Якщо ви вирішили синхронізувати лише деякі папки перед скиванням, потрібно буде виконати цю дію знову після завершення синхронізації. Дізнайтеся [, які папки OneDrive синхронізуються з комп'ютером,](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)щоб отримати   докладні відомості.
-- Вам потрібно буде виконати це для особистого "OneDrive" та "OneDrive для бізнесу".
+- Якщо ви синхронізувати лише певні папки до скидання, це потрібно зробити ще раз після синхронізації. Докладні відомості див. в розділі Вибір папок [OneDrive, які потрібно синхронізувати з](https://support.office.com/article/98b8b011-8b94-419b-aa95-a14ff2415e85)   комп'ютером.
+- Це потрібно зробити для особистого сховища OneDrive і "OneDrive для бізнесу".

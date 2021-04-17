@@ -1,8 +1,8 @@
 ---
-title: Не вдається узяти на редагування або перевіряти файли в бібліотеці
+title: Не вдається витягти файли з бібліотеки або позняти їх ізвідти
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300029"
 - "1688"
-ms.openlocfilehash: 4fbec85abdb2e43dd779a8411706fa3e6bbf8fcf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 5c92abece3696cde81a3268bd5cbd122fb518667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714272"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827849"
 ---
-# <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Не вдається узяти на редагування або перевіряти файли в бібліотеці
+# <a name="unable-to-check-out-or-check-in-files-in-a-library"></a>Не вдається витягти файли з бібліотеки або позняти їх ізвідти
 
-- Якщо у вас є обов'язкове поле в бібліотеці, а поле не заповнюється значенням, це призведе до того, що документ буде взято в витягнутий стан, доки його не буде заповнено, а потім повернуто.
+- Якщо в бібліотеці є обов'язкове поле, а поле не заповнено значенням, це призведе до того, що документ узято на редагування, доки він не заповниться та не подасть його з редагування.
 
-- Якщо у заголовку документа є особливий символ, це може спричинити проблеми. Вилучіть спеціальний символ і спробуйте перевірити файл.
+- Якщо в заголовку документа є спеціальний символ, це може спричинити проблеми. Видаліть спеціальний символ і спробуйте його зняти.
 
-- Якщо файл узято на редагування, його буде заблоковано.  У разі відсутності особи, узятого на редагування, власник бібліотеки може повернути файл із **параметрів бібліотеки – > керувати файлами**.
+- Якщо користувач узяв файл на редагування, його буде заблоковано.  Якщо користувача, який взяв файл на редагування, відсутній, власник бібліотеки може з редагування файл можна з редагування, вибрав параметри бібліотеки **–> Керування файлами.**
 
-Нижче наведено кілька корисних посилань, які стосуються цієї функції.
+Ось кілька корисних посилань щодо цієї функції:
 
-- [Взяття на редагування, повернення або скасування змін у файлах](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
-- [Найпопулярніші запитання про взяття на редагування, повернення та редагування версій](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
-- [Одночасне повернення кількох файлів](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
-- [Увімкнення або вимкнення керування версіями та взяття на редагування в бібліотеці](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
+- [Взяття файлів нацизування, взяття файлів нацизою на їхнє взяття на очисне або скасування внесених змін](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Поширені запитання про взятняти на зберігання, взяти на зберігання та версії](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [Одночасне взяення кількох файлів на цю влаштку](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [Увімкнення та вимкнення функції керування версіями та взявання на редагування в бібліотеці](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)

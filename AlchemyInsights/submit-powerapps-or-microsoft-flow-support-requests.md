@@ -1,8 +1,8 @@
 ---
-title: Надсилання запитів на підтримку PowerApps або Microsoft
+title: Надсилання запитів на підтримку PowerApps або Microsoft Flow
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 8e2b04a32af02679ce9a9ade92895011391b2ae7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653462"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827993"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Надсилання запитів на підтримку PowerApps або Microsoft
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>Надсилання запитів на підтримку PowerApps або Microsoft Flow
 
-Якщо ви **Powerapps** або **Microsoft Flow** клієнт, надішліть квиток через нову [Центр адміністрування Power Platform](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). Новий портал надає більш прямий шлях до допоміжних підтримки, оптимізованого для PowerApps та інших продуктів платформи Power Platform.
+Якщо ви клієнт **PowerApps** або **Microsoft Flow,** надішліть свій запит через Новий [Центр адміністрування платформи Power.](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819) Новий портал надає більш прямий шлях до служби технічної підтримки, оптимізованої для PowerApps та інших продуктів Power Platform.
 
-[Надсилання запиту на підтримку потоку Microsoft](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[Надіслати запит на підтримку служби підтримки Microsoft Flow](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)

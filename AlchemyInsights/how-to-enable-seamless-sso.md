@@ -1,8 +1,8 @@
 ---
-title: Увімкнення безшовного єдиного входу
+title: Увімкнення шахрайського єдиного входу
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,26 @@ ms.custom:
 - "628"
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: f3581549823e1ec650a3717780bc07e9944d4c1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 565ec53a3d9f8863562ac828e21a4a153c61ae88
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780548"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825752"
 ---
-# <a name="how-to-enable-seamless-sso"></a>Увімкнення безшовного єдиного входу
+# <a name="how-to-enable-seamless-sso"></a>Увімкнення шахрайського єдиного входу
 
-Увімкнути безшовну підтримку єдиного входу через [Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+Увімкніть несхвний єдиний вхід [за допомогою Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-Якщо ви робите нову інсталяцію Azure AD Connect, виберіть [настроюваний шлях до інсталяції](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На сторінці **входу користувача** виберіть параметр **Увімкнути єдиний вхід** .
+Якщо ви виконаєте чисту інсталяцію Azure AD Connect, виберіть шлях [вибіркової інсталяції](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). На сторінці **Входу користувача виберіть** параметр Дозволити **єдиний** вхід.
   
-Щоб переконатися, що ввімкнуто функцію безшовного входу, виконайте такі дії:
+Щоб перевірити, чи ввімкнуто правильний щільний єдиний доступ:
   
-1. Увійдіть у [Центр адміністрування Лазур Active Directory](https://aad.portal.azure.com) як Глобальний адміністратор.
+1. Увійдіть [у Центр адміністрування Azure Active Directory](https://aad.portal.azure.com) як глобальний адміністратор.
 
-2. У лівій області виберіть пункт " **Лазурний** ".
+2. В області ліворуч виберіть Azure **Active Directory.**
 
-3. Переконайтеся, що **ввімкнуто функцію**безшовного входу.
+3. Переконайтеся, що ввімкнуто безшовний єдиний **вхід**.
 
-Докладні відомості можна знайти в статті [короткий посібник із простого входу в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+Докладні відомості див. в короткому посібнику з Azure Active Directory з [простим єдиним входом.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   

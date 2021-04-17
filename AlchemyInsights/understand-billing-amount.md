@@ -1,8 +1,8 @@
 ---
-title: Розуміння суми рахунків
+title: Загальні відомості про суму виставлення рахунків
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,73 +12,73 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: f48ee1e36909515bf81df1ebeb367f91e9a1c9ca
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808399"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827885"
 ---
-# <a name="understand-billing-amount"></a>Розуміння суми рахунків
+# <a name="understand-billing-amount"></a>Загальні відомості про суму виставлення рахунків
 
-**Клієнт LED (WD):**
+**Під керованим клієнтом (WD):**
 
-- Щоб переглянути та оцінити ваш рахунок, зверніться до: [навчальний посібник: перегляньте свій окремий рахунок у лазурі](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support) .
-- Що таке умови в рахунку-фактурі: вказано [умови рахунка в лазурі](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Загальні відомості про витрати на використання в Лазурне: [умови використання роз'яснення](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Щоб отримати PDF-файл свого рахунка-фактури та копію детального щоденного використання (. CSV): [отримання рахунків і даних про використання](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Довідку з перегляду й розуміння рахунка див. в навчальній [вправі: перегляд окремого рахунка Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Загальні відомості про терміни в рахунку-фактурі: [пояснені умови рахунка-фактури Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Загальні відомості про тарифи на використання Azure: [пояснені умови використання](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Щоб отримати PDF-файл рахунка та копію детального файлу щоденного використання (. CSV: [отримання рахунка-фактури та даних про використання](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Примітка** . Якщо ви скасовуєте свою передплату або ресурс у середині циклу рахунків, ви можете побачити платіж, який буде для будь-якого використання в попередньому місяці. Наприклад, якщо цикл виставлення рахунків був із 26 числа кожного місяця до 25 наступного місяця, & ви призупинили цю передплатну програму на 23, тобто 28 днів до циклу виставлення рахунків за червень, ви можете отримати плату за 28 днів використання. Якщо ви бачите плату, не зважаючи на скасування передплатою, переконайтеся, що ви не маєте жодних інших планів підтримки, які призводять до пред'явлення звинувачень. Якщо ви зробите це, будь ласка, переходіть і скасуйте план.
+**Примітка.** Якщо скасувати передплату або ресурс у середині циклу виставлення рахунків, усе одно може відображатися плата за використання за попередній місяць. Наприклад, якщо розрахункового циклу виставлявся з 26-го місяця до 25-го місяця & ви призупинили передплату 23-го (28 днів) у цикл виставлення рахунків за червень, може відображатися плата за 28 днів використання. Якщо ви бачите платіж, не скасовуйте передплату, переконайтеся, що у вас немає інших планів підтримки, які сприщують цю оплату. У такому разі перейдіть далі та скасуйте план.
 
-**Угода про клієнтів Microsoft (MCA):**
+**Клієнтська угода корпорації Майкрософт (MCA):**
 
-[Перевірка доступу до угоди клієнта Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+[Як перевірити доступ до Клієнтської угоди корпорації Майкрософт?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
-- Щоб переглянути та оцінити ваш рахунок, зверніться до: [навчальний посібник: перевірка рахунка за угодою про клієнтську угоду Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Що таке умови в рахунку-фактурі: [пояснені умови угоди про клієнтську угоду Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Загальні відомості про витрати на використання в Лазурне: [роз'яснення умов використання угоди з клієнтами Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Якщо у вас є [угода з клієнтом Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), ви можете завантажити використання на [порталі Azure](https://portal.azure.com/).
+- Довідку з перегляду та розуміння рахунка див. в навчальному посібнику: перегляд рахунка за [клієнтську](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) угоду з майкрософт
+- Розуміння умов у рахунку-фактурі: пояснені умови [рахунка-фактури з клієнтською угодою з корпорації Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Загальні відомості про тарифи на використання Azure: Умови використання клієнтської [угоди Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Якщо у вас є клієнтська [угода з майкрософт,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)ви можете завантажити її на [порталі Azure](https://portal.azure.com/).
 
-**Угода про партнерську угоду Microsoft (MPA):**
+**Партнерська угода корпорації Майкрософт (MPA):**
 
-- Щоб переглянути та оцінити ваш рахунок, зверніться до: [навчальний посібник: перегляньте свій рахунок-фактуру Microsoft Partner](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) .
-- Що таке умови для рахунка: [умови в рахунку-фактурі Microsoft Partner](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Довідку з перегляду та розуміння рахунка див. в навчальному посібнику: перегляд рахунка за угоду про [партнерів Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Загальні відомості про умови використання рахунка-фактури. Умови [в рахунку-фактурі за](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support) угодою про партнера Майкрософт
 
-**Корпоративні угоди (EA)**
+**Договір "Enterprise Agreement" (EA)**
 
-- Щоб ознайомитися з вашим векселем, ознайомтеся з такими посиланнями: [розуміння вашого рахунку «Лазурний корпоративний договір](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) »
-- Якщо ви – Лазурний клієнт із корпоративною угодою (клієнт EA), ви не можете завантажити рахунки вашої організації. Рахунки-фактури відправляються тим, хто налаштований на отримання рахунків-фактур для реєстрації, ви можете завантажити використання на [порталі Лазур](https://portal.azure.com/).
+- Довідку з перегляду та розуміння рахунка див. в такому документі: Розуміння рахунка за [договором "Azure Enterprise Agreement"](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Якщо ви клієнт Azure, укладивши договір "Enterprise Agreement" (клієнт EA), ви не зможете завантажити рахунки-фактури організації. Рахунки-фактури надсилаються тому, хто настроєний для отримання рахунків за реєстрації, ви можете завантажити відомості про використання на [порталі Azure](https://portal.azure.com/).
 
-Переглянути рахунок-фактуру служби "Перегляд":
+Рахунок-фактура з перевитання послуг:
 
-- Увійдіть на **Корпоративний портал** . Вибір **звітів**
-- У верхньому правому куті вкладки перейдіть до подання від **M** до **C** та відповідно до періоду в рахунку-фактурі
-- Загальна сума **використання** має відповідати загальній кількості **розширених** даних для рахунка-фактури служби
-- Перейдіть на сторінку **завантаження, > завантажити розширений звіт** , щоб отримати додаткові відомості про вашу **примітку** про звинувачення: цей звіт не містить податків, зборів для застережень і витрат на ринок
+- Увійдіть **на корпоративний портал.** Виберіть **"Звіти"**
+- У верхньому правому куті вкладки перемкніться подання **з M** на **C** та збігайтеся з періодом у рахунку-фактурі
+- Загальна **сума використання** має відповідати загальній **сумі загальної суми** в рахунку-фактурі за перенавантаження служби
+- Докладні відомості про витрати див. **в** розділі Завантаження > завантаження звіту про використання служби office 365. Цей звіт не містить податків, відрахування за резервування або нарахування на ринку.
 
-**Лазурний ринок**
+**Ринок Azure**
 
-- Дізнайтеся більше про те, як виставлення рахунків від сторонніх постачальників: « [Лазурний ринок](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support) »
+- Докладні відомості про виставлення рахунків сторонніх постачальників: [виставлення рахунків у Ринку Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Огляд рахунка-фактури на ринку:
+Рахунок-фактура з ринку:
 
-Порівняйте свій сайт "Лазурний ринок" у звітах > резюме використання на корпоративному порталі за допомогою рахунка-фактури на ринку. Рахунок-фактура ринку – тільки для придбання та використання на ринку Лазур. Сума в зведенні до використання не включає податок.
+Порівняйте загальну суму Ринку Azure зі списку звітів > зведення про використання на корпоративному порталі з рахунком-фактурою на ринку. Рахунок на ринок можна отримати лише для покупок і використання Ринку Azure. Суми зведення про використання не включають податок.
 
-- Увійдіть на **Корпоративний портал** . Вибір **звітів**
-- У верхньому правому куті вкладки перейдіть до подання від **M** до **C** та відповідно до періоду в рахунку-фактурі
-- Підсумок " **Лазурний ринок** " має відповідати **загальній вартості збуту** на своєму рахунку-фактурі.
-- Перейдіть на сторінку **завантаження** , щоб отримати докладніші відомості про витрати на використання. У розділі " **звинувачення на ринку** " натисніть кнопку **завантажити** **нотатку** : цей звіт не містить податків або відображаються одноразові покупки
+- Увійдіть **на корпоративний портал.** Виберіть **"Звіти"**
+- У верхньому правому куті вкладки перемкніться подання **з M** на **C** та збігайтеся з періодом у рахунку-фактурі
+- Загальна **сума Ринку Azure** має відповідати підсумковій **сумі** продажу в рахунку-фактурі ринку
+- Докладні **відомості про платежі** на основі використання див. в статтях Завантаження відомостей про використання. У **розділі Збори на** ринку виберіть **Примітка** для **завантаження.** Цей звіт не містить податків і не показує одноразові покупки
 
-**Постачальник рішень у хмарі (CSP)**
+**Постачальник хмарних рішень (CSP)**
 
-- Дізнайтеся більше про те, як працює служба виставлення рахунків у програмі постачальника рішень Блакитної хмари ("Блакитний CSP)": " [виставлення рахунків «Лазурний](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support) »
-- Дізнайтеся про читання та розуміння вашого рахунка: CSP- [рахунок Azure](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Дізнайтеся більше про те, як працює виставлення рахунків у програмі постачальника хмарних рішень Azure (Azure CSP): [Виставлення рахунків azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Дізнайтеся про читання й розуміння рахунка-фактури за послуги CSP: [рахунок-фактура з Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Рекомендовані документи**
 
-- Дізнайтеся, як запобігти неочікуваною витраті та контролювати витрати: не [допускати непередбачених витрат](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Настроювання рахунків або кредитних сповіщень для відстеження рахунків і керування ними в облікових записах: [Настроювання сповіщень для виставлення рахунків](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Що таке "граничне значення" для Лазур](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Дізнайтеся про те, як оплата зовнішньої служби буде відповідно](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support) до ваших послуг.
-- [Запитання й відповіді про Лазурний безкоштовний обліковий запис](https://azure.microsoft.com/free/free-account-faq/)
-- [Розуміння ролі «Лазурне підприємство» в «Лазурний»](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Дізнайтеся, як уникнути неочікуваних витрат і контролювати витрати: [Запобігання неочікуваним нарахуванням](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Налаштування оповіщень про виставлення рахунків або кредит, щоб відстежувати виставлення рахунків і керувати ними для облікових записів: налаштування оповіщень про [виставлення рахунків](https://docs.microsoft.com/azure/cost-management-billing/costs/cost-mgt-alerts-monitor-usage-spending?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Загальні відомості про обмеження витрат в Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Розуміння виставлення рахунків за зовнішні послуги в Azure: виставлення [рахунків](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support) за зовнішні служби
+- [Безкоштовний обліковий запис Azure: запитання й відповіді](https://azure.microsoft.com/free/free-account-faq/)
+- [Загальні відомості про адміністративні ролі Azure Enterprise Agreement в Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

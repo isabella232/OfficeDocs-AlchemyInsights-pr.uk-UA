@@ -1,8 +1,8 @@
 ---
-title: Концертні події в Microsoft Stream
+title: Події наживо в Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: ee67c5ccd7c8745785ef8a04bab535cbb6416995
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef42a8156a1c120b23f89969d9debd1c25c49309
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675535"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825572"
 ---
-# <a name="live-events-in-microsoft-stream"></a>Концертні події в Microsoft Stream
+# <a name="live-events-in-microsoft-stream"></a>Події наживо в Microsoft Stream
 
-Ви можете створити інтерактивні події за допомогою Microsoft Stream в організації. Ви можете запланувати, підготувати та доставити інтерактивні події для різних сценаріїв, таких як події для всієї компанії, оновлення керівництва тощо.
+Ви можете створювати події наживо за допомогою Microsoft Stream в організації. Ви можете планувати, створювати та проводити події наживо для різних сценаріїв, таких як заходи для всієї компанії, оновлення для керівників тощо.
 
 - [Створення події наживо в Microsoft Stream](https://docs.microsoft.com/stream/live-create-event)
-- [Початок роботи з командами Microsoft "події" в реальному режимі](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-- [Настроювання кодери для потокового передавання наживо в Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+- [Початок роботи з подіями Microsoft Teams у прямому ефірі](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [Налаштування кодування для потокового передавання в Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)

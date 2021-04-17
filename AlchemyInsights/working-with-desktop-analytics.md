@@ -1,8 +1,8 @@
 ---
-title: Закриття облікового запису аналітики для настільних комп'ютерів
+title: Закриття облікового запису Desktop Analytics
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7550e651db1ea0b4e4a7c4f6fc43964b8d9bb09
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725644"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827093"
 ---
-# <a name="working-with-desktop-analytics"></a>Робота з аналітикою для настільних комп'ютерів
+# <a name="working-with-desktop-analytics"></a>Робота з класичною аналітичною програмою
 
-Схоже, що ви запитуєте про настільну аналітику. Ми можемо допомогти з точнішим відповіддю, якщо ви перефразувати ваше запитання.
+Схоже, ви запитаєте про класичну аналітку. Якщо ви перефразувати запитання, ми зможемо допомогти з точнішою відповіддю.
 
-- [Що таке "аналітика для настільних комп'ютерів"?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Настроювання аналітики для настільних комп'ютерів](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Що таке "Класична аналітика"?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [Налаштування аналітики робочого стола](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Запитання й відповіді](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Виправлення неполадок із аналітикою для настільних комп'ютерів](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Усунення несправностей з аналітики робочого стола](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
