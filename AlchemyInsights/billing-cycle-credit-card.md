@@ -1,8 +1,8 @@
 ---
-title: Кредитна картка для виставлення рахунків
+title: Цикл виставлення рахунків для кредитної картки
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: ce3cd7b592966399b5e79a8916e631cafcbb49fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7b8246b32ea86ef7261cf01639a226e8662f39c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686015"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820379"
 ---
-# <a name="payment-methods-for-microsoft-for-business"></a><span data-ttu-id="22800-102">Способи оплати для корпорації Майкрософт для бізнесу</span><span class="sxs-lookup"><span data-stu-id="22800-102">Payment methods for Microsoft for business</span></span>
+# <a name="payment-methods-for-microsoft-for-business"></a><span data-ttu-id="138e0-102">Методи оплати корпорації Майкрософт для бізнесу</span><span class="sxs-lookup"><span data-stu-id="138e0-102">Payment methods for Microsoft for business</span></span>
 
-<span data-ttu-id="22800-103">Якщо ви придбали передплату на Microsoft 365 для бізнесу безпосередньо від корпорації Майкрософт, ви можете оплатити її кредитною або дебетовою карткою.</span><span class="sxs-lookup"><span data-stu-id="22800-103">When you buy a Microsoft 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="22800-104">У деяких країнах або регіонах ви також можете сплатити банківський рахунок.</span><span class="sxs-lookup"><span data-stu-id="22800-104">In some countries or regions, you can also pay with a bank account.</span></span>
+<span data-ttu-id="138e0-103">Купуючи Передплату на Microsoft 365 для бізнесу безпосередньо в корпорації Майкрософт, ви можете розрахуватись кредитною або дебетової карткою.</span><span class="sxs-lookup"><span data-stu-id="138e0-103">When you buy a Microsoft 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="138e0-104">У деяких країнах або регіонах також можна здійснити оплату з банківського рахунку.</span><span class="sxs-lookup"><span data-stu-id="138e0-104">In some countries or regions, you can also pay with a bank account.</span></span>
   
-<span data-ttu-id="22800-105">Якщо ви вирішили використовувати кредитну картку як спосіб оплати, ви можете дізнатися, як керувати [способами оплати](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)та усувати неполадки.</span><span class="sxs-lookup"><span data-stu-id="22800-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
+<span data-ttu-id="138e0-105">Якщо ви вирішите використовувати кредитну картку як спосіб оплати, дізнайтеся, як керувати методами оплати та виправляти [неполадки з ними.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)</span><span class="sxs-lookup"><span data-stu-id="138e0-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
   
-<span data-ttu-id="22800-106">У цій статті також наведено пропозиції з виправлення неполадок, коли ваша кредитна картка відхилене, і інформація про зміну кредитної картки, з якою приймається картка.</span><span class="sxs-lookup"><span data-stu-id="22800-106">This article also includes troubleshooting suggestions for when your credit card is declined and information about changing credit card information so that the card is accepted.</span></span>
+<span data-ttu-id="138e0-106">Крім того, у цій статті запропоновано способи виправлення неполадок, пов'язаних із відхиленням кредитної картки та зміненням відомостей про кредитну картку.</span><span class="sxs-lookup"><span data-stu-id="138e0-106">This article also includes troubleshooting suggestions for when your credit card is declined and information about changing credit card information so that the card is accepted.</span></span>
