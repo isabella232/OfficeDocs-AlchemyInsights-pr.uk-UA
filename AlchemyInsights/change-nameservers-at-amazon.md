@@ -1,26 +1,27 @@
 ---
-title: Зміна сервера імен на Amazon
+title: Змінення серверів імен на Amazon
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5857"
 - "14"
-ms.openlocfilehash: c8997d5b04fbdd11f430b9845b8954c69590ff68
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: 1a05fceac782e53ac298bbbc839560469dcf776f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749199"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818885"
 ---
-# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="38c42-102">Зміна сервера імен на Amazon</span><span class="sxs-lookup"><span data-stu-id="38c42-102">Change nameservers at Amazon</span></span>
+# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="2b0c3-102">Змінення серверів імен на Amazon</span><span class="sxs-lookup"><span data-stu-id="2b0c3-102">Change nameservers at Amazon</span></span>
 
-[<span data-ttu-id="38c42-103">Змінити сервери імен для установки Microsoft 365 з Amazon веб-сервіси</span><span class="sxs-lookup"><span data-stu-id="38c42-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
+[<span data-ttu-id="2b0c3-103">Змінення серверів імен для налаштування Microsoft 365 за допомогою Amazon Web Services</span><span class="sxs-lookup"><span data-stu-id="2b0c3-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
 
-<span data-ttu-id="38c42-104">Для інших питань, домени спробувати [поширені запитання про домени](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="38c42-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="2b0c3-104">Щоб отримати допомогу з іншими проблемами з доменами, перевірте [Домени: запитання й відповіді](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="2b0c3-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

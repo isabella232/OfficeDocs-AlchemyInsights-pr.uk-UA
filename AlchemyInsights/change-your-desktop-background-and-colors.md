@@ -1,8 +1,8 @@
 ---
-title: Змінення тла та кольорів робочого стола
+title: Змінення фону робочого стола та кольорів
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793743"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818165"
 ---
-# <a name="change-your-desktop-background-and-colors"></a><span data-ttu-id="5e364-102">Змінення тла та кольорів робочого стола</span><span class="sxs-lookup"><span data-stu-id="5e364-102">Change your desktop background and colors</span></span>
+# <a name="change-your-desktop-background-and-colors"></a><span data-ttu-id="03c53-102">Змінення фону робочого стола та кольорів</span><span class="sxs-lookup"><span data-stu-id="03c53-102">Change your desktop background and colors</span></span>
 
-<span data-ttu-id="5e364-103">Щоб змінити настройки кольорів, перейдіть на вкладку **початок**  >  **Настроювання**  >  **Personalization**  >  **кольорів**, а потім виберіть свій власний колір або дозвольте Windows витягнути колір із фону.</span><span class="sxs-lookup"><span data-stu-id="5e364-103">To change your colors setting, go to **Start** > **Settings** > **Personalization** > **Colors**, and then choose your own color or let Windows pull an accent color from your background.</span></span>
+<span data-ttu-id="03c53-103">Щоб змінити настройки кольорів, перейдіть до меню Пуск Настройки Персоналізація Кольори , а потім виберіть власний колір або дозвольте Windows отримати на основі фону колірну  >    >    >  колірну схему.</span><span class="sxs-lookup"><span data-stu-id="03c53-103">To change your colors setting, go to **Start** > **Settings** > **Personalization** > **Colors**, and then choose your own color or let Windows pull an accent color from your background.</span></span>
 
-![Персоналізуйте свої кольори в ОС Windows.](media/windows-personalization-colors.png)
+![Персоналізація кольорів у Windows.](media/windows-personalization-colors.png)
 
-<span data-ttu-id="5e364-105">Щоб змінити тло робочого стола, перейдіть на вкладку **початок**  >  **Настроювання**  >  **Personalization**  >  **Background**, а потім виберіть зображення, суцільний колір або створіть слайд-шоу зображень.</span><span class="sxs-lookup"><span data-stu-id="5e364-105">To change your desktop background, go to **Start** > **Settings** > **Personalization** > **Background**, and then choose a picture, solid color, or create a slideshow of pictures.</span></span> 
+<span data-ttu-id="03c53-105">Щоб змінити фон робочого стола, перейдіть до меню Пуск Настройки Персоналізація Фон , а потім виберіть зображення, суцільний колір або створіть показ  >    >    >  слайдів із зображень.</span><span class="sxs-lookup"><span data-stu-id="03c53-105">To change your desktop background, go to **Start** > **Settings** > **Personalization** > **Background**, and then choose a picture, solid color, or create a slideshow of pictures.</span></span> 
 
-![Змінення тла робочого стола Windows.](media/windows-desktop-background.png)
+![Змініть фон робочого стола Windows.](media/windows-desktop-background.png)
 
-<span data-ttu-id="5e364-107">Додаткові фонові рисунки та кольори для робочого стола</span><span class="sxs-lookup"><span data-stu-id="5e364-107">Want more desktop backgrounds and colors?</span></span> <span data-ttu-id="5e364-108">Перейдіть на вкладку [магазин Microsoft](https://www.microsoft.com/store/collections/windowsthemes) , щоб вибрати один із десятків безкоштовних тем.</span><span class="sxs-lookup"><span data-stu-id="5e364-108">Visit [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) to choose from dozens of free themes.</span></span>
+<span data-ttu-id="03c53-107">Потрібно більше фонових зображень і кольорів робочого стола?</span><span class="sxs-lookup"><span data-stu-id="03c53-107">Want more desktop backgrounds and colors?</span></span> <span data-ttu-id="03c53-108">[Відвідайте Microsoft Store,](https://www.microsoft.com/store/collections/windowsthemes) щоб вибрати з десятків безкоштовних тем.</span><span class="sxs-lookup"><span data-stu-id="03c53-108">Visit [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) to choose from dozens of free themes.</span></span>
