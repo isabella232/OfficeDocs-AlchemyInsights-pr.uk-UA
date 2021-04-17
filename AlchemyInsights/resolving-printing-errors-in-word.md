@@ -1,8 +1,8 @@
 ---
-title: Розв'язання помилок у програмі Word
+title: Усунення помилок друку у Word
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3040"
 - "9000585"
-ms.openlocfilehash: de1f6e6f78c0100b994db3fdb759054cdb7f8bf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8adda2a4a2c9a41d67747a68eb9eeafb1bf2ae34
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720883"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828713"
 ---
-# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="abfd7-102">Розв'язання помилок друку у програмі Word</span><span class="sxs-lookup"><span data-stu-id="abfd7-102">Resolving print failures in Word</span></span>
+# <a name="resolving-print-failures-in-word"></a><span data-ttu-id="c3d6f-102">Усунення помилок друку у Word</span><span class="sxs-lookup"><span data-stu-id="c3d6f-102">Resolving print failures in Word</span></span>
 
-<span data-ttu-id="abfd7-103">Якщо під час друку в програмі Word з'являється повідомлення про помилку, скористайтеся новим тестовими документами, щоб визначити, чи пов'язана ваша проблема з певним документом.</span><span class="sxs-lookup"><span data-stu-id="abfd7-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
+<span data-ttu-id="c3d6f-103">Якщо під час друку у Word з'являються помилки, спробуйте надрукувати з нового тестового документа, щоб з'ясувати, чи пов'язано проблему з певним документом.</span><span class="sxs-lookup"><span data-stu-id="c3d6f-103">If you are receiving errors when printing in Word, try printing from a new test document to determine if your problem is related to a specific document.</span></span>
 
-- <span data-ttu-id="abfd7-104">Якщо ви можете надрукувати документ із тестовими документами, але все одно не вдається надрукувати початковий документ, можливо, ваш початковий документ пошкоджено.</span><span class="sxs-lookup"><span data-stu-id="abfd7-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="abfd7-105">Дотримуйтеся вказівок у статті [Виправлення неполадок із пошкодженими документами у програмі Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span><span class="sxs-lookup"><span data-stu-id="abfd7-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
-- <span data-ttu-id="abfd7-106">Якщо ви все ще не можете друкувати, дотримуйтеся вказівок у статті [Виправлення неполадок друку в програмі Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) , щоб діагностувати та усунути цю проблему.</span><span class="sxs-lookup"><span data-stu-id="abfd7-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>
+- <span data-ttu-id="c3d6f-104">Якщо пробний документ можна надрукувати, але не вдається надрукувати вихідний документ, можливо, його пошкоджено.</span><span class="sxs-lookup"><span data-stu-id="c3d6f-104">If you can print from the test document but still can't print your original document, your original document may be damaged.</span></span> <span data-ttu-id="c3d6f-105">Дотримуйтеся вказівок у статті Виправлення [пошкоджених документів у Word.](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows)</span><span class="sxs-lookup"><span data-stu-id="c3d6f-105">Follow the instructions in [How to troubleshoot damaged documents in Word](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word#update-microsoft-office-and-windows).</span></span>
+- <span data-ttu-id="c3d6f-106">Якщо все одно не вдається надрукувати файл, дотримуйтеся вказівок у статті Виправлення помилок друку у [Word,](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) щоб діагностувати та виправити неполадку.</span><span class="sxs-lookup"><span data-stu-id="c3d6f-106">If you still can't print, follow the instructions in [Troubleshoot print failures in Word](https://docs.microsoft.com/office/troubleshoot/word/print-failures-in-word) to diagnose and fix the issue.</span></span>

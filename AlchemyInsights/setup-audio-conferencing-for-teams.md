@@ -2,7 +2,7 @@
 title: Налаштування аудіоконференцій у Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: d773d371759b857044fc61f2b8f133d88f32e9aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692703"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828497"
 ---
-# <a name="setup-audio-conferencing-for-teams"></a><span data-ttu-id="76f7c-102">Налаштування аудіоконференцій у Teams</span><span class="sxs-lookup"><span data-stu-id="76f7c-102">Setup audio conferencing for Teams</span></span>
+# <a name="setup-audio-conferencing-for-teams"></a><span data-ttu-id="02fa0-102">Налаштування аудіоконференцій у Teams</span><span class="sxs-lookup"><span data-stu-id="02fa0-102">Setup audio conferencing for Teams</span></span>
 
-<span data-ttu-id="76f7c-103">**Microsoft Teams – аудіоконференції**</span><span class="sxs-lookup"><span data-stu-id="76f7c-103">**Microsoft Teams – Audio Conferencing**</span></span>
+<span data-ttu-id="02fa0-103">**Microsoft Teams – аудіоконференції**</span><span class="sxs-lookup"><span data-stu-id="02fa0-103">**Microsoft Teams – Audio Conferencing**</span></span>
 
-<span data-ttu-id="76f7c-104">Вам потрібна допомога в увімкненні або налаштуванні аудіоконференцій у Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="76f7c-104">Need help turning on or setting up Audio Conferencing in Microsoft Teams?</span></span>
+<span data-ttu-id="02fa0-104">Вам потрібна допомога в увімкненні або налаштуванні аудіоконференцій у Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="02fa0-104">Need help turning on or setting up Audio Conferencing in Microsoft Teams?</span></span>
 
-<span data-ttu-id="76f7c-105">Цього користувача створено недавно?</span><span class="sxs-lookup"><span data-stu-id="76f7c-105">Has this user been recently created?</span></span>  <span data-ttu-id="76f7c-106">Якщо так, необхідно зачекати 2–24 години, щоб параметри набули сили.</span><span class="sxs-lookup"><span data-stu-id="76f7c-106">If so, you will need to wait 2 – 24 hrs for the settings to take effect.</span></span>
+<span data-ttu-id="02fa0-105">Цього користувача створено недавно?</span><span class="sxs-lookup"><span data-stu-id="02fa0-105">Has this user been recently created?</span></span>  <span data-ttu-id="02fa0-106">Якщо так, необхідно зачекати 2–24 години, щоб параметри набули сили.</span><span class="sxs-lookup"><span data-stu-id="02fa0-106">If so, you will need to wait 2 – 24 hrs for the settings to take effect.</span></span>
 
-<span data-ttu-id="76f7c-107">Щоб переконатися, що користувач має ліцензію аудіоконференцій і платний номер за замовчуванням, виконайте наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="76f7c-107">To verify that the user is licensed for Audio Conferencing and has a Default Toll Number:</span></span>
+<span data-ttu-id="02fa0-107">Щоб переконатися, що користувач має ліцензію аудіоконференцій і платний номер за замовчуванням, виконайте наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="02fa0-107">To verify that the user is licensed for Audio Conferencing and has a Default Toll Number:</span></span>
 
-1. <span data-ttu-id="76f7c-108">Відкрийте вкладку [Активні користувачі](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) та виберіть потрібного користувача.</span><span class="sxs-lookup"><span data-stu-id="76f7c-108">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) and then select the user in question.</span></span>
+1. <span data-ttu-id="02fa0-108">Відкрийте вкладку [Активні користувачі](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) та виберіть потрібного користувача.</span><span class="sxs-lookup"><span data-stu-id="02fa0-108">Go to [Active Users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) and then select the user in question.</span></span>
 
-2. <span data-ttu-id="76f7c-109">Залежно від версії центру адміністрування, виберіть **Ліцензії та програми** або клацніть **Редагувати** на вкладці **Ліцензії на продукти**.</span><span class="sxs-lookup"><span data-stu-id="76f7c-109">Depending on admin center version, choose either **Licenses and Apps** or click **Edit** on **Product licenses**.</span></span>
+2. <span data-ttu-id="02fa0-109">Залежно від версії центру адміністрування, виберіть **Ліцензії та програми** або клацніть **Редагувати** на вкладці **Ліцензії на продукти**.</span><span class="sxs-lookup"><span data-stu-id="02fa0-109">Depending on admin center version, choose either **Licenses and Apps** or click **Edit** on **Product licenses**.</span></span>
 
-3. <span data-ttu-id="76f7c-110">Підтвердьте, що для користувача вибрано ліцензії **Аудіоконференції, Microsoft Teams** і **Skype для бізнесу – онлайн (план 2)**.</span><span class="sxs-lookup"><span data-stu-id="76f7c-110">Confirm that the user has licenses selected for **Audio Conferencing, Microsoft Teams**, and **Skype for Business Online (Plan 2)**.</span></span>
+3. <span data-ttu-id="02fa0-110">Підтвердьте, що для користувача вибрано ліцензії **Аудіоконференції, Microsoft Teams** і **Skype для бізнесу – онлайн (план 2)**.</span><span class="sxs-lookup"><span data-stu-id="02fa0-110">Confirm that the user has licenses selected for **Audio Conferencing, Microsoft Teams**, and **Skype for Business Online (Plan 2)**.</span></span>
 
-4. <span data-ttu-id="76f7c-111">На вкладці **Центри адміністрування** послідовно виберіть **Показати всі** > **Teams**.</span><span class="sxs-lookup"><span data-stu-id="76f7c-111">User **Admin centers** click **Show all** and then **Teams**.</span></span>
+4. <span data-ttu-id="02fa0-111">На вкладці **Центри адміністрування** послідовно виберіть **Показати всі** > **Teams**.</span><span class="sxs-lookup"><span data-stu-id="02fa0-111">User **Admin centers** click **Show all** and then **Teams**.</span></span>
 
-5. <span data-ttu-id="76f7c-112">У **Центрі адміністрування Microsoft Teams** клацніть **Стара версія порталу**.</span><span class="sxs-lookup"><span data-stu-id="76f7c-112">In the **Microsoft Teams admin center**, click **Legacy portal**.</span></span>
+5. <span data-ttu-id="02fa0-112">У **Центрі адміністрування Microsoft Teams** клацніть **Стара версія порталу**.</span><span class="sxs-lookup"><span data-stu-id="02fa0-112">In the **Microsoft Teams admin center**, click **Legacy portal**.</span></span>
 
-6. <span data-ttu-id="76f7c-113">У **Центрі адміністрування Skype для бізнесу** послідовно виберіть **Аудіоконференції** > **Користувачі**.</span><span class="sxs-lookup"><span data-stu-id="76f7c-113">In the **Skype for Business admin center**, click **audio conferencing** and then **users**.</span></span>
+6. <span data-ttu-id="02fa0-113">У **Центрі адміністрування Skype для бізнесу** послідовно виберіть **Аудіоконференції** > **Користувачі**.</span><span class="sxs-lookup"><span data-stu-id="02fa0-113">In the **Skype for Business admin center**, click **audio conferencing** and then **users**.</span></span>
 
-7. <span data-ttu-id="76f7c-114">Виберіть потрібного користувача й переконайтеся, що в нього є **платний номер за замовчуванням**.</span><span class="sxs-lookup"><span data-stu-id="76f7c-114">Select the user in question and verify the user has a **Default Toll Number**.</span></span>
+7. <span data-ttu-id="02fa0-114">Виберіть потрібного користувача й переконайтеся, що в нього є **платний номер за замовчуванням**.</span><span class="sxs-lookup"><span data-stu-id="02fa0-114">Select the user in question and verify the user has a **Default Toll Number**.</span></span>
 
-<span data-ttu-id="76f7c-115">Докладні відомості див. в статті [Плани викликів у Microsoft Teams для Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) або зв’яжіться з командою виставлення рахунків корпорації Майкрософт, щоб отримати допомогу в питаннях ліцензування.</span><span class="sxs-lookup"><span data-stu-id="76f7c-115">For more information, refer to [Microsoft Teams Calling Plans for Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) or call the Microsoft Commerce Billing team for help with a licensing related questions.</span></span>
+<span data-ttu-id="02fa0-115">Докладні відомості див. в статті [Плани викликів у Microsoft Teams для Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) або зв’яжіться з командою виставлення рахунків корпорації Майкрософт, щоб отримати допомогу в питаннях ліцензування.</span><span class="sxs-lookup"><span data-stu-id="02fa0-115">For more information, refer to [Microsoft Teams Calling Plans for Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) or call the Microsoft Commerce Billing team for help with a licensing related questions.</span></span>
