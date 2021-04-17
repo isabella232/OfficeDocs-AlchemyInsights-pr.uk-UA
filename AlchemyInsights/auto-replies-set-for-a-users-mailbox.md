@@ -2,21 +2,22 @@
 title: Налаштування автовідповідей для поштової скриньки
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 60af581e7fe508ab9644a53873bcd551b3aacff1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788903"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820955"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Налаштування автовідповідей для поштової скриньки користувача
 
@@ -36,7 +37,7 @@ ms.locfileid: "43788903"
 
 2. Розгорніть **Центри адміністрування** та клацніть **Exchange**.
 
-3. Клацніть зображення у верхньому правому куті, виберіть пункт**Інший користувач**, та виберіть поштову скриньку користувача, яку потрібно змінити.
+3. Клацніть зображення у верхньому правому куті, виберіть пункт **Інший користувач**, та виберіть поштову скриньку користувача, яку потрібно змінити.
 
 4. У лівій частині виберіть **Параметри**, клацніть **Упорядкування електронної пошти**, а потім виберіть пункт **Автовідповіді.**
 

@@ -2,7 +2,7 @@
 title: Призначення або вилучення ліцензій користувачів
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: ebd9b19e7e097e8bb7ce550a3261a50ebf527468
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dac3ee09db000fa8f9058baf6f6a9220e20eb695
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716086"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821063"
 ---
 # <a name="assign-or-remove-user-licenses"></a>Призначення або вилучення ліцензій користувачів
 
-Адміністратор може налаштувати ліцензії користувачів за потреби. У цих статтях показано, як керувати ліцензіями користувача.
+Як адміністратор ви можете змінити ліцензії користувачів за потреби. У цих статтях описано, як керувати ліцензіями користувачів.
   
 - [Призначення ліцензій користувачам у Microsoft 365 для бізнесу](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [Скасування призначення ліцензій від користувачів у Microsoft 365 для бізнесу](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
+- [Скасування призначення ліцензій користувачів у Microsoft 365 для бізнесу](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-Не відповіли на запитання? Жодних проблем! Натисніть кнопку "потрібна допомога", щоб поговорити з інженером підтримки.
+Не відповіли на ваше запитання? Жодних проблем! Скористайтеся кнопкою "Потрібна допомога", щоб поговорити з інженером служби підтримки.
