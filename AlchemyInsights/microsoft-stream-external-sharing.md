@@ -1,8 +1,8 @@
 ---
-title: Зовнішній спільний доступ до Microsoft Stream
+title: Зовнішній спільний доступ До Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd4ecb27d5ef6befb87c73f02b23975089e837c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675247"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833996"
 ---
-# <a name="microsoft-stream-external-sharing"></a>Зовнішній спільний доступ до Microsoft Stream
+# <a name="microsoft-stream-external-sharing"></a>Зовнішній спільний доступ До Microsoft Stream
 
-Microsoft Stream ще не підтримує сценарії зовнішнього спільного доступу для гостей або користувачів за межами вашої організації. Ми дізнаємося, що ці функції дуже необхідні, і ми працюємо над планами, як створювати ці функції.
+Microsoft Stream поки що не підтримує сценарії зовнішнього спільного доступу для гостей або осіб за межами вашої організації. Ми знаємо, що ці функції дуже потрібні, і ми працюємо над планами створення цих функцій.
 
-- [Зовнішній спільний доступ у потоці](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
+- [Зовнішній спільний доступ у Потоці](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
 - [Надання спільного доступу до відео в Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

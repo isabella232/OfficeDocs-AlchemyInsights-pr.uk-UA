@@ -1,8 +1,8 @@
 ---
-title: Виправлення неполадок із електронною поштою
+title: Виправлення неполадок, пов'язаних із подіями з електронної пошти
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658755"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834860"
 ---
-# <a name="troubleshooting-events-from-email"></a>Виправлення неполадок із електронною поштою
+# <a name="troubleshooting-events-from-email"></a>Виправлення неполадок, пов'язаних із подіями з електронної пошти
 
-1. Перевірка функції для поштової скриньки: **Get-EventsFromEmailConfiguration-Identity <mailbox> **
+1. Перевірка активації функції для поштової скриньки: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Після цього перейдіть на вкладку "події з електронної пошти", що **експортується – MailboxDiagnosticLogs <mailbox> -компонент "хронопрофіль** "
+2. Потім перегляньте журнали "Події з електронної пошти" **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. У журналах "події з електронної пошти" Дізнайтеся, що відповідає елементу в поштовій скриньці.  
+3. У журналах "Події з електронної пошти" знайдіть елемент InternetMessageId, який збігається з елементом у поштовій скриньці.  
 
-4. "Довірчого значення" визначає, чи додано елемент або ні. Події буде додано лише за умови, що довірчі = "надійні".
+4. Параметр TrustScore визначає, чи додається елемент. Події додаються, лише якщо значення TrustScore = "Trusted" (Довіряти).
 
-Показник Truecscore визначається за властивостями SPF, DKIM або DKIM, які знаходяться в заголовку повідомлення.
+Значення TrustScore визначається властивостями SPF, Dkim або Dmarc у заголовку повідомлення.
 
 Щоб переглянути ці властивості, виконайте наведені нижче дії.
 
-**Робочий стіл Outlook**
+**Класична програма Outlook**
 
 - Відкриття елемента
-- Властивості файлу > – > заголовки Інтернету
+- File -> Properties -> Internet Headers
 
 або
 
-**Mffmapi**
+**MFCMapi**
 
 - Перехід до елемента в папці "Вхідні"
-- Пошук PR_TRANSPORT_MESSAGE_HEADERS_W
+- Знайдіть PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Ці властивості визначаються та записуються під час транспортування та маршрутизації. Щоб отримати додаткові виправлення неполадок, можливо, знадобиться стежити за допомогою транспортної підтримки про помилки в SPF, DKIM і. або DKIM.
+Ці властивості визначаються та записуються під час транспортування та маршрутизації. Щоб додатково виправити неполадки, може знадобитися виконати вказівки зі служби підтримки транспортування, пов'язаної з помилками SPF, DKIM і DMARC.

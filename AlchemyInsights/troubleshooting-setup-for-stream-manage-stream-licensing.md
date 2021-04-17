@@ -1,8 +1,8 @@
 ---
-title: Виправлення неполадок із інсталяцією потокового передавання потоку
+title: Виправлення неполадок із налаштуванням потоку – керування ліцензуванням Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749679"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834788"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Керування ліцензіями Microsoft Stream
 
-**Важливо:** Щоб виконувати операції, описані в цій статті, потрібно мати роль адміністратора клієнта.
+**Увага!** Виконувати операції, описані в цій статті, потрібно мати роль адміністратора-клієнта.
 
-Потрібно бути глобальним адміністратором або адміністратором керування користувачами. Докладні відомості наведено в статті [відомості про ролі адміністратора](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+Для цього потрібно мати дозволи глобального адміністратора або адміністратора керування користувачами. Докладні відомості див. [в відомості про ролі адміністратора](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
 
-Ви можете призначати [ліцензії для облікових записів користувачів за допомогою оболонки Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Ліцензії можна [призначати обліковим записам користувачів за допомогою оболонки Office 365 PowerShell.](https://go.microsoft.com/fwlink/p/?linkid=850410)

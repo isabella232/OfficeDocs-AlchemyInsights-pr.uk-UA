@@ -1,8 +1,8 @@
 ---
-title: Дозволи для груп Microsoft
+title: Дозволи Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777733"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833780"
 ---
-# <a name="microsoft-teams-permissions"></a>Дозволи для груп Microsoft
+# <a name="microsoft-teams-permissions"></a>Дозволи Microsoft Teams
 
-Команди Microsoft включає дві ролі користувачів: власника та учасника. За замовчуванням користувач, який створив команду, отримує статус власника. Крім того, власники та учасники можуть мати можливості модератора для каналу (якщо було настроєно модерацію). Якщо команда створюється з наявної групи Microsoft 365, дозволи успадковуються. Докладні відомості:
+У Microsoft Teams є дві ролі користувача: власник і учасник. За замовчуванням користувач, який створив команду, отримує статус власника. Крім того, власники та учасники можуть мати можливості модератора для каналу (якщо модерацію настроєно). Якщо команду створено з наявної групи Microsoft 365, дозволи успадковуються. Докладні відомості:
 
-- [Призначення власників і учасників групи в командах Microsoft](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Дозволи та міркування програм для команд Microsoft](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Установлення дозволів гостя для каналів в командах](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Призначення власників і учасників команд у Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Дозволи та рекомендації для програм Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Налаштування гостьових дозволів для каналів у Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

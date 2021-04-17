@@ -1,8 +1,8 @@
 ---
-title: Оновлення відомостей про мій профіль або змінення зображення
+title: Оновлення відомостей профілю або змінення свого зображення
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796957"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834464"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Оновлення відомостей про мій профіль або змінення зображення
+# <a name="update-my-profile-information-or-change-my-picture"></a>Оновлення відомостей профілю або змінення свого зображення
 
-Наразі не можна редагувати й оновлювати відомості профілю безпосередньо з програми Outlook для iOS, але можна відредагувати цю інформацію в іншому місці. 
+Зараз редагувати й оновлювати відомості профілю безпосередньо в Outlook для iOS не можна, але ці відомості можна редагувати в іншому місці. 
 
-Ви можете вносити оновлення до свого профілю в Outlook для Windows або Інтернет-версії Outlook (OWA). 
+Оновлення профілю можна внести як в Outlook для Windows, так і в інтернет-версії Outlook (OWA). 
 
-**Програма Outlook для Windows**: 
+**Outlook для Windows:** 
 
-- **Файл**  >  **Обліковий запис Office**  >  **Відомості про користувача**  >  **Про мене** (ви потрапите до служби Microsoft 365 online) > **оновити профіль** або клацніть піктограму камери, щоб змінити фотографію  
+- **Файл**  >  **Обліковий запис**  >  Office **Відомості про користувача**  >  **Про мене** (відкриється профіль Microsoft 365 в Інтернеті) > **Оновити** профіль або клацніть піктограму камери, щоб змінити фотографію  
   
-**Інтернет-версія Outlook (OWA)**: 
+**Інтернет-версії Outlook (OWA):** 
 
-- **Зображення профілю**  >  **Мій профіль**  >  **Оновити профіль**
+- **Зображення профілю**  >  **Мій профіль**  >  **Оновлення профілю**

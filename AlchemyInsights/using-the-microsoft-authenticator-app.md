@@ -1,8 +1,8 @@
 ---
-title: Використання програми Генератор кодів Microsoft
+title: Використання програми Microsoft Authenticator
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001679"
 - "3744"
-ms.openlocfilehash: 69ff8e3e0d9eeec2d39d1d5ddb4e4e540895d017
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62c981d616cc612b77922a8cbc4cedf4b3b87cf0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770104"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834356"
 ---
-# <a name="using-the-microsoft-authenticator-app"></a>Використання програми Генератор кодів Microsoft
+# <a name="using-the-microsoft-authenticator-app"></a>Використання програми Microsoft Authenticator
 
-Увійдіть у свій персональний обліковий запис Microsoft, використовуючи відбитки пальців, розпізнавання облич або PIN-код.
+Увійдіть в особистий обліковий запис Microsoft, використовуючи відбиток пальця, розпізнавання обличчя або PIN-код.
 
-- [Використання програми Генератор кодів Microsoft](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
+- [Як користуватися Програмою Microsoft Authenticator](https://support.microsoft.com/help/4026727/microsoft-account-how-to-use-the-microsoft-authenticator-app). 
 
-- Щоб [налаштувати програму Генератор кодів](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) , ВІДСКАНУВАТИ QR-код або [вручну додавши обліковий запис](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual).  
+- [Налаштуйте програму Authenticator,](https://docs.microsoft.com/azure/active-directory/user-help/security-info-setup-auth-app) відскануйте QR-код або додайте обліковий запис [уручну.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-add-account-manual)  
 
-Докладні відомості наведено в розділі [Огляд програми Генератор кодів](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).
+Докладні відомості див. в огляді [програми Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview).

@@ -1,8 +1,8 @@
 ---
-title: Виправлення неполадок із сценаріями оновлення – помилки плиток
+title: Виправлення неполадок із оновленням – помилки плитки
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690696"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834932"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Виправлення неполадок із сценаріями оновлення – помилки плиток
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Виправлення неполадок із оновленням – помилки плитки
 
-Якщо в службі Power BI виникають помилки оновлення плитки, Зачекайте приблизно 10-15 хвилин для оновлення, яке відображатиметься на приладній дошці. Якщо все одно не відображається, повторно закріпіть графічне відображення на приладну дошку.
+Якщо у вас виникли помилки оновлення плиток у службі Power BI, зачекайте приблизно 10–15 хвилин, доки оновлення не відобразяться на плитках приладної дошки. Якщо вона все одно не відображається, повторно закріпіть візуалізацію на приладну дошку.
 
-Щоб отримати докладніші відомості, виконайте наведені нижче дії. [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+Докладні відомості: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

@@ -1,8 +1,8 @@
 ---
-title: Дослідний досвід групи Microsoft
+title: Ознайомлення з Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480740"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833816"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Дослідний досвід групи Microsoft
+# <a name="microsoft-teams-exploratory-experience"></a>Ознайомлення з Microsoft Teams
 
-- Що таке [дослідницький групи](https://docs.microsoft.com/microsoftteams/teams-exploratory)? Дослідницький досвід групи Microsoft дає змогу користувачам у вашій організації, які не мають ліцензії для роботи з групами, ініціюють роботу груп. Щоб отримати докладніші відомості, ознайомтеся з відомостями про [досвід роботи з групами](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
-- [Скільки часу триває дослідницьке час роботи групи?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Дослідницький досвід групи Microsoft доступний без додаткової вартості протягом 12 місяців (від початкового входу користувача) плюс додатковий 30-денна пільговий період.
-- Адміністратор дає змогу [оновлювати користувачів із відповідної](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) ліцензії на групи, придбавши передплату, яка міститиме команди, видаливши передплату на групи, щоб надати користувачу, а також привласнення щойно придбаної ліцензії.
-- Докладні відомості наведено в статті [керування ліцензійними групами](https://docs.microsoft.com/microsoftteams/teams-exploratory).
+- Що таке ["Дослідження Teams"?](https://docs.microsoft.com/microsoftteams/teams-exploratory) Ознайомлювачі Microsoft Teams дають змогу користувачам в організації, які не мають ліцензії Teams, ініціювати дослідження Teams. Докладні відомості див. в цій [програмі.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
+- [Скільки часу триває ознайомлення з Teams?](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) Можливість ознайомлення з Microsoft Teams доступна безкоштовно протягом 12 місяців (з початкової реєстрації користувача) і додаткового 30-денного пільгного періоду.
+- Як адміністратор ви можете оновити користувачів за ліцензією [Teams Exploratory,](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) придбавши передплату з Teams, видаливши передплату на ознайомлювальну версію Teams від користувача та призначивши придбану ліцензію.
+- Докладні відомості див. [в розділі Керування ліцензією teams Exploratory](https://docs.microsoft.com/microsoftteams/teams-exploratory).
