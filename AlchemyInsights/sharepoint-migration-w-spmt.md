@@ -1,8 +1,8 @@
 ---
-title: Перенесення SharePoint за допомогою SPMT
+title: Перенесення SharePoint із SPMT
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 33864a5ee90d5947d0a9154f585a502b053ff176
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719902"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828330"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>Перенесення SharePoint за допомогою SPMT
+# <a name="sharepoint-migration-with-spmt"></a>Перенесення SharePoint із SPMT
 
-Призначений для перенесення для міграцій, починаючи з найменшого набору файлів до великого масштабу, засіб перенесення SharePoint дає змогу перенести інформацію до хмари та скористатися найновішими новітніми рішеннями, засобами розвідки та безпекою в Microsoft 365.
+Призначено для перенесення: від найменшого набору файлів до масштабного корпоративного перенесення, засіб перенесення SharePoint дасть змогу перенести інформацію до хмари та скористатися перевагами найновіших рішень співпраці, аналітики та безпеки за допомогою Microsoft 365.
 
 - [Завантаження та інсталяція інструмента перенесення даних SharePoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
-- [Виправлення неполадок із загальними проблемами та помилками SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-- [Вирішення проблем із інсталяцією SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)
+- [Виправлення поширених проблем і помилок SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Виправлення неполадок інсталяції SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues#troubleshooting-spmt-installation-issues)

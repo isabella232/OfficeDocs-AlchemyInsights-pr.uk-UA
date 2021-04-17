@@ -1,8 +1,8 @@
 ---
-title: Неправильна адреса Pro"Address"
+title: ProxyAddress неправильний
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801529"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828965"
 ---
-# <a name="proxyaddress-incorrect"></a>Неправильна адреса Pro"Address"
+# <a name="proxyaddress-incorrect"></a>ProxyAddress неправильний
 
-Коли об'єкт синхронізується з Azure AD, значення, указані в атрибуті Proxyадресами в Active Directory, порівнюють з правилами Azure AD, а потім атрибут proxyAddresses заповнюється в Лазурне AD. Тому значення атрибута proxyAddresses для об'єкта в Active Directory може бути не таким самим, як і значення атрибута proxyAddresses в Azure AD.
+Коли об'єкт синхронізується з Azure AD, значення, указані в атрибуті proxyAddresses в Active Directory, порівнюються з правилами Azure AD, а атрибут proxyAddresses заповнюється в Azure AD. Таким чином, значення атрибута proxyAddresses об'єкта в Active Directory можуть не збігатись зі значеннями атрибута proxyAddresses в Azure AD.
   
-Щоб дізнатися більше про те, як буде населений адресу, Дізнайтеся, [як атрибут Pro"Address" заповнюється в Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Докладні відомості про заповнення proxyaddress див. в статті Заповнення [атрибута proxyAddress в Azure AD.](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad)
   
 
