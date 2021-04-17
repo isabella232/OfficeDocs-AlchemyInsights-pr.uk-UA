@@ -1,8 +1,8 @@
 ---
-title: Не вдається додати гостей до команди
+title: Не вдалося додати гостей до команди
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003558"
 - "6657"
-ms.openlocfilehash: 8542540fb9c9164cccc3a06e0d9cbf83324f4118
-ms.sourcegitcommit: 76b147af688f0dc39878a913a050c0e56af054a8
-ms.translationtype: MT
+ms.openlocfilehash: 4c10ffa16b30cccb7552bbaf896b5085bfb29ac3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48364973"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819497"
 ---
-# <a name="cant-add-guests-to-a-team"></a>Не вдається додати гостей до команди
+# <a name="cant-add-guests-to-a-team"></a>Не вдалося додати гостей до команди
 
-Щоб додати гостя до команди, слід виконати такі дії:  
+Щоб додати гостя до групи, потрібно виконати наведені нижче умови.  
 
-- Адміністратор увімкнув гостьовий доступ в командах.
-- Ви власник команди.
-- Користувач, який потрібно додати, не належить до вашої організації, наприклад партнера чи консультанта.
+- Адміністратор увімкнув гостьовий доступ у Teams.
+- Ви – власник команди.
+- Особа, яку потрібно додати, не входить до вашої організації (наприклад, партнер або консультант).
 
-Щоб отримати докладні відомості, Дізнайтеся,  [як гість приєднується до команди](https://docs.microsoft.com/MicrosoftTeams/guest-joins).
+Докладніше про приєднання гостя до команди див.[у цій статті](https://docs.microsoft.com/MicrosoftTeams/guest-joins).

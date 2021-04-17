@@ -1,8 +1,8 @@
 ---
-title: Скасування передплати в Лазур
+title: Скасування передплати в Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6786"
-ms.openlocfilehash: f85608446c8b230753dccd06ee5b5ea36aed7802
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: fcb767f5e981e8e208914a76f3b88f4433e42818
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807937"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819605"
 ---
-# <a name="cancel-subscription"></a>Скасування передплати
+# <a name="cancel-subscription"></a>Скасувати передплату
 
-Якщо вам більше не потрібна Передплата, ви можете скасувати передплату на Лазурне тільки адміністратор або власник облікового запису. Виконайте наведені нижче дії.
+Лише адміністратор або власник облікового запису може скасувати передплату. Якщо передплата Azure вам більше не потрібна, її можна скасувати на порталі Microsoft Azure. Виконайте наведені нижче дії.
 
-1. Виберіть передплату на сторінці " [передплати" на порталі "Лазурний"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+1. Виберіть передплату на [сторінці "Передплати" порталу Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
 2. Виберіть передплату, яку потрібно скасувати.
-3. Виберіть **Огляд** , а потім натисніть **кнопку Скасувати передплату** .
+3. Виберіть **Огляд**, а потім натисніть **Скасувати передплату**.
 
-**Що відбувається після скасування передплати?**
+**Наслідки скасування передплати**
 
-Після скасування виставлення рахунків негайно припиняється. Тим не менш, може знадобитися до 10 хвилин для скасування, щоб показати на порталі. У разі скасування в середині періоду виставлення рахунків ми надсилаємо остаточний рахунок на типову дату виставлення рахунка після закінчення періоду.
+Виставлення рахунків припиниться негайно після скасування. Однак для того, щоб скасування відображалося на порталі, може знадобитися до 10 хвилин. Якщо передплату скасовано в середині розрахункового періоду, ми надішлемо вам остаточний рахунок-фактуру, як зазвичай, після завершення періоду.
 
-Після скасування ваші служби буде вимкнуто. Це означає, що віртуальні машини виділені, але тимчасові IP-адреси вивільняється, а сховище призначено лише для читання.
+Після скасування буде вимкнуто служби. Це означає, що призначення віртуальних машин буде скасовано, тимчасові IP-адреси звільняться, а сховище буде доступним лише для читання.
 
-Після скасування вашої абонентської плати корпорація Майкрософт очікує 30-90 днів, перш ніж остаточно видалити дані у випадку, якщо вам потрібно отримати доступ до неї або змінити вигляд. Ми не стягуємо відповідальність за збереження даних. Докладні відомості можна знайти в статті [Центр безпеки та конфіденційності (Microsoft): керування даними](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
+Якщо передплату буде скасовано, корпорація Майкрософт зберігатиме ваші дані 30–90 днів, перш ніж остаточно видалити їх, на випадок, якщо потрібно отримати до них доступ або ви передумаєте. Плата за збереження даних не стягується. Докладні відомості про те, як Центр безпеки та конфіденційності Microsoft керує вашими даними див. [у цій статті](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
-**Скасування передплати на Azure**
+**Скасування передплати Azure**
 
 - [Хто може скасувати передплату?](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#who-can-cancel-a-subscription)
-- [Що відбувається після передплатою](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
+- [Наслідки скасування передплати](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#what-happens-after-i-cancel-my-subscription)
 
 **Рекомендовані документи**
 
-- [Повторна активація передплатою](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
-- [Перехід до передплатою](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Повторна активація передплати](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support#reactivate-subscription)
+- [Зміна передплати](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)

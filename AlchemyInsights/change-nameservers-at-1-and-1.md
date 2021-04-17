@@ -1,26 +1,27 @@
 ---
-title: Зміна сервера імен на 1 і 1 IONOS
+title: Змінення серверів імен на 1 та 1 IONOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5826"
 - "14"
-ms.openlocfilehash: e85726aad00a40fac041bee1620caf8c5a843bb3
-ms.sourcegitcommit: 936330b11fec49f6174eadea6c765bdf9e6ba784
-ms.translationtype: MT
+ms.openlocfilehash: b66f587552e5427ca66a70c9e387fccc54b0d4a4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44749185"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818921"
 ---
-# <a name="change-nameservers-at-1-and-1-ionos"></a>Зміна сервера імен на 1 і 1 IONOS
+# <a name="change-nameservers-at-1-and-1-ionos"></a>Змінення серверів імен на 1 та 1 IONOS
 
-[Змінити сервери імен для установки Microsoft 365 з 1&1 IONOS](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
+[Змінення серверів імен для налаштування Microsoft 365 за допомогою 1 та 1 IONOS](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-1-1-internet)
 
-Для інших питань, домени спробувати [поширені запитання про домени](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
+Щоб отримати допомогу з іншими проблемами з доменами, перевірте [Домени: запитання й відповіді](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)

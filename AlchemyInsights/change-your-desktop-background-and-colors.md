@@ -1,8 +1,8 @@
 ---
-title: Змінення тла та кольорів робочого стола
+title: Змінення фону робочого стола та кольорів
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: 6454493827ada786f057aec6235978522ab25be5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793743"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818165"
 ---
-# <a name="change-your-desktop-background-and-colors"></a>Змінення тла та кольорів робочого стола
+# <a name="change-your-desktop-background-and-colors"></a>Змінення фону робочого стола та кольорів
 
-Щоб змінити настройки кольорів, перейдіть на вкладку **початок**  >  **Настроювання**  >  **Personalization**  >  **кольорів**, а потім виберіть свій власний колір або дозвольте Windows витягнути колір із фону.
+Щоб змінити настройки кольорів, перейдіть до меню Пуск Настройки Персоналізація Кольори , а потім виберіть власний колір або дозвольте Windows отримати на основі фону колірну  >    >    >  колірну схему.
 
-![Персоналізуйте свої кольори в ОС Windows.](media/windows-personalization-colors.png)
+![Персоналізація кольорів у Windows.](media/windows-personalization-colors.png)
 
-Щоб змінити тло робочого стола, перейдіть на вкладку **початок**  >  **Настроювання**  >  **Personalization**  >  **Background**, а потім виберіть зображення, суцільний колір або створіть слайд-шоу зображень. 
+Щоб змінити фон робочого стола, перейдіть до меню Пуск Настройки Персоналізація Фон , а потім виберіть зображення, суцільний колір або створіть показ  >    >    >  слайдів із зображень. 
 
-![Змінення тла робочого стола Windows.](media/windows-desktop-background.png)
+![Змініть фон робочого стола Windows.](media/windows-desktop-background.png)
 
-Додаткові фонові рисунки та кольори для робочого стола Перейдіть на вкладку [магазин Microsoft](https://www.microsoft.com/store/collections/windowsthemes) , щоб вибрати один із десятків безкоштовних тем.
+Потрібно більше фонових зображень і кольорів робочого стола? [Відвідайте Microsoft Store,](https://www.microsoft.com/store/collections/windowsthemes) щоб вибрати з десятків безкоштовних тем.

@@ -2,7 +2,7 @@
 title: Черги викликів
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734356"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819857"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Черги викликів у групах Microsoft і "Skype для бізнесу" 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Черги викликів у Microsoft Teams і "Skype для бізнесу" 
 
-Щоб почати використовувати черги викликів, зверніться до наведених нижче посилань.
+Щоб почати використовувати черги викликів, див. наведені нижче посилання.
 
-- [Створення черги хмарного виклику](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Відповідь на автосекретаря і виклик черги викликів безпосередньо в командах](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Створення черги викликів у хмарі](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [Відповідь на авто-учасника та чергу викликів безпосередньо з Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
