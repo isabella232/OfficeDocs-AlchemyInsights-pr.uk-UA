@@ -1,8 +1,8 @@
 ---
-title: Практичні поради з роботи з мисливськими запитами
+title: Поради з розширеного пошуку запитів
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696678"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821756"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>Практичні поради з роботи з мисливськими запитами
+# <a name="advanced-hunting-query-best-practices"></a>Поради з розширеного пошуку запитів
 
-Ознайомтеся з усіма додатковими порадами щодо [найкращого запиту на полювання](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) , щоб отримати докладні рекомендації та рекомендації щодо таких дій:
+Докладні рекомендації та [рекомендації](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) щодо розширеного пошуку запитів див. в повній статті.
 - Оптимізація продуктивності запитів.
-- Поради з запитів і підводні камені.
-- Запити з командними лініями.
+- Поради та паузки запитів.
+- Запити з командними рядками.
 
 

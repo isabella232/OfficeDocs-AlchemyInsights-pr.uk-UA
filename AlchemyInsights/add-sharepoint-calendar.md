@@ -2,7 +2,7 @@
 title: Додавання календаря SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 4a0dd39bbb1215008220f7c15fc77a7d7216cfe4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687635"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822368"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Додавання календаря SharePoint
 
-Календарі SharePoint – це класичні типи списків, які інколи плутають з календарями групи Microsoft 365.
+Календарі SharePoint – це класичні типи списків, які іноді плутаються з календарями групи Microsoft 365.
  
-Щоб створити календар SharePoint, виконайте наведені нижче дії.
+Щоб створити календар SharePoint, виконайте такі дії:
  
-1.  Виберіть піктограму триба **настройки** , а потім виберіть пункт **додати програму**.
-2.  У полі Пошук **програм** введіть **календар** і натисніть клавішу ВВІД.
-3.  Виберіть програму **календар**із заголовком, а потім введіть ім'я для календаря.
+1.  Клацніть **піктограму** із зображенням піктограми із зображенням **кнопки "Додати програму"**.
+2.  У полі **пошуку Знайти програму** введіть Календар і **натисніть** клавішу Enter.
+3.  Виберіть програму під назвою **Календар**, а потім введіть ім'я календаря.
 
-Докладні відомості про групи Microsoft 365 наведено в статті [відомості про групи microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Докладні відомості про Групи Microsoft 365 див. в статті Відомості [про Групи Microsoft 365.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 

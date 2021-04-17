@@ -2,7 +2,7 @@
 title: Додавання користувачів до групи SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000237"
 - "3199"
-ms.openlocfilehash: f554591948295215983bafa43f98c201e92e103f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 807d6b9dce934887df65d0a1df6ba73b197e62aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687239"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822224"
 ---
 # <a name="add-users-to-a-sharepoint-group"></a>Додавання користувачів до групи SharePoint
 
-Група SharePoint – це набір користувачів, які мають однаковий набір дозволів для сайтів і вмісту. Замість того, щоб призначати дозволи одній особі за раз, можна скористатися групами, щоб зручно призначати однаковий рівень дозволів багатьом користувачам одночасно.
+Група SharePoint – це колекція користувачів, які мають однаковий набір дозволів на доступ до сайтів і вмісту. Замість того, щоб призначати дозволи одному користувачу за раз, можна використовувати групи, щоб зручно призначати однаковий рівень дозволів багатьом користувачам одночасно.
 
 - [Додавання користувачів до групи](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions#add-users-to-a-group)
-- [Додавання або видалення учасників із груп Microsoft 365 за допомогою Центру адміністрування](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)
+- [Додавання або видалення учасників Груп Microsoft 365 за допомогою Центру адміністрування](https://docs.microsoft.com/microsoft-365/admin/create-groups/add-or-remove-members-from-groups)

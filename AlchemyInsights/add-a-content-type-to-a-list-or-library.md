@@ -2,7 +2,7 @@
 title: Додавання типу вмісту до списку або бібліотеки
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003050"
 - "5791"
-ms.openlocfilehash: 2f3a4983ef43fd2157170c895da814a3d5294627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90dccd7afeb645ab07fc36f79ef18fd1710e7872
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697398"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822836"
 ---
 # <a name="add-a-content-type-to-a-list-or-library"></a>Додавання типу вмісту до списку або бібліотеки
 
 1. Перейдіть до  [параметрів списку або бібліотеки](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f).
-2. У розділі  **типи вмісту**виберіть пункт  **Додати з наявного типу вмісту сайту**. Якщо  **типи вмісту**  не відображаються, виберіть  **Додаткові параметри**.
-3. Виберіть зі списку  **Виберіть типи вмісту сайту**  .
-4. У списку доступні типи вмісту сайту виберіть ім'я потрібного типу вмісту, а потім перетягніть вибраний тип вмісту до типів вмісту, щоб додати список, натисніть кнопку Додати.
+2. У **розділі Типи** вмісту виберіть **пункт Додати з наявних типів вмісту сайту.** Якщо  **типи вмісту**  не відображається, виберіть  **Додаткові настройки**.
+3. У списку Виберіть  **типи вмісту сайту**  виберіть потрібний тип.
+4. У списку Доступні типи вмісту сайту виберіть ім'я потрібного типу вмісту та перемістіть вибраний тип вмісту до списку Типи вмісту, який потрібно додати, і натисніть кнопку Додати.
 5. Повторіть кроки для додаткових типів вмісту.
 
-Докладні відомості наведено в статті  [Додавання типу вмісту до списку або бібліотеки](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60).
+Докладні відомості [див. в статтях Додавання типу вмісту до списку або бібліотеки.](https://support.microsoft.com/en-us/office/add-a-content-type-to-a-list-or-library-917366ae-f7a2-47ad-87a5-9689a1884e60)
