@@ -1,8 +1,8 @@
 ---
-title: Оцінка відповідності
+title: Оцінка відповідності вимогам
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785480"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817337"
 ---
-# <a name="compliance-score"></a>Оцінка відповідності
+# <a name="compliance-score"></a>Оцінка відповідності вимогам
 
-Оцінка відповідності Microsoft (ознайомлювальну версію) – це функція в Microsoft 365, яка допомагає вимірювати положення відповідності організації. Він використовує оцінку на основі ризику на основі перебігу виконання дій, пов'язаних із відповідністю.   Оцінка відповідності – це спрощена версія [менеджера відповідності](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) , а також запропоновано простіший спосіб перевірити свою позицію відповідності та реалізувати дії, щоб її покращити. 
+Microsoft Compliance Score (Preview) – це функція Microsoft 365, яка допомагає вимірювати показники відповідності вимогам організації. На основі цього результату використовується оцінка ризиків, пов'язана з виконанням дій, пов'язаних із відповідністю вимогам.   Оцінка відповідності – це [](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) спрощена версія Диспетчера відповідності, яка полегшує перевірку відповідності вимогам і впроваджує дії для її покращення. 
 
-Глобальний адміністратор має настроїти належні [дозволи](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) в центрі відповідності Microsoft для доступу до оцінки відповідності.  Будь-які дозволи, попередньо настроєні для диспетчера відповідності, не передаватимуться за рахунок відповідності.
+Глобальний адміністратор має настроїти відповідні [](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) дозволи в Центрі відповідності Microsoft для доступу до оцінки відповідності вимогам.  Дозволи, настроєні раніше для Диспетчера відповідності, не переносяться до показника відповідності.
 
-**Щоб отримати доступ до оцінки відповідності**
+**Доступ до оцінки відповідності**
 
-1. Перейдіть до центру відповідності Microsoft 365 і **ввійдіть** за допомогою свого облікового запису Microsoft 365 глобального адміністратора.
+1. Перейдіть до Центру відповідності Microsoft 365 і ввійдіть **за** допомогою облікового запису глобального адміністратора Microsoft 365.
 
-2. Виберіть пункт **Оцінка відповідності** в області переходів ліворуч. Після цього потрібно переглянути свою [оцінку відповідності](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. В **області переходів ліворуч** виберіть Пункт Оцінка відповідності. Після цього ви побачите свою приладну [дошку з показником відповідності.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
  
 
-**Додаткові відомості**:
+**Докладні відомості про**:
 
-- Настроювання дозволів на доступ для оцінки відповідності в розділі [надання користувачам доступу до центрів відповідності & безпеки Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Робота з вдосконаленням дій у оцінці відповідності наведено в статті  [Робота з оцінкою відповідності](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Спосіб обчислення оцінки відповідності, перегляд [методології оцінки відповідності](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Оцінка відповідності, що відповідають стандартам, наведено [в статті зв'язок із менеджеру відповідності](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Налаштування дозволів на доступ для оцінки відповідності див. в статті Надання користувачам доступу до Центру безпеки [& Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Докладні відомості див. в розділі Робота [з оцінкою відповідності.](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)
+- Відомості про те, як обчислюється оцінка відповідності, див. в статті [Методологія показників відповідності.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)
+- Диспетчер відповідності та Диспетчер відповідності див. в статтях [Зв'язок із диспетчером відповідності.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)
 

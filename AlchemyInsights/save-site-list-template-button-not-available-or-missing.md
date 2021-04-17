@@ -1,31 +1,32 @@
 ---
-title: Кнопка "зберегти сайт/шаблон списку" недоступна або відсутня
+title: Кнопка "Зберегти шаблон сайту/списку" недоступна, або її немає
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358538"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789309"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Кнопка "зберегти сайт/шаблон списку" недоступна або відсутня
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Кнопка "Зберегти шаблон сайту/списку" недоступна, або її немає
 
-Можливість збереження сайту як шаблону не підтримується сучасними комунікаційними або веб-сайтами. Для отримання додаткових відомостей про використання шаблонів дивіться [збереження, завантаження та завантаження сайту SharePoint як шаблону](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+Можливість зберегти сайт як шаблон не підтримується для сучасних сайтів і сайтів команд. Додаткові відомості про шаблони див. в статті [Збереження, завантаження та передавання сайту SharePoint 2013 як шаблону](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Адміністраторам потрібно буде дозволити користувацький скрипт для ввімкнення функцій шаблону. Докладні кроки, приклади та рекомендації див.:
+Щоб активувати функції шаблонів, адміністраторам потрібно буде дозволити спеціальні сценарії. Докладні інструкції, приклади та рекомендації див. в цій статті:
 
-- [Дозволити або заборонити користувацький скрипт](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [Дозвіл і заборона спеціальних сценаріїв](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Команда Зберегти як шаблон не підтримується і може спричинити проблеми на веб-сайтах, які використовують видавничу інфраструктуру SharePoint Server.
+- Команда "Збереження сайту як шаблону" не підтримується та може призвести до проблем на сайтах, на яких використовується інфраструктура публікування SharePoint Server.
 
 

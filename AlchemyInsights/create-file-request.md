@@ -2,7 +2,7 @@
 title: Створення запиту на файл
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: db3169c3ffd69af0987d6beb8a8142b6ca385253
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746960"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816032"
 ---
 # <a name="how-to-create-a-file-request"></a>Створення запиту на файл
 
-Функція "запит на файл" у OneDrive дає змогу вибрати папку, у якій інші користувачі можуть передавати файли за допомогою посилання, яке ви надсилаєте. Користувачі, з якими ви запитуєте файли, не можуть бачити, що в папці – вони можуть передавати лише файли.
+Функція запиту файлів у OneDrive дає змогу вибрати папку, до якої інші користувачі можуть передавати файли, за допомогою посилання, яке ви надіслаєте. Користувачі, яким ви запитують файли, не можуть бачити, що міститься в папці – вони можуть лише передавати до неї файли.
 
-**Примітка**. адміністратор повинен активувати [будь-які посилання](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) в службі "onedrive" для роботи з файлами.
+**Примітка.** Адміністратор повинен активувати для роботи [посилань](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) "Для всіх користувачів" у OneDrive, щоб запити на файли працювали.
 
-- Докладні відомості наведено в статті [створення запиту на файл](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- Докладні відомості див. [в розділ Створення запиту файлу](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).

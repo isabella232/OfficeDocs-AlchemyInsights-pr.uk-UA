@@ -1,27 +1,26 @@
 ---
-title: Використовуєте Microsoft Teams уперше?
+title: Налаштування Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 48f26a50c7819dd225d9e9eed28f59db42236faf
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509166"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786222"
 ---
-# <a name="new-to-microsoft-teams"></a>Використовуєте Microsoft Teams уперше?
+# <a name="set-up-microsoft-teams"></a>Налаштування Microsoft Teams
 
-Ознайомтеся зі статтею  [Початок роботи з Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). Обов’язково ознайомтеся з навчальними відео та презентаціями для ІТ-адміністраторів Microsoft Teams.
+[Посібник із налаштування Microsoft Teams](https://aka.ms/teamsguidance) містить інструкції з налаштування командних робочих просторів організації, де можна в реальному чаті спілкуватися один на один і в групах за допомогою обміну повідомленнями, викликів і аудіо- та відеонарад. Ви отримаєте інструкції з визначення мережевих вимог організації за допомогою Планувальника мережі і Порадника Teams у Центрі адміністрування Teams. Коли розгортання буде завершено, у посібнику можна буде знайти корисні ресурси для початку роботи в Teams.
 
-Якщо вам потрібна допомога з розгортання Teams для підтримки віддалених працівників (WFH) у зв’язку з COVID-19, ознайомтеся зі статтею [Підтримка віддалених працівників за допомогою Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). Крім того, ви можете отримати допомогу з розгортання в програмі Microsoft 365 FastTrack – відвідайте [FastTrack Center](https://www.microsoft.com/fasttrack), щоб надіслати запит.
-
-**Важливо**. Через підвищений попит на використання Teams може знадобитися приблизно 24 години на повне призначення ліцензії користувачеві Teams. До того моменту ви не зможете призначити такому користувачеві політики, а він не матиме доступу до деяких функцій Teams, як-от виклики та аудіоконференції.
+Додаткові відомості наведено в статті [Початок роботи з Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

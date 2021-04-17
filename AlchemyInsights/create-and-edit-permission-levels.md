@@ -2,7 +2,7 @@
 title: Робота з рівнями дозволів SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: db92439091859e828d658c383be71aedc876100c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f447aea6c844746f1901382120cb4081e46ec578
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732520"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816113"
 ---
 # <a name="working-with-sharepoint-permission-levels"></a>Робота з рівнями дозволів SharePoint
 
-SharePoint постачається з рівнями дозволів за замовчуванням, які можна використовувати, наприклад лише для **участі** та **перегляду**. Але якщо один із них не відповідає вашим потребам, можна створити новий рівень дозволів. Пам'ятайте, що для відстеження значень за замовчуванням легше відстежувати рівні дозволів.
+SharePoint містить стандартні рівні дозволів, наприклад **"Внесати" та** **"Лише перегляд".** Але якщо один із них не відповідає вашим потребам, можна створити новий рівень дозволів. Пам'ятайте, що рівні дозволів простіше відстежувати, якщо не змінювати стандартні рівні.
 
-[Створення та редагування рівнів дозволів](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[Створення та змінення рівнів дозволів](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

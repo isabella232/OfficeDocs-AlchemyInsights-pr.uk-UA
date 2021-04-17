@@ -1,8 +1,8 @@
 ---
-title: 'Захист від злому клієнта захисника '
+title: 'Захист клієнта для Захисника '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3479"
 - "9001464"
-ms.openlocfilehash: 2c03e43bb8a669fcc8ff22e6c6df319a9a548be7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4873b026839b7cde8221bf8389cd33023056e605
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680525"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815600"
 ---
-# <a name="defender-tamper-protection"></a>Захист від злому захисника 
+# <a name="defender-tamper-protection"></a>Захист від підтабування Захисника 
 
-За допомогою захисту від злому шкідливі програми заборонено вживати такі дії:
+За допомогою підмічного захисту зловмисні програми не можуть виконувати такі дії:
 
 - Вимкнення захисту від вірусів і загроз
 - Вимкнення захисту в реальному часі
 - Вимкнення моніторингу поведінки
-- Вимкнення антивірусного (наприклад, IOfficeAntivirus (IOAV))
-- Вимкнення захисту від хмарних
-- Видалення оновлень розвідки системи безпеки
+- Вимкнення антивірусного програмного забезпечення (наприклад, IOfficeAntivirus (IOAV))
+- Вимкнення захисту, доставленого хмарою
+- Видалення оновлень аналетів безпеки
 
-Докладні відомості наведено в статті [захист параметрів безпеки за допомогою захисту від злому](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection).
+Докладні відомості див. в [розділі Захист параметрів безпеки за допомогою підробки захисту.](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/prevent-changes-to-security-settings-with-tamper-protection)

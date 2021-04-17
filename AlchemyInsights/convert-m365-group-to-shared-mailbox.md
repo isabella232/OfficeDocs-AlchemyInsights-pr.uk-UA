@@ -1,8 +1,8 @@
 ---
-title: Перетворення груп Microsoft 365 і спільних поштових скриньок
+title: Перетворення групи Microsoft 365 і спільних поштових скриньок
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 950c162276afb321774b58893271ab9ca654c705
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823125"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816581"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Перетворення груп Microsoft 365 і спільних поштових скриньок
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Перетворення групи Microsoft 365 і спільних поштових скриньок
 
-Зараз не можна перетворити між поштовою скринькою групи Microsoft 365 і спільною поштовою скринькою.
+Наразі не можна перетворити поштову скриньку групи Microsoft 365 на спільну поштову скриньку.
 
-Будь ласка, допоможіть голосувати за цю функцію [тут](https://aka.ms/M365GroupToShared).
+Допоможіть проголосувати за цю [функцію тут.](https://aka.ms/M365GroupToShared)
