@@ -2,7 +2,7 @@
 title: Розміщення програм на робочому столі
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001668"
 - "3735"
-ms.openlocfilehash: 4d7ce305231b94ce37960ccc92cdc87395397cfa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e04a6c9d29df92d65d120e6f9907cb82661fc912
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768268"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835868"
 ---
 # <a name="put-apps-on-the-desktop"></a>Розміщення програм на робочому столі
 
-Знайдіть програму в меню " **Пуск** ", а потім натисніть піктограму програми, утримуючи натиснутою ліву кнопку миші та перемістивши піктограму до робочого стола.
+Знайдіть програму в  меню "Пуск" і захопіть піктограму програми, утримуючи натиснутою ліву кнопку миші та переміщуючи піктограму на робочий стіл.
 
-Ви також можете натиснути клавішу **Windows + R** , а потім ввести цю команду:
+Ви також можете натиснути **клавіші Windows+R,** а потім ввести таку команду:
 
 `shell:appsfolder`
 
-Відкриється папка " **програми** " у **Файловому провіднику**. Тепер ви можете перетягнути піктограму програми на робочий стіл.
+У Файловому **провіднику** відкриється папка **Програми.** Тепер можна перетягнути піктограму програми на робочий стіл.
