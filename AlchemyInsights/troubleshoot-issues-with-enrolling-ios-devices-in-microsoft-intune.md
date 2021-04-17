@@ -1,8 +1,8 @@
 ---
-title: Виправлення неполадок під час реєстрації пристроїв з iOS у Microsoft InTune
+title: Усунення несправностей із записуванням пристроїв iOS у Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,31 +10,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
-ms.openlocfilehash: 4aef78e5921b789b532fecc99380da3274173bdb
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 14f7a897f0c7504db1b605485e170183c3a1afb2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708983"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823484"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Виправлення неполадок під час реєстрації пристроїв з iOS у Microsoft InTune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Усунення несправностей із записуванням пристроїв iOS у Microsoft Intune
 
-Перегляньте наведені нижче ресурси, щоб вирішити проблему. 
+Перегляньте наведені нижче ресурси, щоб усунути проблему зараз. 
   
-Деякі поширені повідомлення про помилки та роздільну здатність:
+Деякі типові повідомлення про помилки та кроки з їх усунення:
   
-- Пристрій, на якому **досягнуто кришку** Користувач має більше пристроїв, зарахованих, ніж обмеження на пристрій. Перегляньте ці документи, щоб [Видалити пристрій](https://docs.microsoft.com/intune/devices-wipe) або [Змінити обмеження на пристрій](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Досягнуто максимальної потужності пристрою** Користувач має більше пристроїв, ніж максимальна кількість пристроїв. Перегляньте ці [документи, щоб видалити пристрій](https://docs.microsoft.com/intune/devices-wipe) або змінити обмеження для [пристрою](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Ця служба не підтримується. Немає політики реєстрації:** ви повинні настроїти або поновити службу сповіщень Apple Push (APNS). Перегляньте [цей документ](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) , щоб отримати вказівки щодо того, як це зробити. 
+- **Ця служба не підтримується. Немає політики членство.** Потрібно налаштувати або поновити службу push-сповіщень Apple. Перегляньте [цей документ,](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) щоб дізнатися, як це зробити. 
     
-- **Неприпустимий тип ліцензії користувача або ім'я користувача не розпізнано:** Користувачу потрібно призначити ліцензію "Inune" або "EMS". Перегляньте ці документи, щоб призначити ліцензію через: [Центр адміністрування Office](https://docs.microsoft.com/intune/licenses-assign) або [портал Azure Portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Неприпустимий тип ліцензії користувача або не розпізнано ім'я користувача:** Користувачу потрібно призначити ліцензію Intune або EMS. Перегляньте ці документи, щоб призначити ліцензію через: [Центр адміністрування Office](https://docs.microsoft.com/intune/licenses-assign) або портал [Azure.](https://docs.microsoft.com/azure/active-directory/license-users-groups)
     
-Додаткові ресурси, які допоможуть вирішити проблему.
+Додаткові ресурси, які допоможуть вирішити вашу проблему:
   
-1. Використовуйте [портал виправлення неполадок](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) , щоб діагностувати та усунути поширені помилки в реєстрації. Перегляньте [цей документ](https://docs.microsoft.com/intune/help-desk-operators) , щоб отримати докладні відомості. 
+1. На [порталі виправлення неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) можна діагностувати та усунути поширені помилки входу. Перегляньте [цей документ,](https://docs.microsoft.com/intune/help-desk-operators) щоб дізнатися більше. 
     
-2. Перегляньте ці документи для списку поширених помилок, які перешкоджають виконанню та резолюціям кожного з них: [посібник із виправлення неполадок](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) і [Виправлення неполадок із документами](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
+2. Перегляньте ці документи, щоб отримати список типових помилок, які [](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) запобігають веденю та вирішене проблем із кожним [документом:](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)Посібник із виправлення неполадок і Виправлення неполадок.
     
-3. [Дізнайтеся, як зареєструвати пристрої з iOS у Microsoft InTune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Дізнайтеся, як створити пристрої з iOS у Microsoft Intune.](https://docs.microsoft.com/intune/ios-enroll)
     
 

@@ -1,8 +1,8 @@
 ---
-title: Дії на пристроях і пристрої
+title: Дії з Intune і Device
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "7084"
 - "6700008"
-ms.openlocfilehash: ac8b489bc0f1799c13b7861ceb69dfc320cfc297
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 497844ebfea8850337407f2b0edfffd7b5b779e0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982570"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824096"
 ---
-# <a name="intune-and-device-actions"></a>Дії на пристроях і пристрої
+# <a name="intune-and-device-actions"></a>Дії з Intune і Device
 
-Inune надає адміністраторам можливість віддалено виконувати дії з пристроями. За допомогою цих віддалених дій на порталі Inune можна перезапустити пристрої, скинути коди passcodes, знайти втрачені або вкрадені пристрої та багато іншого. Перегляньте [портал дій пристрою](https://docs.microsoft.com/mem/intune/remote-actions/) , щоб дізнатися більше.
+Intune дає адміністраторам можливість віддаленого запуску дій із пристроєм. Використовуючи ці віддалені дії з порталу Intune, можна перезавантажити пристрої, скинути коди доступу, знайти втрачені або викрадені пристрої тощо. Докладні [відомості див. на порталі](https://docs.microsoft.com/mem/intune/remote-actions/) підтримки пристроїв.

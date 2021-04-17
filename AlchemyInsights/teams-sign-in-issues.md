@@ -1,8 +1,8 @@
 ---
-title: Проблеми з входом у групи
+title: Проблеми з входом у Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: c3c1933a00fdb4cb0a71e6cbd19f499cb789957b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f484015d8a96730443ef4b35da5ec59af2419a55
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750688"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824744"
 ---
-# <a name="troubleshooting-teams-sign-in"></a>Виправлення неполадок із входом до групи 
+# <a name="troubleshooting-teams-sign-in"></a>Виправлення неполадок із входом у Teams 
 
-Виникають проблеми під час входу в команди Microsoft? Щоб отримати докладні відомості, зверніться до наведених нижче статей.
+Виникли проблеми з входом у Microsoft Teams? Докладні відомості див. в наведених нижче статтях.
 
-- [Чому в мене виникають проблеми з входом в команди Microsoft?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
-- [Команди Microsoft застрягають у циклі входу в EDGE або Internet Explorer](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [Код стану – помилка 4C7 в групах Microsoft](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
-- [Як отримати доступ до команд Microsoft?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
+- [Чому виникають проблеми з входом у Microsoft Teams?](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
+- [Microsoft Teams застрягає на зацикленому вході в Edge або Internet Explorer](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
+- [Код стану 4c7 у Microsoft Teams](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [Як отримати доступ до Microsoft Teams?](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)

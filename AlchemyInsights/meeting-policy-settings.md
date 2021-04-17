@@ -1,8 +1,8 @@
 ---
-title: Параметри політики наради
+title: Параметри політики нарад
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39151d3a56cc09a8ae2dd77fb7bf1e99066cc77a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704627"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825464"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>Керування політиками нарад у групах Microsoft
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>Керування політиками нарад у Microsoft Teams
 
-**Примітка. у разі внесення змін до політики для користувачів може знадобитися до 24 годин.** Можливо, ви не зможете вносити зміни до щойно створених політик негайно; Зачекайте 4 години та спробуйте змінити щойно створену політику ще раз.
+**Примітка. Зміни політики набирають сили для користувачів протягом 24 годин.** Можливо, ви не зможете вносити зміни відразу до ново створених політик. зачекайте 4 години та спробуйте знову змінити щойно створену політику.
 
-Політики нарад використовуються для керування функціями, доступними для учасників наради, запланованими користувачами в організації. Деякі функції політик нарад, можливо, не реалізуються в центрі адміністрування команд, але ще (ці дані позначено як "Coming Soon" у документації). У цьому випадку або якщо з'являється повідомлення про помилку "не вдалося оновити політику зараз, але повторіть спробу пізніше" в центрі адміністрування груп Microsoft, радимо використовувати PowerShell для створення або змінення політик нарад груп. 
+Політики нарад використовуються, щоб контролювати функції, доступні учасникам наради для нарад, які запланували користувачі у вашій організації. Деякі функції політик нарад можуть ще не впроваджуватись у Центрі адміністрування Teams (вони позначені як "незабаром" у документації). У цьому випадку або якщо з'являється таке повідомлення про помилку, як "Не вдалося оновити політику зараз, але повторити спробу пізніше" в Центрі адміністрування Microsoft Teams, радимо створити або змінити політики нарад Teams за допомогою PowerShell. 
 
-Щоб отримати докладні відомості про політики наради, ознайомтеся з такими ресурсами:
+Докладні відомості про політики нарад див. в таких ресурсах:
 
-- Щоб дізнатися про те, як створювати політики, вносити зміни та призначати користувачам політику, перегляньте статтю [керування політиками нарад в командах](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- Докладні відомості про створення політик, внесення змін і призначення користувачів політиці див. в розділі Керування [політиками нарад у Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- Щоб внести зміни до політики за допомогою командлетів PowerShell, перегляньте статтю [Огляд PowerShell у групах](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - Потрібно використовувати [модуль "Skype для бізнесу PowerShell](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) " для нарад у групах. 
-    - Перегляньте документацію за допомогою [командлетів *-cstefietingpolicy](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) , щоб отримати докладні відомості.
+- Відомості про змінення політики за допомогою командлетів PowerShell див. в [цьому огляді.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
+    - Потрібно використовувати модуль [PowerShell "Skype для бізнесу" для](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) політик нарад Teams. 
+    - Докладні відомості див. в документації про командлети [*-CsTeamsMeetingPolicy.](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps)
 

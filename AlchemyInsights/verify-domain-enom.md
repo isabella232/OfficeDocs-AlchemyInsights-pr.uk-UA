@@ -1,8 +1,8 @@
 ---
-title: Перевірка домену за допомогою Google (eNom)
+title: Перевірка домену за допомогою google (eNom)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 34e18db8c68d1666cd72b14418a2f075cb0d8425
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 77c1163be2efc4f31262734ee3800fd99f1a7209
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816238"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824384"
 ---
-# <a name="verify-your-domain-with-google-enom"></a>Перевірка домену за допомогою Google (eNom)
+# <a name="verify-your-domain-with-google-enom"></a>Перевірка домену за допомогою google (eNom)
 
-Щоб перевірити свій домен, потрібно додати запис TXT до реєстратора доменів, щоб переконатися, що ви володієте вашим доменом. 
+Щоб підтвердити своє права власності на домен, знадобиться додати запис TXT до свого реєстратора доменів. 
 
-Спершу виконайте [Майстер додавання домену](https://admin.microsoft.com/Adminportal#/Domains) , вибравши пункт **настройки** \> **доменів**, а потім **Додайте домен**.
+Спочатку виконайте вказівки [майстра додавання доменів,](https://admin.microsoft.com/Adminportal#/Domains) вибравши **Параметри** \> **Домени**, а потім – **Додати домен**.
   
-Дізнайтеся, як [створювати ЗАПИСИ DNS, коли домен керує Google (eNom)](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom) для покрокових інструкцій.
+Покрокові вказівки див. в статті Створення записів DNS, якщо вашим доменом керує служба [Google (eNom).](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom)
