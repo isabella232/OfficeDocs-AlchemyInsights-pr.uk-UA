@@ -1,30 +1,31 @@
 ---
-title: Змінення імені організації для клієнта синхронізації OneDrive
+title: Змінення назви організації для клієнта синхронізації OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 5e4531d2d2a1ca78f8bc81a9246072dd6f3bd852
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708765"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818345"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a><span data-ttu-id="cc27b-102">Змінення імені організації для клієнта синхронізації OneDrive</span><span class="sxs-lookup"><span data-stu-id="cc27b-102">Change the organization name for the OneDrive sync client</span></span>
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a><span data-ttu-id="0e833-102">Змінення назви організації для клієнта синхронізації OneDrive</span><span class="sxs-lookup"><span data-stu-id="0e833-102">Change the organization name for the OneDrive sync client</span></span>
 
-<span data-ttu-id="cc27b-103">OneDrive використовує ім'я організації, що встановлюється адміністратором клієнта.</span><span class="sxs-lookup"><span data-stu-id="cc27b-103">OneDrive uses the organization name set by a tenant administrator.</span></span>  <span data-ttu-id="cc27b-104">Ви можете [змінити адресу організації, технічну контактну особу тощо](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="cc27b-104">You can [change your organization's address, technical contact, and more](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span> <span data-ttu-id="cc27b-105">Після того, як зміни, що виконуються для клієнта, OneDrive синхронізації клієнта не відображає нове ім'я, доки користувачі, розірвати зв'язок і повторно зв'язати свій обліковий запис OneDrive.</span><span class="sxs-lookup"><span data-stu-id="cc27b-105">Once that change is performed for the tenant, the OneDrive sync client will not reflect the new name until users unlink and relink their OneDrive account.</span></span>
+<span data-ttu-id="0e833-103">OneDrive використовує назву організації, установлену адміністратором-власником.</span><span class="sxs-lookup"><span data-stu-id="0e833-103">OneDrive uses the organization name set by a tenant administrator.</span></span>  <span data-ttu-id="0e833-104">Ви можете [змінити адресу організації, контактну особу з технічних підтримки тощо.](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more)</span><span class="sxs-lookup"><span data-stu-id="0e833-104">You can [change your organization's address, technical contact, and more](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).</span></span> <span data-ttu-id="0e833-105">Після виконання цієї зміни для клієнта клієнт синхронізації OneDrive не відображатиме нове ім'я, доки користувачі не роз'єднете та повторно не зв'яжете свій обліковий запис OneDrive.</span><span class="sxs-lookup"><span data-stu-id="0e833-105">Once that change is performed for the tenant, the OneDrive sync client will not reflect the new name until users unlink and relink their OneDrive account.</span></span>
 
-<span data-ttu-id="cc27b-106">Щоб від'єднати обліковий запис:</span><span class="sxs-lookup"><span data-stu-id="cc27b-106">To unlink the account:</span></span>
+<span data-ttu-id="0e833-106">Щоб роз'єкувати обліковий запис:</span><span class="sxs-lookup"><span data-stu-id="0e833-106">To unlink the account:</span></span>
 
-1. <span data-ttu-id="cc27b-107">Виберіть синю піктограму хмари OneDrive у правій частині панелі завдань, а потім виберіть **інші параметри > > обліковий запис**.</span><span class="sxs-lookup"><span data-stu-id="cc27b-107">Select the blue OneDrive cloud icon at the far right of the taskbar, then select  **More > Settings > Account**.</span></span>
-2. <span data-ttu-id="cc27b-108">Знайдіть обліковий запис, який потрібно від'єднати, і виберіть **від'єднати цей ПК**, а потім **від'єднати обліковий запис**.</span><span class="sxs-lookup"><span data-stu-id="cc27b-108">Find the account you want to unlink and select  **Unlink this PC**, and then  **Unlink account**.</span></span>
+1. <span data-ttu-id="0e833-107">Клацніть синю піктограму хмари OneDrive із правого краю панелі завдань, а потім виберіть Додатково **> Параметри > Обліковий запис.**</span><span class="sxs-lookup"><span data-stu-id="0e833-107">Select the blue OneDrive cloud icon at the far right of the taskbar, then select  **More > Settings > Account**.</span></span>
+2. <span data-ttu-id="0e833-108">Знайдіть обліковий запис, який потрібно видалити, і виберіть Від'єдувати  **цей ПК**, а потім –  **Від'єдувати обліковий запис**.</span><span class="sxs-lookup"><span data-stu-id="0e833-108">Find the account you want to unlink and select  **Unlink this PC**, and then  **Unlink account**.</span></span>
 
-<span data-ttu-id="cc27b-109">Щоб повторно зв'язати обліковий запис, виберіть **Додати обліковий запис** на вкладці " **обліковий запис** " у розділі "Настройки" та ввійдіть назад у OneDrive.</span><span class="sxs-lookup"><span data-stu-id="cc27b-109">To relink the account, select  **Add an account** from the  **Account** tab in Settings, and sign back into OneDrive.</span></span>
+<span data-ttu-id="0e833-109">Щоб повторно зв'яжити обліковий  запис, **на** вкладці Обліковий запис у розділі Настройки натисніть кнопку Додати обліковий запис і ввійдіть у OneDrive знову.</span><span class="sxs-lookup"><span data-stu-id="0e833-109">To relink the account, select  **Add an account** from the  **Account** tab in Settings, and sign back into OneDrive.</span></span>
