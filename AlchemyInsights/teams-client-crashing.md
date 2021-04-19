@@ -2,21 +2,22 @@
 title: Клієнт Teams аварійно завершує роботу?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354074"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826292"
 ---
 # <a name="teams-client-crashing"></a>Клієнт Teams аварійно завершує роботу?
 
@@ -24,21 +25,21 @@ ms.locfileid: "44354074"
 
 - Якщо ви використовуєте класичну версію програми Teams, [переконайтеся, що її повністю оновлено](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Переконайтеся, що всі [URL-адреси Microsoft 365 і діапазони адрес](https://docs.microsoft.com/microsoftteams/connectivity-issues) доступні.
+- Переконайтеся, що всі URL-адреси та діапазони адрес [Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) доступні.
 
-- Увійдіть у систему з обліковим записом адміністратора клієнта та перевірте [приладну дошку справності](https://docs.microsoft.com/office365/enterprise/view-service-health) , щоб перевірити, чи існує відсутність перебої або погіршення служби.
+- Увійдіть під обліковим записом адміністратора клієнта та перевірте приладну дошку справності служби, щоб переконатися, що немає перебоїв або погіршення якості служби. [](https://docs.microsoft.com/office365/enterprise/view-service-health)
 
-- Видаліть і переінсталюйте програму teams (посилання)
-    - Перейдіть до%Appded%\mice\systems\ папки на комп'ютері та видалити всі файли в цьому каталозі.
-    - [Скачайте і встановіть додаток teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), і, якщо можливо, встановіть teams як адміністратор (клацніть правою кнопкою миші інсталятор команд і виберіть "Запуск від як адміністратор", якщо доступно).
+- Видалення та повторна установка програми Teams (посилання)
+    - Перейдіть до папки %appdata%\Microsoft\teams\ на комп'ютері та видаліть усі файли з цього каталогу.
+    - [Завантажте](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)та інсталюйте Програму Teams і, якщо це можливо, інсталюйте Teams як адміністратор (клацніть правою кнопкою миші інсталятор Teams і виберіть "Запустити із правами адміністратора", якщо вона доступна).
 
-Якщо ваш клієнт команди все ще збій, ви можете відтворити проблему? Якщо так:
+Чи можна відтворити проблему, якщо клієнт Teams аварійно завершує роботу? Якщо так:
 
-1. Використовуйте засіб записування дій, щоб захопити ваші дії.
+1. Щоб записати кроки, скористайтеся записуванням дій.
     - Закрийте всі непотрібні або конфіденційні програми.
-    - Запустіть засіб записування дій і відтворити проблему, під час входу з відповідного облікового запису користувача.
-    - [Зберіть команди журналів, які захоплюють записані відтворення зв кроки](https://docs.microsoft.com/microsoftteams/log-files). **Зверніть увагу**: переконайтеся, що ви захоплення входу адресу впливу користувача.
-    - Збір дампа і/або несправність інформації відро (Windows). Запустіть Windows PowerShell на комп'ютері, де відбувається збій і виконайте такі команди:
+    - Запустіть записувач кроків і відтворіть цю проблему під час входу за допомогою відповідного облікового запису користувача.
+    - [Зберіть журнали команд, у яких записано кроки повторного відтворення.](https://docs.microsoft.com/microsoftteams/log-files) **Примітка.** Обов'язково запишіть адресу для входу потрібного користувача.
+    - Зберіть дамп і/або відомості про блоки помилок (Windows). Запустіть Windows PowerShell на комп'ютері, де відбувається аварійне завершення роботи, і виконайте такі команди:
 
         `
         PS C:\Users\user01> cd $env:temp
@@ -46,4 +47,4 @@ ms.locfileid: "44354074"
         PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
         `
     
-2. Прикріпіть файл до справи підтримки.
+2. Вкладіть файл у свій інцидент служби підтримки.

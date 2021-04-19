@@ -2,26 +2,30 @@
 title: Сповіщення Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944519"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830999"
 ---
-# <a name="teams-notifications"></a>Сповіщення Teams
+# <a name="teams-notifications-faq"></a>Запитання й відповіді про сповіщення Teams
 
-У класичній програмі Teams є кілька способів для доступу до сповіщень і керування ними. Щоб додатково налаштувати параметри сповіщень, виберіть зображення профілю у верхньому правому куті Teams і перейдіть до розділу **Параметри > Сповіщень про дії**. Тут можна точно налаштувати, які сповіщення отримувати та де вони відображатимуться. 
 
-У програмах для iOS і Android натисніть **Додатково > Параметри > Сповіщення**, щоб налаштувати їх.
+- Користувачі [встановлює сповіщення, і](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)адміністратори не можуть змінювати параметри сповіщень від імені користувачів. У класичній програмі Teams натисніть зображення профілю у верхньому правому куті Teams, а потім виберіть Параметри>Сповіщення про дії
 
-Докладніші відомості наведено в статях [Шість речей, які потрібно знати про сповіщення](https://support.microsoft.com/uk-UA/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) та [Керування сповіщеннями в Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [Виправлення неполадок зі сповіщеннями в програмах Teams для мобільних пристроїв.](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c)
+
+- Ви можете отримувати сповіщення чотирма способами: через інформаційний канал активності, чат, сповіщення банера та електронну пошту. Повідомлення електронної пошти про пропущені дії надсилається, якщо ви неактивні в Teams протягом певного часу. Докладні [відомості див. в шість речей, які потрібно знати](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) про сповіщення
+
+Докладні відомості про сповіщення Teams див. в [розділі Керування сповіщеннями в Teams.](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA)

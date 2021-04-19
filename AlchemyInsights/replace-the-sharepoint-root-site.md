@@ -2,28 +2,30 @@
 title: Заміна кореневого сайту SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 33ee85c305aa9daae0028ad2c0c79a003f9dc017
-ms.sourcegitcommit: 505a576cc0e2b20f8ea5ce0a2f26763a11463918
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44493566"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826796"
 ---
 # <a name="replace-the-sharepoint-root-site"></a>Заміна кореневого сайту SharePoint
-Якщо ви хочете модернізувати ваш кореневий сайт з існуючим сайтом або просто хочете мати інший сайт на рівні кореневого сайту, ви можете вибрати, щоб замінити (Swap) сайти.
+Якщо потрібно модернізувати кореневий сайт із наявним сайтом або просто створити інший сайт на кореневому рівні, можна замінити сайти (поміняти місцями).
 
-1. За допомогою нового центру адміністрування SharePoint перейдіть до розділу [активні сайти](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. У новому Центрі адміністрування SharePoint перейдіть до пункту [Активні сайти.](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true)
 2. Виберіть кореневий сайт, який потрібно замінити.
-3. Виберіть **замінити сайт**.
-4. Укажіть URL-адресу наявного сайту, щоб замінити його. **Примітка:** Ви будете проінформовані, якщо сайт може бути використаний як замінник кореневого сайту.
+3. Виберіть **елемент Замінити сайт**.
+4. Укажіть URL-адресу наявного сайту, на який потрібно замінити його. **Примітка.** Ви отримаєте повідомлення про те, чи можна використовувати сайт як кореневий сайт для заміни.
 
-Для отримання додаткової інформації про вимоги, див [модернізувати ваш кореневий сайт](https://docs.microsoft.com/sharepoint/modern-root-site).
+Докладні відомості про вимоги див. в [розділах Модернізування кореневого сайту.](https://docs.microsoft.com/sharepoint/modern-root-site)
+

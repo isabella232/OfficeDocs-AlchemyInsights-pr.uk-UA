@@ -1,25 +1,26 @@
 ---
-title: Перехід до Microsoft InTune
+title: Перенесення до Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001216"
 - "3188"
-ms.openlocfilehash: acfebfb787bfc93eb9a2a7a365ebdb78cc597366
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: 17b565a6034e2687a1733fa53d988a83df2e3b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493605"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831791"
 ---
-# <a name="migrating-to-microsoft-intune"></a>Перехід до Microsoft InTune
+# <a name="migrating-to-microsoft-intune"></a>Перенесення до Microsoft Intune
 
-Якщо ви намагаєтесь перейти до InTune, перегляньте Посібник із [міграції InTune](https://docs.microsoft.com/intune/fundamentals/migration-guide).
+Якщо ви намагаєтеся перейти на Intune, перегляньте посібник із [перенесення Intune.](https://docs.microsoft.com/intune/fundamentals/migration-guide)
 
-Для більш конкретні вказівки з міграції з System Center Configuration Manager (і SCCM змішаний) InTune, reivew нашої [гібридної документації з міграції](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa). 
+Докладніші відомості про перенесення з System Center Configuration Manager (і гібридного центру SCCM) до Intune див. в нашій документації з гібридного [перенесення.](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-hybridmdm-to-intunesa) 

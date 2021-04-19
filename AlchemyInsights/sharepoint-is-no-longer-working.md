@@ -1,8 +1,8 @@
 ---
-title: Служба SharePoint більше не працює
+title: SharePoint більше не працює
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003047"
 - "5801"
-ms.openlocfilehash: 8477e59e72ce7874ae805c21a971f431389574e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 42e8cab99f21b55ce463ac431df1e17b22f9460c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800773"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826652"
 ---
-# <a name="sharepoint-is-no-longer-working"></a>Служба SharePoint більше не працює
+# <a name="sharepoint-is-no-longer-working"></a>SharePoint більше не працює
 
-Існує кілька причин, через які SharePoint може більше не працювати.
+SharePoint може більше не працювати з кількох причин.
 
-1. Кореневий сайт SharePoint видалено, і його потрібно відновити. Докладні відомості наведено в статті [видалення кореневого сайту SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
-2. Можливо, дозволи змінено або видалено. Щоб отримати докладні відомості, ознайомтеся [з нездатними до служби SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible).
-3. Можливо, виникла проблема зі здоров'ям служби SharePoint. Додаткові відомості наведено в розділі [приладна дошка справності служби](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
-4. Проблеми із браузером можуть заборонити користувачам відкривати службу SharePoint. Запитайте користувача (и), щоб спробувати приватний режим у браузері, і знову ввійти в службу SharePoint.
+1. У Службі SharePoint можуть виникати проблеми зі справності служби. Докладні відомості див. в [перегляді Приладна дошка справності служби](https://admin.microsoft.com/AdminPortal/Home#/servicehealth).
+2. Дозволи, можливо, змінено або видалено. Докладні відомості див. в [статтях Не вдається отримати доступ до SharePoint Online.](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+3. Проблеми з браузером можуть перешкоджати користувачам відкривати SharePoint. Попросіть користувачів спробувати приватний режим браузера та ввійти в SharePoint знову.
