@@ -1,30 +1,31 @@
 ---
-title: Довідка з сторінок і веб-частин SPFx
+title: Довідка зі сторінок SPFX і веб-частин
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: ce8842f1ea52501bde125812d7ed864f71a9e7f1
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44569796"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811549"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>Довідка з сторінок і веб-частин SPFx
+# <a name="help-with-spfx-pages-and-web-parts"></a>Довідка зі сторінок SPFX і веб-частин
 
-SPFx підтримується лише за допомогою служби підтримки розробників Microsoft. Команда продуктів SharePoint реагує на спільноту розробників через кілька каналів.
+SPFX підтримується лише службою підтримки Microsoft developer. Команда розробників SharePoint реагує на спільноту розробників у кількох каналах.
 
-- [Питання програмування](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) можна подавати на **GitHub SP-dev-Docs** або **переповнення стека**.
-- [Помилки документації](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) можна подавати на **GitHub**.
-- [Приклади вад застосування](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) можуть бути представлені **GitHub**.
-- [Запити на функцію](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests) можна подавати до uservoice.
+- [Запитання з програмування](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)  можна надсилати до  **GitHub sp-dev-docs**  або  **Stack Overflow**.
+- [Помилки в документації](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) можна надсилати до **GitHub.**
+- [Приклади помилок програм](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) можна надсилати на **веб-застосунок GitHub.**
+- [Запити на функції](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  можна надсилати в UserVoice.
 
-Додаткові ресурси розробника наведено в " [підтримка & відгук](https://docs.microsoft.com/sharepoint/dev/support-feedback) "
+Додаткові ресурси для розробників  [див. в розділі Підтримка & відгуків.](https://docs.microsoft.com/sharepoint/dev/support-feedback)

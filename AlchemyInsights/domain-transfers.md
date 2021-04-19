@@ -2,34 +2,32 @@
 title: Перенесення домену
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783992"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814898"
 ---
 # <a name="domain-transfers"></a>Перенесення домену
 
-- [Перенесення придбаного домену Microsoft до іншого провайдера через 60 днів](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+[Перенесення придбаного домену Microsoft до іншого провайдера через 60 днів](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-    - Хоча придбані домени Microsoft не підтримують змінення записів NS, розгляньте можливість [оновити записи DNS для свого веб-сайту](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) замість того, щоб переносити реєстрацію домену до постачальника послуг веб-хостингу.
+- Зверніть увагу, що домен, придбаний microsoft, не можна перенести між клієнтами Microsoft 365.
+- Хоча корпорація Майкрософт не підтримує змінення записів DNS-серверів, варто оновити записи [DNS](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide) для веб-сайту, а не переносити реєстрацію домену до веб-хоста.
 
-- Придбаний домен Microsoft не можна переносити між клієнтами Microsoft 365. 
+Настроювані домени можна перевірити [й використовувати в Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide)
 
-    - Однак ви можете перенести сторонній домен, [видаливши його з одного клієнта](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide) та перевіривши його наявність в іншому клієнті Microsoft 365.
+- Реєстрацію настроюваних доменів або виставлення рахунків сторонніх постачальників не можна перенести до корпорації Майкрософт.
 
-- Реєстрацію та виставлення рахунків для сторонніх доменів не можна переносити до корпорації Майкрософт.
-
-    - Проте спеціальні домени можна [перевіряти та використовувати в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-
-- Початкові домени onmicrosoft.com за замовчуванням не дозволяється переносити або перейменовувати.
+Onmicrosoft.com доменів за замовчуванням перенести або перейменувати не можна.

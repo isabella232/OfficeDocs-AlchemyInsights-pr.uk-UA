@@ -1,29 +1,30 @@
 ---
-title: EDU верифікацію
+title: Перевірка EDU
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205288"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814393"
 ---
-# <a name="edu-verification"></a>EDU верифікацію
+# <a name="edu-verification"></a>Перевірка EDU
 
-У більшості випадків академічні запити на право обробляються протягом 24-48 годин. Для обробки деяких запитів може знадобитися більш ретельний аналіз і може тривати до 10 робочих днів. Після завершення ми надішлемо електронний лист із статусом вашої школи.
+Здебільшого запити на відповідність навчальним закладам обробляються протягом 24–48 годин. Для деяких запитів може знадобитися ретельніший огляд і обробка може тривати до 10 робочих днів. Після завершення ми надішлемо повідомлення електронної пошти зі статусом вашого навчального закладу.
 
-**Важливе значення** Якщо ви виходили з майстра перевірки перед входом до домену, [майстер академічних перевірок можна відновити](https://go.microsoft.com/fwlink/p/?linkid=2135255) в будь-який час під час безкоштовної пробної версії.
+**Увага!** Якщо ви вийдете з майстра перевірки, [](https://go.microsoft.com/fwlink/p/?linkid=2135255) перш ніж вводити домен, під час безкоштовного ознайомлення майстер перевірки можна відновити в будь-який час.
 
-Якщо ви бажаєте перевірити стан свого домену, перейдіть до [центру адміністрування Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). На головній сторінці прокрутіть униз і знайдіть **платіжну** картку. **Платіжна** картка вказує статус процесу верифікації (схвалено, очікує на розгляд, відхилення або додавання домену).
+Щоб перевірити стан свого домену, перейдіть у [Центр адміністрування Microsoft 365.](https://go.microsoft.com/fwlink/p/?linkid=2024339) На домашній сторінці прокрутіть униз і знайдіть картку **"Виставлення рахунків".** Картка **"Виставлення** рахунків" указує стан перевірки (затверджено, відкладено, відхилено або додати домен).
 
-Якщо ваш запит заборонений, перегляньте [мою школу не має права. Що робити зараз?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+Якщо ваш запит відхилено, див. дія Моя школа не має [права на отримання запиту. Що робити зараз?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
