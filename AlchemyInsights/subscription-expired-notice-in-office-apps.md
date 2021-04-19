@@ -1,24 +1,25 @@
 ---
-title: Повідомлення про завершення терміну дії передплати в програмах Office
+title: Повідомлення про завершення терміну дії передплати в програмах Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789287"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823592"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>Повідомлення "Термін дії передплати завершився" в програмах Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>Повідомлення "Термін дії передплати завершено" в програмах Microsoft 365
 
 - Перегляньте [сторінку справності служб](https://docs.microsoft.com/office365/enterprise/view-service-health), щоб перевірити наявність відомих проблем із службою.
 
@@ -30,7 +31,7 @@ ms.locfileid: "43789287"
 
 - Запустіть [Засіб усунення неполадок активації](https://aka.ms/SARA-OfficeActivation-Alchemy) і перезавантажте комп'ютер.
 
-- На пошкодженому комп'ютері, [скиньте стан активації Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- На пошкодженому комп'ютері, [скиньте стан активації Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Докладні вказівки: 
 

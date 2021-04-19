@@ -1,45 +1,46 @@
 ---
-title: Автоматична класифікація не поводиться належним чином з клієнтом AIP
+title: Автоматична класифікація не працює належним чином за допомогою клієнта AIP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508397"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820919"
 ---
-# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Автоматична класифікація не поводиться належним чином з клієнтом AIP
+# <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Автоматична класифікація не працює належним чином за допомогою клієнта AIP
 
-Автоматична класифікація не поводиться належним чином, скористайтеся такими рекомендованими рекомендаціями:
+Автоматична класифікація не працює належним чином, використовуйте наведені нижче рекомендовані рекомендації.
 
-1. Якщо у вас виникли проблеми з автоматичним етикеткуванням, Дізнайтеся, [як налаштувати умови для автоматичної та рекомендованою класифікації для захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) та [для яких типів конфіденційних даних шукати](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-2. Перевірте, якщо використовуються політики в області, які не настроєно належним чином: [Настроювання політики захисту даних Azure для певних користувачів за допомогою політики в](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)області.
-3. Якщо автоматичне позначення не працює для Outlook під час підключення документа з міткою, переконайтеся, що `DRMEncryptProperty` не визначено, як описано тут: [Параметри реєстру IRM для безпеки](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
-4. Якщо ви використали [вбудовані типи інформації](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) для вашої політики захисту інформації в Azure, перевірте, чи відповідає ваш вміст очікуваним форматом.
-5. Переконайтеся, що підпис належним чином налаштовано на **Автоматичне** або **рекомендоване**. (**Автоматичне** маркування доступне для всіх програм Office, тоді як **рекомендовано** доступно для всіх програм Office, крім Outlook.)
-6. Автоматичну класифікацію для документів і електронних листів, раніше позначених вручну або раніше автоматично позначені з вищою класифікацією, використовувати не можна.  Для отримання додаткових відомостей див.: [як застосовуються автоматичні або Рекомендовані Мітки](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
-7. Якщо ви все ще зіткнулися з проблемами, будь ласка, збирайте журнали клієнт захисту інформації Azure і Прикріпіть експортовані журнали до квитка підтримки. Щоб експортувати журнали захисту інформації в Azure:
-    - Відкрийте документ Office або створіть новий електронний лист у програмі Outlook.
-    - Натисніть кнопку **захист/чутливість**  >  **Довідка та зворотній зв'язок**.
-    - Натисніть кнопку **експортувати журнали**.
-    - Збережіть журнали на вибір місцеположення та Прикріпіть їх до вашого запиту на обслуговування.
+1. Якщо виникають проблеми з автоматичним підписуванням, див. статті Як налаштувати [](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)умови для автоматичної та рекомендованої класифікації для захисту даних [в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) і Який вигляд мають типи відомостей.
+2. Перевірте, чи використовується ненастроєні вами масштабовані політики: Налаштування політики захисту даних Azure для певних користувачів за допомогою масштабних [політик.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
+3. Якщо автоматичне маркування не працює в Outlook під час вкладення документа з підписами, переконайтеся, що його не визначено нижче: Параметри реєстру `DRMEncryptProperty` [IRM для](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)безпеки.
+4. Якщо ви використовували [вбудовані типи даних](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) для політики захисту даних Azure, переконайтеся, що вміст відповідає очікуваному форматі.
+5. Переконайтеся, що етикетку настроєно на значення Автоматично **або** **Рекомендоване**. **(Автоматичне** маркування доступне для всіх програм Microsoft  365, а рекомендується для всіх програм Microsoft 365, крім Outlook).
+6. Автоматичну класифікацію не можна використовувати для документів і повідомлень електронної пошти, які раніше були автоматично позначені або автоматично позначені вищою класифікацією.  Докладні відомості див. в статті [Застосування автоматичних або рекомендованих етикеток.](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied)
+7. Якщо проблеми не зникають, зберіть журнали клієнта Azure Information Protection і вкладіть експортовані журнали до запиту на підтримку. Щоб експортувати журнали захисту даних в Azure:
+    - Відкрийте документ Office або створіть електронний лист у програмі Outlook.
+    - Натисніть **кнопку Довідка та відгуки щодо** захисту та  >  **чутливості.**
+    - Натисніть **кнопку Експорт журналів**.
+    - Збережіть журнали у вибраному розташуванні та вкладіть їх у свій запит на обслуговування.
 
-За додатковою інформацією див.:
+Докладні відомості див. в такому:
 
-- [Настроювання умов для автоматичної та рекомендованою класифікації для захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
-- [Інструкції для поширених сценаріїв, які використовують Azure захисту інформації](https://docs.microsoft.com/azure/information-protection/how-to-guides)
-- [Огляд документації з захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Огляд підписок та функцій захисту інформації Azure](https://azure.microsoft.com/pricing/details/information-protection)
-- [Вимоги для захисту інформації Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Короткий посібник з захисту інформації для Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [Завантажити клієнт для захисту інформації Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Налаштування умов для автоматичної та рекомендованої класифікації для захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification)
+- [Інструкції для типових сценаріїв, у яких використовується захист даних в Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)
+- [Перегляд документації для захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Перегляд передплат і функцій для захисту даних в Azure](https://azure.microsoft.com/pricing/details/information-protection)
+- [Вимоги до захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Короткий посібник із захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Завантаження клієнта Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

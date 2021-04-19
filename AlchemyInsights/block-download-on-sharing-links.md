@@ -1,25 +1,26 @@
 ---
-title: Блокувати завантаження для обміну посиланнями
+title: Блокування завантаження посилань для спільного доступу
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5715"
-ms.openlocfilehash: 8cb53754125cedf4a3d0426d6c3bf70297eb3d74
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: a3641d96029154921a98502c5eb9b2f2bf668588
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358509"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820271"
 ---
-# <a name="block-download-on-sharing-links"></a>Блокувати завантаження для обміну посиланнями
+# <a name="block-download-on-sharing-links"></a>Блокування завантаження посилань для спільного доступу
 
-**Блокувати завантаження** , доступний **лише для перегляду посилання** на документи Office. Якщо вибрати цей параметр, користувачі, які отримають доступ до файлу через створене посилання, не бачитимуть параметри завантаження, друку або копіювання файлу.
+Якщо ви надаєте спільний доступ до елементів іншим користувачам у OneDrive або SharePoint, ви можете надати їм доступ до перегляду, але не завантажуйте їх.
 
-Адміністратори можуть контролювати, чи параметр "блокувати завантаження" відображається лише для файлів Office, або не змінивши `BlockDownloadLinksFileType` настройки в командлетів " [Set-споживнент](https://docs.microsoft.com/powershell/module/sharepoint-online/set-spotenant?view=sharepoint-ps) " або " [Set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) PowerShell".
+Докладні відомості див. в статті Блокування завантажень для файлів лише [для перегляду в SharePoint і OneDrive.](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)

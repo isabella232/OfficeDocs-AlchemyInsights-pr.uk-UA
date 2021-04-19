@@ -1,25 +1,26 @@
 ---
-title: Настроювання політики IRM у бібліотеках документів SharePoint для обмеження завантаження вмісту
+title: Налаштування політик IRM у бібліотеках документів SharePoint для обмеження завантаження вмісту
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5712"
-ms.openlocfilehash: 5260448fb16a015bf76e4467d732855015c84113
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: d54125d735db7c169b2e5b0394675dd65b62f8f1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507859"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817229"
 ---
-# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Настроювання політики IRM у бібліотеках документів SharePoint для обмеження завантаження вмісту
+# <a name="configure-irm-policies-on-sharepoint-document-libraries-to-limit-download-of-content"></a>Налаштування політик IRM у бібліотеках документів SharePoint для обмеження завантаження вмісту
 
-У SharePoint Online захист IRM застосовується до файлів у списку та на рівні бібліотеки. Перш ніж ваша організація може використовувати захист IRM, спочатку потрібно настроїти керування правами. Засіб IRM покладається на службу керування правами Azure із захисту інформації Azure для шифрування та призначення обмежень на використання.
+У SharePoint Online захист IRM застосовується до файлів на рівні списку та бібліотеки. Перш ніж у вашій організації можна буде використовувати захист IRM, потрібно спочатку настроїти керування правами. Засіб IRM за допомогою служби Azure Rights Management за допомогою захисту даних Azure шифрує та призначає обмеження на використання.
 
-- [Настроювання політики IRM у бібліотеках документів SharePoint для обмеження завантаження вмісту](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [Налаштуйте політики IRM у бібліотеках документів SharePoint, щоб обмежити завантаження вмісту.](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)

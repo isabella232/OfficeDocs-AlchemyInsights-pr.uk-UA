@@ -1,25 +1,36 @@
 ---
-title: Політика щодо конфігурації застосунку для Microsoft InTune
+title: Політики конфігурації програм для Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 6f7c5f7cc3dc47ca8f5899ef96c5aafa8505342b
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+- "9003770"
+- "6709"
+ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423979"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821351"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Політика щодо конфігурації застосунку для Microsoft InTune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Політики конфігурації програм для Microsoft Intune
 
-Політика конфігурації програм у Microsoft InTune надайте параметри конфігурації для застосунків iOS або Android. Ці параметри конфігурації дають змогу налаштувати програму. Конфігурація політики підтримки обмежена версіями операційної системи та застосунками.
+Політики конфігурації програм у Microsoft Intune використовуються, щоб надавати параметри конфігурації для програм iOS або Android. Ці параметри конфігурації дають змогу настроїти програму. Зверніть увагу, що існують обмеження щодо версій операційної системи та програм, які підтримують використання політик конфігурації.
 
-Докладніші відомості наведено [в політиці щодо конфігурації програм для Microsoft InTune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+Докладні відомості див. в наведеній нижче документації.
+
+[Політики конфігурації програм для Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[Додавання політик конфігурації програм для керованих пристроїв iOS](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[Додавання політик конфігурації програм для керованих пристроїв з Android](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[Додавання політик конфігурації програм для керованих програм без реєстрації пристрою](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)

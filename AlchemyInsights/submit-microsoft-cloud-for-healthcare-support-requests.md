@@ -1,8 +1,8 @@
 ---
-title: Надсилання запрошень до служби підтримки Microsoft Cloud для медичної допомоги
+title: Надсилайте запити на підтримку в Хмарі Microsoft для схвальної справності
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6811"
 - "9003813"
-ms.openlocfilehash: 4dd4b38efa361372d6d59874f9738a0bf5d0a7c7
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 336ac24a32fb67e74634208c3fad79b46295dc8b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823148"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824996"
 ---
-# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Надсилання запрошень до служби підтримки Microsoft Cloud для медичної допомоги
+# <a name="submit-microsoft-cloud-for-healthcare-support-requests"></a>Надсилайте запити на підтримку в Хмарі Microsoft для схвальної справності
 
-Служба Microsoft Cloud for Healthcare для клієнтів надає своїм квитком через новий [Центр адміністрування Power Platform.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+Клієнт Microsoft Cloud для Healthcare надішліть запит через новий [Центр адміністрування платформи Power.](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
 
-Новий портал надає більш прямий шлях до підтримки, оптимізованої для хмарної служби Microsoft для охорони здоров'я.
+Новий портал надає прямий шлях до служби технічної підтримки, оптимізованої для служби Microsoft Cloud для Healthcare.

@@ -1,40 +1,41 @@
 ---
-title: Cortana не говори зі мною або не чує мене
+title: Cortana не розмовляє з вами або не чує мене
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: f8dcd2899cad4dfd0ecc67eea6a915d2a6182982
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44358273"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816545"
 ---
-# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana не говори зі мною або не чує мене
+# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana не розмовляє з вами або не чує мене
 
-Якщо ви намагаєтеся скористатися функцією "Hey Cortana", яка дає змогу розмовляти з Cortana, не вибираючи кнопку Cortana на панелі завдань або кнопку мікрофон на панелі Cortana, підтвердьте, що цю функцію активовано:
+Якщо ви намагаєтеся скористатися функцією "Привіт, Cortana", яка дає змогу поговорити з Cortana, не натиснувши кнопку Cortana на панелі завдань або кнопці мікрофона на панелі Cortana, переконайтеся, що цю функцію ввімкнуто:
 
-1. Відкрийте **меню Пуск**і виберіть пункт **[настройки > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. У розділі **Hey Cortana**Увімкніть перемикач **дозволити Cortana відповідати на "Hey Cortana"** **.**
+1. Натисніть кнопку **Пуск**, а **[потім виберіть Настройки > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
+2. У **розділі "Привіт, Cortana!** перемкніть перемикач Дозволити Cortana відповідати на **звертання "Привіт, Cortana",** щоб увімкнути **.**
 
-![Ей Cortana](media/hey-cortana.png)
+![Привіт, Cortana!](media/hey-cortana.png)
 
-**Чи є ваші налаштування конфіденційності, які заважають вам чути Cortana?**
+**Настройки конфіденційності забороняє Cortana чути вас?**
 
-Настройки конфіденційності можуть завадити реагуванні Cortana на ваш голос.
-- Перевірте, щоб переконатися, що онлайнову розпізнавання мовлення ввімкнено:
-    - Відкрийте **меню Пуск**і виберіть пункт **[настройки > конфіденційність > мовлення](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - У розділі **онлайнову розпізнавання мовлення**, Увімкніть параметр **Увімкнути**.
+Настройки конфіденційності можуть заборонити Cortana відповідати на ваш голос.
+- Переконайтеся, що ввімкнуто функцію розпізнавання мовлення в Інтернеті.
+    - Натисніть кнопку **Пуск**, а потім **[виберіть настройки > конфіденційність > мовлення](ms-settings:privacy-speech?activationSource=GetHelp)**.
+    - У розділі **Розпізнавання мовлення в Інтернеті** встановіть перемикач у значення **Увімк.**.
 - Переконайтеся, що Cortana має дозвіл на доступ до мікрофона. 
-    - Відкрийте меню Пуск і виберіть пункт **[настройки > конфіденційність > мікрофон](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - У розділі **вибір програм, які можуть отримати доступ до мікрофона**, знайдіть **Cortana** у списку програм і служб і переконайтеся, що перемикач переключіться **Далі**.
+    - Натисніть кнопку Пуск і виберіть **[пункт Настройки > конфіденційність > мікрофон.](ms-settings:privacy-microphone?activationSource=GetHelp)**
+    - У **розділі Виберіть програми,** які можуть отримати доступ до мікрофона , знайдіть **Cortana** в списку програм і служб і переконайтеся, що перемикач увімкнуто. 
 
-Крім того, переконайтеся, що ваші колонки та мікрофони працюють для того, щоб розмовляти з Cortana.
+Крім того, переконайтеся, що динаміки або мікрофони працюють, щоб поговорити з Cortana.

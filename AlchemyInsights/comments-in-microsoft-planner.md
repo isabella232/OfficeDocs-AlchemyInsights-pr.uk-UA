@@ -2,21 +2,22 @@
 title: Примітки у Microsoft Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 98246b52e21c7a24d04e18ce77d96b28c65e7909
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911241"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817661"
 ---
 # <a name="comments-in-microsoft-planner"></a>Примітки у Microsoft Planner
 
@@ -32,4 +33,4 @@ ms.locfileid: "43911241"
 
 - **Видалені користувачі отримують електронні листи**. Якщо користувач додав примітку до завдання до того, як ви видалили його з плану, цей користувач отримуватиме повідомлення електронної пошти щодо свого коментаря.
 
-Докладні відомості про примітки у Microsoft Planner див. в статтях [Як працює Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) і [Додавання приміток до завдань у Microsoft Planner](https://support.microsoft.com/office/comment-on-tasks-in-microsoft-planner-fd4aedde-7785-4cd0-96ee-122fbc9140e1).
+Докладні відомості про примітки у Microsoft Planner див. в статтях [Як працює Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) і [Додавання приміток до завдань у Microsoft Planner](https://support.microsoft.com/office/fd4aedde-7785-4cd0-96ee-122fbc9140e1).

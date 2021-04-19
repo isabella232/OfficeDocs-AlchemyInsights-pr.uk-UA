@@ -2,21 +2,22 @@
 title: Активація програм Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735233"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823052"
 ---
 # <a name="activating-microsoft-365-apps"></a>Активація програм Microsoft 365
 
@@ -26,7 +27,7 @@ ms.locfileid: "44735233"
 
 - [Активація Office на Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Примітка:**  Переконайтеся, що у вас є Передплата Office 365 або Microsoft 365, яка [включає клієнтські програми Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), наприклад, Microsoft 365 бізнес-стандарт, Microsoft 365 програми для бізнесу або програми Microsoft 365 для підприємств. Крім того, переконайтеся, що обліковий запис користувача, який використовується для входу до програм Office, має [ліцензію, призначену](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Примітка.**  Переконайтеся, що у вас є передплата на Office 365 або Microsoft 365, яка включає клієнтські програми [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)наприклад програми Microsoft 365 Business Standard, програми Microsoft 365 для бізнесу або програми Microsoft 365 для підприємств. Крім того, переконайтеся, що обліковому запису користувача, який використовується для входу в програми Office, [призначено ліцензію.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Щоб вирішити проблеми з активацією Office, див. статтю: 
 
@@ -35,7 +36,9 @@ ms.locfileid: "44735233"
 
 - [Поради для випадків, коли не вдається інсталювати або активувати пакет Office для Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Якщо ви не можете ввійти в Microsoft 365 Apps, виконайте наступні дії:
+**Порада.** На комп’ютерах із Windows ми можемо діагностувати та автоматично усунути кілька поширених проблем із входом у систему Office. Завантажте та запустіть  **[Помічник із підтримки й відновлення від Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)**, щоб скористатися нашим автоматизованим інструментом.
+
+Якщо вам не вдається ввійти в програми Microsoft 365, виконайте наведені нижче дії.
 
 1. Відкрийте програму Office і [вийдіть](https://go.microsoft.com/fwlink/?linkid=2114082) з усіх облікових записів.
 

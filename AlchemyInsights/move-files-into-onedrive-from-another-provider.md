@@ -1,27 +1,28 @@
 ---
-title: Переміщення файлів у OneDrive, для бізнесу від іншого постачальника хмарних
+title: Переміщення файлів до служби OneDrive для бізнесу з іншого хмарного постачальника
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003086"
 - "5851"
-ms.openlocfilehash: 29c79dbb0c828418251a84d03d9c32b13e21501d
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
+ms.openlocfilehash: c54a2c665b6ed8761bdcee8c88044a4bc840483d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708748"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825356"
 ---
-# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Переміщення файлів у OneDrive, для бізнесу від іншого постачальника хмарних
+# <a name="move-files-into-onedrive-for-business-from-another-cloud-provider"></a>Переміщення файлів до служби OneDrive для бізнесу з іншого хмарного постачальника
 
-Якщо ви переміщуєте дані з інших постачальників хмарних послуг у OneDrive або [SharePoint, він](https://go.microsoft.com/fwlink/?linkid=2132453) підтримує міграцію з більш ніж десятка постачальників хмарних послуг, включаючи Box, Dropbox, Egnyte, і Google Drive. Також можна використовувати для перенесення з одного клієнта SharePoint на інший або з OneDrive споживача або OneDrive.com.
+Якщо дані інших постачальників хмарних служб переносяться до [](https://go.microsoft.com/fwlink/?linkid=2132453) OneDrive або SharePoint, він підтримує перенесення від понад 10 постачальників хмарних служб, зокрема Box, Dropbox, Egnyte і Google Drive. Переміщуваний пристрій також можна використовувати, щоб перенести дані з одного клієнта SharePoint до іншого або з OneDrive для споживачів чи OneDrive.com.
 
-[Дізнайтеся більше про двигун](https://go.microsoft.com/fwlink/?linkid=2132453).
+[Дізнайтеся більше про Mover](https://go.microsoft.com/fwlink/?linkid=2132453).
 
-Відомості про додаткові способи [переміщення файлів, які ви зберігаєте в Microsoft onedrive або інші хмарні служби зберігання файлів](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) onedrive, для бізнесу в Office 365.
+Дізнайтеся про додаткові способи переміщення файлів, які ви зберігаєте в [Microsoft OneDrive,](https://support.microsoft.com/office/7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9) або інші хмарні сховища файлів до служби OneDrive для бізнесу в Office 365.

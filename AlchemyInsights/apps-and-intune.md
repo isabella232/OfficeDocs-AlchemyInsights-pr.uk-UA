@@ -1,27 +1,28 @@
 ---
-title: Програми та InTune
+title: Програми та Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "5764"
-ms.openlocfilehash: 3fcac11807e0a5ba44a689ec5144a742e859f291
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 63b5c49522fc2fb7a1044b1f6779d55729c0b01e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569396"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821279"
 ---
-# <a name="apps-and-intune"></a>Програми та InTune
+# <a name="apps-and-intune"></a>Програми та Intune
 
-Щоб дізнатися, як InTune може допомогти керувати додатками, почніть з [того, що таке керування додатком Microsoft InTune?](https://docs.microsoft.com/mem/intune/apps/app-management).
+Загальні відомості про те, як Intune може допомогти керувати програмами, див. в статті Керування програмами [Microsoft Intune.](https://docs.microsoft.com/mem/intune/apps/app-management)
 
-Для отримання додаткової інформації про завантаження додатків в InTune і розгортання їх на пристрої, огляд [QuickStart: додати і призначити клієнтський додаток](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app).
+Докладні відомості про передавання програм в Intune і їх розгортання на пристроях див. в короткому посібнику: Додавання та призначення [клієнтської програми.](https://docs.microsoft.com/mem/intune/apps/quickstart-add-assign-app)
 
-Щоб захистити корпоративні дані всередині мобільних додатків, зверніться до [QuickStart: створити і призначити політику захисту додатків](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy).
+Відомості про те, як захистити корпоративні дані в програмах для мобільних пристроїв, див. в короткому посібнику: Створення та призначення [політики захисту програм.](https://docs.microsoft.com/mem/intune/apps/quickstart-create-assign-app-policy)
