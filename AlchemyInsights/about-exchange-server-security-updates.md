@@ -1,5 +1,5 @@
 ---
-title: Відомості про оновлення системи безпеки Exchange Server
+title: Відомості про Exchange Server оновлення
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726548"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233483"
 ---
-# <a name="about-exchange-server-security-updates"></a><span data-ttu-id="38533-102">Відомості про оновлення системи безпеки Exchange Server</span><span class="sxs-lookup"><span data-stu-id="38533-102">About Exchange Server Security updates</span></span>
+# <a name="about-exchange-server-updates"></a><span data-ttu-id="bb61d-102">Відомості про Exchange Server оновлення</span><span class="sxs-lookup"><span data-stu-id="bb61d-102">About Exchange Server updates</span></span>
 
-<span data-ttu-id="38533-103">Корпорація Майкрософт випустила серію критичних оновлень системи безпеки для локального сервера Exchange Server.</span><span class="sxs-lookup"><span data-stu-id="38533-103">Microsoft has released a series of critical security updates for Exchange Server on-premises.</span></span> <span data-ttu-id="38533-104">Оновлені версії сервера Exchange Server 2010, 2013, 2016 та 2019 – це будь-які рівні оновлень.</span><span class="sxs-lookup"><span data-stu-id="38533-104">The affected server versions are any update levels of Exchange Server 2010, 2013, 2016 and 2019.</span></span> <span data-ttu-id="38533-105">Служба Exchange Online не впливає, але якщо у вас є локальні сервери Exchange через гібридну конфігурацію, вони потенційно вразливі.</span><span class="sxs-lookup"><span data-stu-id="38533-105">Exchange Online is NOT impacted, but if you have some on-premises Exchange servers due to Hybrid configuration, they are potentially vulnerable.</span></span>
+<span data-ttu-id="bb61d-103">Корпорація Майкрософт зазвичай випускає Exchange Server в вівторок оновлення (оновлення системи безпеки) або щоквартальне (сукупне оновлення).</span><span class="sxs-lookup"><span data-stu-id="bb61d-103">Microsoft usually releases Exchange Server updates on Update Tuesday (Security Updates) or quarterly (Cumulative Updates).</span></span> <span data-ttu-id="bb61d-104">Щоб переглянути оголошення про останні випущені оновлення, див. Exchange [блозі групи.](https://aka.ms/ehlo)</span><span class="sxs-lookup"><span data-stu-id="bb61d-104">To see the announcements of latest released updates released, see the [Exchange Team Blog](https://aka.ms/ehlo).</span></span>
 
-<span data-ttu-id="38533-106">Нижче наведено оголошення про розташування виправлень: [випущено: оновлення системи безпеки Exchange Server 2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span><span class="sxs-lookup"><span data-stu-id="38533-106">Please see the following announcement for location of fixes: [Released: March 2021 Exchange Server Security Updates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span></span>
+- <span data-ttu-id="bb61d-105">Щоб обслугувати сервери Exchange, скористайтеся Exchange Server перевіркою справності [(GitHub використовуйте найновіший випуск).](https://aka.ms/ExchangeHealthChecker)</span><span class="sxs-lookup"><span data-stu-id="bb61d-105">To inventory your Exchange Servers, use the [Exchange Server Health Checker script, (GitHub, use the latest release)](https://aka.ms/ExchangeHealthChecker).</span></span> <span data-ttu-id="bb61d-106">Запустивши цей сценарій, ви зможете вказати, чи не Exchange-якийсь із ваших серверів, що закінчуються на оновлення (CUs і SUs).</span><span class="sxs-lookup"><span data-stu-id="bb61d-106">Running this script tells you if any of your Exchange Servers are behind on updates (CUs and SUs).</span></span>
 
-<span data-ttu-id="38533-107">**Важливі примітки:**</span><span class="sxs-lookup"><span data-stu-id="38533-107">**Important notes:**</span></span>
+- <span data-ttu-id="bb61d-107">Щоб перейти на найновіший сукупний пакет оновлень, перейдіть на Exchange Update [Wizard](https://aka.ms/ExchangeUpdateWizard) і виберіть свій зараз запущений куб і цільовий куб.</span><span class="sxs-lookup"><span data-stu-id="bb61d-107">To update to the latest Cumulative Update, go to [Exchange Update Wizard](https://aka.ms/ExchangeUpdateWizard) and choose your currently running CU and your target CU.</span></span> <span data-ttu-id="bb61d-108">Виберіть **елемент Скажіть, що потрібно зробити,** щоб отримати маршрут до вашого середовища.</span><span class="sxs-lookup"><span data-stu-id="bb61d-108">Select **Tell me the steps** to get directions for your environment.</span></span>
 
-<span data-ttu-id="38533-108">Якщо ви інсталюєте оновлення вручну, ознайомтеся з розділом "відомі проблеми" в розділі "оновлення статей", щоб отримати важливу інформацію.</span><span class="sxs-lookup"><span data-stu-id="38533-108">If installing updates manually, please read the "Known issues" section of update KB articles for important information.</span></span> <span data-ttu-id="38533-109">Оновлення системи безпеки слід запускати з програми підвищення рівня CMD/PowerShell!</span><span class="sxs-lookup"><span data-stu-id="38533-109">Security updates MUST be run from elevated CMD/PowerShell prompt!</span></span>
-
-<span data-ttu-id="38533-110">Оновлення відомостей про виправлення неполадок можна [знайти тут](https://aka.ms/exupdatefaq).</span><span class="sxs-lookup"><span data-stu-id="38533-110">Update troubleshooting information can be [found here](https://aka.ms/exupdatefaq).</span></span>
+- <span data-ttu-id="bb61d-109">У разі виникнення помилок під час або після інсталяції оновлень Exchange Server див. номери Відновлення невдалих інсталяцій [пакетів Exchange сукупних оновлень і оновлень системи безпеки.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)</span><span class="sxs-lookup"><span data-stu-id="bb61d-109">If you encounter errors during or after installation of Exchange Server updates, see [Repair failed installations of Exchange Cumulative and Security updates](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).</span></span>
