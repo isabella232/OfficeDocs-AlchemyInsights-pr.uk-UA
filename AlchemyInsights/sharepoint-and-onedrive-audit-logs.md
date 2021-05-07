@@ -1,5 +1,5 @@
 ---
-title: Класичні звіти журналу аудиту SharePoint
+title: Класичні SharePoint контрольного журналу
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,41 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1372"
 - "3100005"
-ms.assetid: ''
-ms.openlocfilehash: daf79f8d75ccdff8ad54f0f307648a5832a6bb71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f84a86331ffe714ffb5154d55608a91725a2fbfb
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662229"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233627"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>Журнали аудиту SharePoint і OneDrive
+# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint і OneDrive контрольних журналів
 
-## <a name="sharepoint-classic-audit-logs"></a>Журнали аудиту SharePoint Classic
+* [Увімкнення та вимкнення уніфікованого журналювання аудиту](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
 
-Відстеження успадкованого аудиту в службі єдиного журналу аудиту (UAL). У всіх звітах про успадковані аудиторські звіти тепер буде здійснюватися через Al, а успадковані сигналах, які було перенесено до UAL.
-
-Основні зміни:
-
-* Функція обрізки недоступна як можливість.
-* Вибір певних подій для аудиту недоступний. Зверніться до [цього документа](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) , щоб переглянути повний список перевірених подій, доступних за замовчуванням.
-* Параметр " **розташування** " в розділі " **Настроювані звіти** " недоступний.
-* Параметр " **відкриття або завантаження** подій для документів" недоступний.
-
-[Настроювання параметрів аудиту для колекції сайтів](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)
-
-## <a name="sharepoint-and-onedrive-modern-unified-audit-logs-from-compliance"></a>Служби SharePoint і OneDrive для сучасних уніфікованих журналів аудиту відповідно
-
-* [Увімкнення та вимкнення журналювання єдиного аудиту](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off) 
-
-У службі SharePoint або OneDrive не потрібне додаткове настроювання.
-
-Використання функції журналювання аудиту для перевірки діяльності файлів (-ів), папок, користувачів, дозволів:
+Використовуйте пошук у контрольних журналах, щоб перевіряти дії файлів, папок, користувачів, дозволів:
 
 * [Дії з файлами та сторінками](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
 * [Дії з папками](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-* [Надання спільного доступу до дій і запитів на доступ](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-* [Дії з синхронізації](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-* [Дії з адміністрування сайту](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+* [Дії з надання спільного доступу та запитів на доступ](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+* [Дії синхронізації](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+* [Дії з адміністрування сайтів](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
 
-Додаткові відомості про те, як отримати ці події, наведено [в статті пошук у журналі аудиту](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Докладні відомості про те, як отримати ці події, див. в [статті Пошук у контрольому журналі.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
+
+Застарілий аудит SPO перенесено до єдиного контрольного журналу (UAL). Усі звіти застарілого аудиту SPO доступні через UAL, а застарілі контрольні сигнали переносяться до UAL. Докладні відомості див. в [сторінці Настроювання даних аудиту для колекції сайтів.](https://support.office.com/article/Configure-audit-settings-for-a-site-collection-A9920C97-38C0-44F2-8BCB-4CF1E2AE22D2)

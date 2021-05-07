@@ -1,5 +1,5 @@
 ---
-title: Поштова скринька користувача створюється
+title: Створюється поштова скринька користувача
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -11,15 +11,15 @@ ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ac93b93639a518a66d45f644bbd80a61c23c62
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796273"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261829"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Створення поштової скриньки користувача триває довгий час
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>Створення поштових скриньок користувачів задовге
 
-Перш ніж нова поштова скринька готова до використання, може знадобитися до 24 годин.
+Перш ніж нова поштова скринька буде готова до використання, може пройти до 24 годин.
   
-Якщо поштова скринька користувача "готує" більше години, радимо видалити ліцензію Exchange від користувача та повторно додати її назад або [звернутися до служби підтримки](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+Якщо її підготовка вже понад година, спробуйте видалити ліцензію Exchange користувача та знову додати її знову або зверніться до служби [підтримки.](/microsoft-365/admin/contact-support-for-business-products?tabs=online)

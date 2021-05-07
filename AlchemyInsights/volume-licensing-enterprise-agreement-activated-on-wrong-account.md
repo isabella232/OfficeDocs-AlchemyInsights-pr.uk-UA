@@ -1,5 +1,5 @@
 ---
-title: Угода про корпоративного ліцензування, активована на неправильний обліковий запис
+title: Договір "Enterprise Agreement" на корпоративне ліцензування активовано для невідповідного облікового запису
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.openlocfilehash: e8414dbbe27ee6c2e19c5d562e3a82a6abba43ef
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 7f0bd783afac9726e223de74c7ef286a4d971d02
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602601"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261865"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Угода про корпоративного ліцензування, активована на неправильний обліковий запис або передачу ліцензій з одного облікового запису до іншого
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a>Корпоративна ліцензійна угода, активована для хибного облікового запису або перенесення ліцензій з одного облікового запису до іншого
 
-Якщо ви знайшли передплату, придбані в **угоді про корпоративного ліцензування** , активовані в **неправильному** клієнті або хочете **перенести ліцензії** від одного клієнта до іншого, [зверніться до служби підтримки](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).
+Якщо передплати, придбані через корпоративне ліцензування **договір "Enterprise Agreement",** активовано не на неправильному компоненті  **або** потрібно перенести ліцензії з одного клієнта на інший, зверніться до служби [підтримки.](/microsoft-365/admin/contact-support-for-business-products)

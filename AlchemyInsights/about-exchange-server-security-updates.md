@@ -1,5 +1,5 @@
 ---
-title: Відомості про оновлення системи безпеки Exchange Server
+title: Відомості про Exchange Server оновлення
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726548"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233483"
 ---
-# <a name="about-exchange-server-security-updates"></a>Відомості про оновлення системи безпеки Exchange Server
+# <a name="about-exchange-server-updates"></a>Відомості про Exchange Server оновлення
 
-Корпорація Майкрософт випустила серію критичних оновлень системи безпеки для локального сервера Exchange Server. Оновлені версії сервера Exchange Server 2010, 2013, 2016 та 2019 – це будь-які рівні оновлень. Служба Exchange Online не впливає, але якщо у вас є локальні сервери Exchange через гібридну конфігурацію, вони потенційно вразливі.
+Корпорація Майкрософт зазвичай випускає Exchange Server в вівторок оновлення (оновлення системи безпеки) або щоквартальне (сукупне оновлення). Щоб переглянути оголошення про останні випущені оновлення, див. Exchange [блозі групи.](https://aka.ms/ehlo)
 
-Нижче наведено оголошення про розташування виправлень: [випущено: оновлення системи безпеки Exchange Server 2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Щоб обслугувати сервери Exchange, скористайтеся Exchange Server перевіркою справності [(GitHub використовуйте найновіший випуск).](https://aka.ms/ExchangeHealthChecker) Запустивши цей сценарій, ви зможете вказати, чи не Exchange-якийсь із ваших серверів, що закінчуються на оновлення (CUs і SUs).
 
-**Важливі примітки:**
+- Щоб перейти на найновіший сукупний пакет оновлень, перейдіть на Exchange Update [Wizard](https://aka.ms/ExchangeUpdateWizard) і виберіть свій зараз запущений куб і цільовий куб. Виберіть **елемент Скажіть, що потрібно зробити,** щоб отримати маршрут до вашого середовища.
 
-Якщо ви інсталюєте оновлення вручну, ознайомтеся з розділом "відомі проблеми" в розділі "оновлення статей", щоб отримати важливу інформацію. Оновлення системи безпеки слід запускати з програми підвищення рівня CMD/PowerShell!
-
-Оновлення відомостей про виправлення неполадок можна [знайти тут](https://aka.ms/exupdatefaq).
+- У разі виникнення помилок під час або після інсталяції оновлень Exchange Server див. номери Відновлення невдалих інсталяцій [пакетів Exchange сукупних оновлень і оновлень системи безпеки.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)
