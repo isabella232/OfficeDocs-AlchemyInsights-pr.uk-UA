@@ -1,5 +1,5 @@
 ---
-title: Запуск Microsoft EDGE у режимі кіоску
+title: Запуск Microsoft Edge в кіоску
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708551"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312425"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Запуск Microsoft EDGE у режимі кіоску
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Запуск Microsoft Edge в кіоску
 
-Режим кіоску можна настроїти в Microsoft EDGE версії 77 і пізнішу версію, а також в Microsoft EDGE Legacy версії 45 та попередніх версій.
+Режим кіоска можна налаштувати в Microsoft Edge версії 87 і пізніших, а також у застаріла версія Microsoft Edge версії 45 і старіших. Докладні відомості див. [в Microsoft Edge кіоску.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Ви можете настроїти пристрої, які виконуються в ОС Windows 10, щоб [запускати в режимі одиночного застосунку або мульти-програми кіоску](https://go.microsoft.com/fwlink/?linkid=2133659).
+Ви можете налаштувати пристрої, які запускатимуться Windows 10 в одному або кількох програмах [.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Щоб отримати докладні відомості про настроювання режиму кіоску в найновішому варіанті каналу Microsoft EDGE stable та в програмі Microsoft EDGE Legacy, див.:
+Докладні відомості про налаштування кіоска в найновішій версії каналу Microsoft Edge стабільному каналі застаріла версія Microsoft Edge див. в цій застаріла версія Microsoft Edge:
 
-- [Microsoft EDGE із призначеним доступом](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Параметр командного рядка Microsoft EDGE "--кіоску"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Підтримка режиму програми Microsoft EDGE для попередніх версій кіоску](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge з призначеним доступом](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge Параметр командного рядка «--кіоск»](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Підтримка застаріла версія Microsoft Edge кіоску](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
