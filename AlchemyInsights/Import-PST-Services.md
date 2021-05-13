@@ -1,5 +1,5 @@
 ---
-title: 1245 – імпорт-PST-служби
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664083"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470294"
 ---
-# <a name="microsoft-365-import-service"></a>Служба імпорту Microsoft 365
+# <a name="microsoft-365-import-service"></a>Microsoft 365 Служба імпорту
 
-Служба імпорту Microsoft 365 дає змогу самостійно імпортувати кілька PST-файлів у поштові скриньки Exchange Online.
+Служба Microsoft 365 імпорту дає змогу групово імпортувати кілька PST-файлів у поштові скриньки Exchange Online поштових скриньок.
 
-Щоб отримати доступ до служби імпорту та почати процес імпорту, виконайте наведені нижче дії.
+Щоб отримати доступ до служби імпорту та запустити процес імпорту:
 
-1. Перейдіть до [центру відповідності & безпеки](https://protection.office.com) та ввійдіть, використовуючи облікові дані для облікового запису адміністратора в організації.
+1. Перейдіть до Центру [безпеки & відповідності та](https://protection.office.com) ввійдіть за допомогою облікових даних облікового запису адміністратора в організації.
 
-2. В області ліворуч у **центрі відповідності системи безпеки &** виберіть елемент **керування даними > імпорт**.
+2. У лівій області Центру **безпеки & відповідності** виберіть елемент **Керування відомостями > імпорт.**
 
-3. На сторінці **Імпорт** натисніть кнопку **створити завдання для імпорту**.
+3. На сторінці **Імпорт** натисніть кнопку **Створити завдання імпорту.**
 
-4. Щоб виконати кроки, описані в майстрі, виконайте ці [покрокові вказівки](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. Щоб виконати кроки майстра, виконайте ці [покрокові вказівки.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)
 
-**Важливо**: щоб отримати доступ до сторінки **імпорту** в центрі відповідності & безпеки, потрібно призначити  [відповідні дозволи](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+**Увага!** Щоб отримати **доступ до** сторінки "Імпорт" & Центрі безпеки та відповідності, ви маєте [відповідні дозволи.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-Якщо ви просто хочете імпортувати PST-файл до поштової скриньки, ознайомтеся з [цією статтею](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Якщо ви просто хочете імпортувати PST-файл до поштової скриньки, див. [цю статтю.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
