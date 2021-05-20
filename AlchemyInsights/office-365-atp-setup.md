@@ -1,5 +1,5 @@
 ---
-title: Настроювання програми Microsoft Defender для Office 365 (АТФ)
+title: Налаштування Захисника Microsoft Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708659"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543634"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Програма Microsoft Defender для Office 365 (АТФ)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender для Office 365
 
-АТФ Office 365 включає в себе [безпечні вкладення](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [безпечні посилання](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Розширений захист від фішингу](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)тощо. 
+До складу Microsoft Defender для Office 365 входять [Сейф](/microsoft-365/security/office-365-security/atp-safe-attachments)вкладення, [посилання](/microsoft-365/security/office-365-security/atp-safe-links)Сейф, розширені функції захисту [від фішингових](/microsoft-365/security/office-365-security/atp-anti-phishing)повідомлень тощо. 
 
-АТФ входить у передплату, як-от Office 365 Enterprise E5, Office 365 Education a5 і Microsoft 365 Business Premium. Якщо ваша Передплата не включає АТФ, можливо, ви можете придбати АТФ як додатковий компонент. Докладні відомості наведено в статті [Опис служби АТФ Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+Програма Microsoft Defender для Office 365 входить до складу таких передплат, як Office 365 для підприємств E5, Office 365 Education A5 і Microsoft 365 Business преміум. Якщо ваша передплата не включає її, ви можете придбати її як додатковий компонент. Докладні відомості див. в статті [Опис служби Office 365 Microsoft Defender.](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>Настроювання АТФ Office 365
+## <a name="set-up-microsoft-defender-for-office-365"></a>Налаштування Захисника Microsoft для Office 365
 
-Для захисту АТФ, який має бути в силі, потрібно настроїти політики. [Короткий посібник із початку роботи: настроювання програми Microsoft Defender для Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+Щоб застосувати Office 365 Захисник Microsoft, потрібно налаштувати політики. Див. [короткий посібник користувача: Налаштування програми Microsoft Defender для Office 365.](/microsoft-365/security/office-365-security/office-365-atp)
 

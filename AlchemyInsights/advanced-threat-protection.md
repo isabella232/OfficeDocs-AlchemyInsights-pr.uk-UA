@@ -1,5 +1,5 @@
 ---
-title: Програма Microsoft Defender для Office 365
+title: Microsoft Defender для Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801248"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542914"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Програма Microsoft Defender для Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender для Office 365
 
-- Надійні вкладення, безпечні посилання та анти-Фішинг – це частина Microsoft Defender для Office 365 (АТФ). Корпоративні E5, освіта a5 і Microsoft 365 Business Premium включають АТФ. Усі інші плани потребують передплатою в надбудові АТФ.
+- Сейф Вкладення, посилання Сейф та антифішинг входить до складу Microsoft Defender для Office 365. Enterprise E5, Education A5 і Microsoft 365 Business преміум Захисник Microsoft для Office 365. Для всіх інших планів потрібна додатковий компонент Microsoft Defender для Office 365 передплати.
 
-- Щоб захистити користувачів за допомогою АТФ Office 365, потрібно призначити відповідні ліцензії. Перегляньте [цю тему](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) , щоб отримати вказівки про те, як за допомогою функції групового використання ліцензій для користувачів.
+- Щоб захистити користувачів від Захисника Microsoft для Office 365, потрібно призначити відповідні Office 365. [Указівки](/microsoft-365/admin/add-users/add-users) з групового застосування ліцензій до користувачів див. в статті Додавання користувачів і призначення ліцензій одночасно.
 
-- Глобальні адміністратори або адміністратори системи безпеки можуть отримати доступ до функцій АТФ Office 365 у центрі відповідності безпеки & в політиці **загрози Managmeent** \> **Policy** .
+- Глобальні адміністратори або адміністратори безпеки можуть отримати доступ до Функцій Microsoft Defender Office 365 в Центрі безпеки & на сторінці Політика **керування** \> **загрозами.**
 
-- Надійні вкладення та політики зв'язків із безпечними посиланнями можуть бути призначені вам для всієї організації, певних доменів або менших груп користувачів.
+- Сейф Політики "Вкладення Сейф посилання" можна масштабувати для всієї організації, певних доменів або менших груп користувачів.
 
-- Не можна використовувати політику безпечного вкладення АТФ за замовчуванням. Потрібно [створити політику](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) та додати його до своїх користувачів.
+- Політику вкладення не Сейф за замовчуванням. Потрібно створити [політику та](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) застосувати її до користувачів.
 
-- Ви маєте стандартну політику зв'язків АТФ за замовчуванням, яка застосовується до всіх у вашій організації. Щоб змінити цю політику або створити спеціальні політики, ознайомтеся з [цією темою](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Для всіх користувачів в організації Сейф зв'язків використовується стандартна політика зв'язків. Відомості про те, як змінити цю політику або створити настроювані політики, див. в статті Налаштування політик посилань [Сейф в Microsoft Defender для Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).

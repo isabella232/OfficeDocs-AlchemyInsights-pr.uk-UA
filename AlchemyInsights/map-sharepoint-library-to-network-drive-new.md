@@ -1,5 +1,5 @@
 ---
-title: Зіставлення бібліотеки SharePoint із мережним диском
+title: Підключення бібліотеки SharePoint до мережевого диска
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806204"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542842"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Зіставлення бібліотеки SharePoint із мережним диском
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Підключення бібліотеки SharePoint до мережевого диска
 
-Зіставлення бібліотеки як мережевого диска тимчасовий і підтримується лише за допомогою браузера Internet Explorer. Іноді потрібно відкрити сайт SharePoint у браузері Internet Explorer і вибрати параметр **залишатися в** службі, щоб уникнути терміну дії сеансу. Натомість [Синхронізуйте файли SharePoint за допомогою нового клієнта синхронізації OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) </a> , який надає [файли на вимогу](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Доступ до всіх файлів у службі OneDrive без використання локального простору для сховища.
+Замість підключення мережевого диска синхронізуйте файли SharePoint за допомогою нового клієнта синхронізації OneDrive, який надає доступ до файлів без вимоги. Отримуйте доступ до всіх файлів у OneDrive, не використовуючи локальний простір для зберігання. Докладні відомості див. в [розділах Синхронізація файлів SharePoint](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) Teams комп'ютера та Заощадження дискового простору за допомогою OneDrive доступ до файлів [на Windows 10.](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)
 
-Якщо ви вирішили зіставити диск замість того, щоб [використовувати новий клієнт синхронізації OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), переконайтеся, що в статті нижче наведено вказівки. 
+Якщо ви вирішили підставити диск, а не [використовувати новий OneDrive синхронізації,](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)обов'язково виконайте такі дії:
 
+- [Усунення несправностей із підключеними мережевими дисками, підключеними SharePoint Online](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Настроювання та усунення несправностей підключених мережевих дисків**
+- [Помилки автентифікації, коли клієнт не підтримує протокол TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Перегляньте статтю [Виправлення неполадок із зіставленими мережевими дисками, які підключаються до SharePoint Onlines](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-Примітка. Якщо ви використовуєте браузер Internet Explorer 10 із Windows 8 або Windows 7, і отримати **доступ заборонено** або **шлях** недоступний під час зіставлення диска, інсталюйте [це виправлення](https://support.microsoft.com/help/2846960) , щоб вирішити цю проблему. 
+**ПРИМІТКА.** Якщо ви використовуєте Internet Explorer 10 зі Windows 8 або Windows 7 і вам  не вдається  отримати доступ або Шлях недоступний під час зіставлення диска, усуніть цю проблему, інсталювши це [виправлення.](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d)

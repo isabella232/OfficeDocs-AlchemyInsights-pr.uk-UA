@@ -1,5 +1,5 @@
 ---
-title: Надбудова Outlook для Teams
+title: Teams Outlook (Надати спільний доступ до наради Teams, Виконати нараду, Створити Teams, Приєднатися Teams наради)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835040"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542770"
 ---
-# <a name="teams-outlook-add-in"></a>Надбудова Outlook для Teams
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook (Надати спільний доступ до наради Teams , Нарада зараз, Створити нараду Teams, Приєднатися Teams наради)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Виправлення неполадок, пов'язаних із відсутньою надбудовою Outlook у Teams
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Виправлення неполадок, пов'язаних Teams Outlook надбудові
 
-1. Запустіть діагностичну службу на порталі адміністрування. 
-2. Якщо діагностика служби не вказує на проблеми, діагностуйте та виправляйте проблеми клієнта на відповідних комп'ютерах користувачів, завантаживши й запустивши сценарій надбудови [Помічника Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)із підтримки й відновлення  >  **Teams Для Outlook.**
+1. Запустіть діагностичну надбудову "Надбудова групи відсутня в Outlook", яка підтверджує, що користувач має правильні політики, щоб активувати надбудову Teams Outlook надбудови. Щоб отримати доступ до діагностики, **введіть Diag: Teams** Надбудова відсутня в Outlook в полі пошуку.
 
-Щоб уручну усунути відсутню надбудову Teams для Outlook, перегляньте список потенційних факторів, які можуть спричинити відображення надбудови Teams у списку. Докладні відомості див. в [розділах Надбудова](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)для нарад Teams в Outlook для Windows не відображається.
+1. Якщо діагностика служби вказує на відсутність проблем, діагностуйте та виправляйте проблеми клієнта на відповідних комп'ютерах користувачів, завантаживши та запустивши сценарій [надбудови Microsoft Помічник із підтримки й відновлення](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook**.
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Усунення несправностей із плануванням наради Teams від імені іншого користувача (представника)
+Щоб виправити неполадки відсутньої Teams Outlook надбудові вручну, перегляньте список потенційних факторів, які можуть спричинити Teams надбудови не відображається в списку. Докладні відомості [див. в Teams Надбудова](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)для нарад Outlook для Windows не відображається.
 
-Відомості про планування наради Teams від імені іншого користувача див. в статті Виправлення неполадок із взаємодійами [Microsoft Teams і Exchange Server.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Виправлення неполадок із плануванням наради Teams від імені іншого користувача (представник)
+
+Щоб запланувати нараду Teams від імені іншого користувача, див. номери Microsoft Teams та [Exchange Server взаємодії.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

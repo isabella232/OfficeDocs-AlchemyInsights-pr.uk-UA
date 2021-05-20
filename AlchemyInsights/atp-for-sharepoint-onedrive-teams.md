@@ -1,5 +1,5 @@
 ---
-title: "\"АТФ для SharePoint\", \"OneDrive\" і груп Microsoft"
+title: Захисник Microsoft Office 365 для SharePoint, OneDrive та Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715582"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543598"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>"АТФ для SharePoint", "OneDrive" і груп Microsoft
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Захисник Microsoft Office 365 для SharePoint, OneDrive та Microsoft Teams
 
-Виконайте наведені нижче дії, щоб активувати розширений захист від загроз:
+Щоб увімкнути Захисник Microsoft для користувачів з Office 365, виконайте такі Office 365:
 
-1. Перейдіть на сторінку [https://protection.office.com](https://protection.office.com) та увійдіть за допомогою облікового запису глобального адміністратора або адміністратора безпеки.
+1. Перейдіть до облікового запису глобального адміністратора або адміністратора безпеки та [https://protection.office.com](https://protection.office.com) ввійдіть у неї.
 
-2. В області переходів ліворуч у розділі **керування загрозою**виберіть команду **Policy** \> **надійні вкладення**політики.
+2. В області переходів ліворуч у **розділі Керування загрозами** виберіть **політика** \> **Сейф вкладення.**
 
-3. Виберіть **Увімкнути АТФ для SharePoint, OneDrive і команд Microsoft**.
+3. Виберіть **Увімкнути Захисник для Office 365 для SharePoint, OneDrive і Microsoft Teams**.
 
-4. [Створіть політику оповіщення про дії,](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) щоб отримувати сповіщення, коли ми Виявляйте зловмисними файлами.
+4. [Створіть політику оповіщення про](/microsoft-365/compliance/create-activity-alerts) дії, щоб отримувати сповіщення про виявлення зловмисних файлів.
 
-Щоб отримати докладні вказівки, ознайомтеся з цією [темою](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Докладні вказівки наведено в статті Увімкнення Сейф вкладень для [SharePoint, OneDrive та інших Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**Примітка**: за конструкцією АТФ не перевіряє кожний файл у службі SharePoint Online, OneDrive для бізнесу або команд Microsoft. Файли буде перевірено в асинхронному процесі, за допомогою якого ви надаєте спільний доступ до дій, гостьової діяльності та сигналів загрози для ідентифікації зловмисних файлів. Щоб отримати докладніші відомості, ознайомтеся з цією [темою](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Примітка.** За дизайном Microsoft Defender для Office 365 не сканує кожен окремий файл у SharePoint Online, OneDrive для бізнесу або Microsoft Teams. Файли асинхронно скануються процесом, який використовує дії з надання спільного доступу, гостьові дії та сигнали загроз для виявлення зловмисних файлів. Докладні відомості [див. в Сейф вкладеннях](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)для SharePoint, OneDrive та Microsoft Teams .
