@@ -1,5 +1,5 @@
 ---
-title: Відмінності в корпоративному плані Microsoft 365
+title: Microsoft 365 для підприємств різниці між планами
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748516"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539773"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Відмінності в корпоративному плані Microsoft 365
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 для підприємств різниці між планами
 
-Корпорація Microsoft 365 Enterprise E5 містить усі функції Microsoft 365 Enterprise E3, а також додаткові заходи безпеки, як-от:
+Microsoft 365 для підприємств E5 містить усі функції Microsoft 365 для підприємств E3, а також розширені заходи безпеки, такі як:
 
-- Розширений захист від загроз (АТФ)
-- Розширені можливості керування даними
-- Lockbox для клієнтів
-- Безпека програми Microsoft 365 Cloud App
-- Розширені можливості Витребування електронної інформації
+- Захист від загроз
+- Advanced Data Governance
+- Customer Lockbox
+- Microsoft 365 Cloud App Security
+- Advanced eDiscovery
 - Служби керування правами
-- Сховище лазурого ключа
+- Сховище ключів Azure
 
-Корпорація Microsoft 365 Enterprise E5 також містить потужні аналітики та голосові можливості, наприклад:
+Microsoft 365 для підприємств E5 також постачається з потужними можливостями аналітики та голосовими можливостями, зокрема:
 
-- Інтерактивні приладні дошки
-- Звіти з надбудовою Power BI
-- Сучасний голосовий
+- Динамічні приладні дошки
+- Звіти з Power BI
+- Сучасний голосовий зв'язок
 - Аудіоконференції
-- Онлайнові наради
+- Мережеві наради
 
-Щоб дізнатися більше про Microsoft 365 Enterprise E5 або зареєструвати передплату на ознайомлювальну версію, перегляньте статтю [спробувати або придбати передплату на Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2099673).
+Докладні відомості про передплату Microsoft 365 для підприємств E5 або реєстрація передплати на ознайомлювальну версію див. в Microsoft 365 [передплати.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
-Щоб порівняти функції для корпоративних планів, перегляньте статтю [порівняння корпоративних планів](https://go.microsoft.com/fwlink/?linkid=2097200).
+Щоб порівняти функції в різних планах для підприємств, див. [рис.](https://go.microsoft.com/fwlink/?linkid=2097200)
 
-Ми вдячні Вам за ваші відгуки, тому виберіть елемент так/ні на запитання, що відображається, а потім Оцініть ваш досвід.
+Ми будемо вдячні за відгук, тому натисніть кнопку Так/Ні для запитання, яке відобразиться, а потім оцініть свій досвід роботи.
