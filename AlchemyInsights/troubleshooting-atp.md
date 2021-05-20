@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із програмою Microsoft Defender для Office 365
+title: Виправлення неполадок, пов'язаних із Захисником Microsoft Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801467"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545289"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="96394-102">Виправлення неполадок із програмою Microsoft Defender для Office 365</span><span class="sxs-lookup"><span data-stu-id="96394-102">Troubleshooting Microsoft Defender for Office 365</span></span>
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a><span data-ttu-id="95f68-102">Виправлення неполадок, пов'язаних із Захисником Microsoft Office 365</span><span class="sxs-lookup"><span data-stu-id="95f68-102">Troubleshooting Microsoft Defender for Office 365</span></span>
 
-- <span data-ttu-id="96394-103">Чи помітили ви затримки в доставці повідомлень?</span><span class="sxs-lookup"><span data-stu-id="96394-103">Do you notice delays in message delivery?</span></span> <span data-ttu-id="96394-104">Використовуйте параметр [динамічної доставки](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) в політиці вкладень у сейфі АТФ.</span><span class="sxs-lookup"><span data-stu-id="96394-104">Use the [Dynamic Delivery](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your ATP Safe Attachments policy.</span></span> <span data-ttu-id="96394-105">Це дасть змогу уникнути затримок повідомлень під час захисту одержувачів від зловмисних файлів.</span><span class="sxs-lookup"><span data-stu-id="96394-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
+- <span data-ttu-id="95f68-103">**Чи помітили ви затримки доставки повідомлень?**</span><span class="sxs-lookup"><span data-stu-id="95f68-103">**Do you notice delays in message delivery?**</span></span> <span data-ttu-id="95f68-104">Скористайтеся [динамічною доставкою](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) в Microsoft Defender, щоб Office 365 Сейф вкладення.</span><span class="sxs-lookup"><span data-stu-id="95f68-104">Use the [Dynamic Delivery](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) option in your Microsoft Defender for Office 365 Safe Attachments policy.</span></span> <span data-ttu-id="95f68-105">Це допоможе уникнути затримки повідомлень під час захисту від зловмисних файлів.</span><span class="sxs-lookup"><span data-stu-id="95f68-105">This will help avoid message delays while protecting recipients from malicious files.</span></span>
 
-- <span data-ttu-id="96394-106">Ви хочете повідомити про помилкові спрацьовування або помилкові негативи в корпорацію Майкрософт?</span><span class="sxs-lookup"><span data-stu-id="96394-106">Do you want to report false positives or false negatives to Microsoft?</span></span> <span data-ttu-id="96394-107">Використовуйте це [посилання](https://www.microsoft.com/wdsi/filesubmission/) , щоб надсилати файли для аналізу.</span><span class="sxs-lookup"><span data-stu-id="96394-107">Use this [link](https://www.microsoft.com/wdsi/filesubmission/) to submit files for analysis.</span></span>
+- <span data-ttu-id="95f68-106">**Хочете повідомити корпорації Майкрософт про хибні або хибні негативні результати?**</span><span class="sxs-lookup"><span data-stu-id="95f68-106">**Do you want to report false positives or false negatives to Microsoft?**</span></span> <span data-ttu-id="95f68-107">Використовуйте [провідник вкладень](https://protection.office.com/reportsubmission).</span><span class="sxs-lookup"><span data-stu-id="95f68-107">Use [Submissions Explorer](https://protection.office.com/reportsubmission).</span></span>
 
-- <span data-ttu-id="96394-108">Чи знаєте ви, що можна активувати захист для внутрішнього повідомлення електронної пошти, надіслане між одержувачами в організації?</span><span class="sxs-lookup"><span data-stu-id="96394-108">Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?</span></span> <span data-ttu-id="96394-109">Виконайте наведені нижче кроки.</span><span class="sxs-lookup"><span data-stu-id="96394-109">Follow these steps:</span></span>
+<span data-ttu-id="95f68-108">-\*\* Чи знаєте ви, що можна ввімкнути захист посилань Сейф для внутрішніх електронних листів, надісланих між одержувачами у вашій організації?\*\* Виконайте такі дії:</span><span class="sxs-lookup"><span data-stu-id="95f68-108">-\*\* Did you know that you can enable Safe Links protection for internal email sent between recipients within your organization?\*\* Follow these steps:</span></span>
 
-  1. <span data-ttu-id="96394-110">Перейдіть на сторінку [https://protection.office.com](https://protection.office.com) та увійдіть за допомогою облікового запису глобального адміністратора або адміністратора безпеки.</span><span class="sxs-lookup"><span data-stu-id="96394-110">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
+  1. <span data-ttu-id="95f68-109">Перейдіть до облікового запису глобального адміністратора або адміністратора безпеки та [https://protection.office.com](https://protection.office.com) ввійдіть у неї.</span><span class="sxs-lookup"><span data-stu-id="95f68-109">Go to [https://protection.office.com](https://protection.office.com) and sign in with a global administrator or security administrator account.</span></span>
 
-  2. <span data-ttu-id="96394-111">В області переходів ліворуч у розділі **керування загрозою** виберіть посилання **політики** \> **безпеки** .</span><span class="sxs-lookup"><span data-stu-id="96394-111">In the left navigation pane under **Threat management** , choose **Policy** \> **Safe Links** .</span></span>
+  2. <span data-ttu-id="95f68-110">В області переходів ліворуч у розділі **Керування загрозами** виберіть **Посилання для** \> **Сейф політики.**</span><span class="sxs-lookup"><span data-stu-id="95f68-110">In the left navigation pane under **Threat management**, choose **Policy** \> **Safe Links**.</span></span>
 
-  3. <span data-ttu-id="96394-112">У розділі політики, **які застосовуватимуться до всієї організації** , виберіть політику та натисніть кнопку **редагувати** .</span><span class="sxs-lookup"><span data-stu-id="96394-112">In the **Policies that apply to the entire organization** section, select the policy and click **Edit** .</span></span>
+  3. <span data-ttu-id="95f68-111">У розділі **Політики, які застосовуються до всієї організації,** виберіть політику та натисніть кнопку **Редагувати**.</span><span class="sxs-lookup"><span data-stu-id="95f68-111">In the **Policies that apply to the entire organization** section, select the policy and click **Edit**.</span></span>
 
-  4. <span data-ttu-id="96394-113">У розділі **Параметри** Увімкніть параметр **використовувати безпечні посилання на повідомлення, надіслані в організації** .</span><span class="sxs-lookup"><span data-stu-id="96394-113">Under **Settings** , enable **Apply safe links to messages sent within the organization** .</span></span>
+  4. <span data-ttu-id="95f68-112">У Настройки увімкніть параметр Застосовувати безпечні посилання до **повідомлень, надісланих у межах організації**.</span><span class="sxs-lookup"><span data-stu-id="95f68-112">Under **Settings**, enable **Apply safe links to messages sent within the organization**.</span></span>
