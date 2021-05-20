@@ -1,5 +1,5 @@
 ---
-title: Проблеми з доступом до розділів на порталі АТФ Microsoft Defender
+title: Проблеми з доступом до розділів microsoft Defender для Office 365 порталу
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6031"
 - "9001222"
-ms.openlocfilehash: 3b6fe048713500aec1558d611b67c715b6b21317
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: cf460b45bfc6caf0b627265e9926c2794cd27179
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714332"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545253"
 ---
-# <a name="issues-accessing-sections-of-microsoft-defender-atp-portal"></a>Проблеми з доступом до розділів на порталі АТФ Microsoft Defender
+# <a name="issues-accessing-sections-of-microsoft-defender-for-office-365-portal"></a>Проблеми з доступом до розділів microsoft Defender для Office 365 порталу
 
-Якщо приладна дошка порталу та інші розділи відображаються повідомлення про помилку, наприклад "дані зараз недоступні", імовірно, у вашій організації та відкриття для спілкування можна використовувати певні домени URL-адрес і всі піддомени. 
+Якщо на приладних дошках порталу та інших розділах відображається повідомлення про помилку на кшт "Наразі дані недоступні", імовірно, у вашій організації дозволено використовувати певні URL-адреси та всі дочірні домени, а також відкривати їх для спілкування. 
 
-Докладні відомості наведено в статті [Виправлення неполадок із підключенням до служби "Передплата" і "доступ до порталу](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)".
+Докладні відомості див. в [цьому дія: виправлення неполадок, пов'язаних із передплатою та доступом до порталу.](/windows/security/threat-protection/microsoft-defender-atp/troubleshoot-onboarding-error-messages#data-currently-isnt-available-on-some-sections-of-the-portal)

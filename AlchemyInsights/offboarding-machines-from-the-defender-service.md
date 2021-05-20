@@ -1,5 +1,5 @@
 ---
-title: Offboarding машини в службі "захисник" служби Microsoft
+title: Системи від'єднання від АТС Microsoft Defender
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6024"
 - "9002913"
-ms.openlocfilehash: 693a1b0e8e06158691d5b23cb4bc2f4e3b828b71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: fbba15ad0d93f61d5a3fd2bb24ae54f17141ee8b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714284"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544707"
 ---
-# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Offboarding машини в службі "захисник" служби Microsoft
+# <a name="offboarding-machines-from-the-microsoft-defender-atp-service"></a>Системи від'єднання від АТС Microsoft Defender
 
-Якщо вам потрібна допомога з надання допомоги в автономному режимі, зверніться до інструкції для своєї операційної системи:  
+Якщо вам потрібна допомога з від'єднання комп'ютера від служби РЗЗ Захисника, див. інструкції для вашої операційної системи:  
 
-- Для пристроїв із Windows 10 ознайомтеся [з пристроями offboard з служби "служба захисника" корпорації Майкрософт](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices).
-- Для пристроїв, які не використовують Windows, перегляньте статтю [offboard, не з ОС Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices).
+- Відомості Windows 10 див. в статті [Від'єднувачі зі служби АТФ Microsoft Defender.](/windows/security/threat-protection/microsoft-defender-atp/offboard-machines#offboard-windows-10-devices)
+- Відомості про пристрої, не Windows див. в [цьому Windows.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#offboard-non-windows-devices)

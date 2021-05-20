@@ -1,5 +1,5 @@
 ---
-title: АТФ для захисту від захисника Microsoft
+title: Увійдіть у функцію РВП для Захисника Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673446"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545325"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>АТФ для захисту від захисника Microsoft
+# <a name="onboarding-microsoft-defender-atp"></a>Увійдіть у функцію РВП для Захисника Microsoft
 
-Щоб отримати ресурси для бортових АТФ Microsoft Defender для Windows 10, серверів Windows і комп'ютерів Mac і Linux, див.: 
+Ресурси для перенесення РВЗ для Windows 10, Windows і комп'ютерів Mac і Linux див. в таких статтях: 
 
-- **Машини з Windows 10** Залежно від вимог до бізнесу, ви можете вибрати один із параметрів на борту комп'ютера під керуванням Windows 10. Щоб отримати докладні відомості, перегляньте статтю [Onboarding Tools і методи для пристроїв із Windows 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Windows 10 машини** Залежно від своїх бізнес-вимог можна вибрати будь-який із варіантів, щоб домовитись про комп'ютер із Windows 10. Докладні відомості див. в описі засобів [і методів Windows 10 пристрої.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints) 
 
-- **Сервери Windows** Щоб бортовий АТФ Microsoft Defender для своєї версії Windows Server, перегляньте веб- [сервери в службі](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)ATP Defender.
+- **Windows серверів** Відомості про те, як переналашити РВЗ для Захисника Microsoft для вашої версії Windows Server, див. в статті Сервери на дошці в службу [АТС Microsoft Defender.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
-- **Кінцеві точки, які не є ОС Windows**  Перед тим, як ви на борту системи не з Windows, ви повинні відповідати вимогам до системи для [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) або [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+- **Кінцеві точки Windows не є кінцевими точками**  Перш ніж вести систему не з Windows, потрібно виконати системні вимоги для [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) або [Linux.](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements)
 
-    Підтвердивши вимоги до системи, перегляньте статтю [бортові пристрої, які не використовують ОС Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).
+    Підтвердивши системні вимоги, див. номери [пристроїв, не підключених Windows до Windows.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)

@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824636"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544851"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ви отримуєте забагато фішинг або спаму в поштовій скриньці?
 
-**Примітка** Отримати доступ до Центру безпеки Microsoft 365 можна в [https://security.microsoft.com](https://security.microsoft.com) .
+**Примітка** Центр безпеки Microsoft 365 доступний тут: [https://security.microsoft.com](https://security.microsoft.com).
 
-Як адміністратор Microsoft 365, найкращий спосіб визначити, чому доставлено фішинг або спам– надіслати зразок до корпорації Майкрософт у провіднику надісланих [повідомлень.](https://security.microsoft.com/reportsubmission) Ви негайно отримаєте відгуки щодо фільтрування повідомлень і причини проблем.
+Як адміністратор Microsoft 365 найкращий спосіб визначити, чому доставлено фішинг або спам– надіслати зразок до корпорації Майкрософт у провіднику надісланих [повідомлень.](https://security.microsoft.com/reportsubmission) Ви негайно отримаєте відгуки щодо фільтрування повідомлень і причини проблем.
 
 Щоб полегшити створення звітів, можна дозволити користувачам безпосередньо повідомляти про це в корпорації Майкрософт за допомогою надбудови ["Повідомлення зі звітами".](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
-**Чи знаєте ви? Тепер** ви можете надсилати зразки безпосередньо з трасування повідомлень, а клієнти плану [2](https://security.microsoft.com/messagetrace) для E5 або АТС можуть надсилати зразки з [провідника загроз.](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
+**Чи знаєте ви?** Тепер ви можете [](https://security.microsoft.com/messagetrace) надсилати зразки безпосередньо з трасування повідомлень і E5/Microsoft Defender для Office 365 (план 2) зразки з [Провідника загроз.](/microsoft-365/security/office-365-security/threat-explorer)

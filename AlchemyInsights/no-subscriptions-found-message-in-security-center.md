@@ -1,5 +1,5 @@
 ---
-title: У центрі безпеки не знайдено передплату "повідомлення"
+title: Повідомлення про те, що передплати не знайдено в Центрі безпеки
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50714392"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544129"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>У центрі безпеки не знайдено передплату "повідомлення"
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>Повідомлення про те, що передплати не знайдено в Центрі безпеки
 
-Якщо під час доступу до центру безпеки захисника Microsoft ви отримуєте повідомлення "не знайдено передплати", це означає, що для входу в портал користувач не має ліцензії на сайт Microsoft Defender.  
+Якщо під час доступу Центр безпеки для Microsoft Defender з'являється повідомлення "Передплати не знайдено", це означає, що Azure Active Directory (AAD) для входу користувача на портал не має ліцензії ВВП для Microsoft Defender.  
 
-Ліцензії на службу Windows E5 і Office E5 – це окремі ліцензії.
+Ліцензії Windows E5 Office E5 – це окремі ліцензії.
 
-Відкрийте інцидент підтримки, якщо ліцензію придбано, але не підготовлено до цього екземпляра AAD. У вас є: <br/>
--   Можлива проблема підготовки ліцензії.<br/>
--   Ви ненавмисно підготування ліцензії до іншої Microsoft AAD, ніж той, який використовується для автентифікації в службі.
+Відкрийте інцидент підтримки, якщо ліцензію придбано, але не підготовлено для цього екземпляра AAD. У вас є: <br/>
+-   Можлива проблема з підготовкою ліцензій.<br/>
+-   Ви ненавмисно підготували ліцензію на іншу службу Microsoft AAD, ніж та, що використовується для автентифікації в службі.
