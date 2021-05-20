@@ -1,5 +1,5 @@
 ---
-title: Змінення розташування сховища даних для АТФ в програмі Microsoft Defender
+title: Змінення розташування сховища даних для РВП Microsoft Defender
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001222"
 - "6032"
-ms.openlocfilehash: 08ee7b6d8ab3219a566e9b8cafc72e7fe96197c4
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: b01e113bd8c8387009f6f7b857c3a8bf977ec4fd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428143"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543130"
 ---
-# <a name="change-data-storage-location-for-microsoft-defender-atp"></a><span data-ttu-id="c0e9e-102">Змінення розташування сховища даних для АТФ в програмі Microsoft Defender</span><span class="sxs-lookup"><span data-stu-id="c0e9e-102">Change data storage location for Microsoft Defender ATP</span></span>
+# <a name="change-data-storage-location-for-microsoft-defender-atp"></a><span data-ttu-id="a7425-102">Змінення розташування сховища даних для РВП Microsoft Defender</span><span class="sxs-lookup"><span data-stu-id="a7425-102">Change data storage location for Microsoft Defender ATP</span></span>
 
-<span data-ttu-id="c0e9e-103">Щоб змінити розташування сховища даних, який використовується в службі АТФ Microsoft, відкрийте справу підтримки з корпорацією Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="c0e9e-103">To change the data storage location used by the Microsoft Defender ATP service, open a support case with Microsoft.</span></span>
+<span data-ttu-id="a7425-103">Щоб змінити розташування сховища даних, що використовується ВВП Microsoft Defender, відкрийте інцидент служби підтримки в корпорації Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="a7425-103">To change the data storage location used by the Microsoft Defender ATP, open a support case with Microsoft.</span></span>
