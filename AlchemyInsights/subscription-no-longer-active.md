@@ -1,35 +1,33 @@
 ---
 title: Передплата більше не дійсна
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 8f9b9a06d12c289f40f9be8247621a01c619f21e
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789251"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544275"
 ---
 # <a name="subscription-no-longer-active"></a>Передплата більше не дійсна
 
-Якщо [сповіщення про передплату відображається під час відкриття програми Microsoft](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB), імовірно, передплату потрібно активувати повторно.
+Якщо під [час відкриття програми](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) Microsoft з'являється повідомлення про передплату, найімовірніше, потрібно повторно активувати передплату.
 
 **Повторна активація передплати**
 
-1. У Центрі адміністрування перейдіть на сторінку **Виставлення рахунків > [Товари та послуги](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. У Центрі адміністрування перейдіть на сторінку **Виставлення**  >  [рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. На вкладці **Продукти** знайдіть передплату, яку потрібно повторно активувати. Виберіть три крапки (додаткові дії), а потім виберіть **Повторно активувати цю передплату**.
+3. В області **Повторна активація цієї передплати** виберіть із розкривного списку метод оплати або клацніть Додати **метод оплати**.
+4. Натисніть **кнопку Зберегти**.
 
-2. На сторінці "Товари та послуги" виберіть передплату, яку потрібно активувати повторно.
-
-3. У розділі "Виставлення рахунків" виберіть пункт **Активувати повторно**.  Якщо ви використовуєте подання "Карти", клацніть три крапки між розділами "Ім’я" та "Доступна кількість" і виберіть пункт "Активувати повторно" в меню. **Примітка.**. Якщо потрібна передплата відсутня, змініть фільтр Стан передплати у верхній частині сторінки на варіант **Все**.
-
-4. Підтвердьте платіжні відомості щоб оновити наявну інформацію. Указавши метод оплати, натисніть кнопку **Активувати повторно**.
-
-Докладні відомості див. в статті [Повторна активація передплати](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Докладні відомості див. в статті [Повторна активація передплати](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

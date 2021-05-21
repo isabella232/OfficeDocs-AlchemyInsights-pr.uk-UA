@@ -1,5 +1,5 @@
 ---
-title: Настроювання виключень для сканування АТФ у програмі Microsoft Defender
+title: Налаштування винятків для перевірки РВЗ для Microsoft Defender
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714356"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543706"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Настроювання виключень для сканування АТФ у програмі Microsoft Defender
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Налаштування винятків для перевірки РВЗ для Microsoft Defender
 
-Загалом можна виключити певні розширення файлів і розташування папок із сканувань АТФ в програмі Microsoft Defender. Крім того, можна настроїти винятки для файлів, які відкриваються певними процесами. Докладні відомості наведено в статті, [Настроювання та перевірка виключень на основі розширення файлу та розташування папки](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) та [Настроювання виключень для файлів, які відкриваються процесами](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+Загалом із АТС Microsoft Defender можна виключити певні розширення файлів і розташування папок. Ви також можете налаштувати винятки для файлів, відкритих у певних процесах. Докладні відомості див. в розділах Настроювання та перевірка винятків на основі розширення та розташування папки та Налаштування винятків для файлів, відкритих [процесами.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) [](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus)
 
-Щоб настроїти винятки для  **Windows server 2016 і 2019**, ознайомтеся [з настроюванням антивірусних програм Microsoft Defender на сервері Windows Server](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+Відомості про налаштування винятків для **Windows Server 2016 і 2019** див. в Антивірус для Microsoft Defender на Windows [Server.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
 
 **Mac**
 
-Докладні відомості про підтримувані типи виключень і настроювання списку винятків для Mac наведено в статті [Підтримувані типи виключень](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) і [Настроювання списку виключень](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+Докладні відомості про підтримувані типи винятків і налаштування списку [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) винятків для Mac див. в статтях Підтримувані типи винятків і Налаштування списку [винятків.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Примітка** . Крім того, можна перевірити списки виключень, використовуючи тестовий файл EICAR. Докладні відомості наведено в статті перевірка [виключень списків із тестовими файлами EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Примітка** Ви також можете перевірити списки винятків, використовуючи тестовий файл EICAR. Докладні відомості див. в сторінці Перевірка списків винятків [за допомогою тестової файлу EICAR.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
 **Linux**
 
-Докладні відомості про підтримувані типи виключень і налаштування списку винятків для Linux наведено в статті [Підтримувані типи виключень](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) і [Настроювання та перевірка виключень для системи Microsoft Defender для Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+Докладні відомості про підтримувані типи винятків і налаштування списку [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) винятків для Linux див. в розділах Підтримувані типи винятків і Налаштування та перевірка винятків для АТФ для [Microsoft Defender для Linux.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Примітка** . Крім того, можна перевірити списки виключень, використовуючи тестовий файл EICAR. Докладні відомості наведено в статті перевірка [виключень списків із тестовими файлами EICAR](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Примітка** Ви також можете перевірити списки винятків, використовуючи тестовий файл EICAR. Докладні відомості див. в сторінці Перевірка списків винятків [за допомогою тестової файлу EICAR.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 

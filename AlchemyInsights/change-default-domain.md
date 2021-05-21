@@ -1,32 +1,33 @@
 ---
-title: Змінити домен за промовчанням
+title: Змінення стандартного домену
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5993"
 - "9003196"
-ms.openlocfilehash: 3ac582f65d00753d78ed75dc2362ed9ae3ac87c0
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: d293eb49f2f8a299feb61b4dfcd9d48011f79c3c
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088541"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569816"
 ---
-# <a name="change-default-domain"></a>Змінити домен за промовчанням
+# <a name="change-default-domain"></a>Змінення стандартного домену
 
-Після додавання настроюваного домену за допомогою [майстра додавання домену](https://portal.office.com/adminportal/home#/Domains/Wizard)настроюваного домену стає домену за промовчанням для нових користувачів, але існуючі користувачі не змінюються.
+Після додавання настроюваного домену за допомогою майстра додавання доменів [настроюваний](https://admin.microsoft.com/Adminportal#/Domains/Wizard)домен стає стандартним для нових користувачів, але наявні користувачі не змінюються.
 
-- Щоб змінити домен за промовчанням до наявного домену, виберіть домен на [сторінці домени](https://admin.microsoft.com/Adminportal/Home#/Domains), а потім виберіть пункт **Установити за промовчанням**.
+- Щоб змінити стандартний домен на наявний, [](https://admin.microsoft.com/Adminportal/Home#/Domains)виберіть домен на сторінці Домени, а потім натисніть кнопку **Використовувати за замовчуванням.**
 
-- Щоб змінити доменне ім'я для наявних користувачів, на [сторінці активні користувачі](https://admin.microsoft.com/Adminportal/Home#/users) виберіть кілька користувачів, виберіть **...,**, а потім виберіть **змінити домени**.
+- Щоб змінити ім'я домену для наявних користувачів, на сторінці [Активні користувачі](https://admin.microsoft.com/Adminportal/Home#/users) виберіть кількох користувачів, а потім натисніть **кнопку Змінити домени.**
 
-- Щоб змінити домен або додати псевдонім для одного користувача, на [сторінці активні користувачі](https://admin.microsoft.com/Adminportal/Home#/users) виберіть ім'я користувача, а потім виберіть **керування іменем користувача та електронною поштою**.
+- Щоб змінити домен або додати псевдонім для одного користувача, на сторінці [Активні](https://admin.microsoft.com/Adminportal/Home#/users) користувачі виберіть ім'я користувача, а потім клацніть Керування іменем користувача  **та електронною поштою**.
 
-Початковий домен. onmicrosoft.com не можна перейменувати або видалити.
+Початковий onmicrosoft.com домен .onmicrosoft.com не можна перейменувати або видалити.

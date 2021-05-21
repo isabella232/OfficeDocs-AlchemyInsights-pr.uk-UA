@@ -1,29 +1,31 @@
 ---
 title: Скасування передплати Microsoft
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001727"
 - "3824"
-ms.openlocfilehash: 0bc16dac8daf6219fcd3507e1f47d1d62a0961d2
-ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
-ms.translationtype: HT
+ms.openlocfilehash: 218ed088ca13c5d7964600559857f49c5dd00f19
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707849"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543346"
 ---
 # <a name="cancel-your-microsoft-subscription"></a>Скасування передплати Microsoft
 
-1. Перейдіть на сторінку [Служби та передплати](https://account.microsoft.com/services/) й увійдіть в обліковий запис Microsoft, за допомогою якого ви придбали свою передплату.
+Адміністратори можуть скасувати передплату для своєї організації в Центрі Microsoft 365 адміністрування.
 
-2. Знайдіть свою передплату та натисніть **Керувати**. Якщо ви бачите надпис **Увімкнути повторюване виставлення рахунків** замість **Керувати**, перейдіть до розділу "Виправлення неполадок". Якщо все гаразд, перейдіть до кроку 3.
+1. Перейдіть на сторінку **Виставлення** \> [рахунків для ваших](https://go.microsoft.com/fwlink/p/?linkid=842054) продуктів.
+2. На вкладці **Продукти** знайдіть передплату, яку потрібно скасувати. Виберіть три крапки (додаткові дії), а потім виберіть **скасувати передплату**.
+3. В області **Скасування передплати** виберіть причину скасування. За потреби надайте відгук.
+4. Натисніть **кнопку Зберегти**.
 
-3. На наступній сторінці натисніть кнопку **Скасувати** або **Оновити або скасувати**, залежно від типу передплати.
-
-4. Дотримуйтеся вказівок на сторінці, щоб продовжити скасування.
+**Відшкодування:** Пропорції повернуться вам протягом наступного розрахункового циклу.
