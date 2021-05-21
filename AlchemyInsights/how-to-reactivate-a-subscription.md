@@ -2,34 +2,32 @@
 title: Повторна активація передплати
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "441"
 - "1500017"
-ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 10a38f9234d969e8729211b56cd7d3a90bf05de3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2260ee6053cbb728167a36fb019f0500fe49732d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509153"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544383"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="5d97c-102">Повторна активація передплати</span><span class="sxs-lookup"><span data-stu-id="5d97c-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="e58e3-102">Повторна активація передплати</span><span class="sxs-lookup"><span data-stu-id="e58e3-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="5d97c-103">Якщо термін дії передплати закінчився, її було скасовано або закрито корпорацією Майкрософт, ви можете повторно активувати її в Центрі адміністрування Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="5d97c-103">If your subscription has expired, been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="e58e3-103">Якщо термін дії передплати закінчився, її було скасовано або закрито корпорацією Майкрософт, ви можете повторно активувати її в Центрі адміністрування Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="e58e3-103">If your subscription has expired, been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="5d97c-104">У центрі адміністрування перейдіть на сторінку **виставлення рахунків** за \> **[продуктами](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="5d97c-104">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="e58e3-104">У Центрі адміністрування перейдіть на сторінку **Виставлення** \> [рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)</span><span class="sxs-lookup"><span data-stu-id="e58e3-104">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="e58e3-105">На вкладці **Продукти** знайдіть передплату, яку потрібно повторно активувати.</span><span class="sxs-lookup"><span data-stu-id="e58e3-105">On the **Products** tab, find the subscription that you want to reactivate.</span></span> <span data-ttu-id="e58e3-106">Виберіть три крапки (додаткові дії), а потім виберіть **Повторно активувати цю передплату**.</span><span class="sxs-lookup"><span data-stu-id="e58e3-106">Select the three dots (more actions), then select **Reactivate this subscription**.</span></span>
+    <span data-ttu-id="e58e3-107">Якщо параметр Повторно активувати цю **передплату** як доступну дію не відображається, зателефонуйте до служби підтримки.</span><span class="sxs-lookup"><span data-stu-id="e58e3-107">If you don't see **Reactivate this subscription** as an available action, call support.</span></span>
+3. <span data-ttu-id="e58e3-108">В області **Повторна активація цієї передплати** виберіть із розкривного списку метод оплати або клацніть Додати **метод оплати**.</span><span class="sxs-lookup"><span data-stu-id="e58e3-108">In the **Reactivate this subscription** pane, select a payment method from the drop-down list, or select **Add payment method**.</span></span>
+4. <span data-ttu-id="e58e3-109">Натисніть **кнопку Зберегти**.</span><span class="sxs-lookup"><span data-stu-id="e58e3-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="5d97c-105">Виберіть передплату, яку потрібно активувати повторно.</span><span class="sxs-lookup"><span data-stu-id="5d97c-105">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="5d97c-106">У розділі **Виставлення рахунків** виберіть пункт **Повторна активація**.</span><span class="sxs-lookup"><span data-stu-id="5d97c-106">In the **Billing** section, choose **Reactivate**.</span></span>
-
-    <span data-ttu-id="5d97c-107">Якщо дія **Повторна активація** недоступна, зателефонуйте до служби підтримки, щоб повторно активувати передплату.</span><span class="sxs-lookup"><span data-stu-id="5d97c-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
-
-3. <span data-ttu-id="5d97c-108">Підтвердьте відомості про оплату.</span><span class="sxs-lookup"><span data-stu-id="5d97c-108">Confirm your payment details.</span></span> <span data-ttu-id="5d97c-109">Тут можна оновити наявну інформацію про оплату.</span><span class="sxs-lookup"><span data-stu-id="5d97c-109">You can update your existing payment information here.</span></span> <span data-ttu-id="5d97c-110">Після завершення введення способу оплати натисніть кнопку **Повторна активація**.</span><span class="sxs-lookup"><span data-stu-id="5d97c-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
-
-<span data-ttu-id="5d97c-111">Докладні відомості див. в статті [Повторна активація передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="5d97c-111">To learn more, see [Reactivate your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
+<span data-ttu-id="e58e3-110">Докладні відомості див. в статті [Повторна активація передплати](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="e58e3-110">To learn more, see [Reactivate your subscription](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).</span></span>
