@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002532"
 - "5141"
-ms.openlocfilehash: 8d0ec82e602aff6558a08c4e5b7fb02e07167969
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 76e809d49925f842e69f0b0a17fcf1e62645e75f
+ms.sourcegitcommit: ded29f44e5019b1929218b02733b390899843680
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821135"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626098"
 ---
-# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a><span data-ttu-id="5db2c-102">Призначення безкоштовного номера для моста аудіоконференцій</span><span class="sxs-lookup"><span data-stu-id="5db2c-102">Assign a toll free number to your audio conferencing bridge</span></span>
+# <a name="assign-a-toll-free-number-to-your-audio-conferencing-bridge"></a><span data-ttu-id="0e877-102">Призначення безкоштовного номера для моста аудіоконференцій</span><span class="sxs-lookup"><span data-stu-id="0e877-102">Assign a toll free number to your audio conferencing bridge</span></span>
 
-<span data-ttu-id="5db2c-103">Щоб призначити безкоштовний номер для моста аудіоконференцій, зробіть ось що.</span><span class="sxs-lookup"><span data-stu-id="5db2c-103">To assign the new phone number to your audio conferencing bridge:</span></span>
+<span data-ttu-id="0e877-103">Щоб призначити безкоштовний номер для моста аудіоконференцій, зробіть ось що.</span><span class="sxs-lookup"><span data-stu-id="0e877-103">To assign the new phone number to your audio conferencing bridge:</span></span>
 
-1. <span data-ttu-id="5db2c-104">Увійдіть у службу Office 365 за допомогою робочого облікового запису.</span><span class="sxs-lookup"><span data-stu-id="5db2c-104">Sign in to Office 365 with your work account.</span></span>
-2. <span data-ttu-id="5db2c-105">Виберіть **Центр адміністрування Microsoft 365 > Центри адміністрування > Teams і Skype > Стара версія порталу > Голосовий зв’язок > Номери телефонів**.</span><span class="sxs-lookup"><span data-stu-id="5db2c-105">Go to **Microsoft 365 admin center > Admin centers > Teams & Skype > Legacy portal > Voice > Phone numbers**.</span></span>
-3. <span data-ttu-id="5db2c-106">Виберіть номер телефону в списку, а потім в області **Дія** клацніть **Призначити**.</span><span class="sxs-lookup"><span data-stu-id="5db2c-106">Select the phone number from the list, and in the **Action** pane, click **Assign**.</span></span>
-4. <span data-ttu-id="5db2c-107">На сторінці **Призначення** натисніть кнопку **Зберегти**.</span><span class="sxs-lookup"><span data-stu-id="5db2c-107">On the **Assign** page, click **Save**.</span></span>
+1. <span data-ttu-id="0e877-104">Перейдіть у Microsoft Teams адміністрування.</span><span class="sxs-lookup"><span data-stu-id="0e877-104">Go to the Microsoft Teams admin center.</span></span>
+1. <span data-ttu-id="0e877-105">В області переходів ліворуч перейдіть до пункту **Meetings**  >  **Conference bridges (Мости конференцій).**</span><span class="sxs-lookup"><span data-stu-id="0e877-105">In the left navigation pane, go to **Meetings** > **Conference bridges**.</span></span>
+1. <span data-ttu-id="0e877-106">Виділіть номер, який потрібно задати як номер за замовчуванням.</span><span class="sxs-lookup"><span data-stu-id="0e877-106">Highlight the service toll number that you want to configure as the default.</span></span>
+1. <span data-ttu-id="0e877-107">Натисніть кнопку **За замовчуванням**.</span><span class="sxs-lookup"><span data-stu-id="0e877-107">Select **Set as default**.</span></span>
 
-<span data-ttu-id="5db2c-108">Докладні відомості див. в статті [Змінення номерів телефонів для моста аудіоконференцій](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span><span class="sxs-lookup"><span data-stu-id="5db2c-108">For more information, see [Change the phone numbers on your Audio Conferencing bridge](https://docs.microsoft.com/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span></span>
+<span data-ttu-id="0e877-108">Докладні відомості див. в статті [Змінення номерів телефонів для моста аудіоконференцій](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span><span class="sxs-lookup"><span data-stu-id="0e877-108">For more information, see [Change the phone numbers on your Audio Conferencing bridge](/MicrosoftTeams/change-the-phone-numbers-on-your-audio-conferencing-bridge).</span></span>
