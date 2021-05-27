@@ -1,5 +1,5 @@
 ---
-title: Сховище SharePoint
+title: Керування сховищем SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 876b2fccc192de9ef9934932b874e57fbc8e4812
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96136c9d59ef43890a63db3a18157744bc08f9c
+ms.sourcegitcommit: d3a739b75d521837660ce151190a7e232e4eeadb
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773760"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52689879"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="0a5b8-102">Керування сховищем SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="0a5b8-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="1b88a-102">Керування сховищем SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="1b88a-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="0a5b8-103">Дізнайтеся [, як розраховується сховище](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) клієнта на основі вашого плану.</span><span class="sxs-lookup"><span data-stu-id="0a5b8-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="1b88a-103">Здебільшого налаштування сховища SharePoint організації налаштовано автоматично, тому встановлювати обмеження для потрібної колекції сайтів не потрібно.</span><span class="sxs-lookup"><span data-stu-id="1b88a-103">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span> <span data-ttu-id="1b88a-104">Докладні відомості про те, як обчислюється обсяг сховища клієнта на основі вашого плану, див. в статті Обмеження [за планом.](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan)</span><span class="sxs-lookup"><span data-stu-id="1b88a-104">For more information about how tenant storage is calculated based on your your plan, see [Limits by plan](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan).</span></span>
 
-<span data-ttu-id="0a5b8-104">Для більшості організацій сховище SharePoint керується автоматично, тому не потрібно встановлювати обмеження на колекцію сайтів.</span><span class="sxs-lookup"><span data-stu-id="0a5b8-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="1b88a-105">Докладні відомості:</span><span class="sxs-lookup"><span data-stu-id="1b88a-105">For more information, see:</span></span>
 
-<span data-ttu-id="0a5b8-105">Дізнайтеся, як [Переглянути загальний і доступний простір для зберігання для вашої організації](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="0a5b8-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+- [<span data-ttu-id="1b88a-106">Керування обмеженнями сховища сайту</span><span class="sxs-lookup"><span data-stu-id="1b88a-106">Manage site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits)
 
-<span data-ttu-id="0a5b8-106">Дізнайтеся, як [керувати окремими лімітами сховища колекції сайтів](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="0a5b8-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+- [<span data-ttu-id="1b88a-107">Керування обмеженнями сховища для окремих сайтів</span><span class="sxs-lookup"><span data-stu-id="1b88a-107">Manage individual site storage limits</span></span>](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits)
 
-<span data-ttu-id="0a5b8-107">Якщо ваш сайт не має простору або ви хочете дізнатися, яка бібліотека або список використовують простір, перейдіть до **Site Settings**  >  **показників сховища** параметрів сайту (потрібні дозволи адміністратора колекції сайтів).</span><span class="sxs-lookup"><span data-stu-id="0a5b8-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="1b88a-108">Якщо на сайті б вистачає місця або ви хочете дізнатися, яка бібліотека чи список має простір, перейдіть на сайт **Настройки** показники сховища (обов'язкові дозволи адміністратора колекції  >   сайтів).</span><span class="sxs-lookup"><span data-stu-id="1b88a-108">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="0a5b8-108">Дізнайтеся, як [відстежувати обмеження сховища сайтів за допомогою PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="0a5b8-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="1b88a-109">Докладні відомості:</span><span class="sxs-lookup"><span data-stu-id="1b88a-109">For more information, see:</span></span>
 
-<span data-ttu-id="0a5b8-109">Дізнайтеся, як [придбати додатковий обсяг сховища](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="0a5b8-109">Learn how to [buy extra storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space).</span></span> 
+- [<span data-ttu-id="1b88a-110">Відстеження граничного обсягу сховища сайту за допомогою PowerShell</span><span class="sxs-lookup"><span data-stu-id="1b88a-110">Monitor site storage limits by using PowerShell</span></span>](/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell)
+
+- [<span data-ttu-id="1b88a-111">Додавання простору для зберігання в передплаті</span><span class="sxs-lookup"><span data-stu-id="1b88a-111">Addd storage space for your subscription</span></span>](/microsoft-365/commerce/add-storage-space) 
   
