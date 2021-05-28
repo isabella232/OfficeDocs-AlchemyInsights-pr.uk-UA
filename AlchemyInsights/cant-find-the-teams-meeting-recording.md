@@ -1,5 +1,5 @@
 ---
-title: Не вдається відшукати запис наради команд
+title: Не вдається знайти запис Teams наради
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7963"
-ms.openlocfilehash: 62548fd9a09cf1835671dd051b1523027138ff47
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 24ebe3d619ce4d0043736ccbb63f7ca8d71ded74
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294379"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696957"
 ---
-# <a name="cant-find-the-teams-meeting-recording"></a><span data-ttu-id="b5d7b-102">Не вдається відшукати запис наради команд</span><span class="sxs-lookup"><span data-stu-id="b5d7b-102">Can't Find the Teams Meeting Recording</span></span>
+# <a name="cant-find-the-teams-meeting-recording"></a><span data-ttu-id="a1a10-102">Не вдається знайти запис Teams наради</span><span class="sxs-lookup"><span data-stu-id="a1a10-102">Can't find the Teams meeting recording</span></span>
 
-<span data-ttu-id="b5d7b-103">Якщо ви не можете знайти або знайти запис нарад групи, зверніться до таких документів про виправлення неполадок:</span><span class="sxs-lookup"><span data-stu-id="b5d7b-103">If you cannot locate or find a Teams Meeting Recording, refer to the following Troubleshooting documentation:</span></span>
+<span data-ttu-id="a1a10-103">Якщо не вдалося знайти або знайти записування Teams наради, спочатку запустіть засіб "Відсутня  діагностика записування наради", ввівши текст Діагностичне ім'я: Відсутнє записування в полі вище.</span><span class="sxs-lookup"><span data-stu-id="a1a10-103">If you can't locate or find a Teams meeting recording, first run the run the Missing Meeting Recording Diagnostic by typing **Diag: Missing Recording** in the box above.</span></span> 
 
-[<span data-ttu-id="b5d7b-104">Усунення проблем із записом для нарад у групах – команди Microsoft | Документи Microsoft</span><span class="sxs-lookup"><span data-stu-id="b5d7b-104">Troubleshoot Teams meeting recording issues - Microsoft Teams | Microsoft Docs</span></span>](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)
+<span data-ttu-id="a1a10-104">Записи можна знайти в Stream, OneDrive або SharePoint залежно від настройок клієнта та від того, чи було записано на нараду в каналі.</span><span class="sxs-lookup"><span data-stu-id="a1a10-104">Recordings are found in Stream, OneDrive, or SharePoint depending on how your tenant is configured and if the recording was for a Channel meeting.</span></span> <span data-ttu-id="a1a10-105">Указівки з пошуку запису наради вручну див. в статтях:</span><span class="sxs-lookup"><span data-stu-id="a1a10-105">For instructions on how to manually find the meeting recording, see:</span></span> 
 
-<span data-ttu-id="b5d7b-105">Запис наради буде розташовано в потоці, OneDrive або SharePoint залежно від того, як настроєно ваш клієнт.</span><span class="sxs-lookup"><span data-stu-id="b5d7b-105">Your Meeting Recording will either be located in Stream, OneDrive or SharePoint depending on how your tenant is configured.</span></span>
+[<span data-ttu-id="a1a10-106">Проблема 2. Посилання на запис наради не відображається у вікні чату</span><span class="sxs-lookup"><span data-stu-id="a1a10-106">Issue 2: The meeting recording link isn't visible in a chat window</span></span>](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)
 
-<span data-ttu-id="b5d7b-106">Щоб дізнатися, як знайти запис наради, ознайомтеся з такими вказівками:</span><span class="sxs-lookup"><span data-stu-id="b5d7b-106">For instructions on how to find the Meeting Recording, see:</span></span>
-
-<span data-ttu-id="b5d7b-107">**[Випуск 2: посилання на запис наради не відображається у вікні чату](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**</span><span class="sxs-lookup"><span data-stu-id="b5d7b-107">**[Issue 2: The meeting recording link isn't visible in a chat window](https://docs.microsoft.com/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues#issue-2-the-meeting-recording-link-isnt-visible-in-a-chat-window)**</span></span>
+<span data-ttu-id="a1a10-107">Докладні відомості див. в [відео Проблеми із записами нарад.](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues)</span><span class="sxs-lookup"><span data-stu-id="a1a10-107">For more information, see [Issues with meeting recordings](/microsoftteams/troubleshoot/meetings/troubleshoot-meeting-recording-issues).</span></span>

@@ -1,5 +1,5 @@
 ---
-title: записування викликів за 1:1
+title: 'Запис викликів: 1:1'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,26 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50733870"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696979"
 ---
-# <a name="11-call-recording"></a><span data-ttu-id="2a082-102">записування викликів за 1:1</span><span class="sxs-lookup"><span data-stu-id="2a082-102">1:1 call recording</span></span>
+# <a name="11-call-recording"></a><span data-ttu-id="83c5d-102">Запис викликів: 1:1</span><span class="sxs-lookup"><span data-stu-id="83c5d-102">1:1 call recording</span></span>
 
-<span data-ttu-id="2a082-103">Адміністраторам потрібно вжити заходів, щоб продовжити користувачам записувати виклики 1:1.</span><span class="sxs-lookup"><span data-stu-id="2a082-103">Administrators need to take action now to continue allowing users to Record 1:1 calls.</span></span>
- 
-<span data-ttu-id="2a082-104">Починаючи з 12 квітня 2021, ми почнемо застосування нової політики виклику команд *AllowCloudRecordingForCalls*.</span><span class="sxs-lookup"><span data-stu-id="2a082-104">Beginning April 12, 2021, we will start enforcing a new Teams Calling Policy option *AllowCloudRecordingForCalls*.</span></span> 
+<span data-ttu-id="83c5d-103">Якщо кнопка **Почати записування** неясна під час виклику о 1:1, потрібно змінити параметри політики для потрібного користувача.</span><span class="sxs-lookup"><span data-stu-id="83c5d-103">If the **Start Recording** button is grayed out in a 1:1 call, you need to change the policy settings for the impacted user.</span></span>   
 
-<span data-ttu-id="2a082-105">Наразі функції *AllowCloudRecording* для записування викликів під 1:1 час наради в групах.</span><span class="sxs-lookup"><span data-stu-id="2a082-105">Currently 1:1 call recording capabilities are controlled by the *AllowCloudRecording* option in Teams Meeting Policies.</span></span> <span data-ttu-id="2a082-106">Якщо користувачам дозволено записувати наради в групах, вони також можуть записувати виклики 1:1.</span><span class="sxs-lookup"><span data-stu-id="2a082-106">If your users are allowed to record Teams Meetings they can also record 1:1 calls.</span></span>
+<span data-ttu-id="83c5d-104">З 31 травня 202 Teams 1 року ми почнемо застосовувати нову політику викликів *AllowCloudRecordingForCalls.*</span><span class="sxs-lookup"><span data-stu-id="83c5d-104">Beginning May 31, 2021, we'll start enforcing a new Teams Calling Policy *AllowCloudRecordingForCalls*.</span></span> <span data-ttu-id="83c5d-105">До цієї зміни записування викликів о 1:1 контролюється політикою нарад *AllowCloudRecording Teams* нарад.</span><span class="sxs-lookup"><span data-stu-id="83c5d-105">Prior to this change, 1:1 call recording is controlled by the *AllowCloudRecording* Teams Meeting Policy.</span></span> <span data-ttu-id="83c5d-106">Ця зміна документується в дописі в Центрі повідомлень: [(Оновлено) 1:1 Вступ до політики записування викликів](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).</span><span class="sxs-lookup"><span data-stu-id="83c5d-106">This change is documented in the Message Center post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).</span></span>  
 
-<span data-ttu-id="2a082-107">Якщо ви віддаєте перевагу блокувати всіх користувачів від записування викликів 1:1, не потрібно виконувати жодних дій.</span><span class="sxs-lookup"><span data-stu-id="2a082-107">If you prefer to block all users from recording 1:1 calls, you do not need to take any action.</span></span> <span data-ttu-id="2a082-108">Параметр політики виклику *AllowCloudRecordingForCalls* буде $false за замовчуванням.</span><span class="sxs-lookup"><span data-stu-id="2a082-108">*AllowCloudRecordingForCalls* calling policy option will be $False by default.</span></span>
+<span data-ttu-id="83c5d-107">*AllowCloudRecordingForCalls*   Параметр "Політика викликів" установлено **$False** за замовчуванням.</span><span class="sxs-lookup"><span data-stu-id="83c5d-107">*AllowCloudRecordingForCalls* calling policy option is set to **$False** by default.</span></span> <span data-ttu-id="83c5d-108">Щоб заборонити всім користувачам записувати виклики "о 1:1", нічого робити не потрібно.</span><span class="sxs-lookup"><span data-stu-id="83c5d-108">If you prefer to block all users from recording 1:1 calls, you don't need to take any action.</span></span>  
 
-<span data-ttu-id="2a082-109">Ця зміна документована в наведеному нижче записі центру повідомлень: [(оновлено) 1:1 запис політики записування викликів](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) , щоб установити параметр політики викликів для команд, які потрібно використовувати як [PowerShell у групах](https://docs.microsoft.com/microsoftteams/teams-powershell-install).</span><span class="sxs-lookup"><span data-stu-id="2a082-109">This change is documented in the following Message Center Post: [(Updated) 1:1 Call recording policy introduction](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) To set the Teams Calling Policy Option you must use [Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-install).</span></span>
+<span data-ttu-id="83c5d-109">Щоб увімкнути записування викликів для всіх користувачів в обидві особи, виконайте цей командлет Teams PowerShell:</span><span class="sxs-lookup"><span data-stu-id="83c5d-109">To enable call recording for all users in 1:1 calls use Teams PowerShell to run the following cmdlet:</span></span> 
 
-<span data-ttu-id="2a082-110">**Увімкнення запису викликів у службі 1:1:** Set-CsTeamsCallingPolicy – глобальний AllowCloudRecordingForCalls $True</span><span class="sxs-lookup"><span data-stu-id="2a082-110">**To enable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True</span></span>
+<span data-ttu-id="83c5d-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span><span class="sxs-lookup"><span data-stu-id="83c5d-110">**Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True**</span></span> 
 
-<span data-ttu-id="2a082-111">**Щоб вимкнути записування викликів у службі 1:1, виконайте такі дії:** Set-CsTeamsCallingPolicy – глобальний AllowCloudRecordingForCalls $false</span><span class="sxs-lookup"><span data-stu-id="2a082-111">**To disable call recording in 1:1 calls:** Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $False</span></span>
+<span data-ttu-id="83c5d-111">Крім того, ви можете створити політику та вибрати **параметр -AllowCloudRecordingForCalls** $true призначити цю політику користувачам. </span><span class="sxs-lookup"><span data-stu-id="83c5d-111">Alternatively, you can create a new policy and set **-AllowCloudRecordingForCalls** to **$true** and assign that policy to your users.</span></span> 
 
+<span data-ttu-id="83c5d-112">Докладні відомості див. в дописі 1:1 Елементи керування політикою записування [викликів (майже!) Тут](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).</span><span class="sxs-lookup"><span data-stu-id="83c5d-112">For more information, see [1:1 Call Recording Policy Controls Are (Almost!) Here](https://techcommunity.microsoft.com/t5/microsoft-teams-support/1-1-call-recording-policy-controls-are-almost-here/ba-p/2217668).</span></span>
