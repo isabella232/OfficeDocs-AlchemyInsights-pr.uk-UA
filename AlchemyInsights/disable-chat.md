@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573767"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696907"
 ---
 # <a name="disable-chat"></a>Вимкнення чату
 
@@ -26,7 +26,7 @@ ms.locfileid: "52573767"
 
 - **Нарада.** У Teams адміністрування виберіть [](https://admin.teams.microsoft.com/) Політики нарад – параметр для чату Дозволити чат під час **нарад.** Докладні відомості про створення настроюваних політик нарад див. в розділі Керування політиками нарад у [Teams](/microsoftteams/meeting-policies-in-teams) [дозволяти чати під час нарад.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **Повідомлення M*.** У Центрі адміністрування Teams перейдіть до пункту Політики обміну повідомленнями [та](https://admin.teams.microsoft.com/)вимкніть або вимкніть **чат.**  Докладні відомості про настроювані політики обміну повідомленнями та про те, як призначати політики користувачам, див. в статті Керування політиками обміну повідомленнями [Teams](/microsoftteams/messaging-policies-in-teams).
+- **Повідомлення. У** Центрі адміністрування Teams перейдіть до пункту Політики обміну повідомленнями [та](https://admin.teams.microsoft.com/)вимкніть або вимкніть **чат.**  Докладні відомості про настроювані політики обміну повідомленнями та про те, як призначати політики користувачам, див. в статті Керування політиками обміну повідомленнями [Teams](/microsoftteams/messaging-policies-in-teams).
 
 - **Студенти.** Щоб вимкнути чат для учня, див. параметри дозволу на спілкування в чаті під час нарад і можливість спілкування в цілодобовому чаті в Teams пакетах політик і політик для навчальних [закладів.](/microsoftteams/policy-packages-edu)
 
