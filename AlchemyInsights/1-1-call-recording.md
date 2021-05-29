@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: 18c68fee514681b2a81c3cfa022c29ce83834f22
-ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.openlocfilehash: 8cdadf34a059856338d7f40528446b70373465e4
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
 ms.translationtype: MT
 ms.contentlocale: uk-UA
 ms.lasthandoff: 05/28/2021
-ms.locfileid: "52696979"
+ms.locfileid: "52702111"
 ---
 # <a name="11-call-recording"></a>Запис викликів: 1:1
 
-Якщо кнопка **Почати записування** неясна під час виклику о 1:1, потрібно змінити параметри політики для потрібного користувача.   
+Якщо кнопка **Почати записування** неясна під час виклику о 1:1, потрібно змінити параметри політики для потрібного користувача. Щоб перевірити параметр політики, запустіть діагностичну для цього користувача, ввівши вище **параметр Diag: Teams 1:1 Call Recording** (Записування викликів).     
 
 З 31 травня 202 Teams 1 року ми почнемо застосовувати нову політику викликів *AllowCloudRecordingForCalls.* До цієї зміни записування викликів о 1:1 контролюється політикою нарад *AllowCloudRecording Teams* нарад. Ця зміна документується в дописі в Центрі повідомлень: [(Оновлено) 1:1 Вступ до політики записування викликів](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796).  
 
 *AllowCloudRecordingForCalls*   Параметр "Політика викликів" установлено **$False** за замовчуванням. Щоб заборонити всім користувачам записувати виклики "о 1:1", нічого робити не потрібно.  
 
-Щоб увімкнути записування викликів для всіх користувачів в обидві особи, виконайте цей командлет Teams PowerShell: 
+Щоб увімкнути записування викликів для всіх користувачів в цілодобовому оболонці [Teams PowerShell](/microsoftteams/teams-powershell-install) виконати такий командлет: 
 
 **Set-CsTeamsCallingPolicy -Identity Global -AllowCloudRecordingForCalls $True** 
 
