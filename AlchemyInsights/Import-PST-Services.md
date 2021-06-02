@@ -14,27 +14,28 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
+ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470294"
+ms.lasthandoff: 06/02/2021
+ms.locfileid: "52721657"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="5464b-102">Microsoft 365 Служба імпорту</span><span class="sxs-lookup"><span data-stu-id="5464b-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="1a943-102">Microsoft 365 Служба імпорту</span><span class="sxs-lookup"><span data-stu-id="1a943-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="5464b-103">Служба Microsoft 365 імпорту дає змогу групово імпортувати кілька PST-файлів у поштові скриньки Exchange Online поштових скриньок.</span><span class="sxs-lookup"><span data-stu-id="5464b-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="1a943-103">Щоб отримати доступ до служби імпорту та запустити процес імпорту:</span><span class="sxs-lookup"><span data-stu-id="1a943-103">To access the Import service and start the import process:</span></span>
 
-<span data-ttu-id="5464b-104">Щоб отримати доступ до служби імпорту та запустити процес імпорту:</span><span class="sxs-lookup"><span data-stu-id="5464b-104">To access the Import service and start the import process:</span></span>
+1. <span data-ttu-id="1a943-104">Перейдіть до Центру [відповідності M365](https://compliance.microsoft.com/)і ввійдіть за допомогою облікових даних облікового запису адміністратора в організації.</span><span class="sxs-lookup"><span data-stu-id="1a943-104">Go to the [M365 Compliance Center](https://compliance.microsoft.com/), and sign in using the credentials for an administrator account in your organization.</span></span>
 
-1. <span data-ttu-id="5464b-105">Перейдіть до Центру [безпеки & відповідності та](https://protection.office.com) ввійдіть за допомогою облікових даних облікового запису адміністратора в організації.</span><span class="sxs-lookup"><span data-stu-id="5464b-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="1a943-105">В області ліворуч у Центрі відповідності M365 у розділі **Рішення** виберіть **Імпорт відомостей.**  >  </span><span class="sxs-lookup"><span data-stu-id="1a943-105">In the left pane of the M365 Compliance Center under **Solutions**, select **Information governance** > **Import**.</span></span>
 
-2. <span data-ttu-id="5464b-106">У лівій області Центру **безпеки & відповідності** виберіть елемент **Керування відомостями > імпорт.**</span><span class="sxs-lookup"><span data-stu-id="5464b-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
+1. <span data-ttu-id="1a943-106">На сторінці **Імпорт** виберіть Нове **завдання імпорту**.</span><span class="sxs-lookup"><span data-stu-id="1a943-106">On the **Import** page, select **New import job**.</span></span>
 
-3. <span data-ttu-id="5464b-107">На сторінці **Імпорт** натисніть кнопку **Створити завдання імпорту.**</span><span class="sxs-lookup"><span data-stu-id="5464b-107">On the **Import** page, click **New import job**.</span></span>
+1. <span data-ttu-id="1a943-107">Щоб виконати дії, описані в майстрі, див. хід використання мережевого передавання для імпорту [PST-файлів організації Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span><span class="sxs-lookup"><span data-stu-id="1a943-107">To complete the steps in the wizard, see [Use network upload to import your organization's PST files to Microsoft 365](/compliance/use-network-upload-to-import-pst-files).</span></span>
 
-4. <span data-ttu-id="5464b-108">Щоб виконати кроки майстра, виконайте ці [покрокові вказівки.](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md)</span><span class="sxs-lookup"><span data-stu-id="5464b-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
+<span data-ttu-id="1a943-108">Щоб отримати доступ **до сторінки** Імпорт, переконайтеся, що вам призначено відповідні дозволи.</span><span class="sxs-lookup"><span data-stu-id="1a943-108">To access the **Import** page, make sure you have been assigned the appropriate permissions.</span></span> <span data-ttu-id="1a943-109">Докладні відомості див. в [статтях Використання передавання pst-файлів через мережу.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)</span><span class="sxs-lookup"><span data-stu-id="1a943-109">For more info, see [Using network upload to import PST files](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).</span></span>
 
-<span data-ttu-id="5464b-109">**Увага!** Щоб отримати **доступ до** сторінки "Імпорт" & Центрі безпеки та відповідності, ви маєте [відповідні дозволи.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="5464b-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
+<span data-ttu-id="1a943-110">Відомості про імпорт PST-файлу до поштової скриньки див. в розділі Імпорт електронної пошти, контактів і календаря з [Outlook файлу PST.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="1a943-110">If you want to import a PST to your mailbox, see [Import email, contacts, and calendar from an Outlook .pst file](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
 
-<span data-ttu-id="5464b-110">Якщо ви просто хочете імпортувати PST-файл до поштової скриньки, див. [цю статтю.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)</span><span class="sxs-lookup"><span data-stu-id="5464b-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="1a943-111">Якщо у вас виникла проблема з імпортом, див. тек указівки з [імпорту PST-файлів.](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)</span><span class="sxs-lookup"><span data-stu-id="1a943-111">If you're having a problem with an import, see [Issues that affect PST import jobs](/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).</span></span>
+
