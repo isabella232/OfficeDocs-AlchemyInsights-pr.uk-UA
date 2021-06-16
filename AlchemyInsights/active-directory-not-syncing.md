@@ -11,22 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001688"
+- "1300023"
 - "3754"
-ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+- "4531"
+ms.openlocfilehash: 0da512379e5a2f6ccb773e18c465e545c0660560
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822872"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52930996"
 ---
 # <a name="active-directory-not-syncing"></a>Служба Active Directory не синхронізується
 
-Якщо ви отримуєте помилки синхронізації, наприклад "нещодавня синхронізація" або помітили стан синхронізації служби каталогів на порталі адміністрування Office, промовляється "Востаннє синхронізовано більше трьох днів тому", можливо, AADConnect має неправильні параметри або недостатньо дозволів на синхронізацію.  
+Якщо ви отримуєте помилки синхронізації, наприклад "нещодавня синхронізація" або помітили стан синхронізації служби каталогів на порталі адміністрування Office промовить фраза "Востаннє синхронізовано більше трьох днів тому", можливо, AADConnect має неправильні параметри або недостатньо дозволів на синхронізацію.  
 
 Якщо повторно інсталювати AADConnect за допомогою швидких настройок, проблему можна швидко вирішити.
 
 1. [Завантажте найновішу версію AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Дотримуйтеся вказівок щодо швидкого інсталяції](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Дотримуйтеся вказівок щодо швидкого інсталяції](/azure/active-directory/hybrid/how-to-connect-install-express).
 
-Докладні відомості про облікові записи служб AADConnect див. в розділі [Azure AD Connect: облікові записи та дозволи.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
+У Windows Server 2012 або пізніших версіях має бути інстальовано Azure AD Connect. Цей сервер має бути підключений до домену та може бути контролером домену або сервером-учасником. Повний список вимог і попередніх Підключення Azure AD див. в передумови [для Azure AD Підключення](/azure/active-directory/hybrid/how-to-connect-install-prerequisites).
+
+Докладні відомості про облікові записи служб AADConnect див. в розділі [Azure AD Підключення: облікові записи та дозволи.](/azure/active-directory/hybrid/reference-connect-accounts-permissions)
