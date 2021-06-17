@@ -1,5 +1,5 @@
 ---
-title: Використання Microsoft Inune для керування веб-доступом в Microsoft EDGE для iOS і Android
+title: Керування веб-доступом у Microsoft Edge для iOS і Android за допомогою Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679612"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989728"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Використання Microsoft Inune для керування веб-доступом в Microsoft EDGE для iOS і Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Керування веб-доступом у Microsoft Edge для iOS і Android за допомогою Microsoft Intune
 
-Microsoft EDGE для iOS і Android дає змогу користувачам переглядати веб-сторінки з кількох повністю окремих профілів.
+Microsoft Edge для iOS і Android дає користувачу змогу переглядати веб-сторінки з кількох окремих профілів.
 
-Максимально доступні можливості захисту даних Microsoft 365 стають доступними, коли ви підписуєтеся на корпоративну мобільність + Security Suite, що включає в себе функції Microsoft InTune та Azure Active Directory, як-от умовний доступ. Принаймні, ви захочете розгорнути політику умовного доступу, яка (1) дає змогу користувачам підключатися від мобільних пристроїв до Microsoft EDGE для iOS і Android і (2) впроваджує політику захисту від Microsoft Inune, яка забезпечує захищений режим перегляду.
+Найширші можливості захисту даних Microsoft 365 стають доступними, коли ви передплатили пакет Enterprise Mobility + Security, до якого входять Microsoft Intune і Azure Active Directory Premium, як-от умовний доступ. Принаймні потрібно розгорнути політику умовного доступу, яка (1) дає змогу користувачам підключатися з мобільних пристроїв до Microsoft Edge для iOS і Android і що (2) впроваджує політику захисту програм Microsoft Intune, яка забезпечує захищений перегляд веб-сторінок.
 
-Щоб зрозуміти, як можна використовувати умовний доступ і політики, див.:
+Щоб зрозуміти, як можна використовувати умовний доступ і політики, див. статті:
 
-[Використання політик умовного доступу для служби Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Застосування політик умовного доступу Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Створення політик захисту програми Microsoft Inune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Створення політик захисту програм Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Використовувати єдиний вхід для Azure Active Directory – підключені веб-програми в браузері, захищених політикою](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Використання єдиного входу для веб-програм, підключених до Azure Active Directory, у браузерах, захищених політикою](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[Використання конфігурації програми для керування досвідом перегляду](https://go.microsoft.com/fwlink/?linkid=2132483)
+[Використовуйте конфігурацію програми для керування переглядом](https://go.microsoft.com/fwlink/?linkid=2132483)
 
-[Надання дозволу на використання лише робочих і навчальних облікових записів](https://go.microsoft.com/fwlink/?linkid=2132652)
+[Дозволити використання лише робочих і навчальних облікових записів](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Розгортання політик настроювання загальних програм](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Розгортання загальних політик конфігурації програм](https://go.microsoft.com/fwlink/?linkid=2132653)
 
 [Розгортання політик конфігурації програм для захисту даних](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Використання диспетчера кінцевих точок Microsoft для розгортання політик конфігурації програм](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Розгортання політик конфігурації програми за допомогою Microsoft Endpoint Manager](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Щоб дізнатися, як отримати доступ до журналів керованих програм, перегляньте статтю [використання Microsoft EDGE для IOS і Android, щоб отримати доступ до журналів керованих програм](https://go.microsoft.com/fwlink/?linkid=2132578).
+Відомості про те, як отримати доступ до журналів керованих програм, див. в статті Доступ до журналів керованих програм за допомогою Microsoft Edge для [iOS і Android.](https://go.microsoft.com/fwlink/?linkid=2132578)

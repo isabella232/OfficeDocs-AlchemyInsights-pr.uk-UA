@@ -1,5 +1,5 @@
 ---
-title: Перегляд стану Керування програмами Microsoft за допомогою Microsoft EDGE для пристроїв з iOS або Android
+title: Перегляд стану керування програмами Microsoft за допомогою програми Microsoft Edge для пристроїв з iOS або Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -12,18 +12,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003896"
+- "9006502"
 - "6950"
-ms.openlocfilehash: e670981d2cb9a918ad33cc9e6ce15663c112df1d
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+- "11143"
+ms.openlocfilehash: 321dac91dfbfea560b6b488b003940518637e642
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679204"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989918"
 ---
-# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Перегляд стану Керування програмами Microsoft за допомогою Microsoft EDGE для пристроїв з iOS або Android
+# <a name="view-the-management-status-of-microsoft-apps-by-using-microsoft-edge-for-ios-or-android-devices"></a>Перегляд стану керування програмами Microsoft за допомогою програми Microsoft Edge для пристроїв з iOS або Android
 
-Щоб отримати доступ до журналів застосунків для виправлення неполадок із керованими програмами для iOS або Android, відкрийте Microsoft EDGE і введіть **about: intunehelp** в полі Адреса. Програма Microsoft EDGE запускає у режимі виправлення неполадок.
+Щоб отримати доступ до журналів програм для виправлення неполадок із програмами iOS або Android, відкрийте програму Microsoft Edge введіть **about:intunehelp** у полі адреси. Microsoft Edge в режимі виправлення неполадок.
 
-Список параметрів, які містяться в журналах програми, наведено в статті [Перегляд журналів захисту застосунків клієнта](https://docs.microsoft.com/mem/intune/apps/app-protection-policy-settings-log).
+Список параметрів, які зберігаються в журналах програм, див. в розділі Перегляд [журналів захисту клієнтської програми.](/mem/intune/apps/app-protection-policy-settings-log)
 
-Щоб дізнатися, як переглянути журнали програм на пристроях з Android, перегляньте статтю [передавання та журнали електронної пошти](https://docs.microsoft.com/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android).
+Щоб дізнатися, як переглядати журнали програм на пристроях з Android, [див. Upload журнали електронної пошти та журнали електронної пошти.](/mem/intune/user-help/send-logs-to-your-it-admin-by-email-android)
