@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721657"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023124"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Служба імпорту
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721657"
 
 1. В області ліворуч у Центрі відповідності M365 у розділі **Рішення** виберіть **Імпорт відомостей.**  >  
 
-1. На сторінці **Імпорт** виберіть Нове **завдання імпорту**.
+1. На сторінці **Імпорт** виберіть Нове **завдання імпорту**. Введіть назву завдання та натисніть кнопку **Далі**.
 
-1. Щоб виконати дії, описані в майстрі, див. хід використання мережевого передавання для імпорту [PST-файлів організації Microsoft 365](/compliance/use-network-upload-to-import-pst-files).
+1. Виберіть **Upload, щоб скористатися** параметром передавання в мережі для параметра **Імпортувати завдання .** Докладні інструкції див. в статті Використання передавання через мережу для [імпорту PST-файлів організації Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
 Щоб отримати доступ **до сторінки** Імпорт, переконайтеся, що вам призначено відповідні дозволи. Докладні відомості див. в [статтях Використання передавання pst-файлів через мережу.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 
