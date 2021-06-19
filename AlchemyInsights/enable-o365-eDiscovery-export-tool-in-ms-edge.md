@@ -1,5 +1,5 @@
 ---
-title: Увімкнення засобу експорту Office 365 eDiscovery у Microsoft EDGE
+title: Увімкнення Office 365 експорту витребування електронної Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583674"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023196"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a><span data-ttu-id="0d338-102">Увімкнення засобу експорту Office 365 eDiscovery у Microsoft EDGE</span><span class="sxs-lookup"><span data-stu-id="0d338-102">Enable Office 365 eDiscovery Export Tool in Microsoft Edge</span></span>
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a><span data-ttu-id="a0924-102">Увімкнення Office 365 експорту витребування електронної Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="a0924-102">Enable Office 365 eDiscovery Export Tool in Microsoft Edge</span></span>
 
-<span data-ttu-id="0d338-103">Підтримка ClickOnce більше не активується в Microsoft EDGE за замовчуванням.</span><span class="sxs-lookup"><span data-stu-id="0d338-103">Support for ClickOnce is no longer enabled in Microsoft Edge by default.</span></span> <span data-ttu-id="0d338-104">Щоб продовжити використовувати засіб експорту Microsoft Office 365, потрібно використовувати Microsoft Internet Explorer або ввімкнути параметр ClickOnce на основі хрому Microsoft EDGE, виконавши наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="0d338-104">To continue using the Microsoft Office 365 eDiscovery Export Tool, you'll need to use Microsoft Internet Explorer or enable the ClickOnce Support option in Chromium-based Microsoft Edge, as follows:</span></span>
+<span data-ttu-id="a0924-103">Підтримка технологія ClickOnce більше не підтримується в Microsoft Edge за замовчуванням.</span><span class="sxs-lookup"><span data-stu-id="a0924-103">Support for ClickOnce is no longer enabled in Microsoft Edge by default.</span></span> <span data-ttu-id="a0924-104">Щоб і надалі використовувати засіб експорту Microsoft Office 365 витребування електронної Microsoft Edge, скористайтеся браузером Microsoft Internet Explorer або ввімкніть параметр підтримки технологія ClickOnce у Chromium на Microsoft Edge, як показано нижче.</span><span class="sxs-lookup"><span data-stu-id="a0924-104">To continue using the Microsoft Office 365 eDiscovery Export Tool, you'll need to use Microsoft Internet Explorer or enable the ClickOnce Support option in Chromium-based Microsoft Edge, as follows:</span></span>
 
-1. <span data-ttu-id="0d338-105">Перейдіть на сторінку edge://flags/#edge-Click-Once (один раз).</span><span class="sxs-lookup"><span data-stu-id="0d338-105">Go to edge://flags/#edge-click-once.</span></span>
-1. <span data-ttu-id="0d338-106">Щоб **активувати** функцію **ClickOnce** , змініть значення зі списку **за замовчуванням** або **вимкнуто** .</span><span class="sxs-lookup"><span data-stu-id="0d338-106">For the **ClickOnce Support** option, change the value from **Default** or **Disabled** to **Enabled**.</span></span>
-1. <span data-ttu-id="0d338-107">У нижній частині вікна браузера натисніть кнопку **перезапустити**.</span><span class="sxs-lookup"><span data-stu-id="0d338-107">At the bottom of the browser window, click **Restart**.</span></span> <span data-ttu-id="0d338-108">Зміни буде застосовано після перезапуску Microsoft EDGE.</span><span class="sxs-lookup"><span data-stu-id="0d338-108">The change will take effect after you restart Microsoft Edge.</span></span>
+1. <span data-ttu-id="a0924-105">Перейдіть до edge://flags/#edge-click-once.</span><span class="sxs-lookup"><span data-stu-id="a0924-105">Go to edge://flags/#edge-click-once.</span></span>
+1. <span data-ttu-id="a0924-106">Для **параметра технологія ClickOnce Підтримки змініть**  значення зі стандартного або Вимкнуто **на** Увімкнуто. </span><span class="sxs-lookup"><span data-stu-id="a0924-106">For the **ClickOnce Support** option, change the value from **Default** or **Disabled** to **Enabled**.</span></span>
+1. <span data-ttu-id="a0924-107">У нижній частині вікна браузера натисніть кнопку **Перезапустити.**</span><span class="sxs-lookup"><span data-stu-id="a0924-107">At the bottom of the browser window, click **Restart**.</span></span> <span data-ttu-id="a0924-108">Зміни наберуть сили після перезапуску Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="a0924-108">The change will take effect after you restart Microsoft Edge.</span></span>
 
-<span data-ttu-id="0d338-109">Докладні відомості наведено в статті [використання засобу експорту Office 365 eDiscovery у Microsoft EDGE](https://go.microsoft.com/fwlink/?linkid=2111611).</span><span class="sxs-lookup"><span data-stu-id="0d338-109">To learn more, see [Use the Office 365 eDiscovery Export Tool in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span></span>
+<span data-ttu-id="a0924-109">Докладні відомості див. в Office 365 засобу експорту витребування [електронної Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)</span><span class="sxs-lookup"><span data-stu-id="a0924-109">To learn more, see [Use the Office 365 eDiscovery Export Tool in Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).</span></span>
