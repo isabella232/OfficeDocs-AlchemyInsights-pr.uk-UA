@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809676"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53118004"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Налаштування багатофункціонального пристрою або програми на надсилання електронної пошти
 
-Відомості про доступні можливості та вказівки див. в статті [Налаштування надсилання повідомлень електронної пошти на багатофункціональному пристрої або в програмі за допомогою Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Відомості про доступні можливості та вказівки див. в статті [Налаштування надсилання повідомлень електронної пошти на багатофункціональному пристрої або в програмі за допомогою Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
-**Примітка.** Якщо ви маєте пристрій або програму, які нещодавно перестали працювати, майте на увазі, що останнім часом ми почали [планове вимкнення шифрування 3DES](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption). Щоб побачити вражені пристрої, перейдіть до [Звіту клієнтів з автентифікації SMTP](https://protection.office.com/mailflow/dashboard). Серед типових помилок можуть бути: помилка автентифікації, помилка TLS, помилка алгоритму шифрування, невідповідність алгоритму або розрив підключення. Вирішення проблеми:
+Якщо у вас пристрій або програма, які нещодавно припинили роботу, найпоширеніші з них:
 
- - **Windows Server 2003 IIS SMTP більше не підтримується – потрібна новіша версія операційної системи.**  
- - З'ясуйте у постачальника вашої програми або пристрою, чи підтримується сучасне шифрування або чи є оновлення.
+- **Помилки, пов'язані з автентифікацією під** час використання надсилання через клієнт SMTP Auth Нещодавно ми внесли деякі зміни, пов'язані з автентифікацією SMTP. Докладні відомості про вирішення проблем див. в розділі Невдала автентифікація у статті Вирішення проблем із принтерами, сканерами та бізнес-програмами, які надсилують повідомлення електронної пошти за допомогою [Microsoft 365 або Office 365.](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)
+- **Ми приймаємо лише версію TLS 1.2, роблячи безпечне** підключення Office 365 Якщо використовується безпечне підключення (TLS), переконайтеся, що ваш пристрій програми підтримує протокол TLS 1.2. Докладні відомості див. в Office 365 та [Office 365 GCC TLS 1.2.](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
+ 
+Інші проблеми та вирішення див. в розділі Вирішення проблем із принтерами, сканерами та бізнес-програмами, які надсилайте електронні листи за [допомогою Microsoft 365 або Office 365.](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)
+
+Щоб побачити вражені пристрої, перейдіть до [Звіту клієнтів з автентифікації SMTP](https://protection.office.com/mailflow/dashboard).
+
+**Примітка.** Exchange Online сценарії групової розсилки не можна. Щоб надіслати групову комерційну електронну пошту (наприклад, бюлетень клієнтів), використовуйте сторонніх постачальників, які спеціалізуються на цих службах.
