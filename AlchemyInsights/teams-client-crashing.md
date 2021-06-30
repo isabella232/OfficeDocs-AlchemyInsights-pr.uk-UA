@@ -1,5 +1,5 @@
 ---
-title: Клієнт Teams аварійно завершує роботу?
+title: Teams аварійне завершення роботи клієнта
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826292"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187742"
 ---
-# <a name="teams-client-crashing"></a>Клієнт Teams аварійно завершує роботу?
+# <a name="teams-client-crashing"></a>Teams аварійне завершення роботи клієнта
 
 Якщо клієнт Teams аварійно завершує роботу, виконайте наведені нижче дії.
 
 - Якщо ви використовуєте класичну версію програми Teams, [переконайтеся, що її повністю оновлено](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Переконайтеся, що всі URL-адреси та діапазони адрес [Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) доступні.
+- Переконайтеся, що [всі Microsoft 365 URL-адреси та діапазони](/microsoftteams/connectivity-issues) адрес доступні.
 
-- Увійдіть під обліковим записом адміністратора клієнта та перевірте приладну дошку справності служби, щоб переконатися, що немає перебоїв або погіршення якості служби. [](https://docs.microsoft.com/office365/enterprise/view-service-health)
+- Увійдіть під обліковим записом адміністратора клієнта та перевірте приладну дошку справності служби, щоб переконатися, що немає перебоїв або погіршення якості служби. [](/office365/enterprise/view-service-health)
 
-- Видалення та повторна установка програми Teams (посилання)
-    - Перейдіть до папки %appdata%\Microsoft\teams\ на комп'ютері та видаліть усі файли з цього каталогу.
-    - [Завантажте](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)та інсталюйте Програму Teams і, якщо це можливо, інсталюйте Teams як адміністратор (клацніть правою кнопкою миші інсталятор Teams і виберіть "Запустити із правами адміністратора", якщо вона доступна).
+- Видалення та повторна Teams програми
+    - Перейдіть до папки %appdata%\Microsoft\Teams\ на комп'ютері та видаліть усі файли з цього каталогу.
+    - [Завантажте та інсталюйте програму Teams](https://www.microsoft.com/microsoft-teams/download-app)і, за можливості, інсталюйте Teams як адміністратор (клацніть правою кнопкою миші інсталятор Teams і виберіть команду Запустити із правами адміністратора, якщо він доступний). 
 
-Чи можна відтворити проблему, якщо клієнт Teams аварійно завершує роботу? Якщо так:
+Якщо клієнт Teams аварійно завершує роботу, спробуйте відтворити проблему. У такому разі ви зможете:
 
 1. Щоб записати кроки, скористайтеся записуванням дій.
     - Закрийте всі непотрібні або конфіденційні програми.
     - Запустіть записувач кроків і відтворіть цю проблему під час входу за допомогою відповідного облікового запису користувача.
-    - [Зберіть журнали команд, у яких записано кроки повторного відтворення.](https://docs.microsoft.com/microsoftteams/log-files) **Примітка.** Обов'язково запишіть адресу для входу потрібного користувача.
-    - Зберіть дамп і/або відомості про блоки помилок (Windows). Запустіть Windows PowerShell на комп'ютері, де відбувається аварійне завершення роботи, і виконайте такі команди:
+    - [Зберіть журнали команд, у яких записано кроки повторного відтворення.](/microsoftteams/log-files) **Примітка.** Обов'язково запишіть адресу для входу потрібного користувача.
+    - Зберіть дамп і/або відомості про блок Windows. Запустіть Windows powershell на комп'ютері, де відбувається аварійне завершення роботи, і виконайте наведені нижче команди (після кожної команди натисніть клавішу Enter):
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    `cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`
+    `notepad .\FaultBuckets.txt`
     
-2. Вкладіть файл у свій інцидент служби підтримки.
+2. Створиться текстовий файл, який з'явиться на екрані, збережіть файл і вкладіть його в запит на обслуговування. 
