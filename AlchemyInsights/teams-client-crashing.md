@@ -1,5 +1,5 @@
 ---
-title: Клієнт Teams аварійно завершує роботу?
+title: Teams аварійне завершення роботи клієнта
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,39 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: 20f03b075787cab85ab15d5272c0416b88ebbaee
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7acb2f5f87a9cfbd67cd94efca696665fd80fc4a
+ms.sourcegitcommit: 3cdfde87b7311c200431196031af92c640fd0d8d
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826292"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53187742"
 ---
-# <a name="teams-client-crashing"></a><span data-ttu-id="69e3c-102">Клієнт Teams аварійно завершує роботу?</span><span class="sxs-lookup"><span data-stu-id="69e3c-102">Teams client crashing?</span></span>
+# <a name="teams-client-crashing"></a><span data-ttu-id="ffe7b-102">Teams аварійне завершення роботи клієнта</span><span class="sxs-lookup"><span data-stu-id="ffe7b-102">Teams client crashing</span></span>
 
-<span data-ttu-id="69e3c-103">Якщо клієнт Teams аварійно завершує роботу, виконайте наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="69e3c-103">If your Teams client is crashing, try the following:</span></span>
+<span data-ttu-id="ffe7b-103">Якщо клієнт Teams аварійно завершує роботу, виконайте наведені нижче дії.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-103">If your Teams client is crashing, try the following:</span></span>
 
-- <span data-ttu-id="69e3c-104">Якщо ви використовуєте класичну версію програми Teams, [переконайтеся, що її повністю оновлено](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span><span class="sxs-lookup"><span data-stu-id="69e3c-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
+- <span data-ttu-id="ffe7b-104">Якщо ви використовуєте класичну версію програми Teams, [переконайтеся, що її повністю оновлено](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span><span class="sxs-lookup"><span data-stu-id="ffe7b-104">If you are using the Teams desktop app, [make sure the app is fully updated](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).</span></span>
 
-- <span data-ttu-id="69e3c-105">Переконайтеся, що всі URL-адреси та діапазони адрес [Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) доступні.</span><span class="sxs-lookup"><span data-stu-id="69e3c-105">Make sure all the [Microsoft 365 URLs and address ranges](https://docs.microsoft.com/microsoftteams/connectivity-issues) are accessible.</span></span>
+- <span data-ttu-id="ffe7b-105">Переконайтеся, що [всі Microsoft 365 URL-адреси та діапазони](/microsoftteams/connectivity-issues) адрес доступні.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-105">Make sure all the [Microsoft 365 URLs and address ranges](/microsoftteams/connectivity-issues) are accessible.</span></span>
 
-- <span data-ttu-id="69e3c-106">Увійдіть під обліковим записом адміністратора клієнта та перевірте приладну дошку справності служби, щоб переконатися, що немає перебоїв або погіршення якості служби. [](https://docs.microsoft.com/office365/enterprise/view-service-health)</span><span class="sxs-lookup"><span data-stu-id="69e3c-106">Log in with your tenant admin account and check your [Service Health Dashboard](https://docs.microsoft.com/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
+- <span data-ttu-id="ffe7b-106">Увійдіть під обліковим записом адміністратора клієнта та перевірте приладну дошку справності служби, щоб переконатися, що немає перебоїв або погіршення якості служби. [](/office365/enterprise/view-service-health)</span><span class="sxs-lookup"><span data-stu-id="ffe7b-106">Log in with your tenant admin account and check your [Service Health Dashboard](/office365/enterprise/view-service-health) to verify that no outage or service degradation exists.</span></span>
 
-- <span data-ttu-id="69e3c-107">Видалення та повторна установка програми Teams (посилання)</span><span class="sxs-lookup"><span data-stu-id="69e3c-107">Uninstall and reinstall the Teams Application (link)</span></span>
-    - <span data-ttu-id="69e3c-108">Перейдіть до папки %appdata%\Microsoft\teams\ на комп'ютері та видаліть усі файли з цього каталогу.</span><span class="sxs-lookup"><span data-stu-id="69e3c-108">Browse to the %appdata%\Microsoft\teams\ folder on your computer and delete all files in that directory.</span></span>
-    - <span data-ttu-id="69e3c-109">[Завантажте](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)та інсталюйте Програму Teams і, якщо це можливо, інсталюйте Teams як адміністратор (клацніть правою кнопкою миші інсталятор Teams і виберіть "Запустити із правами адміністратора", якщо вона доступна).</span><span class="sxs-lookup"><span data-stu-id="69e3c-109">[Download and install the Teams App](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy), and if possible, install Teams as an administrator (right click the Teams installer and select "Run as administrator" if available).</span></span>
+- <span data-ttu-id="ffe7b-107">Видалення та повторна Teams програми</span><span class="sxs-lookup"><span data-stu-id="ffe7b-107">Uninstall and reinstall the Teams Application</span></span>
+    - <span data-ttu-id="ffe7b-108">Перейдіть до папки %appdata%\Microsoft\Teams\ на комп'ютері та видаліть усі файли з цього каталогу.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-108">Browse to the %appdata%\Microsoft\Teams\ folder on your computer and delete all files in that directory.</span></span>
+    - <span data-ttu-id="ffe7b-109">[Завантажте та інсталюйте програму Teams](https://www.microsoft.com/microsoft-teams/download-app)і, за можливості, інсталюйте Teams як адміністратор (клацніть правою кнопкою миші інсталятор Teams і виберіть команду Запустити із правами адміністратора, якщо він доступний). </span><span class="sxs-lookup"><span data-stu-id="ffe7b-109">[Download and install the Teams App](https://www.microsoft.com/microsoft-teams/download-app), and if possible, install Teams as an administrator (right-click the Teams installer, and select **Run as administrator** if available).</span></span>
 
-<span data-ttu-id="69e3c-110">Чи можна відтворити проблему, якщо клієнт Teams аварійно завершує роботу?</span><span class="sxs-lookup"><span data-stu-id="69e3c-110">If your Teams client is still crashing, can you reproduce the issue?</span></span> <span data-ttu-id="69e3c-111">Якщо так:</span><span class="sxs-lookup"><span data-stu-id="69e3c-111">If so:</span></span>
+<span data-ttu-id="ffe7b-110">Якщо клієнт Teams аварійно завершує роботу, спробуйте відтворити проблему.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-110">If your Teams client is still crashing, try to reproduce the issue.</span></span> <span data-ttu-id="ffe7b-111">У такому разі ви зможете:</span><span class="sxs-lookup"><span data-stu-id="ffe7b-111">If you can:</span></span>
 
-1. <span data-ttu-id="69e3c-112">Щоб записати кроки, скористайтеся записуванням дій.</span><span class="sxs-lookup"><span data-stu-id="69e3c-112">Use the Steps Recorder to capture your steps.</span></span>
-    - <span data-ttu-id="69e3c-113">Закрийте всі непотрібні або конфіденційні програми.</span><span class="sxs-lookup"><span data-stu-id="69e3c-113">Close ALL unnecessary or confidential applications.</span></span>
-    - <span data-ttu-id="69e3c-114">Запустіть записувач кроків і відтворіть цю проблему під час входу за допомогою відповідного облікового запису користувача.</span><span class="sxs-lookup"><span data-stu-id="69e3c-114">Launch the Steps Recorder and reproduce the issue while logged in with the affected user account.</span></span>
-    - <span data-ttu-id="69e3c-115">[Зберіть журнали команд, у яких записано кроки повторного відтворення.](https://docs.microsoft.com/microsoftteams/log-files)</span><span class="sxs-lookup"><span data-stu-id="69e3c-115">[Collect the teams logs that capture the recorded repro steps](https://docs.microsoft.com/microsoftteams/log-files).</span></span> <span data-ttu-id="69e3c-116">**Примітка.** Обов'язково запишіть адресу для входу потрібного користувача.</span><span class="sxs-lookup"><span data-stu-id="69e3c-116">**Note**: Make sure you capture the sign-in address of the impacted user.</span></span>
-    - <span data-ttu-id="69e3c-117">Зберіть дамп і/або відомості про блоки помилок (Windows).</span><span class="sxs-lookup"><span data-stu-id="69e3c-117">Collect the dump and/or Fault bucket info (Windows).</span></span> <span data-ttu-id="69e3c-118">Запустіть Windows PowerShell на комп'ютері, де відбувається аварійне завершення роботи, і виконайте такі команди:</span><span class="sxs-lookup"><span data-stu-id="69e3c-118">Launch Windows Powershell on the machine where the crash is occurring and run the following commands:</span></span>
+1. <span data-ttu-id="ffe7b-112">Щоб записати кроки, скористайтеся записуванням дій.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-112">Use the Steps Recorder to capture your steps.</span></span>
+    - <span data-ttu-id="ffe7b-113">Закрийте всі непотрібні або конфіденційні програми.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-113">Close ALL unnecessary or confidential applications.</span></span>
+    - <span data-ttu-id="ffe7b-114">Запустіть записувач кроків і відтворіть цю проблему під час входу за допомогою відповідного облікового запису користувача.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-114">Launch the Steps Recorder and reproduce the issue while logged in with the affected user account.</span></span>
+    - <span data-ttu-id="ffe7b-115">[Зберіть журнали команд, у яких записано кроки повторного відтворення.](/microsoftteams/log-files)</span><span class="sxs-lookup"><span data-stu-id="ffe7b-115">[Collect the teams logs that capture the recorded repro steps](/microsoftteams/log-files).</span></span> <span data-ttu-id="ffe7b-116">**Примітка.** Обов'язково запишіть адресу для входу потрібного користувача.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-116">**Note**: Make sure you capture the sign-in address of the impacted user.</span></span>
+    - <span data-ttu-id="ffe7b-117">Зберіть дамп і/або відомості про блок Windows.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-117">Collect the dump and/or Fault bucket info (Windows).</span></span> <span data-ttu-id="ffe7b-118">Запустіть Windows powershell на комп'ютері, де відбувається аварійне завершення роботи, і виконайте наведені нижче команди (після кожної команди натисніть клавішу Enter):</span><span class="sxs-lookup"><span data-stu-id="ffe7b-118">Launch Windows Powershell on the machine where the crash is occurring and run the following commands (after each command, press Enter):</span></span>
 
-        `
-        PS C:\Users\user01> cd $env:temp
-        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
-        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
-        `
+    <span data-ttu-id="ffe7b-119">`cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`</span><span class="sxs-lookup"><span data-stu-id="ffe7b-119">`cd $env:temp` `Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt`</span></span>
+    `notepad .\FaultBuckets.txt`
     
-2. <span data-ttu-id="69e3c-119">Вкладіть файл у свій інцидент служби підтримки.</span><span class="sxs-lookup"><span data-stu-id="69e3c-119">Attach the file to your support case.</span></span>
+2. <span data-ttu-id="ffe7b-120">Створиться текстовий файл, який з'явиться на екрані, збережіть файл і вкладіть його в запит на обслуговування.</span><span class="sxs-lookup"><span data-stu-id="ffe7b-120">After the text file is generated and appears on your screen, save the file and attach it to the service request.</span></span> 

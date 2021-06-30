@@ -14,19 +14,19 @@ ms.custom:
 - "476"
 - "1500026"
 ms.assetid: 34b852e0-bf1d-4cf3-9aa6-c80eed67bfeb
-ms.openlocfilehash: 6abec5038c8b0e0089ed3080f5b06db85766791f
-ms.sourcegitcommit: beed1fe0708571c17c4cf6a4d028fc3a2553847a
+ms.openlocfilehash: f796bc65baccfe4d424a3a690eced472a0ca3561
+ms.sourcegitcommit: 00a9c41575be54dccac6c423f2de824b47a4ee9e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "53104623"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53176578"
 ---
-# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="06d8b-102">Отримайте Microsoft 365 безкоштовно для всього навчального закладу</span><span class="sxs-lookup"><span data-stu-id="06d8b-102">Get Microsoft 365 free for your entire school</span></span>
+# <a name="get-microsoft-365-free-for-your-entire-school"></a><span data-ttu-id="f26b5-102">Отримайте Microsoft 365 безкоштовно для всього навчального закладу</span><span class="sxs-lookup"><span data-stu-id="f26b5-102">Get Microsoft 365 free for your entire school</span></span>
 
-<span data-ttu-id="06d8b-103">Удоскональте співпрацю в класі та навчальному закладі за допомогою безкоштовних інструментів для підвищення продуктивності.</span><span class="sxs-lookup"><span data-stu-id="06d8b-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="06d8b-104">Для використання цих пропозицій необхідно підтвердити, що ви є акредитованою академічним навчальним закладом.</span><span class="sxs-lookup"><span data-stu-id="06d8b-104">You will need to verify that you're an accredited academic institution to take advantage of these offers.</span></span>
+<span data-ttu-id="f26b5-103">Удоскональте співпрацю в класі та навчальному закладі за допомогою безкоштовних інструментів для підвищення продуктивності.</span><span class="sxs-lookup"><span data-stu-id="f26b5-103">Improve classroom and school collaboration with free productivity tools.</span></span> <span data-ttu-id="f26b5-104">Для використання цих пропозицій необхідно підтвердити, що ви є акредитованою академічним навчальним закладом.</span><span class="sxs-lookup"><span data-stu-id="f26b5-104">You will need to verify that you're an accredited academic institution to take advantage of these offers.</span></span>
   
-- [<span data-ttu-id="06d8b-105">Ознайомтеся з планами Для навчальних закладів</span><span class="sxs-lookup"><span data-stu-id="06d8b-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
+- [<span data-ttu-id="f26b5-105">Ознайомтеся з планами Для навчальних закладів</span><span class="sxs-lookup"><span data-stu-id="f26b5-105">Review the Education plans</span></span>](https://products.office.com/academic/compare-office-365-education-plans)
 
-- [<span data-ttu-id="06d8b-106">Початок роботи з Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="06d8b-106">Get started with Office 365 Education</span></span>](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
+- [<span data-ttu-id="f26b5-106">Початок роботи з Microsoft 365 Education</span><span class="sxs-lookup"><span data-stu-id="f26b5-106">Get started with Microsoft 365 Education</span></span>](https://support.office.com/article/get-started-with-office-365-education-ab02abe5-a1ee-458c-b749-5b44416ccf14?wt.mc_id=o365_portal_mmaven&ui=en-US&rs=en-US&ad=US)
 
-- [<span data-ttu-id="06d8b-107">Порівняння всіх Microsoft 365 передплат</span><span class="sxs-lookup"><span data-stu-id="06d8b-107">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="f26b5-107">Порівняння всіх Microsoft 365 передплат</span><span class="sxs-lookup"><span data-stu-id="f26b5-107">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
