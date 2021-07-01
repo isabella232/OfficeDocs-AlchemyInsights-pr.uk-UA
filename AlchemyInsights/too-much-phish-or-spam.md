@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: d5db78a8427c45c272a72435f2bf1e485a3a366b
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52544851"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195541"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ви отримуєте забагато фішинг або спаму в поштовій скриньці?
 
@@ -27,3 +27,7 @@ ms.locfileid: "52544851"
 Щоб полегшити створення звітів, можна дозволити користувачам безпосередньо повідомляти про це в корпорації Майкрософт за допомогою надбудови ["Повідомлення зі звітами".](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)
 
 **Чи знаєте ви?** Тепер ви можете [](https://security.microsoft.com/messagetrace) надсилати зразки безпосередньо з трасування повідомлень і E5/Microsoft Defender для Office 365 (план 2) зразки з [Провідника загроз.](/microsoft-365/security/office-365-security/threat-explorer)
+
+Докладні відомості про надсилання повідомлень для аналізу на порталі Microsoft 365 Defender див. у відео Надсилання [зразків для аналізу.](https://go.microsoft.com/fwlink/?linkid=2166435)
+
+Щоб дізнатися більше про те, як дослідити хибні негативні наслідки в Microsoft Defender Office 365 див. відео [Хибна негативна стратегія.](https://go.microsoft.com/fwlink/?linkid=2166434)
