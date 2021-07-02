@@ -1,5 +1,5 @@
 ---
-title: PDF Reader у Microsoft EDGE
+title: Програма для читання файлів PDF у Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679084"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255912"
 ---
-# <a name="pdf-reader-in-microsoft-edge"></a>PDF Reader у Microsoft EDGE
+# <a name="pdf-reader-in-microsoft-edge"></a>Програма для читання файлів PDF у Microsoft Edge
 
-Популярність файлів у форматі PDF підкреслює необхідність надійного, безпечного та потужного невізуального PDF-файлу, який може бути прийнятий корпоративними компаніями. Файл у форматі PDF із багатою функцією, вбудований у Microsoft EDGE (версії 77 і новіші версії) – це лише така програма. Вона працює в ОС Windows і macOS, і її можна використовувати, щоб відкривати та коментувати файли PDF, які є локальними, онлайновими або вбудованими на веб-сторінках.
+Популярність файлів PDF свідчить про необхідність надійного, безпечного й потужного засобу для читання PDF-файлів, який можуть захизнати компанії. Цей форматований засіб для читання файлів PDF вбудовано в Microsoft Edge (версії 77 і пізніших) – це просто така програма. Вона працює в Windows macOS і використовується, щоб відкривати файли PDF, локальні, онлайнові або вбудовані у веб-сторінки, і додати до нього примітку.
 
-Щоб отримати докладні відомості, перегляньте статтю [PDF Reader у Microsoft EDGE](https://go.microsoft.com/fwlink/?linkid=2140005).
+Докладні відомості див. в [цій Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2140005)
