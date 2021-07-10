@@ -1,5 +1,5 @@
 ---
-title: Підтримка Microsoft EDGE для охоронця програм Microsoft Defender
+title: Microsoft Edge підтримки для Засіб захисту програм для Microsoft Defender
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584006"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346083"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Підтримка Microsoft EDGE для охоронця програм Microsoft Defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge підтримки для Засіб захисту програм для Microsoft Defender
 
-Для Windows 10 і Microsoft EDGE програма Guard використовує апаратно-ізольований підхід, який дає змогу користувачам переходити від ненадійного сайту в ізольованому, гіпер-V – контейнері, відокремленому від операційної системи хоста.
+Microsoft Defender for Identity – централізоване розташування, де адміністратори можуть визначати, виявляти та досліджувати загрози локальної ідентичності. 
 
-Адміністратор підприємства визначає список надійних веб-сайтів, хмарних ресурсів і внутрішніх мереж. Коли користувач відвідує сайт, який немає в списку, Microsoft EDGE відкриє сайт в контейнері. Це означає, що якщо сайт стане зловмисним, хост-ПК залишиться захищеним, а зловмисник не отримає корпоративні дані.
+Скористайтеся посібником із налаштування ідентичності [Microsoft Defender,](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) щоб переконатися, що ви вказали всі попередні умови для середовища. створіть екземпляр, підключіться до Active Directory та інсталюйте датчик. 
 
-Інсталяція розширень у контейнері підтримується як Microsoft EDGE Version 81, і його можна керувати за допомогою політики. Адреса Updationeurl, що використовується в політиці розширення, має бути доданий як нейтральний ресурс у політиці мережної ізоляції, що використовується програмою "охоронець".
-
-Докладні відомості наведено в статті [підтримка Microsoft EDGE для охоронця програм Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2134229).
+Коли все буде готово, ідентичності користувачів відстежуються, і негайно можна виконати дії, що погальмують вашу організацію.
