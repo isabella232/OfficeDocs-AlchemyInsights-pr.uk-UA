@@ -1,7 +1,7 @@
 ---
 title: Обмеження користувачів, які можуть передавати до Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d13cf65ff7508897a8f30140bab858c7b6c70e36
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831323"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389382"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="d5cf2-102">Обмеження користувачів, які можуть передавати до Stream</span><span class="sxs-lookup"><span data-stu-id="d5cf2-102">Restrict users who can upload to Stream</span></span>
+# <a name="restrict-users-who-can-upload-to-stream"></a><span data-ttu-id="3d011-102">Обмеження користувачів, які можуть передавати до Stream</span><span class="sxs-lookup"><span data-stu-id="3d011-102">Restrict users who can upload to Stream</span></span>
 
-<span data-ttu-id="d5cf2-103">В організації ви можете обмежити працівників, які можуть передавати відео.</span><span class="sxs-lookup"><span data-stu-id="d5cf2-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="d5cf2-104">За замовчуванням усі користувачі у вашій організації можуть передавати відео.</span><span class="sxs-lookup"><span data-stu-id="d5cf2-104">By default, everyone in your organization can upload videos.</span></span>
+<span data-ttu-id="3d011-103">В організації ви можете обмежити працівників, які можуть передавати відео.</span><span class="sxs-lookup"><span data-stu-id="3d011-103">As an organization you may want to limit the employees who can upload videos.</span></span> <span data-ttu-id="3d011-104">За замовчуванням усі користувачі у вашій організації можуть передавати відео.</span><span class="sxs-lookup"><span data-stu-id="3d011-104">By default, everyone in your organization can upload videos.</span></span>
 
-- [<span data-ttu-id="d5cf2-105">Обмежити працівників, які можуть створювати вміст у Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="d5cf2-105">Restrict employees who can create content in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/restrict-uploaders)
+- [<span data-ttu-id="3d011-105">Обмежити працівників, які можуть створювати вміст у Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="3d011-105">Restrict employees who can create content in Microsoft Stream</span></span>](/stream/restrict-uploaders)
