@@ -1,5 +1,5 @@
 ---
-title: Усунення несправностей робочих циклів у SharePoint
+title: Усунення несправностей із робочими циклами в SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -15,21 +15,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: eedfb806100c479e0e20acbeefdda7c3c81f99e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0d05285539d498aa27b1f54880da9c5110acf98
+ms.sourcegitcommit: e2f1c3a8adcce7e7e545ec13d5aeae3cf2f67db7
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800269"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "53586955"
 ---
-# <a name="troubleshoot-workflows-in-sharepoint"></a>Усунення несправностей робочих циклів у SharePoint
+# <a name="troubleshoot-workflows-in-sharepoint"></a>Усунення несправностей із робочими циклами в SharePoint
 
-**Виправлення неполадок і налагодження робочих циклів у службі SharePoint**
+**Усунення несправностей і налагодження робочих циклів у SharePoint**
 
-Перегляньте [виправлення помилок перевірки робочого циклу SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) і [налагодження робочих циклів SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+Докладні відомості:
 
-**Power автоматизуйте**
+- [Усунення SharePoint помилок перевірки робочого циклу](/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
+- [Налагодження SharePoint робочих циклів](/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- [Збирання SharePoint 2013 року з виправлення неполадок із робочими циклами за допомогою засобу ShowScopeDebugInfo](/sharepoint/troubleshoot/workflows/gather-workflow-data)
 
-Якщо ви щойно почали працювати з робочими циклами, [радимо використовувати замість](https://docs.microsoft.com/power-automate/modern-approvals) класичних рішень для робочих циклів SharePoint.
+**Power Automate**
 
-Докладні відомості наведено в статті " [робочі цикли SharePoint](https://docs.microsoft.com/alchemyinsights/sharepoint-workflows-retiring)" на пенсію.
+Якщо ви лише починаєте роботу з [](/power-automate/modern-approvals) робочими циклами, рекомендовано використовувати класичні Power Automate не класичні рішення SharePoint робочих циклів.
+
+Докладні відомості див. [в SharePoint, які не виконують робочі цикли.](/alchemyinsights/sharepoint-workflows-retiring)

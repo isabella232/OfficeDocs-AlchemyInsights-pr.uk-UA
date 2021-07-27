@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745844"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532132"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Видалення сайту SharePoint, який належить до групи Microsoft 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Видалення сайту SharePoint, який належить до Microsoft 365 групи
 
-Видалення підключеного до групи сайту призведе до видалення групи та всіх її ресурсів, зокрема поштової скриньки Outlook і календаря, а також будь-яких каналів команд.
+Якщо видалити сайт, підключений до групи, група та всі її ресурси, зокрема поштова скринька Outlook і календар, а також усі Teams канали.
   
-Важливі
+Увага!
 
-- Ви можете відновити видалені сайти протягом 93 днів. Видалені групи потрібно відновити протягом 30 днів. [Перегляд і відновлення видалених сайтів](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) безпосередньо в центрі адміністрування SharePoint. Щоб [Переглянути та відновити **Видалені групи**](https://outlook.office.com/people/group/deleted), виберіть елемент **керування групами**, а потім натисніть кнопку **Видалити**.
-- Якщо сайт входить до складу політики збереження, можливо, ви не зможете видалити його, доки сайт не буде видалено з [центру адміністрування безпеки &](https://protection.office.com/?rfr=AdminCenter#/retention). Докладні відомості наведено в розділі [Огляд політик збереження](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Видалені сайти можна відновити протягом 93 днів. Видалені групи потрібно відновити протягом 30 днів. [Перегляд і відновлення видалених сайтів](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) безпосередньо в Центрі SharePoint адміністрування. Щоб [переглянути та відновити **видалені групи,**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)виберіть Керувати **групами**, а потім **– Видалено**.
+- Якщо сайт входить до політики збереження, його не можна видалити, доки його не буде видалено з [Центру адміністрування безпеки & відповідності](https://protection.office.com/?rfr=AdminCenter#/retention)вимогам. Докладні відомості див. в [огляді політик збереження.](/microsoft-365/compliance/retention-policies)
   
-Докладні відомості наведено в статті [керування сайтами в новому центрі адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Докладні відомості [див. в розділі Керування сайтами в новому SharePoint адміністрування.](/sharepoint/manage-sites-in-new-admin-center)
