@@ -1,8 +1,10 @@
 ---
-title: Керування ліцензією Microsoft Defender для Office 365
+title: Microsoft Defender для Office 365 керування ліцензіями
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, argani
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: 8bd6b4378c81241839ffe39dd36dc0a66c5c7f06
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: a60f70953e30ad490f51d7b9ca8495b81d84071a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601701"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688131"
 ---
-# <a name="microsoft-defender-for-office-365-license-management"></a>Керування ліцензією Microsoft Defender для Office 365
+# <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender для Office 365 керування ліцензіями
 
-Керування ліцензіями Microsoft для Office 365 можна завершити в  **центрі адміністрування microsoft 365**.
+Керування ліцензіями Office 365 Захисника Microsoft можна виконати в Центр адміністрування Microsoft 365.
 
-- Щоб придбати програму Microsoft Defender для Office 365, виконайте такі дії:
-    1. Перейдіть до   >  [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)рахунків.
-    2. У нижній частині сторінки виберіть пункт **додаткові компоненти**.
-    3. На сторінці " **придбання служб** " виберіть план Microsoft Defender для Office 365, який потрібно придбати, введіть кількість користувачів, які потребують ліцензії, а потім натисніть кнопку **витягнути зараз**. Додаткові відомості наведено в статті [придбання додаткового компонента](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
-- Щоб призначити ліцензії Microsoft Defender для Office 365, перейдіть на сторінку ліцензії для **виставлення рахунків**  >  . Докладні відомості наведено в статті [призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-- Щоб додати або видалити ліцензії з програми Microsoft Defender для Office 365, перейдіть на сторінку **виставлення рахунків** на  >  **продукти**. Виберіть передплату, яку потрібно оновити, а потім виберіть пункт **придбати ліцензії** або **Видалити ліцензії**. Докладні відомості наведено в статті [придбання або вилучення ліцензій на передплату](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+- Щоб придбати Microsoft Defender для Office 365:
+    1. Перейдіть до служби **придбання**  >  [рахунків.](https://go.microsoft.com/fwlink/p/?linkid=868433)
+    2. У нижній частині сторінки виберіть **Пункт Додаткові компоненти**.
+    3. На сторінці **Придбання послуг** виберіть план Microsoft Defender для Office 365, який потрібно придбати, введіть кількість користувачів, яким потрібна ліцензія, а потім натисніть кнопку **Оцініть зараз.** Докладні відомості див. [в сторінці Придбання додаткового компонента.](/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Щоб призначити Захисник Microsoft Office 365 ліцензії, перейдіть до статті Ліцензії для **виставлення**  >  **рахунків.** Докладні відомості див. [в статтях Призначення ліцензій для користувачів.](/microsoft-365/admin/manage/assign-licenses-to-users)
+- Щоб додати або вилучити ліцензії в Microsoft Defender для Office 365, перейдіть до статті **Виставлення**  >  **рахунків для продуктів.** Виберіть передплату, яку потрібно оновити, а потім виберіть **придбати ліцензії** або **Видалити ліцензії.** Докладні відомості див. в [відео Придбання або вилучення ліцензій на передплату.](/microsoft-365/commerce/licenses/buy-licenses)

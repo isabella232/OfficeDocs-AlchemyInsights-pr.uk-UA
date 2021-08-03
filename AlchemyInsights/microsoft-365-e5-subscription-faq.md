@@ -3,6 +3,7 @@ title: 'Передплата на Microsoft 365 E5: запитання й від
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: ?, ?
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9002658"
 - "5183"
-ms.openlocfilehash: 6627a9887ac61874c59c2476834a136e6a7b6dd1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
-ms.translationtype: HT
+ms.openlocfilehash: 5ea198b013721d96f985f40830731f71dc4b3700
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602457"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688023"
 ---
 # <a name="microsoft-365-e5-subscription-and-license-management-faq"></a>Запитання й відповіді про передплату Microsoft 365 E5 і керування ліцензіями
 

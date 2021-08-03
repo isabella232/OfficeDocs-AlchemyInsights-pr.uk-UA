@@ -3,6 +3,7 @@ title: Стан передплати
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542806"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689571"
 ---
 # <a name="subscription-status"></a>Стан передплати
 
-Стан передплати, термін дії та кількість ліцензій можна  знайти на сторінці Продукти в Центрі Microsoft 365 адміністрування.
+Стан передплати, термін дії та кількість ліцензій можна  знайти на сторінці Ваші продукти в Центр адміністрування Microsoft 365.
 
 1. У Центрі адміністрування перейдіть на сторінку **Виставлення**  >  [рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. На вкладці **Продукти** за замовчуванням відображається всі передплати та їхній стан (Активний, Прострочено, Вимкнуто або Видалено). Щоб переглянути підмножина всіх передплат, клацніть  піктограму фільтра, а потім виберіть стан передплати, який потрібно переглянути.

@@ -1,8 +1,10 @@
 ---
-title: Як зробити покупку Microsoft 365
+title: Здійснення покупки Microsoft 365 придбання
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 9f72d1947808c508759a19d3481b5f15da409961
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232388"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689103"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Як зробити покупку Microsoft 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Здійснення покупки Microsoft 365 придбання
 
-Ви можете придбати передплату Microsoft 365 у центрі адміністрування.
+Придбати передплату на Microsoft 365 можна в Центрі адміністрування.
   
-- Щоб придбати план, перейдіть на  \> сторінку **[служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)** рахунків.
-- Щоб придбати додаткові ліцензії, перейдіть на сторінку " **виставлення рахунків** на \> **[продукти](https://go.microsoft.com/fwlink/p/?linkid=842054)** ". Виберіть передплату, яку потрібно змінити, а потім натисніть кнопку **придбати ліцензії**. \
-**Перегляньте відео** , у якому показано, як це зробити: [придбати нові ліцензії](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+- Щоб придбати план, перейдіть  на сторінку Послуги придбання \> **[](https://go.microsoft.com/fwlink/p/?linkid=868433)** рахунків.
+- Щоб придбати додаткові ліцензії, перейдіть на сторінку **Виставлення** \> **[рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Виберіть передплату, яку потрібно змінити, а потім виберіть **елемент Придбати ліцензії**.\
+**Перегляньте відео** про те, як це зробити: [Придбання нових ліцензій](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Докладні відомості наведено в статті [придбання або вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Докладні відомості див. [в статтях Придбання та вилучення ліцензій.](/microsoft-365/commerce/licenses/buy-licenses)
 
 **Виправлення неполадок**
 
@@ -35,5 +38,5 @@ ms.locfileid: "50232388"
 
 **Додаткові ресурси**
   
-- [Призначення ліцензій користувачам у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
-- [Скасування Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Призначення ліцензій користувачам у Microsoft 365 для бізнесу](/microsoft-365/admin/add-users/add-users)
+- [Скасування передплати Microsoft 365 для бізнесу](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

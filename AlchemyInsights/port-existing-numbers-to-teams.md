@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801468"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688347"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Перенесення наявних номерів до Teams
 
-Якщо у вас є постачальник послуг телефонного зв’язку або оператор, а також вже є телефонні номери для користувачів або служб, потрібно створити "замовлення на перенесення", щоб перенести ці номери телефонів до Microsoft Teams.
+Якщо у вас є постачальник послуг телефонного зв’язку або оператор, а також вже є телефонні номери для користувачів або служб, потрібно створити "замовлення на перенесення", щоб перенести ці номери телефонів до Microsoft Teams.  
 
-- Щоб дізнатися, як виконати перенесення, див. статтю [Перенесення номерів телефонів до Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Щоб створити замовлення на перенесення або перевірити наявне, виконайте такі дії: 
 
-- Вказівки щодо керування телефонними номерами див. в статті [Керування номерами телефонів для організації](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Перейдіть до Центру [Teams, щоб](https://admin.teams.microsoft.com/phone-numbers) відкрити сторінку Телефон номерів. 
 
-Докладні відомості див. в статті [Огляд замовлень на перенесення](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview). 
+1. Виберіть **посилання Отримати посилання на підтримку номера телефону**. 
+
+Щоб перейти безпосередньо на підтримку номера телефону, див. [Телефон Центр обслуговування номерів.](https://pstnsd.powerappsportals.com/)  

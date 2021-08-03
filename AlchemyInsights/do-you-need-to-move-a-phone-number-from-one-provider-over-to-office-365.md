@@ -1,5 +1,5 @@
 ---
-title: Потрібно перенести номер телефону з одного постачальника до корпорації Майкрософт?
+title: Потрібно перемістити номер Телефон від одного постачальника до Корпорації Майкрософт?
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,19 +11,21 @@ ms.assetid: 94f6d41e-8cbc-4ec1-a44f-453b2a59206a
 ms.custom:
 - "248"
 - "4000003"
-ms.openlocfilehash: 3dd6c0179e7858713026baf6539f09b3cf1ad95b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c1e5837034130f7d03220d28c1da1fa619b6fe64
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712169"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689427"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Перенесення наявних номерів до Teams
 
-Якщо у вас є постачальник послуг телефонного зв’язку або оператор, а також вже є телефонні номери для користувачів або служб, потрібно створити "замовлення на перенесення", щоб перенести ці номери телефонів до Microsoft Teams.
+Якщо у вас є постачальник послуг телефонного зв’язку або оператор, а також вже є телефонні номери для користувачів або служб, потрібно створити "замовлення на перенесення", щоб перенести ці номери телефонів до Microsoft Teams.  
 
-- Щоб дізнатися, як виконати перенесення, див. статтю [Перенесення номерів телефонів до Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Щоб створити замовлення на перенесення або перевірити наявне, виконайте такі дії: 
 
-- Вказівки щодо керування телефонними номерами див. в статті [Керування номерами телефонів для організації](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Перейдіть до Центру [Teams, щоб](https://admin.teams.microsoft.com/phone-numbers) відкрити сторінку Телефон номерів. 
 
-Докладні відомості див. в статті [Огляд замовлень на перенесення](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview).  
+1. Виберіть **посилання Отримати посилання на підтримку номера телефону**. 
+
+Щоб перейти безпосередньо на підтримку номера телефону, див. [Телефон Центр обслуговування номерів.](https://pstnsd.powerappsportals.com/)  
