@@ -1,9 +1,10 @@
 ---
-title: Придбання пропозиції для навчальних закладів
+title: Придбання пропозиції education
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
+ms.date: 04/21/2020
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,25 +12,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: a4841ee6d0ae782b310c6a6ef9233675144ff6bd
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489298"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686763"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>Придбання пропозиції для навчальних закладів
 
 Ви отримали право на використання пропозицій Office 365 Education. Щоб придбати, виконайте наведені нижче кроки.
   
-1. У центрі адміністрування перейдіть на сторінку " **виставлення рахунків** на \> [продукти](https://go.microsoft.com/fwlink/p/?linkid=842054) ".
-2. На вкладці **продукти** виберіть ознайомлювальну версію для **учнів або викладачів**.
-3. На сторінці відомості про передплату в розділі **ліцензія** натисніть кнопку **придбати платну передплату зараз**.
-4. Виконайте кроки, які залишилися, щоб узяти на редагування.
+1. У Центрі адміністрування перейдіть на сторінку **Виставлення** \> [рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. На вкладці **Продукти** виберіть ознайомлювальну відомості для учнів і студентів **або викладачів.**
+3. На сторінці відомостей про передплату в розділі **Ліцензія** виберіть Придбати **платну передплату зараз.**
+4. Виконайте решту кроків, щоб оцінити їх.
 
-Якщо ви хочете придбати іншу передплату, ніж ознайомлювальна Передплата, перейдіть на **Billing** \> сторінку [служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків. У розділі **плани навчальних закладів**виберіть потрібний план.
+Щоб придбати передплату, відмінну від передплати на ознайомлювальну версію, перейдіть на сторінку **Придбання послуг** з \> [виставлення рахунків.](https://go.microsoft.com/fwlink/p/?linkid=868433) У **розділі Плани навчальних** закладів виберіть потрібний план.
 
-Щоб дізнатися більше, Дізнайтеся про [придбання передплати з безкоштовного ознайомлення](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
+Докладні відомості див. в [статтях Придбання передплати з безкоштовної ознайомлювальної передплати.](/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)

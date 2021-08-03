@@ -1,8 +1,10 @@
 ---
-title: Призначення або скасування призначення ліцензій користувачам
+title: Призначення та відміна ліцензій користувачам
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, shegu
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,24 +12,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "325"
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 693efc0755b682b17518f07e434685e68beddc14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0c89a9e7b26c5c815bc5ef959390cee1fb0c6a9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781160"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685863"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Призначення або скасування призначення ліцензій користувачам
+# <a name="assign-or-unassign-licenses-to-users"></a>Призначення та відміна ліцензій користувачам
 
-Користувачу потрібна ліцензія на доступ до служб. Нижче наведено вказівки з призначення ліцензії або скасування призначення ліцензії від користувача.
+Щоб отримати доступ до служб, користувачу потрібна ліцензія. Нижче описано, як призначити ліцензію користувачу або скасувати для неї.
   
-1. У центрі адміністрування виберіть **користувачі** \> [активні користувачі](https://go.microsoft.com/fwlink/p/?linkid=834822).
-2. Виберіть рядок користувача, до якого потрібно призначити ліцензію.
-3. В області праворуч виберіть **ліцензії та програми**.
-4. Розгорніть розділ **ліцензії** , установіть або зніміть прапорці для ліцензій, які потрібно призначити або скасувати призначення, а потім натисніть кнопку **зберегти зміни**.
+1. У Центрі адміністрування виберіть **Активні** \> [користувачі.](https://go.microsoft.com/fwlink/p/?linkid=834822)
+2. Виберіть рядок користувача, якому потрібно призначити ліцензію.
+3. В області праворуч виберіть **Пункт Ліцензії та програми**.
+4. **Розгорніть** розділ Ліцензії, установіть або зніміть прапорці для ліцензій, які потрібно призначити або скасувати, а потім натисніть **кнопку Зберегти зміни.**
 
-Докладні відомості наведено в статті [призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)і [скасування призначення ліцензій від користувачів](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
+Докладні відомості [див. в статтях Призначення](/microsoft-365/admin/manage/assign-licenses-to-users)ліцензій для користувачів і Скасування призначення ліцензій [від користувачів.](/microsoft-365/admin/manage/remove-licenses-from-users)

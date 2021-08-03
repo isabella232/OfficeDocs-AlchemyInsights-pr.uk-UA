@@ -1,8 +1,10 @@
 ---
-title: Придбання програми Microsoft Defender для Office 365
+title: Придбати Microsoft Defender для Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 6317ba5b9ba4513d6d92e06b449778aa7614fe28
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 3ad512ae86f68fbaa05501c44de3428e4446e862
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707867"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685575"
 ---
-# <a name="purchase-microsoft-defender-for-office-365"></a>Придбання програми Microsoft Defender для Office 365
+# <a name="purchase-microsoft-defender-for-office-365"></a>Придбати Microsoft Defender для Office 365
 
-Програма Microsoft Defender для Office 365 включена в певні передплати, наприклад Microsoft 365 E5, Office 365 E5, Office 365 a5 і Microsoft 365 Business Premium. Якщо ваша Передплата не включає Microsoft Defender для Office 365, ви можете придбати [програму Microsoft Defender для office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) як надбудову для певної передплатою. Щоб придбати в центрі адміністрування Microsoft 365, виконайте такі дії:
+Програма Microsoft Defender для Office 365 входить до складу деяких передплат, таких як Microsoft 365 E5, Office 365 E5, Office 365 A5 і Microsoft 365 Business преміум. Якщо ваша передплата не включає Microsoft Defender для Office 365, ви можете придбати [Microsoft Defender](/microsoft-365/security/office-365-security/office-365-atp) для Office 365 як додатковий компонент для певної передплати. Щоб придбати передплату на Центр адміністрування Microsoft 365:
 
-1. У центрі адміністрування перейдіть на   >  сторінку[служби придбання](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
-2. У нижній частині сторінки " **послуги придбання** " в розділі " **додаткові компоненти** " знайдіть додатковий компонент Microsoft Defender для Office 365 і натисніть кнопку **докладно**.
-3. На сторінці відомості про продукт натисніть кнопку **придбати**.
-4. Якщо потрібно, заповніть будь-які інші відомості про замовлення. У цій інформації може знадобитися вибрати додатковий компонент, а також кількість користувачів, які його використовують. Завершивши, натисніть кнопку **витягнути зараз**.
-5. Якщо потрібно, перегляньте відомості про замовлення та ціноутворення, а потім натисніть кнопку **Далі**.
-6. Виберіть спосіб оплати або додайте новий, а потім виберіть пункт **місце замовлення**,  >  **щоб перейти до адміністратора дому**.
+1. У Центрі адміністрування перейдіть на сторінку Служби придбання  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
+2. У нижній  частині сторінки Придбання  послуг у розділі Додаткові компоненти знайдіть надбудову Microsoft Defender Office 365 і виберіть **Докладно**.
+3. На сторінці відомостей про продукт натисніть кнопку **Придбати**.
+4. За потреби заповніть будь-які інші відомості про замовлення. Ці відомості можуть включати в себе вибір передплати на додатковий компонент і кількість користувачів, які використовуватиме цей додатковий компонент. Завершивши, натисніть кнопку **Оцініться зараз.**
+5. За потреби перегляньте відомості про замовлення та ціни, а потім натисніть кнопку **Далі**.
+6. Виберіть метод оплати або додайте новий, а потім виберіть зробити замовлення **Перейти**  >  **на головну сторінку адміністрування**.
 
-Щоб призначати ліцензії користувачам, ознайомтеся [з користувачами призначення ліцензій користувачам](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+Відомості про призначення ліцензій користувачам див. в [статтях Призначення ліцензій для користувачів.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Відомості про те, як придбати або вилучити ліцензії, див. в статті [Придбання та вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Відомості про те, як придбати або вилучити ліцензії, див. в статті [Придбання та вилучення ліцензій](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
