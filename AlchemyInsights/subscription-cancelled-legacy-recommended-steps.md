@@ -1,5 +1,5 @@
 ---
-title: 'Передплата скасовано – "застарілий": "Рекомендовані кроки"'
+title: Передплату скасовано ( рекомендовані кроки)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565159"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999081"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Передплата скасовано – "застарілий": "Рекомендовані кроки"
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Передплату скасовано ( рекомендовані кроки)
 
-Наш запис вказує на те, що Передплата скасовано користувачем з правами власника. Виконайте наведені нижче дії, щоб повторно активувати абонентську плату.
+Наш запис указує на те, що користувач із правами власника скасує передплату. Щоб повторно активувати передплату, виконайте наведені нижче дії.
 
-[Адміністратор облікового запису](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) може повторно активувати скасований платіж за допомогою передплати в центрі бізнес-партнера.
+Адміністратор [облікового запису](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) може повторно активувати скасовану передплату на Pay-As-You-Go в Центрі облікових записів.
 
-1. Увійдіть у [центр облікових записів](https://account.azure.com/Subscriptions).
-2. Виберіть скасованої передплати та натисніть кнопку **активувати повторно**.
+1. Увійдіть [у Центр облікових записів.](https://account.azure.com/Subscriptions)
+2. Виберіть скасовану передплату та натисніть **кнопку Повторно активувати**.
 
-Для інших типів передплатою [зверніться до служби підтримки](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) , щоб повторно активувати вашу абонентську плату.
+Щоб отримати відомості про інші [типи](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) передплат, зверніться до служби підтримки, щоб повторно активувати передплату.

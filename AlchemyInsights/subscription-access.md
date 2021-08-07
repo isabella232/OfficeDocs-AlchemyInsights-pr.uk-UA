@@ -1,5 +1,5 @@
 ---
-title: Доступ до передплатою
+title: Доступ до передплати
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807726"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999261"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Не вдається ввійти в Azure через проблеми з браузером (браузер зависає, продовжує обертатися, не завантажується і т. д.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Не вдається ввійти в Azure через проблеми з браузером (браузер "зависає", "зависає", "не завантажується" тощо).
 
-Можливо, під час відключення ви можете зіткнутися. Перевірте, чи є постійний процес відключення: « [блакитний стан здоров'я](https://status.azure.com/status/history/)».
+На вас може впливати перебій. Перевірте, чи немає вихідних перебоїв: [Стан Azure Health.](https://status.azure.com/status/history/)
 
-Вийдіть із усіх активних сесій Лазур. Запустіть власний або режим анонімного перегляду веб-браузера.
+Вийдіть з усіх активних сеансів Azure. Запуск приватного або анонімного режиму браузера.
 
-Крім того, можна спробувати оновити браузер, використовувати інший браузер, видалити файли cookie кеша, якщо вище не працює.
+Якщо наведені вище дії не працюють, можна також спробувати оновити браузер, скористатись іншим браузером, видалити файли cookie кеша.
 
-Додаткові відомості: [усунення проблем із входом](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+Докладні відомості: [Виправлення неполадок із входом](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
-**Не вдається отримати доступ до передплати**
+**Не вдається отримати доступ до передплат**
 
-Переконайтеся, [що в полі "обліковий](https://portal.azure.com/)запис" у верхньому правому куті вибрано потрібний каталог "Лазурний".
+На [порталі Azure переконайтеся,](https://portal.azure.com/)що з облікового запису у верхньому правому куті вибрано правильний каталог Azure.
 
-Переконайтеся, що для облікового запису, який використовується для адміністратора облікового запису, вибрано [пункт](https://account.windowsazure.com/Subscriptions)обліковий запис.
+У Центрі [облікових записів Azure](https://account.windowsazure.com/Subscriptions)переконайтеся, що використовується обліковий запис адміністратора.
 
-Додаткові відомості: [Виправлення неполадок із передплатою не знайдено](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Докладні відомості: Виправлення [неполадок, пов'язаних із відсутності передплат](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Не вдається отримати доступ до журналу рахунків**
+**Не вдається отримати доступ до журналу виставлення рахунків**
 
-Адміністратор облікового запису повинен переконатися, що користувач, який має доступ до відомостей про виставлення рахунків, додається в "Блакитний Active Directory" як гостьовий користувач: [Додавання або видалення нового користувача](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Адміністратор облікового запису повинен переконатися, що користувач, який має доступ до відомостей для виставлення рахунків, додається до azure Active Directory як гість: Додавання або видалення [нового користувача.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Користувач має надати роль глобального адміністратора: [призначити роль для користувачів](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Потім користувачу потрібно призначити роль глобального адміністратора: [Призначити роль користувачам.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Після цього користувач може надати доступ до рахунків за допомогою політики RBAC: [надати доступ до рахунків](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Опублікувати це, користувач може отримати доступ до виставлення рахунків за допомогою політик RBAC: [надати доступ до виставлення рахунків.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Рекомендовані документи**
 
--   [Я не можу ввійти, щоб керувати передплатою на Лазурне](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Не вдається ввійти, щоб керувати передплатою Azure](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

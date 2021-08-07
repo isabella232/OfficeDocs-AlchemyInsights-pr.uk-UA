@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907831"
 ---
-# <a name="why-cant-i-edit-files"></a>Чому я не можу редагувати файли?
+# <a name="why-cant-i-edit-files"></a>Чому не вдається редагувати файли?
 
-Ознайомтеся з деякими з причин, через [які ви не зможете редагувати файл](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Перегляньте деякі причини, через які не можна редагувати [файл.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-Якщо у вас є бібліотеки **з взяття на редагування, обов'язковими** або **валідними** стовпцями або метаданими, або під час використання **елемента "Безпека чернетки** " для всіх користувачів, які можуть **редагувати** або **лише користувачі, які можуть затверджувати елементи** в настройках версії бібліотеки:
+Якщо у вас є бібліотеки зі  стовпцями "Витягнення", "Обов'язково" або "Перевірка" або  "Безпека чернетки елемента" має значення Лише користувачі, які можуть редагувати або Лише **користувачі,** які можуть затверджувати елементи у версії Настройки бібліотеки:  
 
-- Для бібліотек документів SharePoint ці елемент буде синхронізовано лише для читання.
+- Для SharePoint документів ці елементи буде синхронізовано лише для читання.
 
-- Для бібліотек OneDrive у OneDrive відобразиться піктограма Блокування (файл із заблокованим файлом) поруч із статусом синхронізації, і користувач не зможе синхронізувати бібліотеку, доки не буде видалено вказані настройки. 
+- Для OneDrive бібліотек OneDrive відображатиме піктограму блокування (піктограма OneDrive із заблокованим файлом) поряд зі станом синхронізації, і користувач не зможе синхронізувати бібліотеку, доки згадані параметри не буде видалено. 
 
-Щоб отримати докладніші відомості про заблоковані файли в програмі Word або Excel, ознайомтеся з наведеними нижче статтями.
+Докладні відомості про заблоковані файли у Word Excel див. в статтях нижче.
 
-- [Під час редагування файлу Office з'являється повідомлення про помилку "помилка передавання" або "не вдалося зберегти автоматично"](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [Під час редагування Upload сталася помилка "Не вдалося зберегти автоматично" або "Не вдалося зберегти Office файл"](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
-- [Файл Excel заблоковано для редагування іншим користувачем](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excel заблоковано для редагування іншим користувачем](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Файл Word заблоковано для редагування іншим користувачем](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Інший користувач блокував файл Word для редагування](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

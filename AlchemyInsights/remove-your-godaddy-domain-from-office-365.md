@@ -1,5 +1,5 @@
 ---
-title: Видалення домену GoDaddy від Microsoft 365
+title: Видалення домену GoDaddy з Microsoft 365
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: c1891d3ce5e7605ec7c0dec8a249e922aff364ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf7dc36779bf920b721d67d15b7925d72a5d657b67b105165f37f170023ad764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922360"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Видалення домену GoDaddy від Microsoft 365
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Видалення домену GoDaddy з Microsoft 365
 
-Ми не можемо видалити домен GoDaddy від Microsoft 365 для вас. Виклик [служби підтримки клієнтів GoDaddy](https://aka.ms/contact-godaddy) для довідки.
+Не вдалося видалити ваш домен GoDaddy з Microsoft 365 вас. Щоб отримати [допомогу, зателефонуйте до](https://aka.ms/contact-godaddy) служби підтримки клієнтів GoDaddy.
   
-Якщо ім'я організації не містить "NETORG" або не придбано з GoDaddy, видаліть свій домен, виконавши наведені нижче дії, щоб [Видалити домен із Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+Якщо назва організації не містить "NETORG" або не придбала домен у GoDaddy, видаліть свій домен, виконавши дії, описані в статті Видалення домену з [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   

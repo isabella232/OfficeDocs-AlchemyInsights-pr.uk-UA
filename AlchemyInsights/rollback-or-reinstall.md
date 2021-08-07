@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2584"
 - "9000691"
-ms.openlocfilehash: 51ec547d99c6d13ddc14bc1b3288ff54fb1cd056
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8948c7a7c37be0e53c60d7d56cc118fc8eb49c2437e0551dd13b47cb1d683e85
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922288"
 ---
-# <a name="reinstall-or-roll-back-office"></a>Повторна інсталювати або відкотити Office
+# <a name="reinstall-or-roll-back-office"></a>Повторна Office
 
-Якщо після останнього оновлення програмного комплексу Office виникли загальні проблеми, можна вирішити цю проблему, виконавши повторну інсталювати пакет Office або поверніться до попередньої версії Office.
+Якщо у вас виникли загальні проблеми після останнього оновлення програмного комплексу Office, проблему можна вирішити за допомогою повторної інсталяції Office або повернення до попередньої версії Office.
 
-Щоб виконати **повторну** інсталяцію Пакета Office, див. ість Завантаження, інсталяція та повторна інсталяція [Office 365 або Office 2019 на ПК чи комп'ютері Mac.](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)
+Відомості про **повторну** інсталяцію Office див. в статтях Завантаження, інсталяція та Office 365 чи [Office 2019](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)на ПК чи Mac.
 
-Відомості про те, **як відкотити** пакет Office до попередньої версії, див. в [цій статті.](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic)
+Щоб виконати **відкочування** Office повернутися до попередньої версії [Office](https://support.microsoft.com/help/2770432/how-to-revert-to-an-earlier-version-of-office-2013-or-office-2016-clic).

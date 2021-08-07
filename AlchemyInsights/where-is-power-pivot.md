@@ -1,5 +1,5 @@
 ---
-title: Де розташовано "Power Pivot"?
+title: Де знайти надбудову Power Pivot?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -15,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e50382496c5f1040f3e7f149e4781392b8b48c59d0619b74a20ea324ebc8995
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907903"
 ---
-# <a name="where-is-power-pivot"></a>Де розташовано "Power Pivot"?
+# <a name="where-is-power-pivot"></a>Де знайти надбудову Power Pivot?
 
-Існує три причини, через які може не відображатися Power Pivot:
+Надбудова Power Pivot може не відображатися з трьох причин:
   
-**Ваша версія Excel не містить її**
+**Ваша версія Excel не включає в себе**
   
-Не всі версії Excel містять надбудови Power Pivot. Потрібно оновити до версії Office, яка включає в себе Power Pivot. [Перевірте список підтримуваних версій.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Не всі версії Excel надбудови Power Pivot. Знадобиться оновити надбудову Power Pivot до Office версії. [Перегляньте список підтримуваних версій.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Не ввімкнуто функцію Power Pivot**
+**Надбудову Power Pivot не ввімкнуто**
   
-Якщо ви працюєте в версії Excel, яка підтримує функцію Power Pivot, перевірте, чи ввімкнуто надбудову.
+Якщо ви працюєте у версії надбудови Excel, яка підтримує Power Pivot, перевірте, чи ввімкнуто надбудову:
   
-1. Виберіть **File** \> надбудови " **настройки** файлу" \> **Add-Ins**.
+1. Виберіть **пункт** \> **Параметри** \> **файлу.**
 
-2. У розкривному списку **керування** виберіть пункт **надбудови COM** і натисніть кнопку **перейти**.
+2. У **розкривному** списку Керування виберіть **пункт Надбудови COM і** натисніть кнопку **Перейти.**
 
-3. У діалоговому вікні **надбудови COM** установіть прапорець поруч із пунктом **Microsoft Power Pivot для Excel**, а потім натисніть кнопку **OK**.
+3. У **діалоговому вікні Надбудови** для com установіть прапорець поруч із пунктом **Microsoft Power Pivot** для Excel і натисніть кнопку **OK.**
 
-**У вас є кілька передплат або облікових записів**
+**У вас кілька передплат або облікових записів**
   
-У вас можуть бути різні передплати на Microsoft 365, призначені для різних облікових записів користувачів. Переконайтеся, що ви ввійшли в обліковий запис у версії Excel, яка підтримує функцію Power Pivot. Перевірте список [підтримуваних версій](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)і дотримуйтеся вказівок, щоб [переключатися між різними обліковими записами Office](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Обліковим записам користувачів можуть Microsoft 365 різні передплати. Переконайтеся, що ви ввійшли в обліковий запис за допомогою версії Excel, яка підтримує Power Pivot. Перегляньте список [підтримуваних версій](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)і дотримуйтеся вказівок, щоб переключатися між [різними Office обліковими записами](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

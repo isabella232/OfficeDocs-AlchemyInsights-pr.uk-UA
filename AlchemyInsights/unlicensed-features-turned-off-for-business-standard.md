@@ -1,5 +1,5 @@
 ---
-title: Неліцензовані функції вимкнуто для стандартних користувачів бізнес-стандартів
+title: Для користувачів "Business Standard" неліцензовані функції вимкнуто
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658026"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908587"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Неліцензовані функції вимкнуто для стандартних користувачів бізнес-стандартів
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Для користувачів "Business Standard" неліцензовані функції вимкнуто
 
-Деякі користувачі та організації Microsoft 365 Business Standard, які наразі мають більше функцій, доступні для них, ніж ліцензії. Ці функції включають наведені нижче параметри для класифікації, маркування та захисту (CLP) і керування цифровими правами (DRM):
+Деякі Microsoft 365 Бізнес Стандарт користувачів і організацій наразі мають більше функцій, ніж їм надається ліцензія. Ці функції містять наведені нижче параметри для класифікації, етикеток і захисту (CLP) і керування цифровими правами (DRM):
     
-За станом на 30 червня 2020 додаткові функції вимкнуто для цих користувачів у програмі Microsoft Excel, Microsoft Word, Microsoft PowerPoint і Microsoft Outlook.
+Станом на 30 червня 2020 року додаткові функції вимкнуто для цих користувачів у програмах Microsoft Excel, Microsoft Word, microsoft PowerPoint і Microsoft Outlook.
 
-Зверніть увагу на те, як змінити тип ліцензії на відповідному користувачу ліцензії, що містить ці функції. 
+Змініть тип ліцензії на ліцензію, яка включає ці функції. 
 
-Додаткові відомості наведено в статті [неліцензовані функції, надані для користувачів Microsoft 365 Business Standard](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Докладні відомості див. в [статтях Неліцензовані функції, надані Microsoft 365 Бізнес Стандарт користувачам](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

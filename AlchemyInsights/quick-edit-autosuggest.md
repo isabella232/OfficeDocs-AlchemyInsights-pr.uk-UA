@@ -1,5 +1,5 @@
 ---
-title: Швидке редагування Автопропонування
+title: Швидке редагування автосумування
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003088"
 - "7232"
-ms.openlocfilehash: 7e6781347e96a794c45ae5508282d44c958d3187
-ms.sourcegitcommit: 26e36ada9c19eb42a644a37d2cd3eb2627134f05
+ms.openlocfilehash: cdb9541c4f5a23a3c4903d0586e5eca105f473a0ab0aca68a948fdcac2363edd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "49447494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923120"
 ---
-# <a name="quick-edit-autosuggest"></a>Швидке редагування Автопропонування
+# <a name="quick-edit-autosuggest"></a>Швидке редагування автосумування
 
-Для редагування елемента у списку SharePoint можна змінити один із двох способів. Ви можете редагувати один елемент у поданні списку, який є стандартним методом. Або ще більш продуктивною, можна редагувати кілька об'єктів у поданні "швидке редагування". Для редагування елементів потрібен дозвіл на рівень доступу або вищий. Докладні відомості наведено в статті [змінення елемента списку в службі SharePoint Online](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7).
+Змінити елемент списку SharePoint можна двома способами. Стандартний спосіб – редагувати окремий елемент у поданні списку. Крім того, можна редагувати кілька елементів у поданні швидкого редагування. Щоб редагувати елементи, потрібен дозвіл принаймні рівня "Участь". Докладні відомості див. в [розділі Змінення елементів списку в SharePoint Online.](https://support.microsoft.com/office/dac1a1c3-a80b-4082-ba57-715cf613d0f7)
