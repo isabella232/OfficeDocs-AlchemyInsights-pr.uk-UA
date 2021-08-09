@@ -1,5 +1,5 @@
 ---
-title: Алхімія – створення та Додавання підпису до повідомлень у програмі Outlook
+title: Алхімія – створення та додавання підпису до повідомлень у Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: 933533b2c1065a96786522eee481abf859186342
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6c676c03834f5d1b1740addd6ad108ee1176faa19e4b0a5b8927ac1e600810d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718837"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934206"
 ---
 # <a name="creating-email-signatures"></a>Створення підписів електронної пошти
 
-Ці статті мають допомогти створювати підписи електронної пошти в програмі Outlook.
+Ці статті допоможуть створити підписи електронної пошти в Outlook.
   
-- Я хочу створити підпис електронної пошти за допомогою програми Outlook у Windows: [створення та Додавання підпису до повідомлень](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Створення підпису електронної пошти за допомогою Outlook Windows: створення [та додавання підпису до повідомлень](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Я хочу створити підпис електронної пошти за допомогою веб-програми Outlook в Інтернеті: [створення та Додавання підпису електронної пошти в Інтернет-версії Outlook](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Створення підпису електронної пошти за допомогою інтернет-версія Outlook: [Створення та додавання підпису електронної пошти в інтернет-версія Outlook](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Я хочу створити підпис електронної пошти за допомогою Outlook.com: [створення та Додавання підпису електронної пошти в Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Створення підпису електронної пошти за допомогою Outlook.com. Створення та додавання підпису електронної пошти [на сайті Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Я хочу створити глобальний підпис електронної пошти для всіх повідомлень електронної пошти, надісланих з моєї компанії: [створення підписів і відповідальності за організацію](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers) для всієї організації
+- Створення глобального підпису електронної пошти для всіх повідомлень електронної пошти, надісланих із моєї [компанії:](https://docs.microsoft.com/microsoft-365/admin/setup/create-signatures-and-disclaimers) створення підписів і застереження для всієї організації
 
- **Порада:** Підписи для всієї організації називаються "застереженнями".
+ **Порада.** Підписи, підписи для всіх організацій називають застереженнями.
   
