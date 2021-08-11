@@ -1,5 +1,5 @@
 ---
-title: Охоронець для Office для адміністраторів
+title: Application Guard для Office для адміністраторів
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 4d1f136cc57b100084dd5ac137828ececb1a03b0
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093126"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970136"
 ---
-# <a name="application-guard-for-office-for-admins"></a>Охоронець для Office для адміністраторів
+# <a name="application-guard-for-office-for-admins"></a>Application Guard для Office для адміністраторів
 
-Служба захисту застосунків для Office доступна для організацій, які мають ліцензії на Microsoft 365 E5 або Microsoft 365 E5 Mobility + Security. Користувачі в цих організаціях мають використовувати програми Microsoft 365 для підприємств на поточному каналі або щомісячному корпоративному каналі.
+Програма Application Guard Office доступна для організацій, які мають Microsoft 365 E5 або Microsoft 365 E5 мобільність + Security. Користувачі у цих організаціях мають використовувати програми Microsoft 365 для підприємств на неоцінених каналах або щомісячному корпоративному каналі.
 
 > [!NOTE]
-> Служба захисту застосунків для Office вимагає, щоб програма Microsoft Defender (MDAG) Увімкнула спочатку на пристрої. Щоб розгортати службу MDAG на кілька пристроїв, ознайомтеся [зі статтею підготовка до інсталяції охоронця програм Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
+> Для Application Guard Office, що Засіб захисту програм для Microsoft Defender (MDAG) увімкнуто на пристрої. Відомості про розгортання MDAG на кількох пристроях див. в [розділі Підготовка](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard)до Засіб захисту програм для Microsoft Defender.
 
-Докладні відомості про передумови, настроювання, обмеження та виправлення неполадок із програмами для Office наведено в статті:
+Докладні відомості про попередні вимоги, налаштування, обмеження та виправлення неполадок, пов'язаних із програмою Application Guard для Office див. в такому Office:
 
-- [Запитання й відповіді: програма "охоронець для Office"](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
-- [Настроювання захисту програми для Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)
+- [Запитання й відповіді: Application Guard для Office](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- [Налаштування Application Guard для Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)

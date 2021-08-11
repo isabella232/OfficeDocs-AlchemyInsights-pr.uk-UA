@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687599"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935574"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>Проблеми з настроюванням облікового запису електронної пошти в Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Проблеми з налаштуванням облікового запису електронної пошти у Outlook
 
-Якщо у вас виникли проблеми з настроюванням облікового запису Exchange у програмі Outlook, можна запустити [засіб настроювання облікового запису Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на уражену машину. Програма виконає різні перевірки та забезпечить можливі варіанти вирішення проблеми з інсталяцією облікового запису.
+Якщо у вас виникли проблеми з налаштуванням облікового запису Exchange в Outlook, можна запустити засіб настроювання облікового запису [Outlook](https://aka.ms/SaRA-OutlookSetupProfile) на відповідному комп'ютері. Вона виконуватиме різноманітні перевірки та надасть можливі способи вирішення проблем із налаштуванням облікового запису.
   
-Якщо у вас все ще виникають проблеми, перегляньте статтю [Outlook не вдалося настроїти новий профіль за допомогою автовизначення служби Exchange для поштової скриньки Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+Якщо проблеми не зникли, див. Outlook, як налаштувати новий профіль за допомогою автовизначення конфігурації Exchange поштовій скриньці [Exchange Online поштовій скриньці.](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)
   

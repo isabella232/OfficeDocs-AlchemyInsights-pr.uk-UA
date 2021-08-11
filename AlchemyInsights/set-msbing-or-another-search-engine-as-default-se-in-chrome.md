@@ -1,5 +1,5 @@
 ---
-title: Настроювання Microsoft Bing або іншого рушія пошуку за замовчуванням у Google Chrome
+title: Установлення Microsoft Bing або іншої пошукової системи як стандартної пошукової системи в Google Chrome
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9162"
-ms.openlocfilehash: b19fd9de768a412e8193c09bb445290fac9c407b
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: e74d53c60131bb0571fed1e3b219116733aa79947a4c93772039da3bee0660d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061021"
 ---
-# <a name="set-microsoft-bing-or-another-search-engine-as-the-default-search-engine-in-google-chrome"></a>Настроювання Microsoft Bing або іншого рушія пошуку за замовчуванням у Google Chrome
+# <a name="set-microsoft-bing-or-another-search-engine-as-the-default-search-engine-in-google-chrome"></a>Установлення Microsoft Bing або іншої пошукової системи як стандартної пошукової системи в Google Chrome
 
-Щоб налаштувати пошукову службу за замовчуванням у Google Chrome, виконайте наведені нижче дії.
+Щоб налаштувати пошукову систему за замовчуванням у браузері Google Chrome:
 
-1. Відкрийте Google Chrome.
-1. У верхньому правому куті виберіть піктограму, у якій показано три вертикальні крапки, а потім натисніть кнопку **настройки**.
-1. У розділі пошукова **система** поряд з елементом **Search Engine** , що використовується в адресному рядку, клацніть стрілку вниз, а потім виберіть пункт **Бінга** або інший пошуковий рушій.
+1. Відкрийте браузер Google Chrome.
+1. У правому верхньому куті клацніть піктограму з трьома вертикальними крапками, а потім **Настройки**.
+1. У **розділі Пошукова** система поруч із пунктом Пошукова система, що використовується в рядку адреси, клацніть стрілку вниз і виберіть пункт **Bing** або інший пошуковий інструмент. 
 
-Перехід до пошукової системи, відмінного від Bing, не видаляє розширення Bing, тому ви можете легко знайти вміст, пов'язаний із використанням розширення.
+Перехід на інший пошуковий пристрій (не Bing) не вилучає розширення Bing, тож ви все одно можете легко шукати вміст, пов'язаний із розширенням.
