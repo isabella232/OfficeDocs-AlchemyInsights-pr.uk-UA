@@ -1,5 +1,5 @@
 ---
-title: Запитання та проблеми з доступом до ресурсів
+title: Запитання й проблеми з доступом до ресурсів
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: d5278cfcf607c0722e02c2ca3cf421e0d492a9b7
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: db3140f94c6ab543133c29500552e529b0dc17b6d083cb729c5cf5857ffdbacf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750229"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967318"
 ---
-# <a name="questions-and-issues-with-resource-access"></a>Запитання та проблеми з доступом до ресурсів
+# <a name="questions-and-issues-with-resource-access"></a>Запитання й проблеми з доступом до ресурсів
 
-Щоб отримати відомості про типи профілів, які підтримуються для надання доступу користувачам до корпоративної інфраструктури та ресурсів, див.:
+Відомості про типи профілів Intune підтримують доступ для користувачів до корпоративної інфраструктури та ресурсів, див. в таких статтях:
 
-- [Додавання та використання Wi-Fi настройок на пристроях у Microsoft InTune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
-- [Додавання настройок електронної пошти до пристроїв із використанням функції Inune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
-- [Використання сертифікатів для автентифікації в Microsoft InTune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
-- [Створення профілів VPN для підключення до серверів VPN у програмі Inune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
+- [Додавання та використання Wi-Fi на своїх пристроях у Microsoft Intune](https://docs.microsoft.com/mem/intune/configuration/wi-fi-settings-configure)
+- [Додавання настройок електронної пошти на пристрої за допомогою Intune](https://docs.microsoft.com/mem/intune/configuration/email-settings-configure)
+- [Використання сертифікатів для автентифікації в Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/certificates-configure)
+- [Створення профілів VPN для підключення до серверів VPN в Intune](https://docs.microsoft.com/mem/intune/configuration/vpn-settings-configure)
 
 [Докладніше...](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)

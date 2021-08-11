@@ -1,5 +1,5 @@
 ---
-title: Помилка шлюзу проксі-сервера програми
+title: Проблема шлюзу проксі-сервера програми
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951550"
 ---
-# <a name="app-proxy-gateway-issue"></a>Помилка шлюзу проксі-сервера програми
+# <a name="app-proxy-gateway-issue"></a>Проблема шлюзу проксі-сервера програми
 
-Щоб виправити помилки, які виникають під час використання цієї корпоративної програми, у програмі проксі-застосунку служби "Лазурний" відображається повідомлення про помилку " [не вдалося отримати доступ до цієї корпоративної програми", якщо використовується програма проксі-](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)застосунку.
+Відомості про виправлення поширених проблем, [пов'язаних](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)із помилкою "Немає доступу до цієї корпоративної програми" в проксі-програмі Azure AD, див. в розділі "Не вдалося отримати доступ до корпоративної програми" під час використання проксі-сервера програми.
