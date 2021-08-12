@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002626"
 - "5044"
-ms.openlocfilehash: aa77462394fb029646547c4daf2336385fa6a965
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f781e060f0054531b935b42a1dcc045c503ceda4a860f510771e6cd01ec4f399
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940768"
 ---
 # <a name="sway-common-issues-and-solutions"></a>Поширені проблеми та вирішення у Sway
 
@@ -28,5 +28,5 @@ ms.locfileid: "51824960"
 - **Відновлення вмісту.** Адміністратори можуть [перепризначати презентації Sway видаленим користувачам, щоб](https://support.office.com/article/Reassign-Sways-from-a-deleted-user-account-Admin-Help-9580E618-3C3E-4D28-A6EF-74C00A997248) відновити презентації Sway.
 - **Вимкнути доступ до Sway.** Адміністратори можуть вимкнути доступ до [Sway](https://docs.microsoft.com/office365/enterprise/powershell/disable-access-to-sway-with-office-365-powershell) в організації.
 - **Додавання відеофайлів.** До презентації Sway можна додавати [відео-](https://support.office.com/article/Add-video-and-audio-files-into-Sway-d2f14842-e103-49c0-9da2-0fbcfcad381f) або аудіофайли.
-- **Параметри адміністратора.** Ви можете ввімкнути або вимкнути зовнішній спільний доступ, а також додати джерела вмісту. Докладні відомості див. [в розділі Параметри адміністратора для Sway.](https://support.office.com/article/Administrator-settings-for-Sway-d298e79b-b6ab-44c6-9239-aa312f5784d4)
+- **Адміністратор Настройки.** Ви можете ввімкнути або вимкнути зовнішній спільний доступ і додати джерела вмісту. Докладні відомості див. [в розділі Параметри адміністратора для Sway.](https://support.office.com/article/Administrator-settings-for-Sway-d298e79b-b6ab-44c6-9239-aa312f5784d4)
 - **[Обмеження розміру файлу](https://support.office.com/article/File-size-limits-in-Sway-4db21bc6-b42b-499f-9272-66e089db109f)**

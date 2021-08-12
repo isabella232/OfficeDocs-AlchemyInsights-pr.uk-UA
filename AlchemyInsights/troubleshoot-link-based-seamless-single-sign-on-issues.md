@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із посиланнями на основі єдиного входу (SSO)
+title: Усунення несправностей, пов'язаних із єдиним входом за посиланням
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695039"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972881"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Виправлення неполадок із посиланнями на основі єдиного входу (SSO)
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Усунення несправностей, пов'язаних із єдиним входом за посиланням
 
-Більшість користувачів можуть вирішити проблему з використанням єдиного входу на основі посилання (SSO), виконавши наведені нижче дії.
+Більшість користувачів можуть вирішити проблему єдиного входу (SSO) на основі посилання, як описано нижче.
 
-**Відомості про ЗВ'ЯЗАНИЙ SSO**: [розуміння пов'язаного входу](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) – параметр "зв'язаний вхід" дає змогу настроїти цільове розташування, коли користувач вибирає програму в програмах "мої програми" або на порталі Office 365. У цій статті наведено докладні відомості про зв'язаний параметр.
+**Докладні** відомості про зв'язаний єдиний [вхід.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) Загальні відомості про зв'язаний вхід – параметр "Зв'язаний" дає змогу настроїти цільове розташування, коли користувач вибирає програму на порталі Мої програми або Office 365 організації. У цій статті докладно описано зв'язані варіанти.
 
-**Настроювання зв'язаного єдиного входу**: [Настроювання посилання](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Настроювання зв'язаного єдиного входу:** [посилання "Настроїти"](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Отримання довідки**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) -надсилання запитів і технічних запитань щодо єдиного входу на основі посилання (SSO) у веб-програмі "Лазурний" & Development Directory.
+**Помічник.** Запитання й відповіді [Microsoft&–](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) надсилання запитів на функції та технічні запитання про єдиний вхід (SSO) на основі посилання під час Azure Active Directory & розробки.
