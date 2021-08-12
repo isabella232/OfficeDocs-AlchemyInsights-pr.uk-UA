@@ -1,5 +1,5 @@
 ---
-title: Додавання розширення до Microsoft Edge із Магазину надбудов Microsoft Edge
+title: Додавання розширення до Microsoft Edge з Магазину Microsoft Edge надбудов
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6919"
 - "8310"
 - "9004621"
-ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 0533c92d17fe39325f0067cebf96c3f63b0dcc9a7ed58557e2557ef75aad55e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505047"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936438"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Додавання розширення до Microsoft Edge із Магазину надбудов Microsoft Edge
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>Додавання розширення до Microsoft Edge з Магазину Microsoft Edge надбудов
 
-Щоб додати розширення до Microsoft Edge із магазину надбудов Microsoft Edge:
+Щоб додати розширення до Microsoft Edge з магазину Microsoft Edge надбудов:
 
 - Відкрийте Microsoft Edge.
-- Виберіть **... > Розширення > Отримати [розширення для Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- Виберіть **... > Розширення > Отримати розширення для [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
 - Виберіть розширення, яке потрібно додати, а потім натисніть кнопку **Отримати**.
 - У діалоговому вікні підтвердження уважно перегляньте зміни, які може вносити розширення, і виберіть **Додати розширення**.
 
