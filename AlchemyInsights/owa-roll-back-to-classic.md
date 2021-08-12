@@ -1,5 +1,5 @@
 ---
-title: Повернення до класичного Інтернет-версії Outlook
+title: Відкочування до класичного інтернет-версія Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: b246f6e51b942e35c2035b912ea3d810a2000d75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c083efef3e77dc175737e0412fd958c448f4f118955dc7a95427dab831ccbe4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924034"
 ---
 # <a name="the-new-outlook-on-the-web"></a>Нова інтернет-версія Outlook
 
-Ви більше не можете повернутися до класичного Інтернет-версії Outlook. Якщо ви хочете надати відгук про новий досвід, перейдіть на [форум Uservoice](https://go.microsoft.com/fwlink/?linkid=2103182). Ви можете голосувати за ідеями або питаннями, які ви хотіли б переглянути, і ми відповімо безпосередньо на найпопулярніші зауваження та пропозиції.
+Ви більше не можете повернутися до класичного інтернет-версія Outlook. Щоб залишити відгук про нову можливості, перейдіть на форум [UserVoice.](https://go.microsoft.com/fwlink/?linkid=2103182) Ви можете голосувати за ідеї або проблеми, які ви хотіли б бачити, і ми відповідатимемо безпосередньо на найпопулярніші коментарі та пропозиції.
 
-[Отримання довідки з нового Інтернет-версії Outlook](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[Отримайте довідку з нової інтернет-версія Outlook](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
