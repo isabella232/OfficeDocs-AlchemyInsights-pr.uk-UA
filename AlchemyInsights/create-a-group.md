@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4530abb3bf597458ea22441203a0db24b4b109f0760258310072891014c4b454
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929326"
 ---
 # <a name="create-a-group"></a>Створення групи
 
@@ -29,10 +29,10 @@ ms.locfileid: "51816393"
 
 **Керування дозволами на створення груп**
 
-1. Глобальні адміністратори можуть керувати дозволами на створення груп (з міркувань безпеки) або групами Office 365, створеними на порталі Azure або панелі доступу, вибравши в розділі "Користувачі можуть створювати групи безпеки на порталах Azure" або "Користувачі можуть створювати групи Office 365 на порталах Azure" в розділі Загальні  >  **групи (параметри)**.
-2. Крім того, ви можете обмежити створення груп, щоб вибрати групу користувачів, якщо у вас є ліцензія Azure Active Directory P1 Premium.
+1. Глобальні адміністратори можуть керувати дозволами на створення груп (з міркувань безпеки) або групами Office 365, створеними на порталі Azure або панелі доступу, вибравши в розділі "Користувачі можуть створювати групи безпеки на порталах Azure" або "Користувачі можуть створювати групи Office 365 на порталах Azure" в розділі Загальні  >  **групи (Настройки)**.
+2. Крім того, ви можете обмежити створення груп, вибравши групу користувачів, якщо у вас Azure Active Directory P1 Premium ліцензії.
 
-**Вимкнення привітання для нових учасників групи Office 365**
+**Вимкнення привітання для нових Office 365 учасників групи**
 
-Сповіщення про привітання, надіслане користувачам, які додаються до груп Office 365, можна вимкнути, установивши в PowerShell параметр **UnifiedGroupWelcomeMessageEnabled** для False. Відомості про цю настройку [див. тут.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
+Сповіщення про привітання, надіслане користувачам, Office 365 групі, можна вимкнути, установивши в PowerShell параметр **UnifiedGroupWelcomeMessageEnabled** на False. Відомості про цю настройку [див. тут.](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true)
 

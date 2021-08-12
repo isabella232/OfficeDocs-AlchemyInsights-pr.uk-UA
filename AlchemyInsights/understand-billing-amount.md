@@ -1,5 +1,5 @@
 ---
-title: Загальні відомості про суму виставлення рахунків
+title: Відомості про суму рахунка
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827885"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919690"
 ---
-# <a name="understand-billing-amount"></a>Загальні відомості про суму виставлення рахунків
+# <a name="understand-billing-amount"></a>Відомості про суму рахунка
 
 **Під керованим клієнтом (WD):**
 
 - Довідку з перегляду й розуміння рахунка див. в навчальній [вправі: перегляд окремого рахунка Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Загальні відомості про терміни в рахунку-фактурі: [пояснені умови рахунка-фактури Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Загальні відомості про тарифи на використання Azure: [пояснені умови використання](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Щоб отримати PDF-файл рахунка та копію детального файлу щоденного використання (. CSV: [отримання рахунка-фактури та даних про використання](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Щоб отримати PDF-файл рахунка та копію докладного файлу щоденного використання (.CSV): отримання даних [рахунка-фактури та даних про використання](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Примітка.** Якщо скасувати передплату або ресурс у середині циклу виставлення рахунків, усе одно може відображатися плата за використання за попередній місяць. Наприклад, якщо розрахункового циклу виставлявся з 26-го місяця до 25-го місяця & ви призупинили передплату 23-го (28 днів) у цикл виставлення рахунків за червень, може відображатися плата за 28 днів використання. Якщо ви бачите платіж, не скасовуйте передплату, переконайтеся, що у вас немає інших планів підтримки, які сприщують цю оплату. У такому разі перейдіть далі та скасуйте план.
 
@@ -44,10 +44,10 @@ ms.locfileid: "51827885"
 - Довідку з перегляду та розуміння рахунка див. в навчальному посібнику: перегляд рахунка за угоду про [партнерів Microsoft](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Загальні відомості про умови використання рахунка-фактури. Умови [в рахунку-фактурі за](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support) угодою про партнера Майкрософт
 
-**Договір "Enterprise Agreement" (EA)**
+**договір "Enterprise Agreement" (EA)**
 
-- Довідку з перегляду та розуміння рахунка див. в такому документі: Розуміння рахунка за [договором "Azure Enterprise Agreement"](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Якщо ви клієнт Azure, укладивши договір "Enterprise Agreement" (клієнт EA), ви не зможете завантажити рахунки-фактури організації. Рахунки-фактури надсилаються тому, хто настроєний для отримання рахунків за реєстрації, ви можете завантажити відомості про використання на [порталі Azure](https://portal.azure.com/).
+- Довідку з перегляду та розуміння рахунка див. в такому [документі:](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) Розуміння рахунка за договір "Enterprise Agreement" Azure
+- Якщо ви клієнт Azure із клієнтом договір "Enterprise Agreement" (EA), ви не можете завантажити рахунки-фактури організації. Рахунки-фактури надсилаються тому, хто настроєний для отримання рахунків за реєстрації, ви можете завантажити відомості про використання на [порталі Azure](https://portal.azure.com/).
 
 Рахунок-фактура з перевитання послуг:
 
@@ -71,7 +71,7 @@ ms.locfileid: "51827885"
 
 **Постачальник хмарних рішень (CSP)**
 
-- Дізнайтеся більше про те, як працює виставлення рахунків у програмі постачальника хмарних рішень Azure (Azure CSP): [Виставлення рахунків azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Дізнайтеся більше про те, як працює виставлення рахунків в Azure Постачальник хмарних рішень (Azure CSP): [Azure CSP Billing](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Дізнайтеся про читання й розуміння рахунка-фактури за послуги CSP: [рахунок-фактура з Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Рекомендовані документи**
@@ -81,4 +81,4 @@ ms.locfileid: "51827885"
 - [Загальні відомості про обмеження витрат в Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Розуміння виставлення рахунків за зовнішні послуги в Azure: виставлення [рахунків](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support) за зовнішні служби
 - [Безкоштовний обліковий запис Azure: запитання й відповіді](https://azure.microsoft.com/free/free-account-faq/)
-- [Загальні відомості про адміністративні ролі Azure Enterprise Agreement в Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Відомості про ролі договір "Enterprise Agreement" Azure в Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

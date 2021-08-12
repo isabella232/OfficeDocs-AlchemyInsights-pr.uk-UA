@@ -1,5 +1,5 @@
 ---
-title: Установлення Bing.com стандартної домашньої сторінки
+title: Перетворення Bing.com на стандартну домашню сторінку
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9263"
-ms.openlocfilehash: 23229bc6d01a84684d7074e498058e9674221d36
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: afe8c68d1d5d0c9ad898d4ca90931b02449a90c4564f9fdc9abfaf6ce53aeba1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912439"
 ---
-# <a name="make-bingcom-the-default-home-page"></a>Установлення Bing.com стандартної домашньої сторінки
+# <a name="make-bingcom-the-default-home-page"></a>Перетворення Bing.com на стандартну домашню сторінку
 
-Щоб зробити Bing домашньою сторінку за замовчуванням у Microsoft Edge, Google Chrome і Internet Explorer, дотримуйтеся вказівок у статті Створення [Bing.com домашньої сторінки за замовчуванням.](https://go.microsoft.com/fwlink/?linkid=2149816)
+Щоб зробити Bing стандартною домашньою сторінками в Microsoft Edge, Google Chrome і Internet Explorer, дотримуйтеся вказівок зі статті Створення [Bing.com як стандартної домашньої сторінки.](https://go.microsoft.com/fwlink/?linkid=2149816)
