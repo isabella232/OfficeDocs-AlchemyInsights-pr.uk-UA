@@ -1,5 +1,5 @@
 ---
-title: CTRL + H – знаходить, а не заміняти в Excel 2016
+title: Ctrl+H – знайти, а не замінити Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914774"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H – знаходить, а не заміняти в програмі Excel
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>Ctrl+H – знайти, а не замінити Excel
 
-У програмі Excel 2016 натисніть сполучення клавіш CTRL + H, щоб відкрити діалогове вікно пошуку та замінювання, а потім на вкладці "замінити" замість вкладки "замінювання" натисніть кнопку Замінити на вкладці Основне. Цю проблему вирішено у версії 1708 (8431,2094). Щоб виправити це, оновіть її до найновішої версії Office. Виберіть **File** пункт Оновити \> **настройки облікового запису** файлу \> **Update Options** \> **зараз**.
+У Excel 2016 клавіші Ctrl+H відкриється діалогове вікно Пошук і заміна, де замість вкладки Замінити з'явиться вкладка Знайти. Аналогічно можна натиснути кнопку Замінити на вкладці Основне. Цю проблему вирішено у версії 1708 (8431.2094). Щоб виправити це, оновіть пакет до найновішої Office. Виберіть **Параметри оновлення** \>  \> **облікового запису файлу** Оновити \> **зараз.**
   

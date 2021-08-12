@@ -1,5 +1,5 @@
 ---
-title: Додавання та керування адміністраторами – Рекомендовані кроки
+title: Додавання адміністраторів і керування ними – рекомендовані дії
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,71 +13,71 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963808"
 ---
-# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Додавання та керування адміністраторами – Рекомендовані кроки
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Додавання адміністраторів і керування ними – рекомендовані дії
 
-На основі опису проблеми ми знайшли рішення для вас. Більшість клієнтів змогли вирішити свою проблему самостійно, дотримуючись нашої документації.
+Ми знайшли рішення відповідно до опису проблеми. Більшість клієнтів змогли самостійно вирішити проблему після перегляду нашої документації.
 
-**Редагування адміністратора або Співадміністратора за передплатою**
+**Редагування адміністратора передплати або адміністратора**
 
-- Адміністратор облікового запису може редагувати обидві ролі, якщо адміністратор передплатникам може змінити лише один із адміністраторів на [порталі Azure](https://ms.portal.azure.com/#home).
-- [Додавання або змінення адміністраторів служби Azure передплатникам](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
+- Адміністратор облікового запису може змінювати обидві ролі, тоді як адміністратор передплати може змінювати на порталі [Azure лише адміністратори.](https://ms.portal.azure.com/#home)
+- [Додавання або змінення адміністраторів передплати Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Оновлення адміністратора передплати або Co-Administrator для передплати на внутрішні (КОНДИЦІОНУВАННЯ)**
+**Оновлення адміністратора передплати або передплати Co-Administrator для внутрішніх (AIRS) передплат**
 
-Адміністратор служби або спільний адміністратор може самостійно обслуговувати цю дію, виконавши наведені нижче дії.
+Адміністратор служби або адміністратор може самостійно виконати цю дію, виконавши такі дії:
 
-1. Увійдіть на [портал Azure](https://ms.portal.azure.com/#home) і клацніть елемент **керування витратами + виставлення рахунків** у лівому клинку.
-2. Клацніть елемент з передплатою. Відкриється огляд вашої передплатою.
-3. На клинку **передплатою** натисніть кнопку **Властивості**. 
-4. Натисніть кнопку **адміністратор служби** .
-5. Укажіть повідомлення електронної пошти користувача, якого потрібно встановити як адміністратор служби, і натисніть кнопку **OK**.
+1. Увійдіть [на портал Azure і клацніть](https://ms.portal.azure.com/#home) Керування **витратами + Виставлення** рахунків у лівій частині.
+2. Клацніть позицію з передплатою. Відкриється огляд передплати.
+3. На **надлишку** передплати клацніть **Властивості**. 
+4. Натисніть кнопку **Адміністратор служби.**
+5. Введіть адресу електронної пошти користувача, якого потрібно зробити адміністратором служби, і натисніть кнопку **OK.**
 
-**Додавання та змінення та видалення Співадміністратора**
+**Додавання, змінення або видалення спів адміністратора**
 
-1. Увійдіть на портал " [Лазурний](https://ms.portal.azure.com/#home) " як адміністратор служби.
-2. Відкрийте [передплату та виберіть передплату.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) (Adminstrators можна призначати лише в області "Передплата".)
-3. Перейдіть до **елемента керування доступом (IAM)**  >  **Classic адміністратори**  >  **додайте** елемент  >  **Додати** до адміністратора, щоб відкрити область **Додавання спільного адміністратора** (якщо параметр Add Co-адміністратор вимкнуто, це означає, що у вас немає дозволів).
+1. Увійдіть [на портал Azure](https://ms.portal.azure.com/#home) як адміністратор служби.
+2. Відкрийте [розділ Передплати](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) та виберіть передплату. (Співадміністраторів можна призначати лише в області передплати.)
+3. Перейдіть до класичних адміністраторів керування доступом **(IAM),** щоб відкрити область Додавання співавтора (якщо параметр Додати спільного адміністратора вимкнуто, це означає, що у вас немає  >    >    >   дозволів). 
 4. Виберіть користувача, якого потрібно додати, і натисніть кнопку **Додати**.
 
 **Дізнатися більше:**
-- [Додавання спільної адміністратора](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Видалення співадміністратора](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Додавання співавра](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Вилучення співавра](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Змінення адміністратора служби](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Перегляд адміністратора облікового запису](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
-- [Керування доступом за допомогою RBAC і Лазуропорталу](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
+- [Перегляд адміністратора облікових записів](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
+- [Керування доступом за допомогою порталу RBAC і Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Додавання та видалення користувачів за допомогою служби Azure Active Directory (AD)**
+**Додавання або видалення користувачів за Azure Active Directory (AD)**
 
-Ви можете додавати нових користувачів або видаляти вже доступні користувачі з організації Azure AD Active Directory:
+Ви можете додати нових користувачів або видалити наявних з організації Azure Active Directory (Azure AD).
 
-1. Щоб додати нового користувача, увійдіть на [портал Azure](https://ms.portal.azure.com/#home) , як адміністратор користувача для організації.
-2. Виберіть пункт " **Лазурний**", виберіть **користувачі** , а потім натисніть кнопку **створити користувача**.
-3. На сторінці **користувача** заповніть необхідну інформацію. Натисніть кнопку **створити**. Користувач створюється та додається до свого клієнта Azure AD.
+1. Щоб додати нового користувача, увійдіть на портал [Azure](https://ms.portal.azure.com/#home) як адміністратор користувача для організації.
+2. Виберіть **Azure Active Directory** послідовно **виберіть елементи** Користувачі та Створити **користувача**.
+3. На сторінці **Користувач** введіть потрібні відомості. Натисніть **кнопку Створити.** Користувача буде створено та додано до клієнта Azure AD.
 
-**Додаткові відомості**:
+**Докладні відомості:**
 
 - [Додавання нового користувача](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
 - [Видалення користувача](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
-- [Додавання або оновлення відомостей профілю користувача за допомогою служби Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [Додавання або оновлення відомостей профілю користувача за допомогою Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Рекомендовані документи**
 
-- [Що таке елемент керування доступом на основі ролей (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
-- [Розуміння різних ролей у Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
-- [Дозволи на роль адміністратора в "Лазурний" Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Навчальний посібник: надання доступу для користувача за допомогою RBAC та порталу "Лазурний"](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
-- [Усунення несправностей у RBAC в лазуровий](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
-- [Упорядкування ресурсів за допомогою «лазуровий груп керування»](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Запит на копіювання за допомогою електронної пошти копії Лазур-рахунка](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
-- [Як додати, оновити або видалити кредитну або дебетову картку з Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
-- [Керування (Повторна активація/скасування або переключення)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
+- [Що таке керування доступом на основі ролей (RBAC)?](https://docs.microsoft.com/azure/role-based-access-control/overview)
+- [Різні ролі в Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
+- [Дозволи на роль адміністратора в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
+- [Навчальна вправа: надання доступу для користувача за допомогою RBAC і порталу Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Усунення несправностей, пов'язаних із RBAC в Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
+- [Упорядкування ресурсів за допомогою груп керування Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
+- [Як надіслати запит на копію рахунка-фактури з Azure електронною поштою](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Додавання, оновлення й видалення кредитної або дебетової картки в Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
+- [Керування передплатою (повторна активація, скасування або змінення передплати)](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
 
 
