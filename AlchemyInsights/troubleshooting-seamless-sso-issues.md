@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із Безшовними проблемами єдиного входу
+title: Виправлення неполадок із єдиним впросуванням (SSO)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7808"
-ms.openlocfilehash: 954b4490fd7d93767b4cc2b026ff4ac3d0edf80e
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2bde7ed51c9f086b395f620ff062df718cd12badf5a6933bd60ca0f81d6501eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920884"
 ---
-# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Виправлення неполадок із окремими Sign-On
+# <a name="troubleshooting-seamless-single-sign-on-issues"></a>Виправлення неполадок із єдиним Sign-On проблемами
 
-1. Запитайте або шукати відповіді на запитання, які ви маєте в [програмі Microsoft Q&A](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports).
-1. Для поширених проблем із Безшовним єдиним входом (SSO) ознайомтеся з такими посібниками, щоб вирішити проблему.
-    - [Усунення несправностей під час додавання програм](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
-    - [Виправлення неполадок під час входу на основі пароля в Лазурне AD](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
-    - [Усунення несправностей у службі "єдиний вхід у службу" в "Лазурний" в надбудові Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
-    - [Налагодження служби "єдиний вхід на основі" для програм у службі "Лазурний" в "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
-    - Відео: [практичні поради щодо входу в службу "блакитні активні каталоги" та "облікові записи Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) " 
-    - [Виявлення звітів про дії на порталі «Лазурний»](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
+1. Поставте або знайдіть відповіді на свої запитання в запитаннях [і відповідях Microsoft&A.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
+1. Щоб отримати відомості про поширені проблеми з простим єдиним входом, ознайомтеся з наведеними нижче посібниками, щоб усунути проблему.
+    - [Усунення несправностей додавання програм](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) 
+    - [Усунення несправностей із єдиним входом в Azure AD на основі пароля](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-password-based-sso) 
+    - [Усунення несправностей, пов'язаних із єдиним входом за SAML Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-saml-based-sso) 
+    - [Єдиний вхід на основі SAML під час налагодження програм у Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/debug-saml-sso-issues) 
+    - Відео. [Практичні поради з єдиного входу для Azure Active Directory облікових записів Microsoft](https://azure.microsoft.com/resources/videos/ignite-2018-single-sign-on-best-practices-for-azure-active-directory-and-microsoft-accounts/) 
+    - [Пошук звітів про дії на порталі Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports#troubleshoot-issues-with-activity-reports)
