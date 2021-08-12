@@ -1,5 +1,5 @@
 ---
-title: Змінення адреси електронної пошти в Інтернет-версії Outlook
+title: Змінення адреси електронної пошти в інтернет-версія Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000010"
 - "1995"
-ms.openlocfilehash: 7ce9cda279435beb74d43eaa433cf3c4ce358ff4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b13d7dafeabb87d027cdd3ae7659ccde79be2abfc328682885bfb0f95c1b442
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799333"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53961396"
 ---
 # <a name="change-your-email-address"></a>Змінення адреси електронної пошти 
 
-Щоб змінити свою адресу електронної пошти, потрібно мати права адміністратора.
+Щоб змінити адресу електронної пошти, знадобляться права адміністратора.
   
-Виконайте вказівки, наведені в статті [змінення імені користувача та адреси електронної пошти в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+Виконайте вказівки зі [статті Змінення імені користувача та адреси електронної пошти в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).

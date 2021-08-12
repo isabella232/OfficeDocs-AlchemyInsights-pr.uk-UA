@@ -1,5 +1,5 @@
 ---
-title: Додавання або оновлення номера PO-версії WD-Рекомендовані кроки
+title: Додати або оновити номер po-номера ( рекомендовані дії для застарілої версії WD)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9004166"
 - "7338"
-ms.openlocfilehash: 524a5d9b376632482d5c4ca235789caab958eb9a
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 7b6e5d0bd94b1de29a9571d6ee7f3c212860c5a957562238eb5f5214ec676e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679564"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953890"
 ---
-# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Додавання або оновлення номера PO-версії WD-Рекомендовані кроки
+# <a name="add-or-update-po-number---legacy-wd---recommended-steps"></a>Додати або оновити номер po-номера ( рекомендовані дії для застарілої версії WD)
 
-Додавання номера замовлення (PO) підтримується лише для клієнтів [, які сплачують рахунок-фактуру](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) за допомогою чека або банківського переказу. Інструкції з оновлення номера PO залежать від [типу облікового запису виставлення рахунків](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts).
+Додати номер замовлення на придбання можна тільки для [](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) клієнтів, які оплачуєте рахунком-фактурою за допомогою чека або банківського переказу. Інструкції з оновлення номера рахунка залежать від типу [облікового запису для платних карток.](https://docs.microsoft.com/azure/cost-management-billing/manage/view-all-accounts)
 
-Для редагування номера PO необхідно мати роль [адміністратора облікового запису](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) .
+Щоб змінити номер рахунку [на рахунку,](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles) потрібно мати роль адміністратора облікового запису.
 
-1. Виберіть передплату на сторінці " [передплати](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) ".
-2. Натисніть кнопку **способи оплати** в лівій частині вікна.
-3. У таблиці **методи оплати** натисніть кнопку **рахунок-фактуру**. 
-4. Введіть новий номер PO, а потім натисніть кнопку **зберегти**.
+1. Виберіть передплату на [сторінці Передплати.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)
+2. У **лівій** частині вікна клацніть Способи оплати.
+3. У таблиці **Методи оплати** клацніть елемент **Рахунок-фактура.** 
+4. Введіть новий номер рахунку та натисніть кнопку **Зберегти.**
 
 **Рекомендовані документи**
 
-- [Підтримувані країни та регіони та валюти](https://azure.microsoft.com/en-us/pricing/faq/) 
+- [Підтримувані країни, регіони та валюти](https://azure.microsoft.com/en-us/pricing/faq/) 
 - [Оплата за рахунком-фактурою](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice) 
-- [Керування контактною інформацією про обліковий запис Azure для виставлення рахунків](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
+- [Керування контактною інформацією облікового запису для платних служб Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)
 
 
