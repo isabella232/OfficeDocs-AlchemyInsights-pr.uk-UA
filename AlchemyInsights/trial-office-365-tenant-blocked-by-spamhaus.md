@@ -1,5 +1,5 @@
 ---
-title: Ознайомлювальна версія клієнта Microsoft 365 заблоковано за допомогою Spamhaus
+title: Trial Microsoft 365 клієнта, заблокованого spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940120"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Помилка після того, як ознайомлювальна версія Microsoft 365 надсилає повідомлення електронної пошти: хост клієнта заблоковано за допомогою Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Помилка під час Microsoft 365 повідомлення електронної пошти: хост клієнта заблоковано за допомогою Spamhaus
 
-Здається, що ви надсилаєте повідомлення електронної пошти з нової ознайомлювальної організації Microsoft 365. Щоб запобігти зловживанню, ми блокуємо IP-адреси, які відомо, що раніше були скомпрометовані. Ця перевірка більше не застосовується після того, як ви почнете використовувати платні ліцензії. Можливо, ви зможете отримати тимчасове полегшення, попросивши нову IP-адресу від постачальника послуг Інтернету (ISP) або видаливши блок із веб-сайту [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Здається, що ви надсилаєте повідомлення електронної пошти з нової Microsoft 365 ознайомлювальній організації. Щоб запобігти порушенням зловживання, ми блокуємо IP-адреси, які, як відомо, поламались раніше. Ця перевірка більше не застосовується після початку використання платних ліцензій. Ви можете отримати тимчасове полегшення, попросивши нову IP-адресу від інтернет-провайдера або знявши блокування на веб-сайті [Spamhaus.](https://go.microsoft.com/fwlink/p/?linkid=123245)
