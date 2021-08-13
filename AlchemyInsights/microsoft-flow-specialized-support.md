@@ -1,5 +1,5 @@
 ---
-title: Спеціалізована підтримка Microsoft Flow
+title: Microsoft Flow Спеціалізована підтримка
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: bd787381871b1fc184f9e0b3662d7df13cd87e9b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 89c900125a367a6ab5ce4cfe6494c51745ce763d1bb030a2c589a906525f21de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725068"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975950"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Спеціалізована підтримка Microsoft Flow
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow Спеціалізована підтримка
 
-Щоб отримати технічну підтримку потоку Microsoft, перейдіть до нового [центру адміністрування Power Platform](https://aka.ms/flowadminsupport). Новий портал надає більш прямий шлях до допоміжних підтримки, оптимізованого для Microsoft Flow та інших продуктів платформи Power Platform.
+Щоб отримати спеціалізовані Microsoft Flow підтримки, перейдіть до Центру [адміністрування нової платформи Power.](https://aka.ms/flowadminsupport) Новий портал надає більш прямий шлях до служби підтримки, оптимізованої для Microsoft Flow та інших продуктів платформи Power.
 
-Дізнатися більше:
-- [Відомості про вільні ліцензії на передавання даних Microsoft](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Передавання в організації запитань і відповідей](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Плани Microsoft 365 і Dynamics 365, які містять Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Запитання й відповіді про витрати на платежі Microsoft](https://go.microsoft.com/fwlink/?linkid=2072612)
+Щоб дізнатися більше, перегляньте статті нижче.
+- [Відомості про ліцензії Microsoft Flow Free](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Flow у своїй організації: запитання й відповіді](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Microsoft 365 і Dynamics 365, до яких входять Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Microsoft Flow запитань про виставлення рахунків і вимірювання рахунків](https://go.microsoft.com/fwlink/?linkid=2072612)

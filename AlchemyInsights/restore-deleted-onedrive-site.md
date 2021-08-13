@@ -1,5 +1,5 @@
 ---
-title: Відновлення видаленого сайту OneDrive
+title: Відновлення видаленого OneDrive сайту
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728056"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991304"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Відновлення видаленого сайту OneDrive
+# <a name="restore-a-deleted-onedrive-site"></a>Відновлення видаленого OneDrive сайту
 
-Під час видалення користувача в центрі адміністрування Microsoft 365 (або під час видалення користувача за допомогою синхронізації Active Directory) користувач буде збережено протягом указаної кількості днів у центрі адміністрування OneDrive. (Докладні дані наведено в статті [Настроювання збереження файлу за замовчуванням для видалених користувачів OneDrive](https://docs.microsoft.com/onedrive/set-retention).)
+Якщо видалити користувача з папки Центр адміністрування Microsoft 365 (або під час видалення користувача через синхронізацію Active Directory), його облікові OneDrive зберігаються протягом указаної в Центрі адміністрування OneDrive днів. (Докладні відомості [див. в OneDrive збереження файлів за замовчуванням.)](https://docs.microsoft.com/onedrive/set-retention)
 
-* [Відновлення видаленого сайту OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Відновлення видаленого OneDrive сайту](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Якщо у вас багато файлів OneDrive видаляються, перезаписуються, пошкоджені або інфіковані зловмисними програмами, ви можете відновити весь обліковий доступ до попереднього часу.
+Якщо видалено, OneDrive, перезаписали, пошкодили або заражали зловмисні програми, ви можете відновити застарілу версію OneDrive до попереднього часу.
 
-* [Відновлення "OneDrive"](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [Відновлення OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

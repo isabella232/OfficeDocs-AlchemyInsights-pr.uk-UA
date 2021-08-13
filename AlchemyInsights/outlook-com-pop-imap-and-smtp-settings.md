@@ -14,25 +14,25 @@ ms.custom:
 - "1415"
 - "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 1885297a578b433e5c74a4fc72557a1e0807cf40
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a1ec9cf117d39ba293c4b6e2759472d892db11d86c7415e1689027aa8a728ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983844"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>Параметри POP, IMAP і SMTP для Outlook.com
 
-Якщо потрібно додати обліковий запис Outlook.com до поштової програми, яка підтримує протокол POP або IMAP, виберіть потрібні параметри сервера:
+Щоб додати обліковий запис Outlook.com до поштової програми, яка підтримує протокол POP або IMAP, знадобляться такі параметри сервера:
   
-- **Ім'я сервера IMAP:** Outlook.office365.com
+- **Ім'я сервера IMAP:** outlook.office365.com
 - **Порт IMAP:** 993
 - **Метод шифрування IMAP:** TLS
-- **Ім'я POP-сервера:** Outlook.office365.com  
+- **Ім'я сервера POP:** outlook.office365.com  
 - **Порт POP:** 995  
 - **Метод шифрування POP:** TLS  
-- **Ім'я SMTP-сервера:** SMTP.office365.com
+- **Ім'я сервера SMTP:** smtp.office365.com
 - **Порт SMTP:** 587
 - **Метод шифрування SMTP:** STARTTLS
 
-Дізнайтеся більше про те [, як додати обліковий запис Outlook.com до іншої поштової програми або смарт-пристрою](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy).
+Дізнайтеся більше про [додавання облікового запису Outlook.com до іншої поштової програми або смарт-пристрою.](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970?wt.mc_id=Office_Outlook_com_Alchemy)

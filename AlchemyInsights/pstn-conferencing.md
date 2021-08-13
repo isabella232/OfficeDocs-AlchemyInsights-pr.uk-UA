@@ -13,18 +13,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: e1461582b8aa88116c600559855d32e6115cdf03
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 028e4623b7db7c0ee7a8eaab2e8971587d8cf0318c7c918ba6621f0d57b116be
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943648"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Виклики через ТМЗК в службі "Skype для бізнесу – онлайн"
+# <a name="pstn-calling-with-skype-for-business-online"></a>Виклики через ТМЗК в Skype для бізнесу Online
 
-Щоб телефонувати через ТМЗК в Microsoft 365, знадобиться план викликів [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) або підключення до локальної інфраструктури телефонної мережі ТМЗК. Докладні відомості див. в таких ресурсах: 
+Щоб здійснити виклик через ТМЗК в [](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) Microsoft 365, знадобиться Microsoft 365-план викликів або підключення до локальної інфраструктури телефонної мережі ТМЗК. Докладні відомості див. в таких ресурсах: 
 
-- [Доступність країни та регіону для аудіоконференцій і тарифних планів Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [Країна та регіон доступність для аудіоконференцій Microsoft Teams тарифних планів](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
 - [Поширені запитання щодо аудіоконференції](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Поповнення рахунків і керування рахунками для зв'язку](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Абоненти ТМЗК не можуть приєднатися до телефонної конференції в "Skype для бізнесу"](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Абоненти ТМЗК не можуть приєднатися до телефонної Skype для бізнесу телефонної конференції](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
