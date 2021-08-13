@@ -1,5 +1,5 @@
 ---
-title: Керування платіжною карткою та методом оплати
+title: Керування карткою та методом оплати
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,51 +12,51 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6462"
-ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b757aa6ba3aa97e5f0b34d4c25e8778a13d30b9ee9a975ea1eb28a6afba4f8c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972188"
 ---
-# <a name="manage-card-and-payment-method"></a>Керування платіжною карткою та методом оплати
+# <a name="manage-card-and-payment-method"></a>Керування карткою та методом оплати
 
-На порталі "Лазурний", як адміністратор облікового запису, ви можете додати нову дебетову або кредитну картку, оновити наявну кредитну картку або видалити дебетову або кредитну картку, яку ви не використовуєте. Для [угоди про клієнтську угоду Microsoft](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), методи оплати пов'язані з [профілями виставлення рахунків](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Спосіб оплати можна оновити лише для користувача, який зареєструвалися в Azure.
+На порталі Azure як адміністратор облікового запису можна додати нову дебетову або кредитну картку, оновити наявну дебетову або кредитну картку або видалити невизначу картку. У [клієнтській угоді з майкрософт](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)способи оплати пов'язані з профілями [виставлення рахунків](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Лише користувач, який зареєструвався в Azure, може оновити метод оплати.
 
-**Додавання нової дебетової або кредитної картки до "Блакитної" передплат**
+**Додавання нової дебетової або кредитної картки до передплати Azure**
 
-1. Увійдіть на портал " [Лазурний](https://ms.portal.azure.com/) " як [адміністратор облікового запису](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Виберіть елемент **керування витратами + виставлення рахунків**.
-2. Виберіть абонентську плату, до якої потрібно додати дебетову або кредитну картку. Виберіть **способи оплати**.
-3. У верхньому лівому куті натисніть кнопку, **+** щоб додати картку. У правій частині відобразиться форма дебетової або кредитної картки. Вкажіть відомості про дебетову або кредитну картку.
-4. Щоб зробити цю картку активним способом оплати, установіть прапорець поруч із пунктом **зробити цей мій активний спосіб оплати** у верхній частині форми. Ця картка стане активним платіжним інструментом для всіх передплат, які використовують ту саму картку, що й вибрана Передплата. Натисніть кнопку **Next (далі**).
-5. Натисніть кнопку **установити активним**. 
+1. Увійдіть [на портал Azure як](https://ms.portal.azure.com/) адміністратор [облікового запису.](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Виберіть **Керування витратами + Виставлення рахунків**.
+2. Виберіть передплату, до яку потрібно додати дебетну або кредитну картку. Виберіть **Методи оплати**.
+3. У верхньому лівому куті клацніть піктограму , **+** щоб додати картку. Праворуч відобразиться форма дебетової або кредитної картки. Введіть дані дебетової або кредитної картки.
+4. Щоб зробити цю картку активною, у верхній частині форми встановіть прапорець Зробити **цей** активний метод оплати. Ця картка стане активним платіжним інструментом для всіх передплат, які використовують ту саму картку, що й вибрана передплата. Натисніть **кнопку Далі**.
+5. Натисніть **кнопку Установити активний**. 
  
-**Оновлення та видалення наявної дебетової або кредитної картки**
+**Оновлення, змінення або видалення наявної дебетової або кредитної картки**
 
-1.  Увійдіть на портал " [Лазурний](https://portal.azure.com/) " як [адміністратор облікового запису](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Знайдіть **керування витратами + виставлення рахунків**.
-2.  Виберіть **способи оплати**. Клацніть на дебетову або кредитну картку, яку потрібно змінити. У правій частині відобразиться форма дебетової або кредитної картки.
-3.  Оновіть відомості про дебетову або кредитну картку. Натисніть кнопку **зберегти**.
-4.  Щоб **Видалити**, установіть прапорець біля картки, яку потрібно видалити.
-5.  Натисніть кнопку **Видалити**.
+1.  Увійдіть [на портал Azure як](https://portal.azure.com/) адміністратор [облікового запису.](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) Пошук за **запитом Керування витратами + Виставлення рахунків.**
+2.  Виберіть **Методи оплати**. Клацніть дебетну або кредитну картку, яку потрібно змінити. Праворуч відобразиться форма дебетової або кредитної картки.
+3.  Оновити відомості про дебетові або кредитну картку. Натисніть **кнопку Зберегти**.
+4.  Щоб **видалити**, установіть прапорець поруч із карткою, яку потрібно видалити.
+5.  Натисніть **кнопку Видалити.**
 
-**Примітка**: ви не можете видалити свою дебетову або кредитну картку, якщо вона пов'язана з іншими активними підписками корпорації Майкрософт. Вам потрібно буде видалити дебетову або кредитну картку з усіх активних передплат, які ви маєте в корпорації Майкрософт, і повторіть спробу.
+**Примітка.** Ви не можете видалити дебетові або кредитну картки, якщо її пов'язано з іншими активними передплатами Microsoft. Знадобиться видалити дебетові або кредитну картку з усіх активних передплат корпорації Майкрософт і повторити спробу.
 
-Додаткові відомості наведено в статті [оновлення, змінення та видалення способів оплати](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+Докладні відомості див. [в описі оновлення, змінення та вилучення методів оплати.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Виправлення неполадок із платіжними проблемами**
+**Усунення несправностей зі оплатою**
 
-Щоб дізнатися, чи вирішено проблему, зверніться до [Виправлення неполадок із проблемами платежу та сценаріїв помилок](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) .
+Щоб [дізнатися, чи вирішено проблему,](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) див. ньому відомості про виправлення неполадок і помилок.
 
-Якщо у вас є відповідна плата за картку в результаті вашої фінансової установи, щоб вирішити цю проблему, зверніться до своєї **фінансової установи** . Скористайтеся наведеними нижче вказівними покажчиками:
+Якщо на картці очікується платіж, коли ваша фінансова установа відхиляє  вашу картку, зверніться до своєї фінансової установи, щоб вирішити цю проблему. Використовуйте наведені нижче вказівники.
 
-- Можливо, вам доведеться звернутися до банку, щоб переглянути: 
+- Можливо, вам доведеться з'ясувати це в банку, щоб дізнатися про такі пункти: 
     - Якщо на картці ввімкнуто міжнародну транзакцію
-    - Якщо картка має кредитний ліміт, щоб врегулювати залишок
-    - Якщо на картці активовано функцію "періодичний платіж"
+    - Якщо для кредитної картки встановлено обмеження на баланс
+    - Якщо на картці ввімкнуто повторюваний платіж
 
 **Рекомендовані документи**
 
-- [Настроювання виставлення рахунка](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
-- [Змінення способу оплати – запитання й відповіді](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Змінення способу оплати для профілю виставлення рахунка](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Перевірка доступу до угоди клієнта Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Налаштування invoicing](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
+- [Змінення методу оплати: запитання й відповіді](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Змінення методу оплати для профілю виставлення рахунків](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Перевірка доступу до Клієнтської угоди Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
