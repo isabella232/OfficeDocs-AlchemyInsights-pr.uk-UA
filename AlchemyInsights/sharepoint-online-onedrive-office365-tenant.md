@@ -1,5 +1,5 @@
 ---
-title: Служба SharePoint Online або OneDrive "Настроювання"
+title: SharePoint Онлайн або OneDrive "Настроювання"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771013"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093619"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>Служба SharePoint Online або OneDrive "Настроювання"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Онлайн або OneDrive "Настроювання"
 
-Коли користувач додасться до наявного клієнта, вони можуть бачити піктограми SharePoint Online або OneDrive для бізнесу, наведені в списку "Настроювання" або "ми все ще працюємо над тим, щоб отримати настройки файлів", доки не завершите процес підготовки. Дотримуйтеся цього [посібника з виправлення неполадок](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) , щоб отримати довідку.
+Коли користувача додано до наявного клієнта, вони можуть бачити піктограми SharePoint Online або OneDrive для бізнесу зі списком "Налаштування" або "Ми продовжуємо роботу над налаштуванням файлів", доки процес підготовки не завершиться. Щоб отримати [довідку, дотримуйтеся цього](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) посібника з виправлення неполадок.
 
-Якщо після того, як ви вперше побачили цю проблему, увійдіть у службу підтримки.
+Якщо з моменту виникнення цієї проблеми минає понад 24 години, увійдіть у свій журнал.
 
-Ми розуміємо, що протягом довгого часу може здатися, що 24 години. У багатьох випадках ми вже працюємо над вирішенням проблеми. Щоб завершити вирішення, надайте нам принаймні 24 години.
+Ми розуміємо, що термін 24 години може здаватися довгим. У багатьох випадках ми вже працюємо над вирішенням цієї проблеми. Дайте нам принаймні 24 години, щоб завершити вирішення.
