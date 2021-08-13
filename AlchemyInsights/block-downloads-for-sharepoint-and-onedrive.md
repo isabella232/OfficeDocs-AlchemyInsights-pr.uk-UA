@@ -1,5 +1,5 @@
 ---
-title: Блокування завантажень для SharePoint і OneDrive
+title: Блокування завантажень SharePoint та OneDrive
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004146"
 - "7241"
-ms.openlocfilehash: aa6440f36c832d2cd5576ee0adf13ba14518485c
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: 87f0b48f5c3ef68af5053414b893adc66ad35d28e163154db8c3f2b3a52cf4a7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447434"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969118"
 ---
-# <a name="block-downloads-for-sharepoint-and-onedrive"></a>Блокування завантажень для SharePoint і OneDrive
+# <a name="block-downloads-for-sharepoint-and-onedrive"></a>Блокування завантажень SharePoint та OneDrive
 
-Щоб заблокувати завантаження з SharePoint і OneDrive, можна скористатися різними способами. Щоб отримати докладні відомості, ознайомтеся з наведеними нижче статтями нижче.
+Є кілька способів заблокувати завантаження з SharePoint та OneDrive. Докладні відомості див. в статтях нижче.
 
-- [Блокування завантажень для файлів лише для перегляду в SharePoint і OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
+- [Блокувати завантаження файлів лише для перегляду в SharePoint та OneDrive](https://support.microsoft.com/office/block-downloads-for-view-only-files-in-sharepoint-and-onedrive-6051184b-62ac-4149-b874-13dcd40ef91e)
 - [Керування доступом із некерованих пристроїв](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
-- [Керування доступом до SharePoint і OneDrive даних на основі мережного розташування](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [Керування доступом до SharePoint та OneDrive на основі мережевого розташування](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)

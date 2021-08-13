@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із відхилень у програмі Access для веб-сайтів у службі OneDrive
+title: Виправлення неполадок, пов'язаних із повідомленнями про OneDrive для бізнесу доступу
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,19 +10,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 9001cf0b7d9f1f05a2ecedca2c3137dd1b8a1c38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc4a2bd7dcc74f5f05e8b709e4bc3eac6ed445d6e2ea9ede698abbc8667723ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670637"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957814"
 ---
-# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Виправлення неполадок із відхилень у програмі Access для веб-сайтів у службі OneDrive
+# <a name="troubleshooting-access-denied-messages-to-onedrive-for-business-sites"></a>Виправлення неполадок, пов'язаних із повідомленнями про OneDrive для бізнесу доступу
 
-Ця проблема найчастіше виникає, коли користувач видаляється та повторно створюється за допомогою одного імені учасника-користувача (UPN). Новий обліковий запис створюється за допомогою іншого значення "PUID" (унікальний ІДЕНТИФІКАТОР паспорта). Коли користувач спробує отримати доступ до колекції сайтів або їх OneDrive, користувач має неправильний ідентифікатор. Другий сценарій передбачає синхронізацію служби каталогів за допомогою організаційної одиниці Active Directory (OU). Якщо користувачі вже ввійшли у службу SharePoint, а потім переміщуються до іншої програми SharePoint, вони можуть виникнути під час цієї проблеми.
+Найчастіше ця проблема виникає, коли користувач видаляється та повторно створюється з іменем учасника-користувача (UPN). Новий обліковий запис створюється за допомогою іншого значення PUID (Passport Unique ID). Коли користувач намагається отримати доступ до колекції сайтів або OneDrive, у користувача є неправильний ідентифікатор PUID. Другий сценарій передбачає синхронізацію служби каталогів з підрозділом організації Active Directory. Якщо користувачі вже ввійшли в SharePoint, а потім переміщуються до іншого єдиного входу та повторно SharePoint, у них може виникнути ця проблема.
 
-1. Щоб вирішити цю проблему, потрібно відновити початковий UPN, виконавши кроки, описані в статті, [відновлення користувача в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
-2. Якщо ви не можете відновити початковий користувач, який ви маєте видалити старий користувач із сайту OneDrive, виконавши наведені нижче дії, [видаліть користувача зі списку відомостей про користувача](). 
-3. Після цього ви можете перевірити, чи користувач має права адміністратора на веб-сайт OneDrive, виконавши вказівки з [Додавання адміністратора для onedrive користувача](https://docs.microsoft.com/sharepoint/manage-user-profiles) .
+1. Щоб вирішити цю проблему, потрібно відновити вихідне ім'я UPN, як описано в статті Відновлення [користувача в Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
+2. Якщо не вдається відновити вихідного користувача, старого користувача слід видалити із сайту OneDrive, додавши наведені нижче дії, видаліть користувача зі списку [відомостей про користувача.]() 
+3. Після цього можна перевірити, чи має користувач права адміністратора на сайт OneDrive, виконавши вказівки з додавання адміністратора для облікового [запису OneDrive](https://docs.microsoft.com/sharepoint/manage-user-profiles)
 
-Докладні відомості про рівні дозволів наведено в статті, [розумінні рівнів дозволів у службі SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Докладні відомості про рівні дозволів див. в статті Докладні відомості про рівні дозволів у [SharePoint.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
