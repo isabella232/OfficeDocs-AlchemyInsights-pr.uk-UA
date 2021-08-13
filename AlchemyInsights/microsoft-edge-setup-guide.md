@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992863"
 ---
 # <a name="start-using-microsoft-edge"></a>Початок використання Microsoft Edge
 
-Корпорація Майкрософт випустила нову версію Microsoft Edge – це наступне покоління браузера. Він побудований на основі основ із відкритим кодом Chromium і оптимізовано для роботи з продуктами Microsoft, як-от SharePoint і OneDrive.
+Корпорація Майкрософт випустила нову версію Microsoft Edge – це наступне покоління браузера. Він побудований на Chromium відкритому джерелі та оптимізовано для роботи з продуктами Microsoft, наприклад SharePoint та OneDrive.
 
 Якщо у вас виникають проблеми з Google Chrome, Mozilla Firefox або Safari, радимо використовувати Microsoft Edge.
 
-Якщо ви адміністратор великої організації, скористайтеся нашим посібником із настроювання [Microsoft Edge,](https://go.microsoft.com/fwlink/?linkid=2142423) щоб почати роботу.
+Якщо ви адміністратор великої організації, скористайтеся нашим [Microsoft Edge,](https://go.microsoft.com/fwlink/?linkid=2142423) щоб почати роботу.
 
-Щоб завантажити Microsoft Edge на одному пристрої за раз, перейдіть до статті [Знайомство з новою програмою Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2141049)
+Щоб завантажити Microsoft Edge на один пристрій за раз, перейдіть до статті Введення нового [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).

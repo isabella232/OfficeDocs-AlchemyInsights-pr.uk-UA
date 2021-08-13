@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 32461b94abb4d7caf80096a1d36f414801e52cfc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 2e734506a97f68509a3b41529bbdde07917472c10a24c1d40305fdad7feff41a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944728"
 ---
 # <a name="microphone-isnt-working-in-teams"></a>Мікрофон не працює в Teams
 
 Почніть виправляти неполадки, виконавши такі дії:
 
-- Перевірка наявність оновлень Windows і Teams.
+- Перевірка Windows та Teams оновлень.
 - Закривайте всі інші програми, у яких використовується цей файл.
 - Здійснюючи пробний виклик, ви перевіряєте, чи працює він належним чином.
 
-Докладні відомості та додаткові інструкції з виправлення неполадок див. в статті Мій мікрофон не працює [в Teams.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)
+Докладні відомості та інші дії з виправлення неполадок див. в [статті Мікрофон](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)не працює Teams .

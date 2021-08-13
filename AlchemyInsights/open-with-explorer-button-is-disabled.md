@@ -1,5 +1,5 @@
 ---
-title: Кнопка "Відкрити у провіднику"
+title: Кнопку "Відкрити у провіднику" вимкнуто
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944620"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>Кнопка відкрити у провіднику вимкнута
+# <a name="the-open-with-explorer-button-is-disabled"></a>Кнопку "Відкрити у провіднику" вимкнуто
 
-- Перейдіть до розташування служби SharePoint або OneDrive в Internet Explorer 10 або Internet Explorer 11. Кнопка не сумісна з іншими браузерами.
+- Перейдіть до розташування SharePoint або OneDrive в Internet Explorer 10 чи Internet Explorer 11. Вона несумісна з іншими браузерами.
     
 > [!NOTE]
-> Відкриття бібліотеки в Файловому провіднику зручно, якщо потрібно скопіювати або перемістити кілька файлів і папок, але якщо потрібно регулярно працювати в бібліотеці, радимо його синхронізувати. Щоб отримати докладнішу довідку та усунути неполадки, які відкриваються в Файловому провіднику, [Відкрийте статтю відкрити у провіднику](https://go.microsoft.com/fwlink/?linkid=871665). Докладні відомості про настроювання синхронізації наведено в статті [Синхронізація файлів SharePoint за допомогою нового клієнта синхронізації OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Відкрити бібліотеку у Файловому провіднику зручно, якщо потрібно копіювати або переміщати кілька файлів і папок один раз, але якщо вам потрібно регулярно працювати в бібліотеці, радимо синхронізувати її. Щоб отримати докладну довідку та вирішити інші проблеми з відкриттям у Файловому провіднику, див. [розділ Відкрити у провіднику.](https://go.microsoft.com/fwlink/?linkid=871665) Відомості про налаштування синхронізації див. в [SharePoint синхронізації файлів за допомогою нового синхронізатор OneDrive клієнта.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 
