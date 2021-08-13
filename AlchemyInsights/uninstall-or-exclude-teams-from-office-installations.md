@@ -1,5 +1,5 @@
 ---
-title: Видалення або виключення Teams з інсталяцій Office
+title: Видалення або вилучення Teams інсталяції Office інсталяції
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2662"
 - "9000660"
-ms.openlocfilehash: 2d96d54cb479f5f52cc707d4307cf9cf1e891a01
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a960c96abf6215e3a34908ce8669a0c61298daac829343b3673dbfef0c4cbfc7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007739"
 ---
-# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Видалення або виключення Teams із нових або наявних інсталяцій Office
+# <a name="uninstall-or-exclude-teams-from-new-or-existing-office-installations"></a>Видалення або виключення Teams нових або наявних Office інсталяції
 
-Microsoft Teams входить до складу програм Microsoft 365 для підприємств, програм Microsoft 365 для бізнесу та Office для Mac.
+Microsoft Teams включено до складу Програми Microsoft 365 для підприємств, Програми Microsoft 365 для бізнесу та Office для Mac.
 
-- [Виключіть Teams із](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) нових інсталяцій Office за допомогою засобу розгортання Office.
-- Відомості *про видалення* Teams із пристрою під керуванням Windows див. в статті Видалення Microsoft [Teams.](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) Відомості про видалення Microsoft Teams із кількох цільових комп'ютерів або користувачів див. в статті [Очищення розгортання Microsoft Teams.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+- Скористайтеся [засобом Office розгортання,](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) щоб Teams з нових інсталяцій Office.
+- Відомості *про* Teams видалення з пристрою під керуванням Windows див. [в розділі Видалення Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Відомості про Microsoft Teams кількох цільових комп'ютерів або користувачів див. [в Microsoft Teams розгортання.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 - Скористайтеся [параметром PreventTeamsInstall,](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams
-) щоб запобігти автоматичній інсталяції Microsoft Teams з Office.
-- Перш ніж інсталювати *Teams,* скористайтеся параметром [PreventFirstLaunchAfterInstall,](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) щоб microsoft Teams не запускався автоматично після інсталяції.
+) щоб Microsoft Teams автоматично інсталювати пакет із Office.
+- Скористайтеся [параметром PreventFirstLaunchAfterInstall,](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation) перш *Teams* інсталяції , щоб запобігти автоматичному Microsoft Teams після інсталяції.
 
-Якщо ви використовуєте Office для Mac, див. номери [інсталяцій Microsoft Teams на комп'ютері Mac.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+Якщо ви використовуєте пакет Office для Mac, див. Microsoft Teams [на комп'ютері Mac.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
