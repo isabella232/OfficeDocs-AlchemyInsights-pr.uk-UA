@@ -1,5 +1,5 @@
 ---
-title: Розгортання, оновлення та керування Microsoft EDGE у Windows за допомогою диспетчера конфігурації
+title: Використання диспетчера конфігурацій для розгортання, оновлення та Microsoft Edge на Windows
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004030"
 - "7100"
-ms.openlocfilehash: ee978146ff0964e9ebd9f476f9c92d1f97aa042c
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: 226878c7ce12a9cdc9c6b24a1b05cdbf39ed67ad631b3a7dc02bbe0d7d6b91a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919582"
 ---
-# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Розгортання, оновлення та керування Microsoft EDGE у Windows за допомогою диспетчера конфігурації
+# <a name="use-configuration-manager-to-deploy-update-and-manage-microsoft-edge-on-windows"></a>Використання диспетчера конфігурацій для розгортання, оновлення та Microsoft Edge на Windows
 
-У диспетчері конфігурації версії 1910 можна розгорнути Microsoft EDGE (версії 77 і пізнішу версію) за допомогою сценарію PowerShell. Сценарій вимикає автоматичні оновлення, і це дає змогу керувати оновленням за допомогою диспетчера конфігурації. Докладні відомості про ці та інші переваги використання диспетчера конфігурації наведено в статті [керування службою EDGE](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?).
+Диспетчер конфігурацій версії 1910 Microsoft Edge (версії 77 і пізніших) за допомогою сценарію PowerShell. Сценарій вимикає автоматичні оновлення, і це дає змогу керувати оновленнями в Диспетчері конфігурацій. Докладні відомості про ці та інші переваги використання диспетчера конфігурацій див. [в Microsoft Edge керування.](https://docs.microsoft.com/mem/configmgr/apps/deploy-use/deploy-edge?)

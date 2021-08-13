@@ -13,12 +13,12 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d82a1f0ac2007e2c7472fc486754a7b144a8927d17ab0e6ffe0fed6fd2ddf4e4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927274"
 ---
 # <a name="how-to-restore-a-deleted-team-or-channel"></a>Відновлення видаленої команди або каналу
 
@@ -29,4 +29,4 @@ ms.locfileid: "51811189"
 1. Відкрийте параметри команди, натиснувши 3 крапки праворуч від назви команди.
 2. Виберіть **Керування**  >  **каналами команди**  >  **Видалено**, а потім натисніть **Відновити** праворуч.
 
-Докладні відомості про відновлення команди див. в статті Архівування та видалення команди [в Microsoft Teams – Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Докладні відомості про відновлення команди див. в цій Microsoft Teams [– Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
