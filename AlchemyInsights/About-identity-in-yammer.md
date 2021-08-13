@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 57e7e6328747fc05b89799d631b2c6d7e0056547253aa3d75cdecb38cea3ad7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918958"
 ---
 # <a name="about-identity-in-yammer"></a>Відомості про ідентичність у Yammer
 
-Рекомендується, щоб усі мережі могли уникнути проблем, пов'язаних із ідентифікацією в цій статті.
+Щоб уникнути проблем із ідентичноістю, ми рекомендуємо виконати наведені нижче дії в усіх мережах.
 
-1. Забезпечення ідентифікації Office 365 після підготовки облікових записів Microsoft 365 для користувачів у Azure AD для того, щоб усі користувачі ввійшли за допомогою основного облікового запису Microsoft 365. Докладні відомості наведено в статті [застосування ідентифікації Office 365 для користувачів Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).
-2. Об'єднання кількох мереж Yammer. Успадковане настроювання Yammer дозволяє декільком мережі Yammer підключатися до одного клієнта. Докладні відомості наведено в статті [перенесення мережі – об'єднання кількох мереж Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
-3. За потреби можна забезпечити ліцензування для Yammer, щоб заблокувати користувачів Yammer, якщо вони не мають ліцензії. Докладні відомості наведено в статті [керування ліцензіями користувачів Yammer в Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
-4. Нарешті, аудит списку користувачів для старих мереж Yammer та призупинення успадкованих користувачів. Рекомендується призупиняти (деактивування) користувачів, а не видаляти їх, оскільки видалення незворотні. Щоб отримати докладні відомості, ознайомтеся з [користувачами служби аудиту Yammer в мережах, підключених до Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) і [видаляти користувачів](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
+1. Примусовий Office 365, коли облікові записи Microsoft 365 для користувачів в Azure AD, щоб усі користувачі входили за допомогою основного облікового запису Microsoft 365 облікового запису. Докладні відомості [див. в Office 365 ідентичності Yammer.](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)
+2. Об'єднання кількох Yammer мереж. Застарілі Yammer конфігурацій дозволяють підключатися до Yammer кількох мереж. Докладні відомості див. в розділАх Перенесення мережі – [об'єднання кількох Yammer мереж.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
+3. За потреби примусово застосовуйте ліцензування Yammer, щоб заблокувати доступ користувачів до Yammer, якщо в них немає ліцензії. Докладні відомості [див. в Yammer керування ліцензіями користувачів Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
+4. Нарешті, перевіряти список користувачів для старіших Yammer мереж і призупиняти дії застарілих користувачів. Ми рекомендуємо призупиняти (деактивувати) користувачів, а не видаляти їх, оскільки видалення не можна. Докладні відомості див. в статтях Yammer користувачів у мережах, [підключених до Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) та Видалення [користувачів.](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users)
 
-Настроївши Yammer, виконавши наведені нижче дії, ви також зможете налаштувати мережу Yammer в рідному режимі для Microsoft 365. Докладні відомості наведено в статті [Настроювання мережі Yammer в рідному режимі для Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode).
+Настроївши Yammer, ви також зможете налаштувати власну мережу Yammer для власного режиму Microsoft 365. Докладні відомості [див. в Yammer для власного режиму для Microsoft 365.](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)

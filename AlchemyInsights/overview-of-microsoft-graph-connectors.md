@@ -1,5 +1,5 @@
 ---
-title: Загальні відомості про сполучні лінії Microsoft Graph
+title: Огляд з'єдн Graph Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924572"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>Загальні відомості про сполучні лінії Microsoft Graph
+# <a name="overview-of-microsoft-graph-connectors"></a>Огляд з'єдн Graph Microsoft
 
-Щоб планувати сполучні лінії Microsoft Graph, перегляньте  [Огляд сполучних ліній](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Щоб запланувати для Microsoft Graph з'єднатори, див. огляд [з'єдначів.](https://docs.microsoft.com/microsoftsearch/connectors-overview)
 
-- Відображення [сполучних ліній корпорацією Майкрософт](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) або  [сполучних ліній за допомогою партнерів](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [Керування сполучною програмою Microsoft Search](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- Див. [номери з'єднаторів від корпорації Майкрософт](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) [або з'єднаторів від партнерів.](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [Керуйте з'єднатором для Пошук Microsoft](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-Щоб планувати пошук Microsoft, ознайомтеся  [з оглядом служби Microsoft Search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+Відомості про планування Пошук Microsoft див. в [огляді Пошук Microsoft.](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search)
