@@ -1,5 +1,5 @@
 ---
-title: Перенесення контактів Gmail або календарів Google до Office 365 або Outlook
+title: Перенесення контактів Gmail або Календарів Google до Office 365 або Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964321"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Перенесення контактів Gmail або календарів Google до Office 365 або Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>Перенесення контактів Gmail або Календарів Google до Office 365 або Outlook
 
-Найпростіший спосіб імпортувати контакти та календар Gmail до служби Office – це використання контактів і консультанта у службі Gmail.
+Найпростіший спосіб імпортувати контакти й календар Gmail Office – скористатися контактами й консультантом із календаря Gmail.
 
-Для [контактів і консультанта із календаря Gmail](https://go.microsoft.com/fwlink/?linkid=2134386) показано, як синхронізувати контакти Gmail і елементи календаря у службі Office 365, використовуючи різні методи імпорту та експорту.
+У [списку контактів і](https://go.microsoft.com/fwlink/?linkid=2134386) календаря Gmail ви можете синхронізувати контакти та елементи календаря Gmail із Office 365 різними способами імпорту й експорту.
 
-Якщо ви ще не переносите електронну пошту, [Порадник з Настроювання електронної пошти](https://go.microsoft.com/fwlink/?linkid=2133951) надає покрокові вказівки, щоб завершити перенесення поштової скриньки.
+Якщо ви ще не перенесли електронну [](https://go.microsoft.com/fwlink/?linkid=2133951) пошту, консультант із настроювання електронної пошти надається покрокові вказівки, щоб завершити перенесення поштової скриньки.
 
-Щоб дізнатися, як переглянути Календар Google у програмі Outlook, перегляньте [статтю Календар Google у програмі Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+Щоб дізнатися, як переглянути свій Календар Google у Outlook, див. ість статті Перегляд [Календаря Google у Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).

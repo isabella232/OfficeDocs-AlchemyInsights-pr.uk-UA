@@ -1,5 +1,5 @@
 ---
-title: Доступ заборонено до сайту веб-застосунку Project Web App
+title: Access denied to a Project Web App site
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663678"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955366"
 ---
-# <a name="give-users-permissions-in-project-online"></a>Надання дозволу користувачам у веб-програмі Project Online
+# <a name="give-users-permissions-in-project-online"></a>Надання дозволів користувачам у Project Online
 
-Надання користувачам доступу до сайту веб-застосунку Project Web App за допомогою режиму дозволів SharePoint:
+Надайте користувачам доступ до сайту Project веб-програми за допомогою SharePoint дозволів.
 
-1. Увійдіть у службу Project Online як адміністратор.
-2. На головній сторінці Project Web App натисніть кнопку **спільний доступ** у верхньому правому куті.
-3. У діалоговому вікні **спільний доступ до веб-застосунку Project Web App** введіть ім'я користувача особи, якій потрібно надати доступ до поля **запросити користувачів** .
-4. Натисніть кнопку **Показати настройки**, а потім у меню **Виберіть рівень дозволів** виберіть пункт **керівники проектів для веб-програми Project Web App**.
-5. Натисніть кнопку **надати спільний доступ**.
+1. Увійдіть Project Online як адміністратор.
+2. На домашній сторінці Project Web App натисніть кнопку Спільний **доступ** у верхньому правому куті.
+3. У **діалоговому вікні Project** Веб-застосунок" введіть ім'я користувача, якому потрібно надати доступ, у полі **Запросити користувачів.**
+4. Виберіть **елемент Показати параметри**, а потім **у** меню Виберіть рівень дозволів виберіть пункт **Диспетчери Project для Project Веб-програма**.
+5. Натисніть кнопку **Спільний доступ**.
 
-Якщо використовується режим дозволів Project або додаткові відомості, зверніться [до статті додавання користувачів до служби Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+Якщо ви використовуєте Project дозволи або докладні відомості, див. статтею Додавання [користувачів до Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

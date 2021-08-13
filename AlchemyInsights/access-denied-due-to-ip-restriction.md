@@ -1,5 +1,5 @@
 ---
-title: Відмовлено в доступі через обмеження IP-адрес
+title: Access denied due to IP restriction
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564895"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955402"
 ---
-# <a name="access-denied-due-to-ip-restriction"></a>Відмовлено в доступі через обмеження IP-адрес
+# <a name="access-denied-due-to-ip-restriction"></a>Access denied due to IP restriction
 
-Як ІТ-адміністратор ви можете керувати доступом до ресурсів SharePoint і OneDrive в Microsoft 365 на основі визначених мережевих розташувань, які ви довіряєте. Цей параметр також відомий як політика на основі розташування. Докладні відомості наведено в статті [керування доступом на основі мережного розташування](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+ІТ-адміністратор може керувати доступом до ресурсів SharePoint OneDrive у Microsoft 365 на основі визначених мережевих розташцій, які ви довіряєте. Це також називається політикою на основі розташування. Докладні відомості див. в [сторінці Керування доступом на основі мережевого розташування.](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 

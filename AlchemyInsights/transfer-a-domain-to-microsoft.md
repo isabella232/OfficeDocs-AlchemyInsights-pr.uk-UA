@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "7304"
-ms.openlocfilehash: 8a8a13956237fe146340ff19024a626981138a43
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 17cd75fb3eacd35a5177affc0308c4864359b35ace3aebe317c0c126092b6bba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53980990"
 ---
 # <a name="transfer-a-domain-to-microsoft"></a>Перенесення домену до корпорації Майкрософт
 
-Реєстрація доменів і виставлення рахунків не можна перенести в корпорацію Майкрософт.
+Реєстрацію доменів і виставлення рахунків не можна перенести до корпорації Майкрософт.
 
-Щоб додати домен, який ви вже володієте, виконайте [Майстер додавання домену](https://admin.microsoft.com/Adminportal/Domains/Wizard)або перейдіть до елемента **настройки**  >  **доменів**  >  **Add domain**(додати домен).
+Щоб додати домен, який у вас уже є, дотримуйтеся вказівок майстра [додавання](https://admin.microsoft.com/Adminportal/Domains/Wizard)домену або перейдіть **Настройки**  >  **Домени**  >  **Додати домен**.
 
-Щоб отримати докладні відомості про зміни DNS, необхідні для підтвердження свого домену, перегляньте статтю [Додавання записів DNS для підключення домену](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Докладні відомості про зміни в DNS, необхідні для підтвердження права власності на домен, див. в розділі [Додавання записів DNS для підключення домену.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Для питань, що стосуються доменів, перегляньте [запитання й відповіді про домени](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Усі запитання про домени див. в статті [Домени: запитання й відповіді.](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)
