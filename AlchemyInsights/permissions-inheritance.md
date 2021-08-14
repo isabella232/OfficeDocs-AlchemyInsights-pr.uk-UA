@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: f086bd7312772b399146cd81261f147364d64665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd3cb78ca96953403bd0acc7e36e8466face0efd230d64dabcf055185c8ab12a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095311"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Принцип роботи успадкування дозволів у SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Принцип успадкування дозволів у SharePoint
 
-За замовчуванням дозволи в SharePoint успадковуються від більшого в ієрархії. Таким чином, файл успадковує свої дозволи з папки, які успадковують свої дозволи від бібліотеки, які успадковують свої дозволи від сайту, що успадковує її дозволи від колекції сайтів.
+За замовчуванням дозволи в SharePoint успадковуються від вищої ієрархії. Таким чином, файл успадковує дозволи папки, що успадковує дозволи бібліотеки, що успадковує її дозволи від сайту, що успадковує її дозволи від колекції сайтів.
   
-Докладні відомості про видалення унікальних дозволів і відновлення успадкування наведено в статті [редагування та керування дозволами для списку або бібліотеки](https://go.microsoft.com/fwlink/?linkid=869946).
+Відомості про видалення унікальних дозволів і відновлення успадкування див. в розділі Редагування дозволів для списку або бібліотеки та керування [ними.](https://go.microsoft.com/fwlink/?linkid=869946)
   
 
