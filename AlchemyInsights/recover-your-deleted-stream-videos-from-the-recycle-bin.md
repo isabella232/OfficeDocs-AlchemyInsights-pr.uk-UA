@@ -1,5 +1,5 @@
 ---
-title: Відновлення видаленого потокового відео з кошика
+title: Відновлення видалених відео Stream із кошика
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959452"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Відновлення видаленого потокового відео з кошика
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Відновлення видалених відео Stream із кошика
 
-Під час видалення відео в Microsoft Stream вони потрапляють до кошика 30 днів.
+Коли відео видаляються з Microsoft Stream, вони потрапляються в кошик на 30 днів.
 
-Кошик відео дає змогу відновити відео, якщо їх випадково видалено або остаточно видалити відео вже в кошику до 30-денного ліміту.
+Кошик відео дає змогу відновити відео, якщо їх випадково видалено, або остаточно видалити відео, уже наявні в кошику до 30 днів.
 
 Докладні відомості:
 
-- [Відновлення видаленого відео з кошика](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [Кошик відео для адміністраторів потокового передавання даних](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [Відновлення видалених відео з кошика](https://docs.microsoft.com/stream/portal-my-recycle-bin)
+- [Кошик відео для адміністратора Stream](https://docs.microsoft.com/stream/admin-recycle-bin)

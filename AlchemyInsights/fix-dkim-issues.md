@@ -1,5 +1,5 @@
 ---
-title: Вирішення проблем із інсталяцією DKIM
+title: Вирішення проблем із налаштуванням DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a613321ed79e657350ec4d19b1f07ac0a091b227a8268c793a10edd9990d41f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744971"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945952"
 ---
-# <a name="fix-dkim-setup-issues"></a>Вирішення проблем із інсталяцією DKIM
+# <a name="fix-dkim-setup-issues"></a>Вирішення проблем із налаштуванням DKIM
 
-Якщо у вас виникли проблеми, які дають змогу DKIM для свого настроюваного домену, виконайте наведені нижче дії.
+Якщо у вас виникають проблеми з увімкненням DKIM для настроюваного домену, виконайте такі дії:
 
-- Більшість проблем із інсталяцією DKIM пов'язано з неправильними записами DNS. Переконайтеся, що запис CNAME DKIM (**не** запис txt) відформатовано правильно. Щоб отримати докладніші відомості, ознайомтеся з цією [темою](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+- Більшість проблем із настроюванням DKIM пов'язані з неправильними записами DNS. Переконайтеся, що запис CNAME DKIM **(не** запис TXT) відформатовано належним чином. Докладні відомості див. в цій [статті](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-- Створивши або оновіть записи DNS DKIM у службі розміщення DNS для домену (зазвичай, реєстратора доменів), зачекайте, доки не буде поширюватися записи DNS.
+- Створиивши або оновивши записи DNS DKIM у службі розміщення DNS для свого домену (зазвичай це ваш реєстратор доменів), зачекайте, доки записи DNS розміщаться.
 
-- Якщо ви не можете створити записи DNS DKIM в центрі адміністрування, можна замінити його \<CustomDomain\> настроюваним доменом (наприклад, contoso.com) і виконати цю команду в [службі Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
+- Якщо не вдається створити записи DNS DKIM у Центрі адміністрування, можна замінити їх на настроюваний домен (наприклад, contoso.com) і виконати цю команду в \<CustomDomain\> [Exchange Online PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .

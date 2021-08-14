@@ -1,5 +1,5 @@
 ---
-title: Проблеми зі службою самообслуговування скидання пароля (SУРП)
+title: Виникли проблеми із самостійно скиданням пароля (SSPR)?
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "7663"
-ms.openlocfilehash: 4f1f94be299c980a6a359d727fb24f411f98b785
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: bd76ae6b2ce140fd8feb490a5fffe1baa36598e7650107f176baec30d71b8628
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722048"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945871"
 ---
-# <a name="having-self-service-password-reset-sspr-problems"></a>Проблеми зі службою самообслуговування скидання пароля (SУРП)
+# <a name="having-self-service-password-reset-sspr-problems"></a>Виникли проблеми із самостійно скиданням пароля (SSPR)?
 
-Під час використання поширених проблем із самослужбами (SSPR) у гібридному хмарі та локальному середовищі є такі проблеми:
+Поширені проблеми самостійного скидання пароля (SSPR) у гібридних і хмарних середовищах:
 
-- [Не активовано функцію writback для запису пароля](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
-- [Ліцензія «Лазурний» AD Premium не призначена](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
-- Проблеми з [підключенням до БЛАКИТНОЇ реклами](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) або [неполадки з мережею](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity)
-- [Методи автентифікації SУРП не реєструються](https://mysignins.microsoft.com/security-info)
-- [Непідтримувані сценарії writback](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) , як-от Центр адміністрування Microsoft 365 або адміністратори, які використовують sspr
+- [Записування пароля в SSPR не ввімкнуто](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)
+- [Ліцензію Azure AD premium не призначено](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing)
+- [Проблеми з Підключення мережею](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sync-errors) або [azure](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-connectivity) AD
+- [Методи автентифікації SSPR не зареєстровано](https://mysignins.microsoft.com/security-info)
+- [Непідтримувані сценарії записування,](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-writeback#unsupported-writeback-operations) наприклад Адміністратор Microsoft 365 центру або адміністратори, які використовують SSPR
 
 
 Докладні відомості:
 
-- [Виправлення неполадок із скидленням пароля для самостійного обслуговування](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
-- [Виправлення неполадок із неавтоматичного відновлення пароля в службі "Лазурний" в "Блакитний"](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+- [Усунення несправностей із самостійно скиданням пароля](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr)
+- [Усунення несправностей із самостійним скиданням пароля в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)

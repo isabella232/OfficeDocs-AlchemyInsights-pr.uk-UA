@@ -1,5 +1,5 @@
 ---
-title: Використання умовного доступу за допомогою функції InTune
+title: Використання умовного доступу з Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6e86c6b4c9c6adcbeac504acd5a10f2139d04237
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 23afea21668191093d612d68ca6e9ab2a844f4a14977631d33f4fd956fc3c4e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005795"
 ---
-# <a name="using-conditional-access-with-intune"></a>Використання умовного доступу за допомогою функції InTune
+# <a name="using-conditional-access-with-intune"></a>Використання умовного доступу з Intune
 
-Використання умовного доступу за допомогою функції Inune вимагає 3 кроків:
+Щоб використовувати умовний доступ з Intune, потрібно виконати 3 кроки:
 
-- [Створіть політику відповідності, щоб визначити параметри, які потрібно виконати перед тим, як пристрій вважається сумісним. Наприклад, для пристрою має бути PIN-код принаймні на 6 цифр, перш ніж вона вважається відповідним.](https://docs.microsoft.com/mem/intune/protect/create-compliance-policy)
-- [Створіть політику умовного доступу, яка визначає, які ресурси захищено, і які умови потрібно виконати для доступу до цих ресурсів. Наприклад, пристрій має бути сумісним, перш ніж отримувати доступ до корпоративної електронної пошти.](https://docs.microsoft.com/mem/intune/protect/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)
-- [Переконайтеся, що політики відповідності та політики умовного доступу орієнтовані на потрібні групи користувачів. Для цього може знадобитися створити певні групи користувачів у службі Azure Active Directory.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [Створіть політику відповідності, щоб визначити параметри, які мають відповідати вимогам для пристрою. Наприклад, для цього на ньому має бути pin-код із принаймні шести цифр.](https://docs.microsoft.com/mem/intune/protect/create-compliance-policy)
+- [Створіть політику умовного доступу, яка визначає ресурси для захисту, а також умови, які мають бути виконані для доступу до цих ресурсів. Наприклад, доступ до корпоративної електронної пошти має відповідати пристрою.](https://docs.microsoft.com/mem/intune/protect/tutorial-protect-email-on-unmanaged-devices#create-conditional-access-policies)
+- [Переконайтеся, що як політики відповідності, так і політики умовного доступу призначено для потрібних груп користувачів. Для цього може знадобитися створити певні групи користувачів Azure Active Directory.](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
 
 [Докладніше...](https://docs.microsoft.com/mem/intune/protect/device-compliance-get-started)

@@ -1,5 +1,5 @@
 ---
-title: 1489 – дозволи – обов'язкові для відкриття – пошук
+title: 1489-permissions-required-for-ediscovery-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: bc384a948bab5ba93b00f9401cc42e4fda71ec3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4343a43b5019877ce01601f4baa13f3290177d25e0d24d6034858205966f5f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795841"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973862"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Дозволи, які вимагаються для пошуку в службі виявлення електронної інформації
+# <a name="permissions-required-for-ediscovery-searches"></a>Дозволи, необхідні для пошуку витребування електронної даних
 
-Щоб виконати пошук вмісту в центрі відповідності системи безпеки &, користувач має бути принаймні учасником рольової групи "Диспетчер Витребування", яка дає змогу виконувати пошукові запити та розміщувати в поштових скриньках, сайтах SharePoint і розташуваннях OneDrive. Учасники можуть також створювати справи про виявлення та керувати ними, додавати та видаляти учасників у випадку, створювати та редагувати пошукові запити вмісту та отримувати дані про інцидент у розширеному Витребування електронної інформації.
+Для виконання пошуку вмісту в Центрі безпеки та відповідності & користувач має бути принаймні учасником групи ролей Диспетчера витребування електронної інформації, яка дає змогу виконувати пошуки та розміщення утримання в поштових скриньках, на сайтах SharePoint і розташуваннях OneDrive. Учасники також можуть створювати інциденти витребування електронної інформації та керувати ними, додавати та вилучати учасників до інциденту, створювати й редагувати пошукові запити, а також отримувати доступ до даних регістра Advanced eDiscovery.
 
-Щоб виконати пошук на місці в центрі адміністрування Exchange (eDiscovery), користувач має бути учасником рольової групи керування наданням відомостей у службі Exchange Online.
+Для In-Place витребування електронної інформації в Центрі адміністрування Exchange (EAC) користувач має бути учасником групи ролей Discovery Management (Керування наданням даних) у Exchange Online.
 
-Докладні відомості про дозволи eDiscovery наведено в статті: 
+Докладні відомості про дозволи на витребування електронної інформації див. в описах: 
 
-- [Призначення дозволів eDiscovery у центрі відповідності безпеки &](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- [Призначення дозволів на витребування електронної інформації в Центрі безпеки & відповідності](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-- [Призначення дозволів eDiscovery в Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Призначення дозволів на витребування електронної Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Примітка**. після призначення дозволів на відкриття, можливо, знадобиться зачекати кілька хвилин для розповсюдження дозволів.
+**Примітка.** Після призначення дозволів на витребування електронної даних може знадобитися зачекати кілька хвилин, доки дозволи на розкриваються.

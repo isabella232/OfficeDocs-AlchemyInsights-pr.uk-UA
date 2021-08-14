@@ -1,5 +1,5 @@
 ---
-title: Початок роботи з пристроями з віддаленим налагодженням windows 10
+title: Початок роботи з пристроями з віддаленим налагодженням Windows 10 пристроями
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "6980"
 - "10188"
 - "9005827"
-ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
-ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
+ms.openlocfilehash: 829f8edc6c1d9887f157f503071aa7cab2f334ed34d66765042a42a4d7d97113
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "51398585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959416"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Початок роботи з пристроями з віддаленим налагодженням windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>Початок роботи з пристроями з віддаленим налагодженням Windows 10 пристроями
 
-Щоб віддалено налагодити динамічний вміст на пристрої з Windows 10 на комп'ютері з ОС Windows або macOS:
+Щоб віддалено налагодити динамічний вміст на Windows 10'ютері з комп'ютера Windows macOS:
 
-1. Настройте пристрій із Windows 10 для віддаленого налагодження, а потім підключіться до нього з комп'ютера розробки.
-2. Перевіряти та налагодити динамічний вміст на пристрої Windows 10 на комп'ютері розробки.
+1. Налаштуйте пристрій Windows 10 для віддаленого налагодження, а потім підключіться до нього з комп'ютера розробника.
+2. Перевіряти вміст наживо та налагодити його Windows 10 пристрої з комп'ютера розробки.
 3. Screencast content from your Windows 10 device onto a DevTools instance on your development machine.
 
-Докладні відомості див. в [статті Початок роботи з віддаленим налагодженням пристроїв із Windows 10 за допомогою Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142172)
+Докладні відомості див. в Основи за допомогою функції віддаленого налагодження [Windows 10 пристроями за допомогою Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

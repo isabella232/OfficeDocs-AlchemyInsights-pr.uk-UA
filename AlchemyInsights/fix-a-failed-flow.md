@@ -1,5 +1,5 @@
 ---
-title: Виправлення невиконаних потоків
+title: Виправлення помилки потоку
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730216"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945988"
 ---
-# <a name="fix-a-flow-that-failed"></a>Виправлення невиконаних потоків
+# <a name="fix-a-flow-that-failed"></a>Виправлення помилки під час потоку
 
-1. Перейдіть на сторінку [Microsoft Flow](https://flow.microsoft.com/)і клацніть піктограму сповіщення у верхньому правому куті. (Або в програмі для мобільних пристроїв виберіть вкладку дії). Виберіть потік, який не вдалося переглянути в деталях.
+1. Перейдіть до [Microsoft Flow](https://flow.microsoft.com/), а потім клацніть піктограму Сповіщення у верхньому правому куті. (Або в програмі для мобільних пристроїв виберіть вкладку Дії.) Виберіть потік, який не вдалося подивитися на докладні відомості.
     
-2. Знайдіть крок із червоною піктограмою оклику, щоб переглянути повідомлення про помилку для потоку.
+2. Знайдіть крок із червоною піктограмою оклику, щоб побачити повідомлення про помилку потоку.
     
-3. Залежно від повідомлення про помилку ви зможете редагувати потік і виправити його. 
+3. Залежно від повідомлення про помилку ви можете відредагувати потік і виправити його. 
     
-[Поширені помилки під час передавання](https://go.microsoft.com/fwlink/?linkid=872110)
+[Поширені помилки потоку](https://go.microsoft.com/fwlink/?linkid=872110)
   
 
