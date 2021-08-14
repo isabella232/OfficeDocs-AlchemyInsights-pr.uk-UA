@@ -1,5 +1,5 @@
 ---
-title: Термін дії сертифіката Push-DM
+title: Термін дії сертифіката Apple MDM push
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997443"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Термін дії сертифіката Push-DM
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Термін дії сертифіката Apple MDM push
 
-Сертифікат Apple MDM є дійсним протягом одного року і має щорічно оновлюватися, щоб підтримувати керування пристроями з iOS та macOS. Якщо термін дії сертифіката завершився, зареєстровані пристрої Apple не можна зв'язатися, і нові пристрої не можуть бути зараховані.
+Сертифікат Apple MDM є дійсним протягом одного року і має щорічно оновлюватися, щоб підтримувати керування пристроями з iOS та macOS. Якщо термін дії сертифіката завершиться, не можна зв'язатися з пристроями Apple, а до нових пристроїв не можна буде його зарахувати.
 
-Щоб відновити сертифікат Push-служби Apple DM, ознайомтеся з пунктом [поновити сертифікат Push Apple MDM](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Інструкції з поновлення сертифіката Apple MDM Push див. в статті Поновлення поштового сертифіката [Apple MDM.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)
