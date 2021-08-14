@@ -1,5 +1,5 @@
 ---
-title: Видалення оголошень у Outlook.com
+title: Видалення реклами в Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 6c9002d1487a8df02998c55343b452398e78a3cf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 39603738d9c7d3a7e4c189a9c0699e12108a82d84417de698b22195aef2cd2bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095203"
 ---
-# <a name="remove-ads-in-outlookcom"></a>Видалення оголошень у Outlook.com
+# <a name="remove-ads-in-outlookcom"></a>Видалення реклами в Outlook.com
 
-Outlook.com – це безкоштовна служба електронної пошти, яка містить оголошення. Якщо потрібно видалити оголошення в Outlook.com, корпорація Майкрософт пропонує преміум-функції Outlook із особистими передплатою Office 365 Home або Office 365. Докладні відомості наведено в статті [отримання преміальних функцій Outlook із Office 365](https://go.microsoft.com/fwlink/?linkid=872181).
+Outlook.com – це безкоштовна служба електронної пошти, яка містить рекламу. Якщо ви хочете вилучити рекламу на Outlook.com, корпорація Майкрософт пропонує преміум-функції Outlook з передплатами Office 365 домашній або Office 365 персональний. Докладні відомості див. [в Outlook преміум-Office 365](https://go.microsoft.com/fwlink/?linkid=872181).

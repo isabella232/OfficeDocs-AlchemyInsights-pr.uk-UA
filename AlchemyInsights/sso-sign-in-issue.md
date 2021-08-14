@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із входом користувачів єдиного входу (SSO)
+title: Усунення несправностей із входом користувачів за єдиним входом
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
-ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
+ms.openlocfilehash: ae31461b300fc262ea10233c628493e33371f18136d00e05755971c08d2ba3d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50828712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009449"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Виправлення неполадок із входом користувачів єдиного входу (SSO)
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a>Усунення несправностей із входом користувачів за єдиним входом
 
-Щоб вирішити проблеми з входом користувачів єдиного входу (SSO), використовуйте наведені нижче Рекомендовані ресурси.
+Щоб вирішити проблеми із входом користувачів за допомогою єдиного входу, скористайтеся наведеними нижче ресурсами.
 
-- [Запрошення на неочікувані згоди під час входу в програму](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
-- [Несподівана помилка під час виконання згоди на програму](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
-- [Виправлення неполадок під час входу в програму з веб-програми Azure AD My Apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
-- [На сторінці програми відображається повідомлення про помилку після того, як користувач підписує](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
-- [Проблеми з входом у програму Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
-- [Проблеми під час входу в настроєні програми для входу в "САМЛ" на основі служби "єдиний вхід"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
+- [Неочікуваний запит на згоду під час входу в програму](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [Неочікувана помилка під час виконання згоди програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [Усунення несправностей із входом у програму з Azure AD "Мої програми"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [Сторінка програми з повідомленням про помилку після входу користувача](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+- [Проблеми із входом у програму Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
+- [Проблеми зі входом у настроєні програми єдиного входу на основі SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-Щоб отримати запити на отримання функцій або задати технічні запитання щодо безшовного єдиного входу, перегляньте статтю [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).
+Щоб надіслати запити на функції або поставити технічні запитання про єдиний доступ, див.&[Запитання й відповіді Microsoft.](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
 
