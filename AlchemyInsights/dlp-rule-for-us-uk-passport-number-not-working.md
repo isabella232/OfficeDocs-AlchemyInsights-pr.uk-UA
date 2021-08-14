@@ -1,5 +1,5 @@
 ---
-title: Правило DLP для паспорта США або Великобританії не працює
+title: Правило DLP для коду паспорта США та Великої Британії та України не працює
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679245"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004967"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>Проблеми з номерами паспорта DLP-US/UK
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>Проблеми з DLP – номери паспортів у США та Великобританії
 
 **Важливо**: у ці безпрецедентні часи ми докладаємо всіх зусиль до того, щоб служби SharePoint Online і OneDrive були завжди доступні. Докладні відомості надано у статті [Тимчасові коригування функцій SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Помилки DLP із паспортами US/UK**
+**Проблеми зі зв'язаними лікувальними зв'язаннями з кодами паспортів США та Великої Британії та Великої Британії та Сша**
 
-У вас виникли проблеми з **запобіганням втрати даних (DLP)** , які не працюють для вмісту, що містить **паспорт ГРОМАДЯНИНА США або Великобританії** , коли використовується тип конфіденційної інформації DLP у O365? Якщо це так, переконайтеся, що вміст містить потрібні відомості про те, що таке політика DLP шукає, коли вона обчислюється.
+Виникли проблеми із захистом від втрати даних **(DLP)** у вмісті, який містить код паспорта США або Великої Британії та Великої Британії букв, коли використовується тип захисту від втрати даних в O365?  У такому разі переконайтеся, що вміст містить необхідні відомості про те, яку політику DLP шукає під час її оцінювання.
   
-Наприклад, для паспорта " **номер для США/uk** ", настроєного на рівень впевненості в 75%, наведені нижче оцінки та мають виявлятися для показу правила.
+Наприклад, для  політики номерів паспорта у США та Великій Британії та Великої Британії та Сша, налаштованих із довірчим рівнем 75%, ми оцінюємо наведений нижче рівень і його потрібно визначити, щоб правило запускало
   
 - **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** Дев'ять цифр
 
-- **[Візерунок:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Дев'ять послідовних цифр
+- **[Шаблон:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** Дев'ять цифр без цифр
 
-- **[Контрольна сума:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ні, немає контрольної суми
+- **[Контрольна перевірка:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** Ні, такої перевірки немає.
 
-- **[Визначення:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** Політика DLP – 75% упевнений, що це тип конфіденційної інформації, якщо в безпосередній близькості від 300 символів:
+- **[Визначення.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** Політика DLP з імовірсом 75% впевнена, що цей тип конфіденційної інформації виявлено, якщо в межах 300 символів:
 
   - Функція Func_usa_uk_passport знаходить вміст, який відповідає шаблону.
 
-  - Виявлено ключове слово з Keyword_passport.
+  - Виявиться ключове Keyword_passport зі списку.
 
-    Наприклад, наведений нижче зразок буде тригер для **паспорта US/UK** : номер паспорта США 123456789
+    Наприклад, наведений нижче зразок  тригера політиці чисть паспорта для США та Сполученого Сполученого Великої Британії та Герцогогі має номер паспорта: номер паспорта 123456789
 
-Щоб отримати докладні відомості про те, що потрібно знайти номер паспорта США або Великобританії для вашого вмісту, ознайомтеся з цим розділом у цій статті: [що таке типи конфіденційних даних, які шукають номер ПАСПОРТА США або Великобританії](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number) .
+Докладні відомості про те, що потрібно для виявлення номера паспорта для США та Великої Британії та Великої Британії та Сша, див. в розділі цієї статті: Як виглядає номер паспорта в США та [Великобританії.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-Використовуючи інший вбудований тип конфіденційної інформації, ознайомтеся з наведена нижче стаття для отримання відомостей про те, що необхідно для інших типів: [які типи важливих відомостей відображаються](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Відомості про те, що потрібно для інших типів, див. в цій [статті.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

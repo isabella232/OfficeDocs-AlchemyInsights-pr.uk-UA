@@ -1,5 +1,5 @@
 ---
-title: Наданий ІДЕНТИФІКАТОР сховища не є ІДЕНТИФІКАТОРОМ елемента
+title: Наданий ідентифікатор сховища не є ідентифікатором елемента
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "6828"
-ms.openlocfilehash: 0834850cb7be2d2005265a54130f95c393f514fd
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: fca2b4eb17e08232bc8a249ea275a6cbc25a3e8a29eeb159fc25f623d4f24390
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807752"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981926"
 ---
-# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Помилка "ІДЕНТИФІКАТОР сховища, наданий не ІДЕНТИФІКАТОР елемента"
+# <a name="the-store-id-provided-isnt-an-id-of-an-item-error"></a>Помилка "Наданий ідентифікатор сховища не є ідентифікатором елемента"
 
-Ми знаємо про цю помилку, і ми видаємо виправлення, яке має вирішити цю проблему найближчим часом.
+Ми знаємо про цю помилку та розгортаємо виправлення, яке незабаром має усунути її.

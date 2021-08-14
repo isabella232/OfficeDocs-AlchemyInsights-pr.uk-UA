@@ -13,44 +13,44 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f30998fb3bc4c5442e4e1541b87d88ecd7df6eef3a50e719fa5014eb86af39c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679390"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005003"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>Помилки DLP із номерами соціального страхування
+# <a name="dlp-issues-with-social-security-numbers"></a>Проблеми зі зв'язаними лінею в соціальних мережах
 
 **Важливо**: у ці безпрецедентні часи ми докладаємо всіх зусиль до того, щоб служби SharePoint Online і OneDrive були завжди доступні. Докладні відомості надано у статті [Тимчасові коригування функцій SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Проблеми з DLP, які містять SSNs**
+**Проблеми з DLP у SSN**
 
-У вас виникли проблеми з **запобіганням втрати даних (DLP)** , які не працюють для вмісту, що містить **номер соціального страхування (SSN)** під час використання типу конфіденційної інформації в Microsoft 365? Якщо це так, переконайтеся, що вміст містить потрібні відомості про те, що таке політика DLP шукає. 
+Проблеми із захистом від втрати даних **(DLP)** не працюють для вмісту, який містить номер соціального безпеки **(SSN)** під час використання в програмі Microsoft 365? У такому разі переконайтеся, що вміст містить необхідні відомості про те, яку політику DLP потрібна. 
   
-Наприклад, для політики SSN, настроєного на рівень впевненості в 85%, наведені нижче оцінки та мають виявлятися для запуску правила.
+Наприклад, для політики SSN, настроєної з довірчим рівнем 85 %, виявляється, що правило має активувати таке:
   
-- **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 цифр, які можуть перебувати в форматованому або неформатований шаблоні
+- **[Формат:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 цифр за форматованим або неформатованим шаблоном
 
-- **[Візерунок:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Чотири функції шукають SSNs в чотирьох різних шаблонах:
+- **[Шаблон:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** Пошук SSN чотирьох функцій виявляються в чотирьох різних шаблонах:
 
-  - Func_ssn знаходить SSNs з попередньо 2011 сильним форматуванням, відформатованими з тире або пробілами (DDD-DD-DDDD або DD DD DDDD)
+  - Func_ssn знаходить SSN із надійним форматуванням до 2011 року, відформатованих тире або пробілами (ц-ц-ц АБО ц), які видано до 2011 року.
 
-  - Func_unformatted_ssn знаходить SSNs з попередньо 2011 сильним форматуванням, які не відформатовано як дев'ять послідовних цифр (ddddddddd)
+  - Func_unformatted_ssn знайде SSN з надійним форматуванням до 2011 року, які неформатовано як дев'ять послідовних цифр (ццц),
 
-  - Func_randomized_formatted_ssn знаходить пост-2011 SSNs, відформатовані за допомогою тире або пробілів (DDD-DD-DDDD або DD DD DDDD)
+  - Func_randomized_formatted_ssn знаходить SSN, відформатовані за допомогою тире або пробілів (ц-цц-цц-ц АБО ц), які видано після 2011 року.
 
-  - Func_randomized_unformatted_ssn знаходить пост-2011 SSNs, які не форматовані як дев'ять послідовних цифр (ddddddddd)
+  - Func_randomized_unformatted_ssn знайде SSN після 2011 року, які неформатовані дев'ять послідовних цифр (ццц),
 
-- **[Контрольна сума:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Ні, немає контрольної суми
+- **[Контрольна перевірка:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** Ні, такої перевірки немає.
 
-- **[Визначення:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Політика DLP – 85% упевнений, що це тип конфіденційної інформації, якщо в безпосередній близькості від 300 символів:
+- **[Визначення.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** Політика захисту від загроз 85% упевнена, що виявлено цей тип конфіденційної інформації, якщо в межах 300 символів:
 
-  - [Функція Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) знаходить вміст, який відповідає шаблону.
+  - Функція [Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) знаходить вміст, який відповідає шаблону.
 
-  - Виявлено ключове слово з [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) . Приклади ключових слів:  *Соціальна безпека, соціальне забезпечення #, SOC SEC, SSN*  . Наприклад, наведений нижче зразок буде тригер для політики DLP SSN: **SSN: 489-36-8350**
+  - Виявиться [ключове Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) зі списку. Приклади ключових слів: *Social Security, Social Security#, Soc Sec ,SSN.* Наприклад, наведений нижче зразок тригера політики SSN **DLP: SSN: 489-36-8350**
   
-Щоб отримати докладні відомості про те, що потрібно для SSNs, які потрібно виявити для вашого вмісту, ознайомтеся з цим розділом у цій статті: [які типи конфіденційних даних шукають SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+Докладні відомості про те, що потрібно зробити, щоб SSN виявляв ваш вміст, див. в розділі цієї статті Під час пошуку [SSN](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-Використовуючи інший вбудований тип конфіденційної інформації, ознайомтеся з наведена нижче стаття для отримання відомостей про те, що необхідно для інших типів: [які типи важливих відомостей відображаються](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Відомості про те, що потрібно для інших типів, див. в цій [статті.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

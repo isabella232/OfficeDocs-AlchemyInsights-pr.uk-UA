@@ -1,5 +1,5 @@
 ---
-title: Відновлення видаленої групи Microsoft 365
+title: Відновлення видаленої Microsoft 365 групи
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959047"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Відновлення видаленої групи Microsoft 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Відновлення видаленої Microsoft 365 групи
 
-Видалену групу Microsoft 365 або Microsoft Teams можна відновити протягом 30 днів із видалення.
+Видалену групу або Microsoft 365 видалити Microsoft Teams протягом 30 днів із видалення.
 
-1. Перейдіть до [Центру адміністрування Microsoft 365,](https://aka.ms/RestoreDeletedGroup) щоб увійти в список видалених груп і команд.
+1. Перейдіть до [Центр адміністрування Microsoft 365,](https://aka.ms/RestoreDeletedGroup) щоб увійти до списку видалених груп і команд.
 
     **Примітка.** Увійдіть під обліковим записом, призначеним адміністратору-власнику або групі.
 
-1. Виберіть видалену групу Microsoft 365 або Teams, які потрібно відновити, і натисніть **кнопку Відновити групу**.
+1. Виберіть видалену Microsoft 365 або групу Teams які потрібно відновити, і натисніть кнопку **Відновити групу**.
 
     Якщо через конфліктну SMTP-адресу не вдається відновити групу, скористайтеся наведеною нижче командою, щоб знайти об'єкт, який призведе до конфлікту, і видаліть SMTP-адресу:
 
@@ -37,4 +37,4 @@ ms.locfileid: "51645152"
 
     **Примітка.** У деяких випадках відновлення групи та всіх її даних може тривати до 24 годин.
 
-    Докладні відомості або про те, як відновити групи за допомогою PowerShell, див. в статті Відновлення видаленої групи [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=867802)
+    Докладні відомості або про те, як відновити групи за допомогою PowerShell, див. в статті Відновлення [видалених груп Microsoft 365 груп.](https://go.microsoft.com/fwlink/?linkid=867802)
