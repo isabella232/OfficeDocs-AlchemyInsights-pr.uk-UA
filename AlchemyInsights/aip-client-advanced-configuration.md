@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951838"
 ---
 # <a name="aip-client-advanced-configuration"></a>Розширена конфігурація клієнта AIP
 
-Виникли проблеми з розширеними конфігураціями клієнта AIP? Якщо так, виконайте наведені нижче дії.
+Виникли проблеми з розширеною конфігурацією клієнта AIP? У такому разі виконайте такі дії:
 
-1. Можливо, ви використовуєте політики рівня, які не настроєно належним чином. Щоб отримати докладні відомості, Дізнайтеся, [як настроїти політику захисту інформації про Azure для певних користувачів за допомогою політик рівня](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. Можливо, ви використовуєте ненадійні масштабні політики. Докладні відомості див. в статті Налаштування політики захисту даних Azure для певних користувачів за [допомогою масштабних політик.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 
-2. Якщо Ви продовжите проблему, ознайомтеся з наведеними нижче ресурсами. Якщо проблему не вирішено, зробіть знімок екрана та підключіть його до квитка підтримки.
+2. Якщо проблема не зникне, див. наведені нижче ресурси. Якщо проблема не зникла, зробіть знімок екрана проблеми та прикріпіть її до запиту на підтримку.
 
-Додаткові ресурси наведено в статті:
+Додаткові ресурси:
 
-- [Настроювання параметрів політики для захисту інформації про Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Налаштування параметрів політики для захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [Посібник із адміністрування: користувацькі конфігурації для клієнта з захисту інформації для Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [Посібник з адміністрування: настроювані конфігурації для клієнта захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [Що таке Azure захист інформації?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Що таке захист даних в Azure?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Посібники для поширених сценаріїв, які використовують захист інформації Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Інструкції для типових сценаріїв, у яких використовується захист даних в Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Налаштування політики захисту інформації в Лазур](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [Налаштування політики захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [Стандартна політика захисту інформації в Azure (за замовчуванням)](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [Стандартна політика захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [Створення нової етикетки для захисту інформації за допомогою Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [Створення етикетки для захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Настроювання підпису для захисту керування правами](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Настроювання підпису для захисту прав](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [Вимоги до захисту інформації за лазуровий](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Вимоги до захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [Навчальний посібник: настроювання параметрів політики захисту даних Azure і створення нової етикетки](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Навчальна вправа: настроювання параметрів політики захисту даних в Azure і створення нової етикетки](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

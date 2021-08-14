@@ -1,5 +1,5 @@
 ---
-title: Проблема підключення до проксі-сервера програми
+title: Проблема з підключенням до проксі-сервера програми
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7801"
-ms.openlocfilehash: b4f5d96cf92b37ecc31a11c0f33db2e3db8510cc
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: bbe71ac33b3ffc9d7414369432ce096520a3f7f1d8a0e34a256df2db7765d583
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885405"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951622"
 ---
-# <a name="app-proxy-connection-issue"></a>Проблема підключення до проксі-сервера програми
+# <a name="app-proxy-connection-issue"></a>Проблема з підключенням до проксі-сервера програми
 
-1. Якщо ви використовуєте службу проксі-сервера програми для віддаленого доступу до локальної веб-програми, але виникли проблеми з підключенням до програми, використовуйте [цю статтю](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) , щоб допомогти усунути проблеми з роз'ємами проксі-сервера служби Azure Active Directory (лазуровий AD).
-2. Щоб отримати довідку з вирішення поширених проблем, які виникають, якщо сполучна лінія не виявлена для застосунку проксі-сервера програми, інтегрованої за допомогою служби Azure Active Directory, виконайте вказівки, наведені в статті [без робочої сполучної групи, що використовується для проксі-застосунку застосунку](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) для усунення несправностей.
+1. Якщо ви використовуєте службу проксі-сервера програм для віддаленого доступу до локальної веб-програми, [](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors) але виникають проблеми з підключенням до програми, скористайтеся цією статтею, щоб вирішити проблеми з Azure Active Directory проксі-серверами програм Azure Active Directory (Azure AD).
+2. Щоб отримати довідку з вирішення поширених проблем, коли з'єднатор не виявив для програми [](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector) проксі-сервера програми, інтегрованої з програмою Azure Active Directory, виконайте кроки, описані в статті Виправлення неполадок, знайдених у програмі проксі-сервера застосунку, не працюючи з ним.
