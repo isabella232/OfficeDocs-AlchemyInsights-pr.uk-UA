@@ -1,5 +1,5 @@
 ---
-title: Дозволи для API та згоду
+title: Дозволи та згода API
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932118"
 ---
-# <a name="api-permissions-and-consent"></a>Дозволи для API та згоду
+# <a name="api-permissions-and-consent"></a>Дозволи API та згода
 
-Програми, які інтегруються з ідентифікацією платформи Microsoft, наслідуємо модель авторизації, яка дає користувачам і адміністраторам змогу керувати тим, як можна отримати доступ до даних. На кінцевій точці платформи Microsoft ідентифікації оновлено відповідну модель авторизації. У цій статті описано, як програма має взаємодіяти з платформою ідентифікації Microsoft. [Дозволи та згода в кінцевій точці платформи Microsoft ідентифікації відповідно](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) до основних понять цієї моделі авторизації, зокрема областей, дозволів і згоди.
+Програми, які інтегруються платформа ідентичностей Microsoft до моделі авторизації, яка надає користувачам і адміністраторам контроль над доступом до даних. Впровадження моделі авторизації оновлено на кінцевій платформа ідентичностей Microsoft кінцевій точці. У ньому змінюється спосіб взаємодії програми з платформа ідентичностей Microsoft. [Дозволи та згода](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) в платформа ідентичностей Microsoft кінцевій точці охоплює основні поняття цієї моделі авторизації, зокрема області, дозволи та згоду.
 
-[Структура згоди «Лазурний» (AZURE AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) дає змогу легко розробляти веб-програми з кількома клієнтськими та рідними клієнтами. Ці програми дають змогу ввійти за допомогою облікових записів користувачів із Неблакитного РЕКЛАМНОГО клієнта, який відрізняється від того, де буде зареєстрований застосунок. Вони також можуть отримати доступ до веб-API, наприклад API Microsoft Graph (щоб отримати доступ до Azure AD, Inune та Services в Microsoft 365) та інших API служб Microsoft Services, крім власного веб-API.
+Структура [згоди Azure Active Directory клієнта (Azure AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) дає змогу розробляти веб-програми для кількох клієнтів і власні клієнтські програми. Ці програми дають змогу входити за допомогою облікових записів користувачів із клієнта Azure AD, відмінного від того, у якому зареєстровано програму. Крім Graph інтерфейсів API веб-інтерфейсів (для доступу до Azure AD, Intune і служб в Microsoft 365) та інших інтерфейсів API веб-інтерфейсів (API) служби Microsoft, їм, можливо, знадобиться отримати доступ до інтерфейсів API веб-інтерфейсів (Azure AD, Intune) та інших інтерфейсів API служби Microsoft.
 

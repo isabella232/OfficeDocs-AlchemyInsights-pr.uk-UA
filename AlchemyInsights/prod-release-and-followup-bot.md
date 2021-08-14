@@ -1,5 +1,5 @@
 ---
-title: 'Azure Apps V 1.2-фаза 7: Prod Release і Follow-Bot'
+title: 'Програми Azure Версії 1.2 – етап 7: Prod release and followup ( Бот)'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: e315941723ff075ef0e831c517c4547afee9c55c
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
-ms.translationtype: MT
+ms.openlocfilehash: 72d101e50f2aac631b5001758046c6f69cd0a1e675632435574a32530a4b3095
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009953"
 ---
-# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V 1.2-фаза 7: Prod Release і Follow-Bot
+# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Програми Azure Версії 1.2 – етап 7: Prod release and followup ( Бот)
 
-[Посібник з інтеграції програм сторонніх постачальників](https://admin.microsoft.com/AdminPortal/Home) допоможе виконати наведені нижче завдання. 
-- Інтеграція програми сторонніх постачальників у хмарі з Лазурою 
-- Настроювання найкращого параметра входу для вашої організації.
+Посібник [з інтеграції програм](https://admin.microsoft.com/AdminPortal/Home) сторонніх постачальників допоможе виконати такі завдання: 
+- Інтеграція стороннього хмарного застосунку з Azure AD 
+- Конфігурація найкращого варіанта входу для вашої організації.
 
-Інтегруючи програму та настроюючи єдиний вхід, ви зможете спростити доступ, дозволяючи користувачам запускати програму на порталі **моїх програм** у службі Office 365. Це спрощення Access зменшить кількість підказок для входу або взагалі їх усуне.
+Інтеграція програми та настроювання єдиного входу спрощує доступ, даючи користувачам змогу запускати програму з  порталу Мої програми на порталі Office 365. Це спрощує цей доступ, щоб зменшити кількість запитів на вхід або взагалі усунути їх.
