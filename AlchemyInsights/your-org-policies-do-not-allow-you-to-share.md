@@ -1,5 +1,5 @@
 ---
-title: Політики організації не дають змогу надавати спільний доступ
+title: Політики організації не дозволяють надавати спільний доступ
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "9411"
-ms.openlocfilehash: 5e178d51047a484b121a58de7f69a63ac49a1779
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 30ee51f76701a81b72256c21049b6879cad99a17f98397cf73c8ce85d910867f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997407"
 ---
-# <a name="your-organizations-policies-do-not-allow-you-to-share"></a>Політики організації не дають змогу надавати спільний доступ
+# <a name="your-organizations-policies-do-not-allow-you-to-share"></a>Політики організації не дозволяють надавати спільний доступ
 
-Якщо ви отримуєте цю помилку під час спроби надати спільний доступ до елемента або сайту в службі SharePoint Online або OneDrive для бізнесу, виконайте наведені нижче вказівки.
+Якщо під час спроби надати спільний доступ до елемента або сайту в службі SharePoint Online або OneDrive для бізнесу з'являється таке повідомлення про помилку, виконайте наведені нижче вказівки.
  
-[Політики організації не дають змогу надавати спільний доступ до цих користувачів](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)
+[Політики організації не дозволяють надавати спільний доступ цим користувачам](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/organization-policies-do-not-allow-you-to-share-with-users-error)

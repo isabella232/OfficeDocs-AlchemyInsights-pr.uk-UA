@@ -1,5 +1,5 @@
 ---
-title: Не вдається передати зображення в чаті групи
+title: Не вдається передати зображення до Teams чату
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003308"
 - "6212"
-ms.openlocfilehash: 1fdec1dd18d521e52f7c5879bb5b7c14c989d158
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 858ab4986a269d307b50965ad9077adb425541938cd91e60dc470db27d81d954
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930822"
 ---
-# <a name="cant-upload-an-image-to-a-teams-chat"></a>Не вдається передати зображення в чаті групи
+# <a name="cant-upload-an-image-to-a-teams-chat"></a>Не вдається передати зображення до Teams чату
 
-Поради з виправлення неполадок.
+Рекомендації з виправлення неполадок:
 
-- Якщо ви використовуєте команди в Інтернеті, скористайтеся іншим браузером. Список підтримуваних браузерів наведено в розділі "браузери" [меж і специфікацій для команд Microsoft](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
-- Перевірте сумісність устаткування та операційної системи. Докладні відомості наведено в статті [вимоги до обладнання для команд Microsoft](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
-- Переконайтеся, що у вас є версія найновішої команди. Щоб отримати докладні відомості, перегляньте статтю [процес оновлення груп](https://docs.microsoft.com/microsoftteams/teams-client-update) .
+- Якщо ви використовуєте Teams в Інтернеті, спробуйте інший браузер. Список підтримуваних браузерів див. в розділі "Браузери" обмеження та [специфікації Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams).
+- Перевірте сумісність обладнання та ОС. Докладні відомості див. в [розділі Вимоги до обладнання Microsoft Teams](https://docs.microsoft.com/microsoftteams/hardware-requirements-for-the-teams-app).
+- Переконайтеся, що ви маєте найновішу Teams версію. Докладні відомості [див. в Teams процес оновлення.](https://docs.microsoft.com/microsoftteams/teams-client-update)

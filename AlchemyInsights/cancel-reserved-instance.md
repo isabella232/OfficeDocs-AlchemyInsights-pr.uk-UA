@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8d0a6a37a244e817472c3949109481a30d80328b7353806905e05c547e196ea0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931254"
 ---
 # <a name="cancelling-reservation"></a>Скасування резервування
 
 - **Самообслуговування:** Зарезервований екземпляр можна скасувати або обміняти самостійно [на порталі Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Виберіть резервування та натисніть кнопку "Відшкодування" або "Обмін". Зверніть увагу, що для обміну або відшкодування потрібно мати доступ власника до замовлення на резервування. Доступ лише до резервування не дозволяє продовжити відшкодування або обмін. Попросіть власника замовлення на резервування надати вам доступ до замовлення на резервування
-- **Політика Exchange:** Ви можете обміняти резервування для іншого резервування того самого типу – при цьому немає жодних копій **на** обмін резервування. Загальне зобов'язання з новим резервуванням має бути більшим, ніж сума відшкодування коштів за обмін валюти та майбутні щомісячні платежі (якщо застосовно)
+- **Exchange політики:** Ви можете обміняти резервування для іншого резервування того самого типу – при цьому немає жодних копій **на** обмін резервування. Загальне зобов'язання з новим резервуванням має бути більшим, ніж сума відшкодування коштів за обмін валюти та майбутні щомісячні платежі (якщо застосовно)
 - **Політика відшкодування:** Сума відшкодування та скасовані майбутні платежі не можуть перевищувати 50 000 доларів США у 12-місячному вікні rolling window. **Наразі ми не стягуємо** пенсію під час відшкодування, але можемо стягувати її з майбутніх відшкодування.  
-    **Винятки.** Можливість самостійного обміну та скасування передплати недоступна для клієнтів, укладених за договором "Us Government Enterprise Agreement"
+    **Винятки.** Можливість самостійного обміну та скасування передплати недоступна для клієнтів, які договір "Enterprise Agreement" США.
 - **Підтримка API, PS та CLI** недоступна для скасування та відшкодування самостійних обмінів і відшкодування для резервування [Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Можливість самостійного обміну та скасування послуг недоступна для клієнтів, укладених за договором "Us Government Enterprise Agreement". Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP.
+- Можливість самостійного обміну та скасування цієї служби недоступна для клієнтів, які договір "Enterprise Agreement" США. Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP.
 
 Докладні відомості: [Як обробляються транзакції](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) повернення та обміну  
-Докладні відомості: [Політики обміну та відшкодування](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Докладні відомості: [Exchange та політики відшкодування](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
 Інші запитання: ["Відвідати зарезервовані екземпляри для docs"](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Exchange наявний зарезервований екземпляр (Self-service)**
+**Exchange наявного зарезервованого екземпляра (Self-service)**
 
-Ви можете обмінюватися резервуваннями одного й того самого типу. Ви також можете відшкодувати резервування за рік до 50 000 доларів США, якщо воно більше не потрібне. Можливість самостійного обміну та скасування послуг недоступна для клієнтів, укладених за договором "Us Government Enterprise Agreement". Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP. Щоб обмінятись або відшкодувати наявне резервування, потрібно мати доступ до замовлення власника.
+Ви можете обмінюватися резервуваннями одного й того самого типу. Ви також можете відшкодувати резервування за рік до 50 000 доларів США, якщо воно більше не потрібне. Можливість самостійного обміну та скасування цієї служби недоступна для клієнтів, які договір "Enterprise Agreement" США. Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP. Щоб обмінятись або відшкодувати наявне резервування, потрібно мати доступ до замовлення власника.
 
 Нижче описано процедуру завершення транзакції.
 
@@ -46,9 +46,9 @@ ms.locfileid: "51819713"
 
 Щоб відшкодувати резервування, перейдіть до пункту **"Відомості** про резервування" та натисніть **"Відшкодування"**
 
-**Пропорціонне відшкодування:**
+**Pro відшкодування:**
 
-**Приклади пропорційного та мінімального вимог щодо відшкодування та обміну**  
+**Pro із раціональним і мінімальним вимогам для відшкодування та обміну**  
 Приклад резервування на передньому плані:
 
 - Придбано річний період RI за 120 дол. США з 1 січня
@@ -69,4 +69,4 @@ ms.locfileid: "51819713"
 **Рекомендовані документи**
 
 - [Спосіб обробки транзакцій повернення та обміну](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Політики обміну та відшкодування](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Exchange та відшкодування](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

@@ -1,5 +1,5 @@
 ---
-title: Не відображаються автовідповіді
+title: Автовідповіді не бачу
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 239c4db4d3a0b4010d14c2fac63018e8ad817c93
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5f0e1b52e5a31d7bfd64ef40f9d8806358a6cad218b6a474b0d0e38aa051ac72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949490"
 ---
-# <a name="i-dont-see-automatic-replies"></a>Не відображаються автовідповіді
+# <a name="i-dont-see-automatic-replies"></a>Автовідповіді не бачу
 
-Якщо ви не бачите автовідповіді після вибору **файлу**, можливо, ви використовуєте обліковий запис Gmail, Yahoo або іншого ОБЛІКОВОГО запису POP або IMAP, який не підтримує функцію автоматичних відповідей у програмі Outlook. Ви можете налаштувати правило, яке відповідатиме на вхідні повідомлення, але лише якщо ви виходите з програми Outlook.
+Якщо ви не бачите автовідповіді після вибору файлу **,** імовірно, ви використовуєте обліковий запис Gmail, Yahoo або інший обліковий запис POP чи IMAP, який не підтримує Outlook автовідповіді. Ви можете налаштувати правило, яке відповідатиме на вхідні повідомлення, але лише якщо не Outlook вхідні.
