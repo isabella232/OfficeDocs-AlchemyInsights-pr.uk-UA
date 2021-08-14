@@ -1,5 +1,5 @@
 ---
-title: Проблеми з спуфінга, фішингом або уособленням?
+title: Проблеми зі спуфінгом, фішингом або уосоленням
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986804"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Проблеми з спуфінга, фішингом або уособленням?
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>Проблеми зі спуфінгом, фішингом або уосоленням
 
-Дізнайтеся, як корпорація Майкрософт захищає вас від таких:
+Дізнайтеся, як корпорація Майкрософт захищає вас від:
 
-- [Спуфінга](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [Спуфінг](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [Фішинг і уособлення](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [Фішинг і уосолення](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
 Додаткові рекомендації:
 
-- Щоб отримати підроблені відправники, які відображаються з власного домену, [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) і [DKIM](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) можуть допомогти.
+- Спуфінговані відправники, які з'являються в домені, можуть допомогти [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) [і DKIM.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
 
-- Переконайтеся, що відправники в власному домені не настроєно для обходу фільтрування за допомогою спаму, використовуючи правила передавання пошти (також відомі як правила транспортування) або дозволити записи списку. Докладні відомості наведено в статті [попередження про обхід фільтрів спаму Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- Переконайтеся, що відправники у вашому домені не настроєні обійти фільтрування спаму за допомогою правил потоку пошти (також відомих як правила транспортування) або дозволити записи списку. Докладні відомості див. в статті Захист від обминання [фільтрів спаму Microsoft.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-- Переконайтеся, що користувачі не настроїли [списки надійних відправників](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) , які можуть дозволяти фішинг-атак.
+- Переконайтеся, що користувачі не налаштували записи [Сейф,](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) які можуть дозволити фішингські атаки.
 
-- Зверніть увагу на те, що в карантин замість папки небажаної пошти можна надсилати Фішингове повідомлення про спам і фішинг. Докладні відомості наведено в статті [карантин повідомлень електронної пошти](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages).
+- Замість папки "Небажана пошта" можна додати до папки "Небажана пошта" високоякісні спам і фішинг. Докладні відомості див. [в розділі Карантин повідомлень електронної пошти.](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**Повідомте нам про те, як виконуються фільтри, щоб повідомити [корпорацію Майкрософт про](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) виконання цих повідомлень.**
+**[Звітування про повідомлення до](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) корпорації Майкрософт – це найкращий спосіб повідомити нам про те, як фільтри виконуються.**

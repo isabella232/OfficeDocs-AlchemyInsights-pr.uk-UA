@@ -1,5 +1,5 @@
 ---
-title: Обмеження та великі файли в SharePoint
+title: Обмеження та великі файли у SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: f4900811e23bf8cb515bd22faed015d92fa34b64
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: c78095a5d5aac4015e4826c78136db3b7ffda95872024a0058a7e8f8b2ccef4b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709199"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986723"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файли, які не можна передати до служби SharePoint Online
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>Файли, які не можна передати в SharePoint Online
 
-Якщо файл не передаватиметься до служби SharePoint Online, переконайтеся, що:
+Якщо файл не передано до служби SharePoint Online, переконайтеся, що:
   
-- Розмір менше 15 ГБ.
+- Розмір файлу менше 15 ГБ.
     
-- Увесь шлях, включно з іменем файлу, становить менше 400 символів.
+- Повний шлях, включно з іменем файлу, не перевищує 400 символів.
     
-- Ім'я файлу не містить символів " \* : \< \> ? / \ | і немає в списку [неприпустимих імен](https://go.microsoft.com/fwlink/?linkid=866430).
+- Ім'я файлу не містить символів " \* : \< \> ? / \ | і не міститься в списку неприпустимих [імен](https://go.microsoft.com/fwlink/?linkid=866430).
     
-Якщо ви намагаєтеся передати файл за допомогою настільної програми OneDrive, у цій статті наведено [обмеження та обмеження під час синхронізації файлів і папок](https://go.microsoft.com/fwlink/p/?LinkID=717734) або [вирішення проблем із синхронізацією onedrive](https://go.microsoft.com/fwlink/?linkid=866431).
+Якщо ви намагаєтеся передати файл за допомогою класичної програми [](https://go.microsoft.com/fwlink/p/?LinkID=717734) OneDrive, див. номери Обмеження під час синхронізації файлів і папок або Вирішення [синхронізатор OneDrive проблем.](https://go.microsoft.com/fwlink/?linkid=866431)
   
 

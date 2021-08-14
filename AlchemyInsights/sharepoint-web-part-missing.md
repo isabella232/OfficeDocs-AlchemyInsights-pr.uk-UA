@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000207"
 - "1911"
-ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: a99f367396ce93e62ad677784d4aba033bb48a4d0442f593b81dfaa607739403
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949838"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022634"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Відсутні веб-частини редактора вмісту або редактора сценаріїв
 
-Дві веб-частини, недоступні в SharePoint для Microsoft 365, – це веб- **частина редактора сценаріїв** та **веб-частина редактора вмісту**. Однак існують [сучасні веб-частини](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) із надбудовами, які можуть виконувати деякі з тих самих цілей. Або можна створити [користувацькі веб-частини або перенести наявний веб-частини редактора сценаріїв](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) до рамки SharePoint.  
+Дві веб-частини, недоступні в SharePoint для Microsoft 365,  – це веб-частина редактора сценаріїв і **веб-частина редактора вмісту.** Проте існують [сучасні готові веб-частини,](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) які можуть виконувати деякі з таких самих цілей. Крім того, можна створити [настроювані веб-частини](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) або перенести наявні веб-частини редактора сценаріїв до SharePoint Framework.  
 
-Додаткові відомості [можна знайти в розділах "редактор вмісту" та веб-частини редактора сценаріїв у службі SharePoint?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
+Докладні відомості [див. в розділах Де розташовано веб-частини редактора](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd) вмісту та редактора сценаріїв SharePoint?
