@@ -1,5 +1,5 @@
 ---
-title: Передплати на електронну пошту Outlook.com
+title: Outlook.com, передплати на електронну пошту
 ms.author: pebaum
 author: pebaum
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c9c1ea9b3da7f035e1221b435f30ef5c801e5bdcd010c1a1922d712b6d626b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962332"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Не вдається вкласти або передати файли з Facebook
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Не вдається вкласти файли або передати їх із Facebook
 
-Завдяки зміні умов і умов Facebook, після 23 жовтня 2019, ви більше не зможете передавати вкладення безпосередньо з Facebook, а Facebook більше не відображатимуться в списку хмарних розташувань. 
+Через зміни в умовах і положеннях служби Facebook після 23 жовтня 2019 р. ви більше не зможете передавати вкладення безпосередньо з Facebook, а Facebook більше не відображатиметься в списку хмарних розташень. 
 
-Список інших хмарних розташувань можна керувати в [облікових записах сховища](https://go.microsoft.com/fwlink/?linkid=2111075).
+Ви можете керувати списком інших хмарних розташцій у своїх облікових [записах Сховища.](https://go.microsoft.com/fwlink/?linkid=2111075)
 
-Дізнайтеся більше про [облікові записи сховища](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Докладніше про облікові [записи сховищ.](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a)
   

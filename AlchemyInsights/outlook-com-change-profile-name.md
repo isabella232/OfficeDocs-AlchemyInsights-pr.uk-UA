@@ -14,17 +14,17 @@ ms.custom:
 - "8000036"
 - "777"
 - "806"
-ms.openlocfilehash: 7727dcb552fbbd31d4bec57bf16ac188f6783006
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc5d0d93091cdd4c74b6703e4295bfac18c911f8ad630b8bd7db5a17b1ffb9d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962476"
 ---
 # <a name="change-your-profile-name-in-outlookcom"></a>Змінення імені профілю в Outlook.com
 
-1. Перейдіть до [відомостей облікового запису Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
-2. Натисніть кнопку **редагувати ім'я**.
-3. Введіть ім'я та прізвище, а потім натисніть кнопку **зберегти**.
+1. Перейдіть до відомостей [вашого облікового запису Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+2. Виберіть **Редагувати ім'я**.
+3. Введіть ім'я та прізвище, а потім натисніть кнопку **Зберегти**.
 
-Щоб внести зміни до імені свого профілю, дозвольте до 24 годин.
+Зачекайте 24 години, щоб зміни в імені профілю набрали сили.
