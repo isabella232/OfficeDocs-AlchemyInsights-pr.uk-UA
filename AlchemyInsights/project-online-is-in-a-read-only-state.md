@@ -1,5 +1,5 @@
 ---
-title: Project Online перебуває в стані тільки для читання
+title: Project Online стані "Лише для читання"
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1776"
 - "9000205"
-ms.openlocfilehash: ad2a9f95bf30708772edb166945f3f42e0f1f503
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 988d87ca43f5394728b77561edd8e26fa0668f4ad876a5fcd09cf739092a4d6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801673"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063037"
 ---
-# <a name="project-online-is-in-a-read-only-state"></a>Project Online перебуває в стані тільки для читання
+# <a name="project-online-is-in-a-read-only-state"></a>Project Online стані "Лише для читання"
 
-Існує три поширених причин, через які Project Online може досягати стану тільки для читання.
+Є три поширені причини Project Online що можуть мати стан "Лише для читання":
 
-1. Організації мають лише ліцензії на веб-сайті Project Online Essentials. Це недостатньо для того, щоб зберегти сайт живим, і в кінцевому підсумку вона отримає де-підготовано.Ми розміщуємо сайт в стані тільки для читання, щоб адміністратори знали, що щось не так, і можете придбати належні ліцензії. Адміністраторам потрібно буде додати ліцензію Project Online Professional і/або Premium. Сайт буде виходити лише для читання на цьому етапі. Докладні відомості наведено в статті [порівняння рішень з керування проектами](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. Досягнуто квоти. Щоб отримати докладні відомості, ознайомтеся з [квотою Project Web App](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota). Установіть прапорець [настроїти зведення розподілених у часі даних звітування в Project Online](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) , щоб дізнатися, як деталізовані звіти можуть вплинути на використання квот.
-3. Лише для читання може бути дуже тимчасовий стан, який може виникати під час обслуговування. Більшість клієнтів навіть не помітили наші клієнти, і ви не побачите цього, але бувають випадки, коли спостерігається короткий період лише для читання.
+1. Організації мають лише Project Online базовий ліцензії. Цього недостатньо, щоб залишити сайт живим, і згодом він стане деактивацією. Ми ставимо сайт у стані лише для читання, щоб адміністратори знали, що щось не так, і можемо отримати правильні ліцензії. Адміністратори повинні додати ліцензію Project Online професійний (або) Premium ліцензію. На цьому етапі сайт вийде лише для читання. Докладні відомості див. в [розділі Порівняння Project рішень керування.](https://products.office.com/project/compare-microsoft-project-management-software?tab=1)
+2. Досягнуто призначеної квоти. Докладні відомості див. [в Project Квота веб-програми.](https://docs.microsoft.com/projectonline/tune-project-online-performance#project-web-app-quota) Щоб [дізнатися,](https://docs.microsoft.com/ProjectOnline/configure-rollup-of-timephased-reporting-data-in-project-online) як детальність звіту може вплинути на використання квоти, установіть прапорець Настроїти зведення даних звіту, Project Online на використання в часі.
+3. Умовою лише для читання може бути дуже тимчасова умова, яка може виникнути під час обслуговування. Більшість обслуговування не помітив навіть наші клієнти, і ви не часто бачите цього, але іноді буває, коли відчують короткі періоди лише для читання.

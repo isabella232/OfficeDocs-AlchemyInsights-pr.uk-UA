@@ -1,5 +1,5 @@
 ---
-title: Власник не може створити вкладену папку за допомогою Outlook
+title: Власник не може створювати вкладену папку за допомогою Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063145"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Власник не може створити вкладену папку за допомогою Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>Власник не може створювати вкладену папку за допомогою Outlook
 
-**Власники спільних папок, які створюють вкладені папки за допомогою Outlook, можуть виникати незмінні проблеми. Цю проблему буде вирішено незабаром.**
+**Власники спільних папок можуть створювати вкладені папки за допомогою Outlook. Цю проблему буде вирішено незабаром.**
 
 Тим часом скористайтеся одним із наведених нижче способів вирішення.
 
-1. Створення вкладеної папки в Outlook для Mac, оскільки ця проблема виникає лише в Outlook для настільних комп'ютерів (усі версії)
+1. Використовуйте Outlook для Mac, щоб створити вкладену систему, оскільки ця проблема виникає лише в Outlook для настільних комп'ютерів (усіх версій)
 2. Адміністратор може створити вкладену адресу за допомогою EXO Shell або EAC
 3. Змінення параметра DefaultPublicFolderMailbox/EffectivePublicFolderMailbox користувача на іншу поштову скриньку, відмінну від поштової скриньки вмісту папки, яка виникає, коли проблема виникає  
     - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*

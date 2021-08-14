@@ -1,5 +1,5 @@
 ---
-title: Вихід із програми Outlook в Інтернеті
+title: Вихід із інтернет-версія Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063181"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Вихід із програми Outlook в Інтернеті
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Вихід із інтернет-версія Outlook
 
-Щоб вийти з Інтернет-версії Outlook, виберіть своє ім'я або зображення у верхньому правому куті, а потім виберіть **вийти**.
+Щоб вийти з облікового інтернет-версія Outlook, клацніть своє ім'я або зображення у верхньому правому куті та виберіть **Вийти**.
 
-Щоб вимкнути автоматичне вхід до робочого або навчального облікового запису, виконайте такі дії:
+Щоб припинити автоматичний вхід у робочий або навчальний обліковий запис, виконайте таку умову:
 
-1. Виберіть своє ім'я або зображення та натисніть кнопку **вийти**.
-1. Перейдіть на сторінку [Outlook.Office.com](https://outlook.office.com/) і виберіть пункт **використовувати інший обліковий запис**.
-1. Увійдіть за допомогою адреси електронної пошти, яку потрібно використовувати.
+1. Виберіть своє ім'я або зображення та натисніть **кнопку Вийти**.
+1. Перейдіть на [Outlook.office.com](https://outlook.office.com/) виберіть пункт Використовувати **інший обліковий запис.**
+1. Увійдіть за допомогою потрібної адреси електронної пошти.
 
-Щоб дізнатися більше, Дізнайтеся, [як увійти в інтернет-версію Outlook](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+Докладні відомості див. в статті Вхід у [обліковий](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)інтернет-версія Outlook.

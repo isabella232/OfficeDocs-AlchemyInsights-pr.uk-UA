@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 3ada8657ebe4cd29d1390f9c30f75d1b0b95056a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741576"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063073"
 ---
 # <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Заборона завантаження файлів із SharePoint або OneDrive
 
-Існують різні методи, які можна використовувати для запобігання виникненню або блокування завантаження. Перейдіть на посилання нижче відповідних способів:
+Існують різні способи, за допомогою яких можна заборонити або заблокувати завантаження. Щоб отримати відповідні методи, перейдіть за наведеними нижче посиланнями.
 
-- [Блокування завантаження файлів за допомогою умовного доступу Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Заблокувати завантаження файлу за допомогою умовного доступу Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
 - [Керування доступом із некерованих пристроїв](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Настроювання політик IRM у бібліотеках документів SharePoint для обмеження завантаження вмісту](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [Налаштування політик IRM у SharePoint бібліотеках документів, щоб обмежити завантаження вмісту](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
