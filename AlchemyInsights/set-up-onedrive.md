@@ -12,14 +12,14 @@ ms.custom:
 - "819"
 - "5800002"
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: b47056c9d2ca15008807038a5028f393ec11209d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01f817c529a8eedb5fd57e265eedd5401dd833a2ebc8ae57760754264425fd96
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094513"
 ---
-# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>Використання клієнта синхронізації OneDrive для синхронізації OneDrive або файлів SharePoint
+# <a name="use-the-onedrive-sync-client-to-sync-onedrive-or-sharepoint-files"></a>Синхронізація синхронізатор OneDrive файлів за допомогою OneDrive SharePoint клієнта
 
-Ви можете [синхронізувати файли служби "onedrive для бізнесу](https://go.microsoft.com/fwlink/?linkid=533375) " або [синхронізувати файли SharePoint](https://go.microsoft.com/fwlink/?linkid=871666) за допомогою клієнта синхронізації onedrive.
+Можна [синхронізувати файли OneDrive для бізнесу або](https://go.microsoft.com/fwlink/?linkid=533375) [синхронізувати SharePoint з](https://go.microsoft.com/fwlink/?linkid=871666) клієнтом синхронізатор OneDrive.
   

@@ -1,5 +1,5 @@
 ---
-title: Видалення облікового запису користувача у Windows 10
+title: Видалення облікового запису користувача в Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3449"
 - "9001448"
-ms.openlocfilehash: 5a6ce5805ec23a28011c5d1edc977804ef15aefc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e994388f685f1f9980c10daac48ca4facb0ca542ea352e8fbd31bf451cff305
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835796"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094627"
 ---
-# <a name="remove-an-account-in-windows-10"></a>Видалення облікового запису у Windows 10
+# <a name="remove-an-account-in-windows-10"></a>Видалення облікового запису в Windows 10
 
 Ось як видалити обліковий запис із Windows 10:
 
-1. Натисніть кнопку **Пуск** Настройки Обліковий запис & або іншими користувачами (або Інші користувачі, якщо ви  >    >    >   використовуєте Windows 10 Enterprise). 
+1. Натисніть кнопку **Почати**  >  **Настройки**  >  **Обліковий**  >  **запис родини & інших** користувачів (або Інші користувачі, якщо ви використовуєте Windows 10 Enterprise).
 2. Виберіть обліковий запис, який потрібно видалити, виберіть **Видалити**, а потім – **Видалити обліковий запис і дані**.
  
 **Примітка.** Не можна видалити обліковий запис, у який ви ввійшли.  Якщо потрібно замінити обліковий запис, у який ви ввійшли:

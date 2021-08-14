@@ -1,5 +1,5 @@
 ---
-title: Налаштування аудіоконференцій через ТМЗК в службі "Skype для бізнесу – онлайн"
+title: Налаштування аудіоконференцій через ТМЗК в службі Skype для бізнесу Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835508"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094411"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Налаштування аудіоконференцій через ТМЗК в службі "Skype для бізнесу – онлайн"
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Налаштування аудіоконференцій через ТМЗК в службі Skype для бізнесу Online
 
-Якщо потрібно налаштувати аудіоконференції для служби "Skype для бізнесу – онлайн", потрібно виконати кілька кроків. 
+Щоб настроїти аудіоконференції для служб Skype для бізнесу Online, потрібно виконати кілька кроків. 
 
 - Дізнайтеся, чи аудіоконференції доступні у вашій країні або регіоні.
 
@@ -30,4 +30,4 @@ ms.locfileid: "51835508"
 
 - Отримайте та призначте номери служб.
 
-- Виконайте контрольний список у налаштування [аудіоконференції для "Skype для бізнесу".](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
+- Виконайте контрольний список у [настройках аудіоконференції для Skype для бізнесу.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
