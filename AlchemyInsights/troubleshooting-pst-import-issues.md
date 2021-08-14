@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "1225"
-ms.openlocfilehash: 5065b9895954371e4298c98e8aadb67ba8f140fd
-ms.sourcegitcommit: c977687a7dd03288a9ba396cf2a48ea384d72634
+ms.openlocfilehash: 549af832f9c58db1cdd8fbe80b8b5bd2aba9bd937f33116806a9391cbc9a5d4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52059836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972440"
 ---
 # <a name="troubleshooting-pst-import-issues"></a>Виправлення неполадок під час імпорту PST
 
-- Відомості про те, як імпортувати дані самого клієнта Outlook, див. в статті Вирішення проблем з імпортом [PST-файлу Outlook.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
+- Якщо ви імпортуєте дані самого клієнта Outlook див. в статті Вирішення проблем з імпортом [файлу Outlook PST.](https://support.office.com/article/Fix-problems-importing-an-Outlook-pst-file-2d2e50dc-5c36-4ab2-ab50-f1be733b3d6e)
 
 - Якщо служба імпорту застрягає, зверніть увагу, що розмір кожного файлу PST, який передається до сховища Azure, не має перевищує 20 ГБ. Файли PST, розмір які перевищує 20 ГБ, можуть вплинути на продуктивність імпорту PST-файлів. Докладні відомості про виправлення неполадок, пов'язаних із завданнями, що застрягли, див. в статі Проблеми, які [впливають на завдання імпорту PST.](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job)
 

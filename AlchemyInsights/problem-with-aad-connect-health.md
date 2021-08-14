@@ -1,5 +1,5 @@
 ---
-title: Проблема зі здоров'ям AAD Connect
+title: Проблема з AAD Підключення справності
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923773"
 ---
-# <a name="problem-with-aad-connect-health"></a>Проблема зі здоров'ям AAD Connect
+# <a name="problem-with-aad-connect-health"></a>Проблема з AAD Підключення справності
 
-- Переконайтеся, що ви маєте право виконати операцію. Глобальні адміністратори мають доступ за замовчуванням. Крім того, можна використовувати [елемент керування доступом на основі ролей](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) , щоб отримати дозвіл на реєстрацію представника.
-- Переконайтеся, що потрібні кінцеві точки ввімкнуто, а не заблоковано через брандмауер. Докладні відомості наведено в статті [вимоги](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Реєстрація може не відповідно до вихідних повідомлень, які піддаються перевірці SSL через мережевий рівень.
-- Переконайтеся, що ви підтвердили параметри сповіщень для справності для Azure AD Connect. Ознайомтеся з вашим параметром. Цей [посібник](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) допоможе вам дізнатися, як настроїти параметри сповіщень для сповіщень про справність служби AZURE AD Connect.
-- Щоб дізнатися більше про звіт про синхронізацію служби AAD Connect, а також про те, як завантажити його, перегляньте статтю [звіт про синхронізацію на рівні об'єкта](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Переконайтеся, що ви маєте право виконувати операцію. За замовчуванням глобальні адміністратори мають доступ. Крім того, ви можете [використовувати](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) керування доступом на основі ролей, щоб делегувати дозвіл на реєстрацію вповноваженому учаснику.
+- Переконайтеся, що обов'язкові кінцеві точки ввімкнуто й не заблоковано через брандмауер. Докладні відомості див. у [вимогах](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
+- Реєстрація може не вдатися через те, що вихідне спілкування підлягає перевіркі SSL через мережевий рівень.
+- Переконайтеся, що ви підтвердили параметри сповіщень для Azure AD Підключення Health. Перевірте настройку. Цей [посібник](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) допоможе вам зрозуміти, як налаштувати параметри сповіщень для Azure AD Підключення сповіщення про справність.
+- Докладні відомості про звіт про синхронізацію AAD Підключення справність і про те, як його завантажити, див. в статті Звіт про синхронізацію [на рівні об'єктів.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Щоб виправити неполадки з оповіщеннями в службі AAD Connect для справності, виконайте вказівки [з виправлення неполадок для сповіщень про стан справності та відповіді](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) на поширені запитання в розділі [Загальні запитання про інсталяцію СПРАВНОСТІ служби aad Connect](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Щоб виправити неполадки зі сповіщеннями AAD Підключення справності, дотримуйтеся вказівок із виправлення неполадок для оповіщень про оновлення даних [AAD Підключення](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) справності та поширених запитань про поширені запитання про інсталяцію [AAD Підключення справності.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq)

@@ -1,5 +1,5 @@
 ---
-title: Відновлення видаленого "OneDrive"
+title: Відновлення видалених OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5298f192-326b-4820-b007-7e1a1c3c2b13
-ms.openlocfilehash: f7e99a75fdac420cc2cea0ec10be681bcb2b98ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6310e3e225392a911bd1f5ae18dc3d49c6b50f0a32f603ceb60816657d5b3fc6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958930"
 ---
-# <a name="restore-a-deleted-onedrive"></a>Відновлення видаленого "OneDrive"
+# <a name="restore-a-deleted-onedrive"></a>Відновлення видалених OneDrive
 
-Після видалення користувача ви можете отримати доступ до OneDrive користувача в центрі адміністрування Microsoft 365 протягом 30 днів. Інші користувачі можуть й надалі отримувати доступ до спільного вмісту в службі OneDrive протягом періоду часу, який ви встановили в центрі адміністрування OneDrive. (Щоб дізнатися, як це зробити, перегляньте статтю [установлення стандартного збереження файлу для видалених користувачів OneDrive](https://go.microsoft.com/fwlink/?linkid=874267).) Після цього часу "OneDrive" переміщується до кошика протягом 93 днів, після чого його буде видалено.
+Після видалення користувача його ім'я можна отримати в OneDrive протягом Центр адміністрування Microsoft 365 30 днів. Інші користувачі можуть і надалі отримувати доступ до OneDrive вмісту протягом часу, установленого в Центрі адміністрування OneDrive. (Відомості про те, як це зробити, див. в статті Установлення стандартного збереження файлів для [видалених OneDrive користувачів.)](https://go.microsoft.com/fwlink/?linkid=874267) Після завершення цього OneDrive буде переміщено до кошика протягом 93 днів, а потім його буде видалено.
   
-Після перших 30 днів, коли видалений користувач більше не відображатиметься в центрі адміністрування Microsoft 365, ви можете отримати доступ до OneDrive користувача за допомогою PowerShell. Докладні дані наведено в статті [відновлення видаленого "OneDrive](https://go.microsoft.com/fwlink/?linkid=874269)".
+Через 30 днів видалений користувач більше не відображається в Центр адміністрування Microsoft 365, ви зможете отримати доступ до його облікового OneDrive за допомогою PowerShell. Докладні відомості [див. в OneDrive](https://go.microsoft.com/fwlink/?linkid=874269).
   
 
