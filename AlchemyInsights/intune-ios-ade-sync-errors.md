@@ -1,5 +1,5 @@
 ---
-title: Помилки синхронізації автоматичної реєстрації пристрою в Apple
+title: Помилки автоматичної синхронізації пристрою Apple
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 1664a26b313c4a38c9c6d78cdb89997749ba175fd3dd72f278e99bbd50b0ee84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448943"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013769"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>Помилки синхронізації автоматичної реєстрації пристрою в Apple
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>Помилки автоматичної синхронізації пристрою Apple
 
-"Виявлено, що у вас є один або кілька маркерів ADE/DEP, які знаходяться в стані помилки. Доки стан помилки не буде вирішено для кожного відповідного маркера, функція ADE не працюватиме належним чином. ".
+"Ми виявили, що у вас є один або кілька маркерів ADE/DEP, які переносяться до стану помилки. Функціональні можливості ADE не працюватимуть належним чином, доки стан помилки не буде вирішено для кожного відповідного маркера.
 
-Ця помилка може виявлятися кількома способами, зокрема:
+Ця помилка може проявитися різними способами, зокрема:
 
-1. Пристрої можуть не синхронізуватися з ABM/ASM для Inune
-2. Можливо, не вдається отримати відповідні завдання для реєстрації
-3. Можливо, для пристроїв не вдалося завершити реєстрацію в "ADE"
+1. Пристрої можуть не синхронізуватися з ABM/ASM в Intune
+2. Можливо, не вдалось виконати призначення профілю входу
+3. Можливо, пристрої не завершено, можливо, не завершено підписку на ADE
 
-Перевірте, чи повідомлення про помилку синхронізації повідомляється в консолі Inune в розділі **пристрої, > записатися на пристрої > програми реєстрації в програмі Apple > маркери для реєстрації**.
+Перевірте, чи не повідомлено про помилку синхронізації в консолі Intune у розділі Пристрої > реєстрації пристроїв і > маркери реєстрації Apple > маркери **програми реєстрації.**
 
-Однією з найпоширеніших причин помилки синхронізації є термін дії поточного маркера. У багатьох випадках відновлення ураженого маркера вирішить проблему.
+Одна з найпоширеніших причин помилки синхронізації – завершення терміну дії поточного маркера. У багатьох випадках проблему вирішує поновлення відповідного маркера.
 
-Якщо термін дії одного або кількох маркерів минув, ознайомтеся з наведеною нижче документацією, щоб допомогти вам поновити їх відповідно до таких потреб:
+Якщо термін дії одного або кількох маркерів минув, перегляньте наведену нижче документацію, щоб дізнатися, як їх поновити.
 
-[Поновлення маркера реєстрації автоматичного пристрою](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+[Подовження маркера автоматизованої безпеки пристрою](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
 
-Крім того, можна переглянути наведені нижче документи, щоб переглянути потенційні помилки для інших помилок, які призводять до помилок синхронізації маркерів.
+Крім того, ви можете переглянути наведену нижче документацію, щоб дізнатися про можливі способи усунення інших помилок, які можуть викликати помилки синхронізації маркерів.
 
-[Помилки синхронізації АБМ/АНМ для маркерів реєстрації для iOS/iPadOS і macOS для автоматичних пристроїв](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
-
-
+[Помилки синхронізації ABM або ASM для iOS/iPadOS і маркерів автоматичного розгортання пристроїв для macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
 
 
 
 
 
-[Помилки синхронізації АБМ/АНМ для маркерів реєстрації для iOS/iPadOS і macOS для автоматичних пристроїв](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+
+
+[Помилки синхронізації ABM або ASM для iOS/iPadOS і маркерів автоматичного розгортання пристроїв для macOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: b7ab09fe8430a54dacf2cd1ba076414a5f562541
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93d15b8b65fd52a567ecbb6e1f84363bf2b38946c105896b0b5ef41e49d16ea9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979730"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>Автоматична класифікація не працює належним чином за допомогою клієнта AIP
 
@@ -25,12 +25,12 @@ ms.locfileid: "51820919"
 
 1. Якщо виникають проблеми з автоматичним підписуванням, див. статті Як налаштувати [](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)умови для автоматичної та рекомендованої класифікації для захисту даних [в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) і Який вигляд мають типи відомостей.
 2. Перевірте, чи використовується ненастроєні вами масштабовані політики: Налаштування політики захисту даних Azure для певних користувачів за допомогою масштабних [політик.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
-3. Якщо автоматичне маркування не працює в Outlook під час вкладення документа з підписами, переконайтеся, що його не визначено нижче: Параметри реєстру `DRMEncryptProperty` [IRM для](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)безпеки.
+3. Якщо автоматичне маркування не працює в Outlook під час вкладення документа з підписом, переконайтеся, що параметри реєстру IRM для безпеки не `DRMEncryptProperty` [визначено нижче.](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options)
 4. Якщо ви використовували [вбудовані типи даних](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) для політики захисту даних Azure, переконайтеся, що вміст відповідає очікуваному форматі.
-5. Переконайтеся, що етикетку настроєно на значення Автоматично **або** **Рекомендоване**. **(Автоматичне** маркування доступне для всіх програм Microsoft  365, а рекомендується для всіх програм Microsoft 365, крім Outlook).
+5. Переконайтеся, що етикетку настроєно на значення Автоматично **або** **Рекомендоване**. (**Автоматичне** маркування доступне для всіх програм  Microsoft 365, а рекомендується для всіх програм Microsoft 365, крім Outlook).)
 6. Автоматичну класифікацію не можна використовувати для документів і повідомлень електронної пошти, які раніше були автоматично позначені або автоматично позначені вищою класифікацією.  Докладні відомості див. в статті [Застосування автоматичних або рекомендованих етикеток.](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied)
 7. Якщо проблеми не зникають, зберіть журнали клієнта Azure Information Protection і вкладіть експортовані журнали до запиту на підтримку. Щоб експортувати журнали захисту даних в Azure:
-    - Відкрийте документ Office або створіть електронний лист у програмі Outlook.
+    - Відкрийте документ Office або створіть електронний лист у Outlook.
     - Натисніть **кнопку Довідка та відгуки щодо** захисту та  >  **чутливості.**
     - Натисніть **кнопку Експорт журналів**.
     - Збережіть журнали у вибраному розташуванні та вкладіть їх у свій запит на обслуговування.
