@@ -1,5 +1,5 @@
 ---
-title: Сплатити рахунок-фактуру на порталі Azure-Рекомендовані кроки
+title: Оплата рахунка-фактури на порталі Azure – рекомендовані кроки
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 71be9bd2d69129cde16827371b71881ddb1284b19534ca48eb7079e761bdcff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010385"
 ---
-# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Сплатити рахунок-фактуру на порталі Azure-Рекомендовані кроки
+# <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Оплата рахунка-фактури на порталі Azure – рекомендовані кроки
 
-На основі опису проблеми ми знайшли рішення для вас. Більшість клієнтів змогли вирішити свою проблему самостійно, дотримуючись нашої документації.
+Ми знайшли рішення відповідно до опису проблеми. Більшість клієнтів змогли самостійно вирішити проблему після перегляду нашої документації.
 
-Для оплати рахунків-фактур на порталі «Лазурний» потрібно бути адміністратором рахунку для виставлення рахунків. Адміністратор рахунку для виставлення рахунків – це користувач, який спочатку ввійшов у обліковий запис угоди з клієнтами Microsoft. 
+Сплачувати рахунки на порталі Azure може лише адміністратор облікового запису для платних служб. Адміністратор облікового запису для платних служб – це користувач, який зареєструвався в обліковому записі клієнтської угоди Microsoft. 
 
-Щоб оплатити рахунок-фактуру на порталі Azure, зробіть ось що: 
+Щоб оплатити рахунок-фактуру на порталі Azure: 
 
-1. Увійдіть на [портал Azure](https://portal.azure.com/).
-1. Введіть у пошуку **Керування витратами + виставлення рахунків**.
-1. В області ліворуч у розділі **виставлення рахунків** виберіть пункт **рахунки-фактури**.
-1. Якщо будь-який із ваших рахунків має прострочені або прострочені умови, відобразиться посилання синя **оплата** для цього рахунка-фактури. Натисніть кнопку **сплатити зараз**.
-1. У новому клинку натисніть кнопку **вибрати спосіб оплати** , щоб вибрати наявну кредитну картку або додати нову.
-1. Після вибору способу оплати натисніть кнопку **сплатити зараз**.
-Стан рахунка-фактури буде оновлено до оплаченого на рахунку-фактурі.
+1. Увійдіть [на портал Azure](https://portal.azure.com/).
+1. Виконайте пошук у розділі **Керування витратами та виставлення рахунків**.
+1. В області ліворуч у розділі **Виставлення рахунків** клацніть **рахунки**.
+1. Якщо заборгованість за рахунком-фактурою потрібно  сплатити або прострочено, для цього рахунка-фактури відобразиться синє посилання Сплатити зараз. Натисніть **кнопку Сплатити зараз.**
+1. У новому накладі клацніть Виберіть **метод** оплати, щоб вибрати наявну кредитну картку або додати нову.
+1. Після вибору способу оплати натисніть кнопку **Сплатити зараз.**
+Стан рахунка-фактури буде оновлено до оплати в накладних.
 
 **Рекомендовані документи**
 
-- [Оплата рахунка за користування програмою Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
-- [Змінення способу оплати – запитання й відповіді](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Змінення способу оплати для профілю виставлення рахунка](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
-- [Перевірка доступу до угоди клієнта Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
+- [Оплата рахунка за використання Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/pay-bill)
+- [Змінення методу оплати: запитання й відповіді](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Змінення методу оплати для профілю виставлення рахунків](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#manage-credit-cards-for-a-microsoft-customer-agreement)
+- [Перевірка доступу до Клієнтської угоди Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support%22%20%5Cl%20%22manage-credit-cards-for-a-microsoft-customer-agreement%22%20%5Ct%20%22_blank#check-the-type-of-your-account)
