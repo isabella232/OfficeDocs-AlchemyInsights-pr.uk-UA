@@ -1,5 +1,5 @@
 ---
-title: Керування веб-доступом у Microsoft Edge для iOS і Android за допомогою Microsoft Intune
+title: Використання Microsoft Intune для керування веб-доступом у програмах Microsoft Edge для iOS і Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,26 +14,26 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975878"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Керування веб-доступом у Microsoft Edge для iOS і Android за допомогою Microsoft Intune
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Використання Microsoft Intune для керування веб-доступом у програмах Microsoft Edge для iOS і Android
 
-Microsoft Edge для iOS і Android дає користувачу змогу переглядати веб-сторінки з кількох окремих профілів.
+Microsoft Edge для iOS і Android користувач може переглядати веб-сторінки з кількох окремих профілів.
 
-Найширші можливості захисту даних Microsoft 365 стають доступними, коли ви передплатили пакет Enterprise Mobility + Security, до якого входять Microsoft Intune і Azure Active Directory Premium, як-от умовний доступ. Принаймні потрібно розгорнути політику умовного доступу, яка (1) дає змогу користувачам підключатися з мобільних пристроїв до Microsoft Edge для iOS і Android і що (2) впроваджує політику захисту програм Microsoft Intune, яка забезпечує захищений перегляд веб-сторінок.
+Найширші можливості захисту Microsoft 365 стають доступними, коли ви передплатили пакет Enterprise Mobility + Security, до якого входять Microsoft Intune та Azure Active Directory Premium функцій, як-от умовний доступ. Принаймні потрібно розгорнути політику умовного доступу, яка (1) дає змогу користувачам підключатися з мобільних пристроїв до Microsoft Edge для iOS і Android і що (2) впроваджує політику захисту програм Microsoft Intune, яка забезпечує захищений перегляд веб-сторінок.
 
 Щоб зрозуміти, як можна використовувати умовний доступ і політики, див. статті:
 
-[Застосування політик умовного доступу Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Застосування Azure Active Directory умовного доступу](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Створення політик захисту програм Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Створення Microsoft Intune програм для захисту](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Використання єдиного входу для веб-програм, підключених до Azure Active Directory, у браузерах, захищених політикою](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Використання єдиного входу для Azure Active Directory підключених веб-програм у браузерах, захищених політикою](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Використовуйте конфігурацію програми для керування переглядом](https://go.microsoft.com/fwlink/?linkid=2132483)
 
@@ -43,6 +43,6 @@ Microsoft Edge для iOS і Android дає користувачу змогу п
 
 [Розгортання політик конфігурації програм для захисту даних](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Розгортання політик конфігурації програми за допомогою Microsoft Endpoint Manager](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Використання Microsoft Endpoint Manager для розгортання політик конфігурації програм](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Відомості про те, як отримати доступ до журналів керованих програм, див. в статті Доступ до журналів керованих програм за допомогою Microsoft Edge для [iOS і Android.](https://go.microsoft.com/fwlink/?linkid=2132578)
+Відомості про те, як отримати доступ до журналів керованих програм, див. в статті Доступ до журналів керованих програм за допомогою програми Microsoft Edge для [iOS і Android.](https://go.microsoft.com/fwlink/?linkid=2132578)

@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032003"
 ---
 # <a name="creating-aip-label-policies"></a>Створення політик підписів AIP
 
-Поштові позначки (AIP) можна використовувати з усіма даними, які організація зазвичай створює та зберігає, від найменшого класифікації особистих даних, до найвищої класифікації дуже конфіденційних даних. Політики захисту інформації Azure звертаються до класичного клієнта "Лазурний" (AIP), а не  [клієнта з етикеткою AIP](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). Можна настроїти кілька елементів політики AIP, зокрема такі параметри, як:
+Підписи Azure Information Protection(AIP) можна використовувати з повним діапазоном даних, які зазвичай створюють і зберігаються організацією – від найнижчої класифікації особистих даних до найвищої класифікації дуже конфіденційних даних. Політики захисту даних Azure застосовуються до класичного клієнта Azure Information Protection(AIP), а не до клієнта [уніфікованого етикеток AIP.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) У політиці AIP можна налаштувати кілька елементів, зокрема такі параметри:
 
-- Параметр, для якого підпис дасть змогу адміністраторам або класифікувати користувачів і захищати (необов'язково) документи та повідомлення електронної пошти
-- Параметр для застосування класифікації, коли користувачі зберігають документи та надсилають повідомлення електронної пошти
-- Параметр, щоб автоматично позначити повідомлення електронної пошти на основі вкладень.
-- Параметр, який дає змогу визначити, чи відображається панель захисту інформації в програмах Office
+- Параметр, що дає змогу адміністраторам або користувачам класифікувати та захищати (необов'язково) документи й повідомлення електронної пошти
+- Параметр застосування класифікації під час збереження документів і надсилання електронної пошти
+- Параметр для автоматичного підписування повідомлення електронної пошти на основі його вкладень.
+- Параметр для керування відображенням панелі захисту даних у програмах Office.
 
-Щоб отримати додаткові можливості та відомості про політики захисту даних Azure, див.: [Огляд політики захисту інформації в Лазур](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+Додаткові параметри та відомості про політики захисту даних в Azure див. в: [Огляд політики захисту даних в Azure.](https://docs.microsoft.com/azure/information-protection/overview-policy)  
 
-Для інших корисних ресурсів, які стосуються політики AIP, див.:
+Інші корисні ресурси щодо політик AIP:
 
-- [Навчальний посібник: настроювання параметрів політики захисту даних Azure і створення нової етикетки](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [Налаштування політики захисту інформації в Лазур](https://docs.microsoft.com/azure/information-protection/configure-policy)  
-- [Створення та настроювання міток конфіденційності та їх політики](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [Посібники для поширених сценаріїв, які використовують захист інформації Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [Огляд документації з захисту інформації про Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [Вимоги для захисту інформації за Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [Короткий посібник із захисту інформації для Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [Завантажити клієнт захисту даних Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [Навчальна вправа: настроювання параметрів політики захисту даних в Azure і створення нової етикетки](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [Налаштування політики захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [Створення та настроювання підписів конфіденційності та їхніх політик](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
+- [Інструкції для типових сценаріїв, у яких використовується захист даних в Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Перегляд документації для захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Вимоги до захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [Короткий посібник із захисту даних в Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [Завантаження клієнта Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

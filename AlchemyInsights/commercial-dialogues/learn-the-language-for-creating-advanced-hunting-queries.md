@@ -1,5 +1,5 @@
 ---
-title: Вивчення мови для створення розширених запитів на полювання
+title: Дізнайтеся мову створення розширених запитів пошуку
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748672"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016793"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Вивчення мови для створення розширених запитів на полювання
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Дізнайтеся мову створення розширених запитів пошуку
 
-Розширене полювання залежить від [мови запитів Kusto](https://go.microsoft.com/fwlink/?linkid=2144620). Ви можете використовувати синтаксис Kusto і оператори, щоб побудувати запити, які можуть знайти інформацію в [схемі](https://go.microsoft.com/fwlink/?linkid=2144621) , спеціально структурованій для розширеного полювання.
+Розширене пошук базується на [мові запитів Кусто.](https://go.microsoft.com/fwlink/?linkid=2144620) Синтаксис і оператори Kusto можна використовувати для побудови [](https://go.microsoft.com/fwlink/?linkid=2144621) запитів, які шукали відомості у схемі, спеціально структуровані для розширеного пошуку.
 
-Щоб отримати докладні відомості, ознайомтеся з додатковими можливостями для [мисливської мови запитів](https://go.microsoft.com/fwlink/?linkid=2144518).
+Докладні відомості див. в розділі Додаткові відомості [про розширену мову запитів](https://go.microsoft.com/fwlink/?linkid=2144518)пошуку.
