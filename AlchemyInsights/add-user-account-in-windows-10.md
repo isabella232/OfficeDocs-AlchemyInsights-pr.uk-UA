@@ -1,5 +1,5 @@
 ---
-title: Додавання облікового запису користувача у Windows 10
+title: Додавання облікового запису користувача в Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: 74182d6b2b287b614624baabd20ce3abecb5a191
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f8275cc8197015e9146377bd8af979d79b32494f674b8bcab8df310d69e4a14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822332"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953674"
 ---
-# <a name="add-a-user-account-in-windows-10"></a>Додавання облікового запису користувача у Windows 10
+# <a name="add-a-user-account-in-windows-10"></a>Додавання облікового запису користувача в Windows 10
 
 Ось як додати обліковий запис у Windows 10:
 
-1. Послідовно виберіть **елементи** Пуск Настройки Облікові & родини та інші користувачі (або Інші користувачі, якщо ви використовуєте Windows 10 Enterprise) > Додати когось іншого на  >    >    >   **цей комп'ютер.** 
+1. Послідовно виберіть Настройки Облікові записи родини & інших користувачів (або Інші користувачі, якщо ви використовуєте Windows 10 Enterprise) > Додати когось іншого на  >    >    >   **цей комп'ютер.** 
 2. Дотримуйтесь інструкцій, щоб додати обліковий запис Microsoft або локальний обліковий запис.
 
 [Докладні відомості про настроювання облікових записів](https://support.microsoft.com/help/17197/)

@@ -1,5 +1,5 @@
 ---
-title: Модерніз класичної домашньої сторінки
+title: Модернізувати класичну домашню сторінку
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026099"
 ---
-# <a name="modernize-the-classic-home-page"></a>Модерніз класичної домашньої сторінки
+# <a name="modernize-the-classic-home-page"></a>Модернізувати класичну домашню сторінку
 
-Останнє оновлення для стандартних сторінок сайту групи SharePoint впливає на домашню сторінку класичних сайтів групи (STS # 0), якщо Домашня сторінка містить *лише всі веб-частини* , як-от "Початок", "бібліотека документів" і "канал новин".
+Останнє оновлення класичних домашніх сторінок сайту групи SharePoint впливає на домашню сторінку класичних сайтів груп (STS#0), коли домашня сторінка містить лише стандартні *веб-частини, як-от* початок роботи, бібліотеку документів і канал новин.
 
-Перегляд [змін у](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif)надбудові. 
+Перегляньте ці покроки [тут.](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
-**Зауваження: класична Група сайтів, які містять настроюваний вміст, не оновлюватимуться автоматично.**
+**Примітка. Класичні сайти груп, які містять настроюваний вміст, не оновлюватимуться автоматично.**
 
-* Дізнайтеся більше про умови оновлення на [класичній модернізації домашньої сторінки](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Дізнайтеся більше про умови оновлення в [класичній модернізації домашньої сторінки.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
-* [Оновіть інші домашні сторінки, які не були частиною автоматичної модернізації](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Оновіть інші домашні сторінки, які не взяли участь у автоматичному сучасному оновленні.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* Вимкнення цього оновлення на певних сайтах за допомогою [командлетів PowerShell і практик SharePoint (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* Вимкнути це оновлення для певних сайтів за [допомогою командлета PowerShell SharePoint Patterns and Practices (PnP) PowerShell.](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)
