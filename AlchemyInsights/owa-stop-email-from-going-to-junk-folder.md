@@ -1,5 +1,5 @@
 ---
-title: Припинення повідомлень від переходу до папки небажаної пошти в Інтернет-версії Outlook
+title: Скасування надходжень повідомлень до папки "Небажана пошта" в інтернет-версія Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,24 +11,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "9000290"
-ms.openlocfilehash: 68ff66f0f92d84f788963f5f17f8e695813bc3fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19f1b0704353d07c03bbb0b805fd32010958ff254b2823f535544b0f636c2919
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802114"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982538"
 ---
-# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Припинення повідомлень від переходу до папки небажаної пошти в Інтернет-версії Outlook
+# <a name="stop-messages-from-going-to-your-junk-email-folder-in-outlook-on-the-web"></a>Скасування надходжень повідомлень до папки "Небажана пошта" в інтернет-версія Outlook
 
-Якщо ви виявите, що повідомлення електронної пошти в папці небажаної пошти не є небажаною, виконайте такі дії:
+Якщо виявиться, що повідомлення електронної пошти в папці "Небажана пошта" не є небажаним:
 
-1. Відкрийте папку "Небажана пошта" та виберіть повідомлення. (*Зверніть увагу:* в папці небажаної пошти видаляються через 30 днів.)
-1. Над списком повідомлень виберіть пункт **не Небажана пошта**  >  **Not junk**.
+1. Відкрийте папку "Небажана пошта" та виберіть повідомлення. (*Примітка.* Елементи в папці "Небажана пошта" видаляються через 30 днів).)
+1. Над списком повідомлень виберіть **Пункт Не небажана**  >  **пошта**.
 
-Якщо потрібно заборонити надсилання повідомлень від відправника до папки Небажана пошта, додайте відправника до списку надійних відправників.
+Щоб заборонити відправнику переходити до папки "Небажана пошта", додайте відправника до списку надійних.
 
-1. Вибір піктограми шестерні <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- , щоб відкрити область "Настройки".
-1. Виберіть пункт **Переглянути всі настройки Outlook**  >  **небажаної пошти**.
-1. У розділі **Надійні відправники та домени**натисніть кнопку **Add (додати**).
-1. Введіть адресу електронної пошти або домен, який потрібно додати, і натисніть кнопку **зберегти**.
+1. Виберіть піктограму із зображенням носка <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ , щоб відкрити Настройки області.
+1. Виберіть **Переглянути всі Outlook настройки**  >  **небажаної пошти**.
+1. У **Сейф відправників і доменів** виберіть команду **Додати**.
+1. Введіть адресу електронної пошти або домен, який потрібно додати, і натисніть кнопку **Зберегти**.

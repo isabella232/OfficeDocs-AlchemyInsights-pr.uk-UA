@@ -1,5 +1,5 @@
 ---
-title: Розгортання Microsoft EDGE для мобільних пристроїв iOS/iPadOS або Android
+title: Розгортання Microsoft Edge для мобільних пристроїв iOS, iPadOS або Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 98ab637b6ca0f2b3cfa98ae897d6ed1d9f36c3cd
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679948"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005471"
 ---
-# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Розгортання Microsoft EDGE для мобільних пристроїв iOS/iPadOS або Android
+# <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Розгортання Microsoft Edge для мобільних пристроїв iOS, iPadOS або Android
 
-Наведений нижче сценарій, що керується нижче, допоможе вам призначати Microsoft EDGE користувачам iOS, iPadOS і пристроях Android. Після виконання цих дій політики Microsoft Inune зможуть ввімкнути такі функції Microsoft EDGE для бізнесу:
+Наведений нижче сценарій допоможе призначити Microsoft Edge на пристроях з iOS, iPadOS і Android. Після виконання цих кроків Microsoft Intune політики дають змогу використовувати такі функції Microsoft Edge для бізнесу:
 
 - Подвійна ідентичність
-- Інтеграція з політикою захисту програми Microsoft Inune
-- Інтеграція з проксі-сервером застосунку «Лазурний активний каталог»
-- Ярлики керованих уподобань і домашньої сторінки
+- Інтеграція Microsoft Intune політикою захисту програм
+- Інтеграція з Azure Active Directory застосунку
+- Керовані вподобання та ярлики домашньої сторінки
 
 > [!NOTE]
-> Якщо ви заблокували користувачів від реєстрації мобільних пристроїв, цей сценарій не працюватиме, а користувачам знадобиться інсталювати Microsoft EDGE самостійно.
+> Якщо ви заблокували для користувачів можливість реєструвати мобільні пристрої, цей сценарій не працюватиме, і користувачам знадобиться Microsoft Edge самостійно.
 
-Щоб розгорнути Microsoft EDGE для мобільних пристроїв iOS/iPadOS або Android, див.:
+Відомості про Microsoft Edge мобільних пристроїв для iOS, iPadOS або Android див. в статтях:
 
-1. [Попередні вимоги](https://go.microsoft.com/fwlink/?linkid=2133027)
-2. [Введення](https://go.microsoft.com/fwlink/?linkid=2133520)
+1. [Передумови](https://go.microsoft.com/fwlink/?linkid=2133027)
+2. [Загальні відомості](https://go.microsoft.com/fwlink/?linkid=2133520)
 3. [Основи](https://go.microsoft.com/fwlink/?linkid=2133421)
-4. [Конфігурації](https://go.microsoft.com/fwlink/?linkid=2133521)
+4. [Конфігурація](https://go.microsoft.com/fwlink/?linkid=2133521)
 5. [Призначення](https://go.microsoft.com/fwlink/?linkid=2132869)
-6. [Рецензування та створення](https://go.microsoft.com/fwlink/?linkid=2133522)
+6. [Перегляд і створення](https://go.microsoft.com/fwlink/?linkid=2133522)
