@@ -1,5 +1,5 @@
 ---
-title: Помилка під час перевірки домену
+title: Проблема з перевіркою домену
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 4506edb8ee52a89cbf690f6087ae43b0c363f323
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0dd29a577b2d7042ae63e784b9681b29ab0b431a1ab4f30f90e49aaa03c7c0ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748409"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016577"
 ---
-# <a name="problem-verifying-a-domain"></a>Помилка під час перевірки домену
+# <a name="problem-verifying-a-domain"></a>Проблема з перевіркою домену
 
-Якщо Office 365 не перевіряє домен на годину або два, виникла проблема.
+Якщо Office 365 не підтверджує домен через годину або два, проблема.
 
-Натисніть кнопку **ні** , щоб указати, що **не вдалося вирішити проблему** , а потім ви побачите варіанти розмови з людиною.
+Виберіть **Ні** в наведених  нижче підказках, щоб указати, що проблему не вдалося вирішити. Після цього від'являться варіанти спілкування з людиною.

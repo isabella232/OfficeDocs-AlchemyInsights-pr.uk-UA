@@ -1,5 +1,5 @@
 ---
-title: проблеми з спільним доступом до Outlook – клієнт-Manager
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 8281adacb2164ee88a73ee5b5e3afcc2a4ed317e96e8f37eba0d068c2792bfdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960136"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Проблеми, які мають спільний доступ до диспетчера клієнтів Outlook
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Проблеми з наданням спільного Outlook Customer Manager
 
-Якщо у вас виникли проблеми з диспетчером клієнтів Outlook, радимо спочатку виконати очищення кешу браузера. Наприклад, у браузері Internet Explorer ви маєте такий вигляд:
+Якщо у вас виникають проблеми зі спільним Outlook Customer Manager, радимо спочатку спробувати очистити кеш браузера. Наприклад, у браузері Internet Explorer потрібно:
 
-1. Перейдіть до   >  параметрів **загальні** параметри > в розділі кеш історії   >  **та бази даних браузера**.
-2. Видалити кеш-файли для веб-сайту "outlookapps.com".
-3. Перезапустіть програму Outlook.
+1. Перейдіть до **Настройки**  >  **Загальні > Настройки** в розділі   >  **Кеші журналу браузера та бази даних**.
+2. Видаліть файли кеша для веб-сайту "outlookapps.com".
+3. Перезавантажте Outlook.
 
-Докладні відомості про надання спільного доступу наведено [в статті надання спільного доступу до інформації в диспетчері клієнтів Outlook](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710).
+Докладні відомості про надання спільного доступу див. [в Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)
