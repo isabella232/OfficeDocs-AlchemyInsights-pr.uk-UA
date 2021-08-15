@@ -1,5 +1,5 @@
 ---
-title: Імпорт календаря Google до програми Outlook
+title: Імпорт календаря Google до Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014849"
 ---
-# <a name="import-your-google-calendar-to-outlook"></a>Імпорт календаря Google до програми Outlook
+# <a name="import-your-google-calendar-to-outlook"></a>Імпорт календаря Google до Outlook
 
-Повторіть цю процедуру для кожного календаря Google, який потрібно імпортувати до програми Outlook.
+Повторіть ці дії для кожного Календаря Google, який потрібно імпортувати Outlook.
 
-1. У програмі Outlook на робочому столі (Outlook 2013 або Outlook 2016) перейдіть до **календаря**.
-1. Натисніть кнопку Відкрити **файл**  >  **& експортувати**  >  **Імпорт або експорт**.
-1. У **майстрі імпорту й експорту** виберіть **Імпорт файлу iCalendar (ICS) або vCalendar**, а потім натисніть кнопку **Далі**.
-1. Перейдіть до місця, де ви зберегли видобутий файл, і виберіть той, який завершується в **Gmail.com**, і натисніть кнопку **OK**.
-1. Натисніть кнопку **Імпорт**
+1. У Outlook настільному комп'ютері (Outlook 2013 або Outlook 2016) перейдіть до **календаря**.
+1. Виберіть **Файл Відкрити**&  >  **Експорт** або  >  **експорт.**
+1. У вікні **Майстер імпорту й** експорту виберіть **імпорт файлу iCalendar (ICS) або vCalendar**, а потім натисніть кнопку **Далі**.
+1. Перейдіть до розташування, у якому збережено видобутий файл, виберіть файл, який закінчується на gmail.com , **і натисніть** кнопку **OK.**
+1. Натисніть кнопку **"Імпорт"**
 
-Перейдіть до календаря Outlook. Тепер ви побачите ваші події календаря Google.
+Перейдіть до Outlook календаря. Тепер у нім має з'явитись події Календаря Google.

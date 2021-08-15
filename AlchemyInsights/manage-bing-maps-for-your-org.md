@@ -1,5 +1,5 @@
 ---
-title: Керування картами Bing для організації
+title: Керування Карти Bing для організації
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9161"
-ms.openlocfilehash: c90afb1ea6664e8ef402981e70fe7c2bc8f07108
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c1050208403f708db8ad557f70d7b23d5ea0f44ae9f2da76b37ead2b9b90436e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751049"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53976706"
 ---
-# <a name="manage-bing-maps-for-your-organization"></a>Керування картами Bing для організації
+# <a name="manage-bing-maps-for-your-organization"></a>Керування Карти Bing для організації
 
-Після ввімкнення карти Bing у розділі **вбудований вміст** у центрі адміністрування Power Platform користувачі бачитимуть клієнта в картах Bing, коли вони переглядають контакти, потенційні клієнти або облікові записи.
+Якщо ввімкнути Карти Bing в  розділі Вбудований вміст у Центрі адміністрування платформи Power, користувачі побачать клієнта в службі Карти Bing під час перегляду контактів, потенційних клієнтів або облікових записів.
 
-Докладні відомості можна знайти в статті [керування картами Bing для вашої організації](https://go.microsoft.com/fwlink/?linkid=2152757).
+Докладні відомості [див. в розділі Керування Карти Bing для організації.](https://go.microsoft.com/fwlink/?linkid=2152757)

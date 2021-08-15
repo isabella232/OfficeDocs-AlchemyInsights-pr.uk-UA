@@ -1,5 +1,5 @@
 ---
-title: Усунення несправностей зі збереженням файлів у програмі Excel
+title: Усунення несправностей збереження файлів у Excel
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000703"
 - "2608"
-ms.openlocfilehash: 809774fd5a8c1fea087d1c9f000f24f3d56175b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2bc46157a4c129fb41c098dc89e56dff810a67ff191c22b1fcfad045077d4519
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832187"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039339"
 ---
-# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Виправлення помилок під час збереження книг Excel
+# <a name="how-to-troubleshoot-errors-when-you-save-excel-workbooks"></a>Виправлення помилок під час збереження Excel книгах
 
-Якщо у вас виникають проблеми зі збереженням книги у програмі Excel, див. номери для виправлення помилок під час [збереження книг Excel.](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)
+Якщо у вас виникають проблеми зі збереженням книги в Excel, див. статті Виправлення помилок під [час збереження Excel книгах.](https://docs.microsoft.com/office/troubleshoot/excel/issue-when-save-excel-workbooks)

@@ -1,5 +1,5 @@
 ---
-title: Діагностика для різних проблем із доступом до портів
+title: Діагностика різних проблем із доступом до портів
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9035"
 - "9005220"
-ms.openlocfilehash: 3673067cad7ac55f3820422dc2ec09942c393149
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 07c108d5292965d20340da039b67744d93c0a4fc61edb8115796671f2f7f1552
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51036804"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030923"
 ---
-# <a name="diagnostics-for-different-ports-access-issues"></a>Діагностика для різних проблем із доступом до портів
+# <a name="diagnostics-for-different-ports-access-issues"></a>Діагностика різних проблем із доступом до портів
 
-Щоб вирішити різні проблеми з доступом до портів, виконайте наведені нижче дії.
+Щоб усунути різні проблеми з доступом до порту, виконайте такі дії:
 
-1. Зупиніть або девиділяє віртуальну машину (VM) на порталі, перезавантажте VM та повторіть спробу. 
-2. Перевірте параметри мережі ВМ, щоб визначити, чи є у вас групи безпеки мережі (NSGs), що блокує трафік. Ви також можете використовувати [IP-потік мережі Watcher](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) , щоб перевірити, чи не блокує трафік, User-Defined маршрутів (udrs), щоб повернути трафік до локального ("маршрут за замовчуванням" 0.0.0.0/0) або до мережевого пристрою.
-Якщо після виконання наведених вище дій виникли проблеми, укажіть ім'я ВМ та TCP-порт, на який ви намагаєтеся надіслати пошту, щоб продовжити діагностику.
+1. Зупиніть або угоди на віртуальній машині (VM) з порталу, перезапустіть віртуальну машину та перевірте ще раз. 
+2. Перевірте параметри мережі VM, щоб з'ясувати, чи заблоковано трафік груп безпеки мережі (NSGs). Також за [](https://docs.microsoft.com/azure/network-watcher/network-watcher-ip-flow-verify-overview?WT.mc_id=Portal-Microsoft_Azure_Support) допомогою засобу перевірки IP-потоку мережевого стеження можна перевірити наявність NSG-файлів, які блокують трафік, маршрутизацію маршрутів User-Defined (UDRs) і перенаправляйте трафік до локального середовища ("Маршрут за замовчуванням" 0.0.0.0/0) або мережевому пристрої.
+Якщо після описаних вище кроків проблеми не зникли, укажіть ім'я VM та порт TCP, на який ви намагаєтеся надіслати повідомлення для подальшого діагностики.
 
 **Рекомендовані документи**
 
-[Обмеження та рекомендації щодо надсилання вихідної пошти через порт 25](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)
+[Обмеження та рекомендації щодо надсилання вихідної електронної пошти через порт 25](https://docs.microsoft.com/azure/virtual-network/troubleshoot-outbound-smtp-connectivity)

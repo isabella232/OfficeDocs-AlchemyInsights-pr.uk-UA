@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок із одинарним входом для пристроїв, підключених до мережі Azure
+title: Усунення несправностей із єдиним входом для приєднаних пристроїв Azure AD
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003246"
 - "9327"
-ms.openlocfilehash: d11c24719eb2db9e9fd87c158c80cec5cb75b946
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 872333e13bb51b3a22431154627ad561f6db88c681c9eeee523fdd09e58c0371
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039267"
 ---
-# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Виправлення неполадок із одинарним входом для пристроїв, підключених до мережі Azure
+# <a name="troubleshoot-single-sign-on-for-azure-ad-joined-devices"></a>Усунення несправностей із єдиним входом для приєднаних пристроїв Azure AD
 
-Якщо у вас є локальна Служба Active Directory (AD), і ви хочете приєднатися до свого домену, до якого приєдналися комп'ютери з лазуровим ОГОЛОШЕННЯМ, можна виконати цю роботу, виконавши гібридне об'єднання Лазур. [Планування гібридного використання служби "Блакитний" для Active Directory –](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) надання вам відповідних заходів для реалізації гібридного об'єднання Azure в навколишньому середовищі.
+Якщо у вас є локальне середовище Active Directory (AD) і ви хочете приєднатися до комп'ютерів, приєднаних до домену, до Azure AD, це можна зробити, виконавши гібридне приєднання Azure AD. [Інструкції.](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan) Планування гібридного середовища Azure Active Directory приєднання надає відповідні кроки з упровадження гібридного об'єднання Azure AD в середовищі.
 
-Докладні відомості наведено в статті [Настроювання пристроїв AZURE AD для локального Single-Sign з використанням Windows Hello для бізнесу](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base).
+Докладні відомості див. в Single-Sign Налаштування приєднаних до служби Azure AD пристроїв Single-Sign [у Windows Hello для бізнесу.](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-aadj-sso-base)
 
 **Проблеми з основним маркером оновлення (PRT)**
 
-Основний маркер оновлення (PRT) – ключовий артефакт автентифікації в Azure AD в ОС Windows 10, Windows Server 2016 і новіших версіях, iOS і Android. Це веб-маркер JSON (JWT), спеціально виданий для брокерів від корпорації Майкрософт першого учасника, щоб активувати єдиний вхід (SSO) через програми, які використовуються на цих пристроях. Докладні відомості про те, як видається ГВП, використовується та захищена на пристроях з ОС Windows 10, Дізнайтеся, [що таке первинний маркер оновлення?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
+Основний маркер оновлення (PRT) – це основний артефакт автентифікації Azure AD на пристроях Windows 10, Windows Server 2016 і пізніших версій, iOS і Android. Це маркер JSON Web Token (JWT), який спеціально видано брошурам корпорації Майкрософт із маркерами першої сторони, щоб активувати єдиний вхід (SSO) для всіх програм, які використовуються на цих пристроях. Докладні відомості про те, як видано, використовується та захищено PRT на пристроях із Windows 10, див. в статті Що таке основний маркер [оновлення?](https://docs.microsoft.com/azure/active-directory/devices/concept-primary-refresh-token).
 
-**WamDefaultSet набору: так і AzureADPrt: так**
+**WamDefaultSet: YES і AzureADPrt: YES**
 
-Ці поля вказують, чи користувач успішно автентифіковано для Azure AD під час входу на пристрій. Якщо значення **немає**, це може бути пов'язано з такими значеннями:
+Ці поля вказують, чи користувач успішно автентифікувався в Azure AD під час входу на пристрій. Якщо значення мають значення **NO**, можливо, це пов'язано з такою причиною:
 
-- Хибний ключ сховища в модулі TPM, пов'язаний із пристроєм під час реєстрації (перевірка KeySignTest під час роботи з підвищеною)
-- Альтернативний ІДЕНТИФІКАТОР входу
+- Хибний ключ сховища в TPM, пов'язаному з пристроєм під час реєстрації (перевірте KeySignTest під час запуску влітку)
+- Додатковий ідентифікатор входу
 - Проксі-сервер HTTP не знайдено
 
-Щоб виправити неполадки на пристроях за допомогою команди dsregcmd, ознайомтеся з пунктом " [стан єдиного входу](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)".
+Відомості про виправлення неполадок пристроїв за допомогою команди dsregcmd див. в цьому [стані.](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-device-dsregcmd#sso-state)

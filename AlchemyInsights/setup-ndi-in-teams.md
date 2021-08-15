@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004403"
 - "7947"
-ms.openlocfilehash: ea694898baffa50fca71957175eba3664dece44e
-ms.sourcegitcommit: 112f18dce8257b98fab32d44910ee879efb44cb8
+ms.openlocfilehash: ed932592aae1158bc0c0da4817467b69d20208533bc080cb0e424f552af8601a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935197"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023543"
 ---
 # <a name="turn-on-ndi-technology"></a>Увімкнення технології NDI
 
-Технологія NDI вимагає, щоб можна було ввімкнути два кроки для користувача.
+Щоб активувати технологію NDI для користувача, потрібно виконати два кроки:
 
-1. Адміністратор клієнта має активувати властивість "Alowndistreaming" в політиці Cstefietingpolicy.
+1. Адміністратор клієнта має активувати властивість AllowNDIStreaming у CsTeamsMeetingPolicy.
 
     `Set-CsTeamsMeetingPolicy -Identity MEETING_POLICY -AllowNDIStreaming $true`
 
-2. Після того як ця зміна заповнюється, кінцевий користувач повинен ввімкнути технологію NDI® для певного клієнта з **настройок > дозволів**.
+2. Після заповнення цієї зміни користувач має активувати технологію NDI® для певного клієнта з **Настройки > Дозволи.**
 
-Докладні відомості наведено в статті [використання технології NDI в командах Microsoft](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings).
+Докладні відомості див. в [цій Microsoft Teams.](https://docs.microsoft.com/microsoftteams/use-ndi-in-meetings)

@@ -1,5 +1,5 @@
 ---
-title: Що таке адреса електронної пошти Outlook.com?
+title: Яка моя адреса Outlook.com?
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 0282d565d4fb05f22f41e227d280ddeee23e4b8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb714428b29cde80ac379d59a1ca4a46f07cfbebbdc459c73ef100b7a17a72b7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992024"
 ---
-# <a name="see-your-own-outlookcom-email-address"></a>Перегляд власної адреси електронної пошти Outlook.com
+# <a name="see-your-own-outlookcom-email-address"></a>Перегляд власної адреси електронної Outlook.com
 
-Щоб переглянути адресу електронної пошти за замовчуванням, яку ви використовуєте під час надсилання електронної пошти, перейдіть до [настройок електронної пошти синхронізації](https://outlook.live.com/mail/options/mail/accounts) та перегляньте розділ **установлення за замовчуванням з адреси**.
+Щоб переглянути стандартну адресу електронної пошти, яку [](https://outlook.live.com/mail/options/mail/accounts) ви використовуєте для надсилання повідомлень електронної пошти, перейдіть до параметрів синхронізації електронної пошти та перегляньте настройки в розділі **Задавати стандартну адресу відправника.**
 
-Якщо ви підключили інший обліковий запис електронної пошти до облікового запису Outlook.com, ви можете вибрати надсилання електронної пошти з цієї адреси.
+Якщо до облікового запису Outlook.com підключено інший обліковий запис електронної пошти, можна надсилати повідомлення електронної пошти з цієї адреси.
 
-1. Виділення трьох точок <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- у нижній частині вікна створення та натисніть кнопку **Показати**   , щоб переглянути рядок від.
-2. Над рядком кому виберіть пункт **від**   і виберіть адресу електронної пошти, яку потрібно використовувати.
+1. Виділення трьох крапок <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ у нижній частині вікна створення повідомлення та натисніть кнопку **Показати з,** щоб відобразити рядок Від.
+2. Над рядком Кому виберіть **поле Від** і виберіть потрібну адресу електронної пошти.
 
-Дізнайтеся більше про те [, як надсилати повідомлення електронної пошти з іншої адреси в Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
+Дізнайтеся більше [про надсилання повідомлень електронної пошти з іншої адреси Outlook.com.](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy)
