@@ -1,5 +1,5 @@
 ---
-title: Базова правило для реєстрації для сегмента iOS
+title: Основне правило розгортання для блоку iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784184"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030077"
 ---
-# <a name="intune-device-enrollment"></a>Реєстрація пристроїв на пристрої
+# <a name="intune-device-enrollment"></a>Intune Device Enrollment
 
-[Відомості про реєстрацію пристрою за допомогою програми Inune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[Докладно про реєстрацію пристроїв за допомогою Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[Настроювання реєстрації пристрою з iOS для пристроїв із Inune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[Налаштування підписки на пристрій з iOS за допомогою Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[Налаштування реєстрації пристрою з Android за допомогою програми Inune](https://docs.microsoft.com/intune/android-enroll)
+[Налаштування підписки на пристрій з Android за допомогою Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[Настроювання реєстрації пристроїв Windows із програмою Inune](https://docs.microsoft.com/intune/windows-enroll)
+[Налаштування Windows в Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-Виправлення неполадок із реєстрацією пристроїв
+Усунення несправностей у підключенні пристрою
 
-1. Використовуйте [портал виправлення неполадок](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade),   щоб діагностувати та усунути поширені помилки в реєстрації. Перегляньте [цей документ](https://docs.microsoft.com/intune/help-desk-operators) , щоб отримати докладні відомості.
+1. На [порталі виправлення неполадок Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) можна діагностувати та усунути поширені помилки входу. Перегляньте [цей документ,](https://docs.microsoft.com/intune/help-desk-operators) щоб дізнатися більше.
 
-2. Перегляньте ці документи для списку поширених помилок, які перешкоджають виконанню та резолюціям:
+2. Перегляньте ці документи, щоб отримати список типових помилок, які запобігають спискам і їх вирішенням.
     - [Посібник із виправлення неполадок](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [Виправлення неполадок із документами](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+    - [Виправлення неполадок із doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

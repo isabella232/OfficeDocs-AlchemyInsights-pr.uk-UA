@@ -1,5 +1,5 @@
 ---
-title: Прийнятні послуги та плани для FastTrack
+title: Відповідні служби та плани для FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194640"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030257"
 ---
-# <a name="eligible-services-and-plans-for-fasttrack"></a>Прийнятні послуги та плани для FastTrack
+# <a name="eligible-services-and-plans-for-fasttrack"></a>Відповідні служби та плани для FastTrack
 
-Використовуючи центр FastTrack Center для Office 365, ви можете віддалено працювати з фахівцями FastTrack без додаткових витрат, щоб отримати середовище Office 365, готовий до використання. Спеціалісти FastTrack можуть допомогти вам придбати принаймні 150 ліцензій.
+З перевагою FastTrack Center Office 365 ви працюєте віддалено з фахівцями FastTrack без додаткової плати, щоб підготувати середовище Office 365 до використання. Фахівці FastTrack допоможуть вам придбати щонайменше 150 ліцензій.
 
-Щоб отримати довідку за допомогою порталу FastTrack, увійдіть на [портал FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) і дотримуйтеся вказівок, щоб завершити **запит на надання допомоги у формі Microsoft 365** .
+Щоб отримати довідку на порталі FastTrack, увійдіть на портал [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) і виконайте вказівки, щоб заповнити форму Запит на **Microsoft 365** допомогою.
 
 > [!NOTE]
-> Якщо у вас виникають проблеми з входом або додатковою допомогою, надішліть повідомлення електронної пошти на [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+> Якщо виникають проблеми з входом або вам потрібна додаткова допомога, надішліть електронний [лист ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-У навчальних закладах можна скористатися різноманітними планами для різних галузей, які мають відповідні переваги для підприємств.
+Для різних галузей, що мають право використовувати FastTrack, можна планувати різноманітні плани: від підприємств і навчальних закладів.
 
-Щоб отримати докладні відомості, ознайомтеся з відповідними [планами Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2125459).
+Докладні відомості див. [в Microsoft 365 відповідних планах.](https://go.microsoft.com/fwlink/?linkid=2125459)
 
-У вас є асортимент відповідних служб, від служби Exchange Online до команд Microsoft, Microsoft 365 і Windows 10.
+Існує асортимент відповідних служб: від Exchange Online до Microsoft Teams, Microsoft 365 та Windows 10.
 
-Повний список відповідних служб наведено в статті [прийнятні послуги](https://go.microsoft.com/fwlink/?linkid=2125636).
+Повний список відповідних служб див. у [відповідних службах.](https://go.microsoft.com/fwlink/?linkid=2125636)

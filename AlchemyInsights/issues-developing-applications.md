@@ -1,5 +1,5 @@
 ---
-title: Проблеми з розробкою програм
+title: Проблеми з розробленням програм
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,49 +13,49 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974763"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013445"
 ---
-# <a name="issues-developing-applications"></a>Проблеми з розробкою програм
+# <a name="issues-developing-applications"></a>Проблеми з розробленням програм
 
-Щоб усунути найпоширеніші проблеми під час створення веб-програм "блакитні активні каталоги (AD)", ознайомтеся з такими статтями:
+Щоб усунути найпоширеніші проблеми під час Azure Active Directory (AD), див. такі статті:
 
-- [Я бачу проблеми з входом в програму лише за допомогою браузера Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
-- [Я не знаю, як змінити параметри терміну дії маркера для моєї програми](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
-- [Я заплутався про те, як працює згода на використання програми](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
-- [Я не знаю, як надати дозволи для моєї програми](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
-- [Я не можу розібратися в різниці між делегованих і дозволами на використання програми](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
+- [Під час входу в програми за допомогою браузера Chrome виникають проблеми](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
+- [Я не знаю, як змінити стандартні значення часу життя маркерів для програми](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
+- [Я плутанина з отриманням згоди програми](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
+- [Я не знаю, як надати дозволи програмі](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
+- [Я не розумію різницю між уповноваженими дозволами та дозволами програми](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Кінець підтримки бібліотеки автентифікації в Azure Active Directory (ADAL) та API AZURE AD Graph (AAD Graph)** _
+***Припинення підтримки бібліотек Azure Active Directory автентифікації (ADAL) і Azure AD Graph API (AAD Graph)***
 
-- Починаючи з 30 червня 2020, ми більше не додаватимуть нові функції в бібліотеці автентифікації Azure Active Directory (ADAL) і Azure AD Graph API (AAD Graph). Ми продовжимо надавати технічну підтримку та оновлення системи безпеки, але більше не зможете надавати оновлення функцій.
+- З 30 червня 2020 року ми не додаватимемо нові функції до бібліотеки автентифікації Azure Active Directory (ADAL) і API Azure AD Graph (AAD Graph). Ми й надалі надаватимемо технічну підтримку та оновлення системи безпеки, але більше не надаватимемо оновлення функцій.
 
-- Починаючи з 30 червня 2022 р., ми завершуємо підтримку на графіку ADAL і AAD, і більше не зможете надавати технічну підтримку та оновлення системи безпеки. У результаті цієї умови наведені нижче наслідки наведені нижче дії.
+- З 30 червня 2022 року ми припинимо підтримку ADAL і AAD Graph і більше не надаватимемо технічну підтримку чи оновлення системи безпеки. У результаті цієї умови випливає такі наслідки:
 
-    - Програми, які використовують ADAL на наявних версіях ОС, продовжуватимуть працювати після цього часу, але не отримають жодної технічної підтримки або оновлень системи безпеки.
+    - Програми, які використовують ADAL у наявних версіях ОС, продовжуватимуть працювати, але не отримуватимуть технічної підтримки чи оновлень системи безпеки.
 
-    - Програми, що використовують AAD Graph після цього часу, можуть більше не отримувати відповіді від кінцевої точки AAD графа
+    - Програми, які використовують Graph після цього часу, можуть більше не отримувати відповіді від кінцевої точки AAD Graph.
 
-_ *Adal перенесення**
+**Перенесення ADAL**
 
-Якщо ви використовуєте програми Microsoft, радимо оновити бібліотеку автентифікації Microsoft (MSAL), яка містить найновіші функції та оновлення системи безпеки. Ця рекомендація в контексті Microsoft ініціює процес перенесення своїх програм до MSAL до кінцевого терміну підтримки. 
+Якщо ви використовуєте програми Microsoft, радимо оновитися до бібліотеки Microsoft Автентифікації (MSAL), яка містить найновіші функції та оновлення системи безпеки. Ця рекомендація полягає в тому, що корпорація Майкрософт ініціює процес перенесення програм до служби MSAL до крайніх термінів припинення підтримки. 
 
-Міграція корпорацією Майкрософт своїх програм для MSAL гарантує, що програми отримують вигоду від поточної безпеки та удосконалень функцій MSAL.
+Корпорація Майкрософт зі своїх програм переносить їх до msAL, щоб забезпечити постійну безпеку та вдосконалення функцій MSAL для програм.
 
-1. [Читайте запитання й відповіді про ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-2. [Відомості про перенесення програм на основі платформи](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-3. Якщо вам потрібна допомога в розумінні того, що ваші програми використовують ADAL, радимо переглянути всі вихідні коди програм і, за потреби, відповідати всім незалежним постачальникам програмного забезпечення (постачальникам ПЗ) або постачальникам програм. Служба підтримки Microsoft також може надати вам список всіх програм, які не належать до Microsoft ADAL у вашому клієнті.
+1. [Запитання й відповіді про ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+2. [Дізнайтеся, як перенести програми платформами](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+3. Якщо вам потрібна допомога з розумінням того, які програми використовують ADAL, радимо переглянути весь вихідний код програм і, за потреби, зв'язатися з будь-яким незалежним постачальником програмного забезпечення (ISV) або постачальниками програм. Служба підтримки Microsoft також може надати список усіх сторонніх програм ADAL у вашому осередку.
 
-**Міграція AAD графа**
+**Перенесення AAD Graph**
 
-Для програм, що використовують AAD Graph, дотримуйтеся вказівок, щоб перенести програми AAD Graph до Microsoft Graph:
+У програмах, які використовують Graph AAD, дотримуйтеся цих інструкцій, щоб перенести програми AAD Graph до microsoft Graph:
 
-1. [Наш контрольний список перенесення містить точку початку роботи](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-2. На порталі реєстрації в програмі Azure App показано, які програми використовують AAD Graph. Радимо переглянути всі вихідні коди програм і, за необхідності, охопити будь-які незалежні постачальники програмного забезпечення (незалежні постачальники ПЗ) або постачальники програм. Служба підтримки Microsoft також може надати вам інформацію про використання графіків у вашому клієнті.
+1. [Контрольний список перенесення для початку роботи](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+2. На порталі реєстрації Azure показано, які програми використовують AAD Graph. Радимо переглянути всі вихідні коди програм і, за потреби, зв'язатися з ними з будь-яким незалежним постачальником програмного забезпечення (ISV) або постачальниками програм. Служба підтримки Microsoft також може надавати вам відомості про використання Graph AAD у вашому клієнтів.
 
 
 

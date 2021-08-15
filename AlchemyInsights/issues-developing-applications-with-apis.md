@@ -1,5 +1,5 @@
 ---
-title: Проблеми, що розвиваються програми з API
+title: Проблеми з розробленням програм за допомогою API
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013481"
 ---
-# <a name="issues-developing-applications-with-apis"></a>Проблеми, що розвиваються програми з API
+# <a name="issues-developing-applications-with-apis"></a>Проблеми з розробленням програм за допомогою API
 
-Щоб почати використовувати API для роботи з програмою Azure Active Directory, ознайомтеся з посібником із короткого посібника з використання служби Azure [AD GRAPH API](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) , або перегляньте [довідкову документацію API Azure AD Graph](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
+Щоб почати використовувати інтерфейс API Azure Active Directory Graph, див. короткий посібник користувача [Azure AD Graph API](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) або перегляньте інтерактивну довідку з [API Azure AD Graph API.](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)
 
-**Кінець підтримки бібліотеки автентифікації в Azure Active Directory (ADAL) та API Azure AD Graph (AAD Graph)**
+**Припинення підтримки бібліотек Azure Active Directory автентифікації (ADAL) і Azure AD Graph API (AAD Graph)**
 
-**Починаючи з 30 червня 2020** р., ми більше не додаватимуть нові функції на графіку adal і AZURE AD. Ми продовжимо надавати технічну підтримку та оновлення системи безпеки, але більше не зможете надавати оновлення функцій.
+**З 30 червня 2020** р. ми більше не додаватимемо нові функції до ADAL і Azure AD Graph. Ми й надалі надаватимемо технічну підтримку та оновлення системи безпеки, але більше не надаватимемо оновлення функцій.
 
-**Починаючи з 30 червня 2022** р., ми ЗАВЕРШУВАТИМЕМО підтримку рекламного графіку Adal і Azure, які більше не зможуть надавати технічну підтримку та оновлення системи безпеки.
+**З 30 червня 2022** року ми завершимо підтримку ADAL і Azure AD Graph і більше не надаватимемо технічну підтримку або оновлення системи безпеки.
 
-Програми, які використовують ADAL на наявних версіях ОС, продовжуватимуть працювати після цього часу, але не отримають жодної технічної підтримки або оновлень системи безпеки.
+Програми, які використовують ADAL у наявних версіях ОС, продовжуватимуть працювати, але не отримуватимуть технічної підтримки чи оновлень системи безпеки.
 
-Програми, що використовують Azure AD Graph після цього часу, можуть більше не отримувати відповіді від кінцевої точки, що відображається в Лазурне AD.
+Програми, які використовують Azure AD Graph після цього часу, можуть більше не отримувати відповіді від кінцевої точки Azure AD Graph.
 
-**Міграція ADAL**
+**Перенесення ADAL**
 
-Радимо оновити [бібліотеку автентифікації Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), яка містить найновіші функції та оновлення системи безпеки.
+Ми радимо оновити [бібліотеку автентифікації Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), яка містить найновіші функції та оновлення системи безпеки.
 
-Якщо ви використовуєте програми Microsoft, відомо, що корпорація Майкрософт перебуває в процесі перенесення своїх програм до служби MSAL на термін до кінця підтримки, гарантуючи, що вони будуть користуватися поточною безпекою та удосконаленнями функцій MSAL.
+Якщо ви використовуєте програми Microsoft, зверніть увагу, що корпорація Майкрософт зараз переносить свої програми до служби MSAL до крайніх термінів припинення підтримки, забезпечивши їм постійну безпеку та вдосконалення функцій MSAL.
 
-1. [Прочитайте запитання й відповіді про ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Дізнайтеся, як перенести програми на платформу для кожної платформи](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Якщо вам потрібна допомога з розумінням, які програми використовують ADAL, радимо переглянути всі вихідні коди програми, а також, якщо це можливо, охопити будь-які постачальники або постачальники програм. Служба підтримки Microsoft також може надати вам список всіх програм, які не належать до Microsoft ADAL у вашому клієнті.
+1. [Прочитайте запитання й відповіді про ADAL.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. [Дізнайтеся, як перенести програми на платформі.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Якщо вам потрібна допомога з розумінням того, які програми використовують ADAL, радимо переглянути вихідний код усіх програм і, за потреби, зв'язатися з інтернет-провайдерами або постачальниками програм. Служба підтримки Microsoft також може надати список усіх сторонніх програм ADAL у вашому осередку.
 
-**Міграція AAD графа**
+**Перенесення AAD Graph**
 
-Для програм, які використовують Azure AD Graph, дотримуйтеся вказівок, щоб перенести [застосунки AZURE AD Graph до Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+Для програм, які використовують Azure AD Graph, дотримуйтеся наших вказівок, щоб перенести [програми Azure AD Graph до microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
 
-1. [Наш контрольний список перенесення містить точку початку роботи](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. На порталі реєстрації в програмі Azure App показано, які програми використовують AAD Graph. Радимо переглянути всі вихідні коди програм, а також, якщо це можливо, охопити будь-які постачальники ПЗ або провайдери програм. Служба підтримки Microsoft також може надати вам список усіх видів використання AAD Graph у вашому клієнті.
-1. Щоб отримати доступ до даних у програмі Microsoft Graph, користувач або адміністратор має надати йому відповідні дозволи за допомогою процесу згоди. [Довідник із дозволів Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) містить список дозволів, пов'язаних із кожним основним набором API Microsoft Graph. Це також дає вказівки про те, як використовувати дозволи.
+1. [Контрольний список перенесення для початку роботи](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. На порталі реєстрації Azure показано, які програми використовують AAD Graph. Радимо переглянути вихідний код усіх своїх програм і, за необхідності, зв’язатися з будь-якими незалежними постачальниками програмного забезпечення або постачальниками програм. Крім того, служба підтримки Microsoft може надати список усіх Graph AAD у вашому клієнтів.
+1. Щоб програма отримла доступ до даних у Graph Microsoft, користувач або адміністратор повинен надати їй відповідні дозволи в процесі згоди. У [посиланні Graph дозволів Microsoft](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) на перелічено дозволи, пов'язані з кожним основним набором API-Graph Microsoft. Тут також наведено інструкції з використання дозволів.

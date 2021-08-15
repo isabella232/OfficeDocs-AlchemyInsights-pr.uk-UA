@@ -1,5 +1,5 @@
 ---
-title: Використання API Microsoft Graph для керування головним елементом служби
+title: Керування Graph API служби за допомогою Microsoft Graph
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7848"
-ms.openlocfilehash: 88e621904c54cbe3c566b9fb3c65e06c235dc766
-ms.sourcegitcommit: eab164189ef0b542b24d9ff553196a721464b9c4
+ms.openlocfilehash: 0675de17be1738da65017bb61043211113b62ba758751ca75ea4926683006e38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038025"
 ---
-# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Використання API Microsoft Graph для керування головним елементом служби
+# <a name="use-microsoft-graph-api-to-manage-service-principal"></a>Керування Graph API служби за допомогою Microsoft Graph
 
-Використовуючи [основний API служби](https://docs.microsoft.com/graph/api/resources/serviceprincipal), можна програмно керувати екземплярами програм і керувати тим, що може виконувати програма в клієнті.
+За [допомогою основного API](https://docs.microsoft.com/graph/api/resources/serviceprincipal)служби можна програмно керувати екземплярами програм і керувати функціями програми у вашому клієнта.
 
-Щоб отримати докладні відомості про зв'язок між програмами та службами служб, ознайомтеся [з програмами та основними об'єктами служби в Лазурому Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+Докладні відомості про зв'язки між програмами та основними учасниками служби див. в цій Azure Active Directory [.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)
