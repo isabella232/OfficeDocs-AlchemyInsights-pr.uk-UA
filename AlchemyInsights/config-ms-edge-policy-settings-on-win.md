@@ -1,5 +1,5 @@
 ---
-title: Налаштування параметрів політики Microsoft Edge у Windows
+title: Настроювання Microsoft Edge політики на Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,20 +15,20 @@ ms.custom:
 - "9004632"
 - "6894"
 - "8358"
-ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a7c092ac606cc599b37a0d9442dd82e0f493465508a6e5d24fa0589d0f3bb19a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978722"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Налаштування параметрів політики Microsoft Edge у Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>Настроювання Microsoft Edge політики на Windows
 
-Щоб налаштувати параметри політики та керовані оновлення для Microsoft Edge, використовуйте об'єкти групової політики (GPOS). Політику можна також підготувати через реєстр. це буде доречно для (1) пристроїв Windows, приєднаних до домену Microsoft Active Directory, і для (2) екземплярів Windows 10 Pro і Enterprise, які зареєструвалися для керування пристроями в Microsoft Intune.
+Щоб настроїти параметри політики та керовані оновлення для Microsoft Edge, скористайтеся об'єктами групової політики (GPOS). Політику можна також підготувати через реєстр. це буде доречно для (1) Windows пристроїв, приєднаних до домену Microsoft Active Directory, і для (2) екземплярів Windows 10 Pro і Enterprise, які зареєструвалися для керування пристроями в Microsoft Intune.
 
-Щоб налаштувати Microsoft Edge за допомогою GPOs, виконайте такі дії:
+Щоб настроїти Microsoft Edge за допомогою GPOS, виконайте такі дії:
 
-1. Перейдіть до Центрального сховища групових політик у домені Active Directory або в папку шаблонів визначень політики на окремих комп'ютерах, інсталюйте всі адміністративні шаблони, які додадуть правила й настройки для Microsoft Edge.
+1. Перейдіть до Центрального сховища групових політик у домені Active Directory або в папку шаблонів визначень політики на окремих комп'ютерах, інсталюйте всі адміністративні шаблони, які додадуть правила й параметри для Microsoft Edge.
 2. Налаштуйте певні політики, які потрібно налаштувати.
 
-Докладні відомості див. [в статті Налаштування параметрів політики Microsoft Edge у Windows.](https://go.microsoft.com/fwlink/?linkid=2135024)
+Докладні відомості [див. в Microsoft Edge налаштування параметрів Windows.](https://go.microsoft.com/fwlink/?linkid=2135024)

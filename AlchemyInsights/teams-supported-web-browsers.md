@@ -1,5 +1,5 @@
 ---
-title: Браузери, що підтримуються в Teams
+title: Teams браузери, що підтримуються
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05b765d53a0e432993f405fc5ea7ab86597d1e7c830251a77f4167a536d2b7dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824708"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981252"
 ---
-# <a name="teams-supported-web-browsers"></a>Браузери, що підтримуються в Teams
+# <a name="teams-supported-web-browsers"></a>Teams браузери, що підтримуються
 
-Teams повністю підтримує інтернет-браузери, перелічені в статті Обмеження та специфікації для [Microsoft Teams,](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)з зазначеними винятками для викликів і нарад.
+Teams повністю підтримує браузери, перелічені в статті Обмеження та специфікації для [Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers), з зазначеними винятками для викликів і нарад.

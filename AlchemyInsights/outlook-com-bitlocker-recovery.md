@@ -1,5 +1,5 @@
 ---
-title: Відновлення Outlook.com BitLocker
+title: 'Outlook.com: відновлення BitLocker'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025127"
 ---
 # <a name="bitlocker-recovery"></a>Відновлення BitLocker
 
-Перейдіть на вкладку [пристрої](https://account.microsoft.com/devices/recoverykey) , щоб переглянути ключі відновлення BitLocker.
+Перейдіть на [вкладку Пристрої,](https://account.microsoft.com/devices/recoverykey) щоб переглянути ключі відновлення BitLocker.
 
-Докладні відомості наведено в статті [Пошук ключа відновлення BitLocker](https://support.microsoft.com/help/4026181)   .
+Докладні відомості див. в розділ Пошук [ключа відновлення BitLocker.](https://support.microsoft.com/help/4026181)
