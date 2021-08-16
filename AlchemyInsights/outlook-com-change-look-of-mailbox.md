@@ -1,5 +1,5 @@
 ---
-title: Outlook.com змінення вигляду поштової скриньки
+title: Outlook.com змінити вигляд поштової скриньки
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096499"
 ---
 # <a name="change-the-look-of-your-outlookcom-mailbox"></a>Змінення вигляду поштової скриньки Outlook.com
 
-Ви можете змінити вигляд списку повідомлень і області читання в Outlook.com.
+Вигляд списку повідомлень і області читання на веб-Outlook.com.
 
-- Щоб змінити макет вікна повідомлення, відкрийте меню параметрів [області читання](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Щоб змінити спосіб сортування електронної пошти, у верхній частині списку повідомлень виберіть пункт **Filter**  >  **Сортувати за** фільтром, а потім виберіть спосіб сортування електронної пошти.
-- Щоб групувати повідомлення за обговореннями, відкрийте меню параметрів [організації повідомлень](https://outlook.live.com/mail/options/mail/layout/conversations) .
-- Щоб увімкнути або вимкнути функцію "важливі Вхідні", Відкрийте вікно параметрів [макета](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Щоб змінити макет вікна повідомлення, відкрийте параметри [області](https://outlook.live.com/mail/options/mail/layout/readingPane) читання.
+- Щоб змінити спосіб сортування електронної пошти, у верхній частині списку повідомлень натисніть кнопку Фільтрувати сортування й виберіть спосіб сортування  >   електронної пошти.
+- Щоб згрупувати повідомлення за розмовою, відкрийте [параметри організації "Повідомлення".](https://outlook.live.com/mail/options/mail/layout/conversations)
+- Щоб увімкнути або вимкнути функцію "Рецензування вхідних", відкрийте [параметри макета.](https://outlook.live.com/mail/options/mail/layout/focused)

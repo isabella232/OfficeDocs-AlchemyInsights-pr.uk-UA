@@ -1,5 +1,5 @@
 ---
-title: 8000090 Outlook.com Select All
+title: '8000090 Outlook.com: вибір усіх'
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6a3bef0d83c5bb4f55edf01f85ccc227b914d574
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3fe62a9752f667c7a2a21282d3c954c2b3316da6ebd4a49f28dd2afb2444c7c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010820"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>Як "Виділити все" в Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>Як "вибрати все" на Outlook.com
 
-Ви можете вибрати лише всі повідомлення, які відображаються. Ця дія дає змогу уникнути випадкових дій у повідомленнях, які не відображаються.
+Ви можете вибрати все, лише якщо відображаються всі повідомлення. Це потрібно, щоб уникнути випадкових дій із повідомленнями, які ви не бачите.
 
-**Сполучення клавіш Ctrl + Click** дає змогу вибрати кілька окремих повідомлень.
+**Утримуючи натиснутою** клавішу Ctrl, буде виділено кілька окремих повідомлень.
 
-**Shift + Click** – виділяє всі повідомлення між першим і останнім повідомленням, яке ви вибрали.
+**Утримуючи натиснутою** клавішу Shift, буде вибрано всі повідомлення між першим і останнім вибраним.

@@ -1,5 +1,5 @@
 ---
-title: Інсталяція пакета Office на iPhone
+title: Інсталяція пакета Office на комп'iPhone
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.assetid: a2952e2b-bcb4-471b-8ab1-dce8aff76d70
 ms.custom:
 - "753"
 - "2000016"
-ms.openlocfilehash: 2ad07ce53aab2bc2dda0fed1479ece9b48b13553
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8317359c43e8fefe794168e9264d2dc031155a3a7f6aa4e619ce4925b783ef62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51829397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002321"
 ---
-# <a name="how-to-install-office-on-an-iphone"></a>Інсталяція пакета Office на iPhone
+# <a name="how-to-install-office-on-an-iphone"></a>Інсталяція пакета Office на комп'iPhone
 
-- За потреби [користувач може](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) торкнутися посилання для завантаження на своєму мобільному пристрої в програмах Word, Excel, PowerPoint і OneNote.
+- Користувач має [торкнутися посилання для завантаження](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) на своєму мобільному пристрої (Word, Excel, PowerPoint і OneNote).
 
 - Запустіть програму, торкніться кнопки Увійти та **введіть** свої робочі або навчальні облікові дані.
