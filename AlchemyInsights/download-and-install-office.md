@@ -1,5 +1,5 @@
 ---
-title: Завантаження та інсталяція Пакета Office
+title: Завантаження та інсталяція Office
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
-ms.openlocfilehash: 5950c130b82e435eacaf9fb096faae8482b50c15
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f6306811fad43af92e195467703b6cc1416ca7d6d6e6fcde56901e895f8c8239
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814754"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004858"
 ---
-# <a name="download-and-install-office"></a>Завантаження та інсталяція Пакета Office
+# <a name="download-and-install-office"></a>Завантаження та інсталяція Office
 
-Ваша **передплата на "Business** базовий" не включає програми Microsoft 365. Щоб отримати Office, знадобиться оновити передплату на план **"Business"** або **"Business преміум".** Ознайомтесь із доступними передплатами на Office тут: [Microsoft 365 для бізнесу](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+Ваша **передплата на "Business** базовий" не включає Microsoft 365 програми. Щоб отримати передплату Office, потрібно оновити передплату на план **"Business"** або **"Business Premium".** Ознайомтесь із доступними передплатами в Office: [Microsoft 365 для бізнесу](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

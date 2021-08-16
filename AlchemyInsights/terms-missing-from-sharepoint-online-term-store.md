@@ -1,5 +1,5 @@
 ---
-title: Умови відсутності з магазину термінів служби SharePoint Online
+title: Терміни, відсутні в онлайн SharePoint сховищі термінів
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669449"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039627"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Умови відсутності з магазину термінів служби SharePoint Online
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Терміни, відсутні в онлайн SharePoint сховищі термінів
 
-Умови в сховищі термінів служби SharePoint Online, які очікують на відображення, не відображаються або виконуються з перервами.
+Терміни, наведені в SharePoint Онлайновому сховищі термінів, які ви планували побачити, не відображаються або періодично відображаються.
   
-Якщо після того, як ви вперше побачили цю проблему, увійдіть у службу підтримки. Ми розуміємо, що протягом довгого часу може здатися, що 24 години. У багатьох випадках ми вже працюємо над вирішенням проблеми, щоб повідомити нам, принаймні 24 години.
+Якщо з моменту виникнення цієї проблеми минає понад 24 години, увійдіть у свій журнал. Ми розуміємо, що термін 24 години може здаватися довгим. У багатьох випадках ми вже працюємо над вирішенням, тому дайте нам принаймні 24 години.
   

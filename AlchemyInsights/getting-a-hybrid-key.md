@@ -1,5 +1,5 @@
 ---
-title: Вихід із гібридного ключа
+title: Отримання гібридного ключа
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056547"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Як дістатися до гібридного ключа Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>Отримання гібридного Exchange гібридного ключа
 
-Щоб підключити локальну організацію до служби Exchange Online у Microsoft 365, потрібно настроїти принаймні один сервер Exchange у локальній організації. Цей сервер використовується для створення гібридного розгортання, що з'єднує локальну організацію Exchange для Exchange Online. Щоб отримати гібридну клавішу для цього сервера, виконайте кроки, описані в [майстрі розповсюдження гібридного ключа продукту Exchange](https://aka.ms/hybridkey).
+Щоб підключити локальну організацію до Exchange Online в Microsoft 365, потрібно налаштувати принаймні один Exchange в локальній організації. Цей сервер використовується для створення гібридного розгортання, яке підключає локальну Exchange організації до Exchange Online. Щоб отримати гібридний ключ для цього сервера, дотримуйтеся вказівок у Exchange майстрі розповсюдження ключів [гібридних продуктів.](https://aka.ms/hybridkey)
   
