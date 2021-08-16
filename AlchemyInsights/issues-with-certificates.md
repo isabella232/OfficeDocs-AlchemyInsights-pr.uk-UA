@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "7749"
 - "9004340"
-ms.openlocfilehash: 168103463ee7c2d599b89ca883b410223486f59a
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 4b4a09dc5910087f1dcef4a1c01063f890ff67fc44b1db9b6cdf1391a05530c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027917"
 ---
 # <a name="issues-with-certificates"></a>Проблеми з сертифікатами
 
-Щоб отримати вказівки з вирішення проблем, пов'язаних із сертифікатами, ознайомтеся з такими статтями:
+Докладні відомості про виправлення неполадок, пов'язаних із сертифікатами, див. в таких статтях:
 
-- Початок [роботи з автентифікацією на основі сертифіката в Лазурому Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) – кроки з настроювання та використання автентифікації на основі сертифіката для користувачів орендарів у планах Office 365 для підприємств, бізнесу, навчальних закладів і ДЕРЖАВНИХ планів США.
+- Початок роботи з автентифікацією на основі сертифіката в [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-certificate-based-authentication-get-started) – кроки з настроювання та використання автентифікації на основі сертифікатів для користувачів клієнта в планах Office 365 для підприємств, Business, Education і Уряду США.
 
-- [Виправлення неполадок із автентифікацією Azure AD Certificate-Based](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – відомості, які допоможуть вам виправити неполадки автентифікації на основі сертифіката.
+- [Виправлення неполадок з автентифікацією Certificate-Based Azure AD](https://docs.microsoft.com/troubleshoot/azure/active-directory/certificate-based-authenticate-issue)  – відомості, які допоможуть виправити неполадки автентифікації на основі сертифіката.
 
-- [Керування сертифікатами для служби інтегрованого єдиного входу в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on)  – Загальні запитання та відомості, пов'язані з сертифікатами, які мають блакитний Active Directory (AZURE AD), створює для створення федеративного єдиного входу (SSO) для програмного забезпечення як програми для обслуговування (SaaS).
+- Керування сертифікатами для федеративного єдиного входу [в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on) – поширені запитання й відомості, пов'язані з сертифікатами, які Azure Active Directory (Azure AD), створюються для встановлення федеративного єдиного входу (SSO) до програмного забезпечення як служби (SaaS) програм.
 
-- [Розширені параметри підпису сертифіката в полі "САМЛ" для програм Gallery в лазурому Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options)  – Дізнайтеся про три параметри підписання сертифіката AZURE AD.
+- [Додаткові параметри підписування сертифіката на маркері SAML](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options) для програм колекції Azure Active Directory – дізнайтеся про три варіанти підписування сертифіката в Azure AD.

@@ -1,5 +1,5 @@
 ---
-title: Створення політики та профілів для InTune
+title: Створення політик і профілів Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: af8f1a3dfaccaca52f187f387274d63b22631b2d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 39725243636eb16a76078afe0165cc4c3bcd9c4fdc61358a1c75b6b310956c41
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704663"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994202"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Створення політики та профілів Inune
+# <a name="creating-intune-policy-and-profiles"></a>Створення політики та профілів Intune
 
-У програмі Inune можна створювати політики та профілі, які роблять різні дії.
+У Intune можна створювати політики й профілі, які ви можете робити різними способами.
 
-- **Профілі реєстрації**: попередньо налаштуйте свої пристрої за допомогою платформи, увімкніть близькість користувачів, використовуйте багатофакторну автентифікацію та багато іншого.
+- **Профілі реєстрації.** Попередньо налаштовуйте пристрої за платформою, увімкніть автентифікацію користувачів, використовуйте багатофакторну автентифікацію тощо.
 
-  [Що таке Реєстрація пристроїв](https://docs.microsoft.com/intune/device-enrollment)і створення профілів реєстрації для [Android](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [macOS](https://docs.microsoft.com/intune/macos-enroll)і [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) – корисні ресурси.
+  [Що таке "enrollment"](https://docs.microsoft.com/intune/device-enrollment)для пристрою та створення профілів облікових даних для [Android,](https://docs.microsoft.com/intune/android-enroll) [iOS,](https://docs.microsoft.com/intune/ios-enroll) [macOS](https://docs.microsoft.com/intune/macos-enroll) [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) є чудовими ресурсами.
 
-- **Політики відповідності**: Визначте правила та настройки, які пристрої мають стежити, щоб бути сумісними. Ви також можете використовувати політики відповідності для відстеження пристроїв і сповіщати користувачів про недотримання.
+- **Політики відповідності.** Визначте правила й параметри, які мають відповідати пристроям. Крім того, за допомогою політик відповідності можна відстежувати пристрої та сповіщати користувачів про несуть відповідності вимогам.
 
-  Початок роботи з [політиками відповідності для пристроїв](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Політики умовного доступу**: захист організаційних ресурсів залежно від введених умов. Наприклад, щоб обмежити доступ до електронної пошти та SharePoint, використовуйте умовний доступ для пристроїв, які не сумісні.
+  Почніть роботу з [політиками відповідності пристроїв.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **Політики умовного доступу:** захист корпоративних ресурсів залежно від введених умов. Наприклад, для пристроїв, які несуть умовний доступ, можна обмежити доступ до електронної пошти та SharePoint.
 
-  [Що таке умовний доступ](https://docs.microsoft.com/intune/conditional-access) і [загальні способи використання умовного доступу](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) – це гарні ресурси для початку роботи.
+  [Умовний доступ і поширені](https://docs.microsoft.com/intune/conditional-access) [способи використання](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) умовного доступу – це чудові ресурси для початку роботи.
 
-- **Профілі конфігурації**: керування функціями та параметрами на пристроях, включно з параметрами електронної пошти, додавання мережі Wi-Fi, використання вбудованих шаблонів, керування IOS і функціями macOS пристроїв тощо.
+- **Профілі конфігурації:** керування функціями та параметрами на пристроях, зокрема параметрами електронної пошти, додавання мережі Wi-Fi, використання вбудованих шаблонів, керування функціями пристрою iOS і macOS тощо.
 
-  Початок роботи на [профілях конфігурації пристроїв](https://docs.microsoft.com/intune/device-profiles).
+  Почніть роботу [з конфігурацій пристроїв.](https://docs.microsoft.com/intune/device-profiles)
 
 Корисні посилання:
 
-- [Поширені запитання, проблеми та резолюції з політиками пристроїв і профілями в InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Поширені запитання, проблеми та вирішення проблем із політиками пристроїв і профілями в Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Усунення несправностей політики та профілів в програмі Inune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Усунення несправностей політик і профілів в Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
