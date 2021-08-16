@@ -16,15 +16,15 @@ ms.custom:
 - "9000725"
 - "2671"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: 0b638f12ca90edba3150c6e75d9653cf507e37af
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 161e7e1b4a682b2e60c40b2a53b5b10da2904b351de40803f8b9d8a580fc49af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814123"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002969"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>Увімкнення та використання Microsoft Teams
 
-Якщо у вас взагалі немає доступу до Microsoft [](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)Teams, див. цю дія.
+Якщо у вас взагалі немає доступу Microsoft Teams, див. номери з якою можна отримати [доступ до Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-Якщо у вас уже є Microsoft Teams і вам потрібно дізнатися, як налаштувати його та керувати ним, див. ість [налаштування Параметрів Microsoft Teams для вашої організації.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)
+Якщо ви вже маєте обліковий Microsoft Teams і вам потрібно дізнатися, як настроїти її та керувати ним, див. Microsoft Teams [керування параметрами в організації.](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365)

@@ -1,5 +1,5 @@
 ---
-title: Пристрій offboard від захисту від досвідчених загроз Microsoft Defender
+title: Пристрої з від'єднувача від розширеного захисту від загроз для Microsoft Defender
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f991a1c02318fbf5ebc4c4449331939e4d06bb3c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967858"
 ---
-# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Пристрій offboard від захисту від досвідчених загроз Microsoft Defender
+# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Пристрої з від'єднувача від розширеного захисту від загроз для Microsoft Defender
 
-Ознайомтеся з [пристроями з Windows 10](https://go.microsoft.com/fwlink/?linkid=2143629) або [offboard, які не є пристроями для Windows](https://go.microsoft.com/fwlink/?linkid=2143630).
+Докладні [відомості див Windows 10 в](https://go.microsoft.com/fwlink/?linkid=2143629) Windows 10 [Offboard не Windows пристроях.](https://go.microsoft.com/fwlink/?linkid=2143630)
