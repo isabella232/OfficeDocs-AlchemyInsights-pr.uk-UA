@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: 35eb88624a5535e136ac1d01faf8e905bf00eb45
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 37d6764d19d9cfbb0899a5ab85a4b1530896568adc364122075b7d6f2a32970a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813781"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002147"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Помилка: AttributeValueMustBeUnique
 
 Найпоширеніша причина помилки AttributeValueMustBeUnique – це два об'єкти з різними атрибутами SourceAnchor (immutableId) і ProxyAddresses і/або UserPrincipalName. Виправлення помилки AttributeValueMustBeUnique:
   
-1. Визначте повторюване значення proxyAddresses, userPrincipalName або інше значення атрибута, що виникає через помилку. Також визначте, до яких трьох (або більше) об'єктів залучено конфлікт. Звіт, створений службою Azure AD Connect Health для синхронізації, може допомогти визначити два об'єкти.
+1. Визначте повторюване значення proxyAddresses, userPrincipalName або інше значення атрибута, що виникає через помилку. Також визначте, до яких трьох (або більше) об'єктів залучено конфлікт. Звіт, створений в Azure AD Підключення Health для синхронізації, може допомогти визначити два об'єкти.
     
 2. Визначте, який об'єкт має і надалі мати повторюване значення, а який об'єкт не має бути.
     
 3. Видаліть значення, що повторюється, з об'єкта, який не має містити це значення. Зверніть увагу, що потрібно внести зміни в каталозі, з якого об'єкт джерелом. У деяких випадках може знадобитися видалити один з об'єктів, які конфліктують.
     
-4. Якщо ви вніс зміни в локальній службі AD, запустіть засіб Azure AD Connect, щоб виправити цю помилку.
+4. Якщо ви вніс зміни в локальній службі AD, Підключення azure AD синхронізувати зміни, щоб виправити помилку.
     
 

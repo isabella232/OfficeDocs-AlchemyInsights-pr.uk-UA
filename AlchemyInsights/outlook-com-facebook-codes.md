@@ -1,5 +1,5 @@
 ---
-title: Коди Outlook.com Facebook
+title: Outlook.com і Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: aca8bcd07567116639d42254138513db573c8115
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4e17b68de85fa3b7d446523380e0a2780802bfe01d4c3df133f4b7231a0d16c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063973"
 ---
-# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Не отримувати коди Facebook за допомогою Outlook.com
+# <a name="not-receiving-facebook-codes-using-outlookcom"></a>Не надходять коди Facebook за допомогою Outlook.com
 
-Якщо ви запросили новий пароль від Facebook, але не отримали повідомлення електронної пошти для скидання пароля, виконайте наведені нижче дії.
+Якщо ви надісилали запит на новий пароль із Facebook, але не отримали повідомлення електронної пошти для скидання пароля:
 
-- Перевірте [папку "спам" або "Небажана пошта](https://outlook.live.com/mail/junkemail)".
-- Повторіть спробу [скидання пароля Facebook](https://aka.ms/facebook-password-reset).
+- Перевірте [папку небажаної пошти.](https://outlook.live.com/mail/junkemail)
+- Спробуйте [скинути пароль Facebook ще раз.](https://aka.ms/facebook-password-reset)
 
-Якщо не вдалося скинути пароль, оскільки ви не можете отримати доступ до електронної пошти або номера мобільного телефону в обліковому записі, випробуйте [поради з скидання пароля Facebook](https://aka.ms/facebook-password-help).
+Якщо вам не вдається скинути пароль, тому що вам не вдається отримати доступ до електронної пошти або номера мобільного телефону у вашому обліковому записі, спробуйте скинути пароль [facebook Підказки](https://aka.ms/facebook-password-help).

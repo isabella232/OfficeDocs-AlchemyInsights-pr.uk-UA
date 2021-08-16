@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 378c3f58f77db8b23682432c942cd4f9c3a392651ca6564528a635724ad66a25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51825392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000387"
 ---
 # <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>Перенесення З AIP на MIP/Unified Labeling у Центрі відповідності
 
@@ -29,7 +29,7 @@ ms.locfileid: "51825392"
 
 2. Знайдіть **параметри меню Керування** та виберіть Захист **активація**. Натисніть **кнопку Активувати,** а потім підтвердьте дію. Коли активацію завершено, інформаційний рядок відображає вікно **Активацію успішно завершено.**
 
-**Перенесення етикеток захисту даних Azure до Центру безпеки & Office 365**
+**Перенесення етикеток "Захист даних в Azure" Office 365 Центру безпеки & відповідності**
 
 1. Переконайтеся, що ви ввійшли як користувач із дозволом глобального адміністратора.
 
