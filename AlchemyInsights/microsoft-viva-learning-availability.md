@@ -1,5 +1,5 @@
 ---
-title: Доступність навчання в програмі Microsoft Viva
+title: Навчання Microsoft Viva Доступність
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315497"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097939"
 ---
-# <a name="microsoft-viva-learning-availability"></a>Доступність навчання в програмі Microsoft Viva
+# <a name="microsoft-viva-learning-availability"></a>Навчання Microsoft Viva Доступність
 
-Починаючи з лютого 2021, ми перевіряємо програму Viva Learning для команд з невеликою кількістю клієнтів і партнерів, і очікуйте, що це зазвичай буде доступно в кінці цього року. Ми радимо Вам [зареєструватися тут](https://aka.ms/VivaLearningSignup) , щоб дізнатися більше про те, як отримати докладнішу інформацію про нові можливості, коли вони стануть доступними.
+Починаючи із лютого 2021 року ми переглядаємо програму Viva Навчання для Teams з невеликою кількістю клієнтів і партнерів і плануємо зробити її загальнодості доступною в подальшому цьому році. Рекомендуємо [зареєструватися тут,](https://aka.ms/VivaLearningSignup) щоб дізнатися більше про Viva Навчання, зокрема дізнатися більше про нові можливості, коли вони стають доступними.
 
-Докладні відомості наведено в статті оголошення про те, як переглянути [особистий перегляд Microsoft Viva](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
+Докладні відомості див. в [Навчання Microsoft Viva приватний попередній перегляд.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023)
