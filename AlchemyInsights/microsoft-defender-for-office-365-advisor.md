@@ -1,5 +1,5 @@
 ---
-title: Порадник з захисника Microsoft для Office 365
+title: Захисник Microsoft Office 365 консультанта
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004191"
 - "7372"
-ms.openlocfilehash: cb916a79ddd4b882ea5b892cfc4c2133c924df5d
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: e8071de43932bc4f5ca6691a48b92768df18fab47ef6e6112ecc8604678b6408
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098150"
 ---
-# <a name="microsoft-defender-for-office-365-advisor"></a>Порадник з захисника Microsoft для Office 365
+# <a name="microsoft-defender-for-office-365-advisor"></a>Захисник Microsoft Office 365 консультанта
 
-Засіб захисту від [захисника Microsoft для Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) – це захист вашої організації від зловмисних загроз, які можуть виникати через повідомлення електронної пошти, посилання та засоби співпраці сторонніх постачальників. Цей посібник надає ресурси та відомості, які допоможуть вам підготувати та визначити план Microsoft Defender відповідно до потреб вашої організації.
+[Захисник Microsoft для Office 365](https://go.microsoft.com/fwlink/?linkid=2146614) консультанта захищає організацію від зловмисних загроз, які можуть виникнути у вашому середовищі через повідомлення електронної пошти, посилання та інструменти співпраці сторонніх постачальників. У цьому посібнику наведено ресурси та відомості, які допоможуть вам підготувати та визначити план Microsoft Defender відповідно до потреб вашої організації.
