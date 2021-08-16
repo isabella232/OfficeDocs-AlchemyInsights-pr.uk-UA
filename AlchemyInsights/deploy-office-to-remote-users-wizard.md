@@ -1,5 +1,5 @@
 ---
-title: Майстер розгортання Office для віддалених користувачів
+title: Розгортання Office для віддалених користувачів
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004224"
 - "7433"
-ms.openlocfilehash: bef318409ffc54ec25d97eca5120374f277a684c
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 0f3234d26cece5bcff586b7b654635a3fc71de98ed11653e3d52699e1bc965de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031463"
 ---
-# <a name="deploy-office-to-remote-users-wizard"></a>Майстер розгортання Office для віддалених користувачів
+# <a name="deploy-office-to-remote-users-wizard"></a>Розгортання Office для віддалених користувачів
 
-Тепер, коли працює віддалено – це норма, користувачі повинні отримувати настройки Office, коли вони не підключені до внутрішньої мережі або під час використання власних пристроїв.
+Тепер, коли віддалено працюєте– це норма, користувачам потрібно отримати параметри Office організації, коли вони не підключені до внутрішньої мережі або коли використовують власні пристрої.
 
-Скористайтеся майстром [розгортання Office для віддалених користувачів](https://go.microsoft.com/fwlink/?linkid=2149564) , щоб створити настроювану інсталяцію Office, а потім надішліть користувачам згенерований сценарій PowerShell, який легко інсталюватиме Office із конфігурацією.
+За допомогою майстра [розгортання Office](https://go.microsoft.com/fwlink/?linkid=2149564) для віддалених користувачів можна створити настроювану інсталяцію Office і надіслати користувачам створений сценарій PowerShell, який автоматично інсталює Office за вашою конфігурацією.

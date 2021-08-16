@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: ca9be1c329fcac4dc5ea988bbce31cf27d70e199
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fc4caf4426a6bd4b238727dfc56f21eb3a56d4eea8251c17611ea430e1a9ce05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749995"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070453"
 ---
 # <a name="set-up-and-configure-email-encryption"></a>Настроювання та настроювання шифрування електронної пошти
 
-Відомості про шифрування повідомлень Office 365 наведено в статті [шифрування повідомлення office 365](https://docs.microsoft.com/microsoft-365/compliance/ome).
+Докладні відомості про шифрування повідомлень Office 365 див. в [шифрування повідомлень Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome).
 

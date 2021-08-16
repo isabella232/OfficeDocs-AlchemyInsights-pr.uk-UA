@@ -1,5 +1,5 @@
 ---
-title: 1065 про несхвалення EOP вихідної IP-адреси rangesMC146155
+title: 1065 Вилучення діапазонів вихідних IP-адрес EOPMC146155
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1065
 ms.assetid: bd41784e-8002-428d-bc19-25671cfd34e8
-ms.openlocfilehash: afd725668f906339f4b7d769bb67a4d2ee5a6ac6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 214abc57a99c70a02a7d159441713e007f6ad980f67e373780d4ca297f69f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031283"
 ---
-# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Несхвалення вихідних діапазонів IP-адрес EOP
+# <a name="deprecation-of-eop-outbound-ip-address-ranges"></a>Вилучення діапазонів вихідних IP-адрес EOP
 
-Ми виявили потенційну проблему з організацією, яка (якщо не виправлено від 26 жовтня 2018), може призвести до розриву потоку пошти до локальних або зовнішніх напрямків. Як повідомлялося раніше, щоб спростити керування діапазоном IP-адрес, ми Зміцнімо діапазони IP-адрес захисту Exchange Online (EOP), які використовуються для надсилання й отримання електронної пошти за межі Microsoft 365. Наш аналіз вказує на те, що один або кілька із зовнішніх джерел електронної пошти або пунктів призначення, настроєні в з'єднаннях пошти, не приймають з'єднання з діапазонів IP-адрес, що відображаються [тут](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Ми виявили потенційну проблему з вашою організацією, яка може порушити потік пошти до локальних або зовнішніх місць призначення (якщо не виправлено до 26 жовтня 2018 р.). Як повідомлялось раніше, щоб спростити керування діапазоном IP-адрес, ми об'єднуємо діапазони IP-адрес Exchange Online Protection (EOP), які використовуються для надсилання й отримання електронної пошти за межами Microsoft 365. Наш аналіз указує на те, що одне або кілька зовнішніх джерел електронної пошти або місць призначення, налаштовані в з'єднаторах потоків пошти, не приймають підключення з діапазонів IP-адрес, які відображаються [тут.](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)
 
-Дії перед 26 жовтня для забезпечення цих джерел і призначень буде приймати підключення до та від всіх [опублікованих IP-адрес EOP](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses).
+Виконайте дії до 26 жовтня, щоб переконатися, що ці джерела та місця призначення прийматимуться підключення до всіх опублікованих [IP-адрес EOP і](https://docs.microsoft.com/office365/SecurityCompliance/eop/exchange-online-protection-ip-addresses)з них.
 
-Щоб отримати докладні відомості про ці зміни, ознайомтеся з відомостями про повідомлення центру повідомлень [MC146155](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155), [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)або [MC149274](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274).
+Докладні відомості про цю зміну див. в публікаціях у Центрі повідомлень [MC146155,](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC146155) [MC148620](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC148620)або [MC149274.](https://portal.office.com/AdminPortal/home?switchtomodern=true#/MessageCenter?id=MC149274)
 
-**Примітка**. Якщо ви раніше використовували IP-адресу або публікацію URL-адрес за допомогою HTML, XML і RSS для оновлень кінцевої точки, ви також повинні перейти до нових веб-служб для автоматизації цих типів оновлень. Щоб отримати докладніші відомості, ознайомтеся з [категоріями кінцевих точок microsoft 365 і microsoft 365 IP-адресою та веб-службою URL-адресою](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638).
+**Примітка.** Якщо ви раніше використовували публікацію IP-адрес або URL-адрес за допомогою оновлень служб HTML, XML і RSS для оновлень кінцевих точок, потрібно також перенести до нових веб-служб, щоб автоматизувати ці типи оновлень. Докладні відомості див. в Microsoft 365 категорії [кінцевих точок і Microsoft 365 IP-адреси та веб-службу URL-адрес.](https://techcommunity.microsoft.com/t5/Office-365-Blog/Announcing-Office-365-endpoint-categories-and-Office-365-IP/ba-p/177638)
