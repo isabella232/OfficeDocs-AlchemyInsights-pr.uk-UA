@@ -1,5 +1,5 @@
 ---
-title: Використання Microsoft Edge на основі браузерів Chromium для експорту Ediscovery
+title: Використання Microsoft Edge основі браузерів Chromium для експорту Ediscovery
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3473"
 - "3100022"
-ms.openlocfilehash: 7ee724e5109effce8883be50e360948313c84b34
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a583896b5aa8e73be5e932a729c380acc8092e73b2151647c999f9a7b69669b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834392"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998425"
 ---
-# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Використання Microsoft Edge на основі браузерів Chromium для експорту Ediscovery
+# <a name="using-microsoft-edge-based-on-chromium-browsers-for-ediscovery-export"></a>Використання Microsoft Edge основі браузерів Chromium для експорту Ediscovery
 
-Через нещодавню зміну браузери Microsoft Edge більше не зможуть підтримувати ClickOnce за замовчуванням. Щоб і надалі використовувати засіб експорту витребування електронної пошти Microsoft 365, потрібно скористатися браузером Microsoft Internet Explorer або ввімкнути підтримку ClickOnce у Microsoft Edge. 
+Через нещодавню зміну Microsoft Edge браузери більше не технологія ClickOnce підтримку за замовчуванням. Щоб і надалі використовувати засіб експорту Microsoft 365 витребування електронної Microsoft 365, потрібно скористатися браузером Microsoft Internet Explorer або технологія ClickOnce підтримки в Microsoft Edge. 
 
-Щоб увімкнути підтримку ClickOnce у Microsoft Edge на основі Chromium: 
-1. У браузері Microsoft Edge відвідайте веб edge://flags/#edge-click-once.
-2. Для параметра Підтримка ClickOnce змініть значення з значення За замовчуванням або Вимкнуто **на**  Увімкнуто.  
+Щоб активувати підтримку технологія ClickOnce в програмі Microsoft Edge на основі Chromium: 
+1. У браузері Microsoft Edge відвідайте edge://flags/#edge-click-once.
+2. Для параметра технологія ClickOnce Підтримка змініть значення  зі стандартного або Вимкнуто **на** Увімкнуто.  
 3. У нижній частині вікна браузера натисніть кнопку **Перезавантажити**. <br>
  Зміни наберуть сили після перезапуску Microsoft Edge. 
 

@@ -1,5 +1,5 @@
 ---
-title: Робота в Microsoft InTune
+title: Робота з Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751026"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069943"
 ---
-# <a name="working-in-microsoft-intune"></a>Робота в Microsoft InTune
+# <a name="working-in-microsoft-intune"></a>Робота з Microsoft Intune
 
-Нижче наведено деякі основні відомості про Inune.
+Нижче наведено деякі основи Intune.
 
-- [Що таке "Inune"?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
-- [Як зареєструватися в ознайомлювальній версії?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
-- [Перший параметр налаштування "під час першого"](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Що таке Реєстрація пристроїв у програмі Inune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
-- [Використання порталу виправлення неполадок для допомоги користувачам у вашій компанії](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Що таке Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
+- [Як зареєструватися в ознайомлювальній програмі Intune?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
+- [Перше налаштування Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Що таке "enrollment" для пристрою в Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
+- [Використання порталу виправлення неполадок для допомоги користувачам у компанії](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
-[Дізнайтеся більше про Microsoft InTune...](https://docs.microsoft.com/mem/intune/)
+[Дізнайтеся більше про Microsoft Intune...](https://docs.microsoft.com/mem/intune/)

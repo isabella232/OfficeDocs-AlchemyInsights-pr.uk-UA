@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401856"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058527"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Настроювання захисту від спаму
 
 Ось як це зробити:
 
-1. Перейдіть до [Центру безпеки та & Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Перейдіть до [Центру Office 365 безпеки & відповідності.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. Перейдіть до політики **керування**  >  **загрозами** та клацніть **[Захист від спаму.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
 1. На вкладці **Настроювані** ввімкніть параметр **Користувацькі** настройки.
 1. Розгорніть **політику фільтрування спаму за замовчуванням,** клацніть **Змінити** політику, а потім укажіть такі параметри:

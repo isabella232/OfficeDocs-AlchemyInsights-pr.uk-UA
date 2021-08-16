@@ -1,5 +1,5 @@
 ---
-title: Проблеми з умовною доступом
+title: Проблеми з умовним доступом
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7768"
-ms.openlocfilehash: 7c20b26e3a038dc4392684ca410eba97cec2df30
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 85cbd89e461f36a51eed816619fd132ea60dfdb0014eb850c7ec3f38d41e1ca2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50015006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069985"
 ---
-# <a name="conditional-access-issues"></a>Проблеми з умовною доступом
+# <a name="conditional-access-issues"></a>Проблеми з умовним доступом
 
-**Вирішення проблем із діагностичною програмою для входу**
+**Вирішення проблем із діагностичним входом**
 
-Ви можете швидко дізнатися, що сталося або діагностувати проблеми, пов'язані з входом користувача за допомогою [діагностики входу](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom):
+Можна швидко дізнатися, що сталося або діагностувати проблеми, пов'язані із входом, за допомогою засобу [діагностики входу.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
 
-1. Запустіть діагностику для входу.
-1. Знайти подію для аналізу, ввівши відомості про користувача, програму, час входу, ідентифікатор запиту або ідентифікатор кореляції.
-1. Перегляньте результати діагностики, на яких показано відомості про те, що сталося, і які дії ви можете внести зміни (якщо потрібні зміни).
+1. Запустіть засіб діагностики входу.
+1. Знайдіть подію, яку потрібно проаналізувати, ввівши дані про користувача, програму, час входу, ідентифікатор запиту або ідентифікатор кореляції.
+1. Перегляньте результати діагностики з відомостями про те, що відбулося та які дії можна внести, щоб внести зміни (за потреби).
 
-**Дії з виправлення неполадок із входом** 
+**Кроки з усунення несправностей із входом** 
 
 1. Перейдіть на сторінку входу в Azure AD.
-1. Фільтрування за допомогою користувача, часового діапазону, застосунку, стану, програми клієнта тощо.
-1. Виберіть подію входу та перейдіть на вкладку умовний доступ, щоб дізнатися, які політики було оцінено.
-1. Клацніть рядок політики, щоб переглянути відомості про політику та дізнатися, чому вона застосовується.
+1. Фільтрувати вхід за користувачем, діапазоном часу, програмою, станом, клієнтською програмою тощо.
+1. Виберіть подію для входу та перегляньте вкладку Умовний доступ, щоб дізнатися, які політики перевірено.
+1. Клацніть рядок політики, щоб переглянути відомості про політику та з'ясувати, чому вона застосована.
 
-**Засоби, які допоможуть усунути політику умовного доступу**
+**Засоби для усунення несправностей із політикою умовного доступу**
 
-- Режим лише для звіту дає змогу оцінити політику без впливу на користувачів.
-- Інструмент "what-IF" дає змогу імітувати події входу та бачити, які політики застосовуватимуться.
-- У книзі "звіти та звіти" відображаються результати в реальному часі кожної політики.
+- Режим лише для звітів дає змогу оцінювати політику, не впливаючи на користувачів.
+- Інструмент "What-if" дає змогу зімітувати події входу та побачити, які політики застосовуються.
+- Аналітика і книга звітування відображає вплив кожної політики в реальному часі.
 
-**Політики захисту від базового плану**
+**Базові політики захисту**
 
-Політики захисту від базової лінії застаріли. Вони більше не виконуються, і незабаром буде видалено з порталу Azure. Радимо ввімкнути [Параметри безпеки за замовчуванням](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+Політики базового захисту вилучено. Вони більше не застосовуються, і їх незабаром буде видалено з порталу Azure. Ми радимо ввімкнути [параметри безпеки за замовчуванням](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
 
-Докладні відомості про умовний доступ див.
+Докладні відомості про умовний доступ див. в:
 
-[Практичні поради з умовного доступу в "Лазурний" Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Умови в умовному доступі](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
- [Елементи керування в умовному доступі](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
- [Розташування в умовному доступі](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
+[Практичні поради з умовного доступу в Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Умови умовного доступу](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)  
+ [Елементи керування в умовного доступу](https://docs.microsoft.com/azure/active-directory/conditional-access/controls)  
+ [Locations in Conditional Access](https://docs.microsoft.com/azure/active-directory/conditional-access/location-condition)
