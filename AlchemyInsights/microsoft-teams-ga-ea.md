@@ -1,5 +1,5 @@
 ---
-title: Команди Microsoft – гостьовий доступ
+title: Microsoft Teams- Гостьовий доступ
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012329"
 ---
-# <a name="microsoft-teams---guest-access"></a>Команди Microsoft – гостьовий доступ
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams- Гостьовий доступ
 
-Якщо вам потрібна допомога в спілкуванні з користувачами поза межами організації в командах, потрібно вирішити, чи слід використовувати [гостьовий доступ або зовнішній доступ (Федерація)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), або ви можете використовувати обидва.
+Якщо вам потрібна допомога з спілкуванням із користувачами за межами організації в Teams, вам потрібно вирішити, чи використовувати гостьовий доступ, зовнішній доступ [(федерація)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)або обидва варіанти.
 
-Обов'язково ознайомтеся з [відмінностями](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , щоб дізнатися про функції, доступні для кожного з них.  Наприклад, зовнішній доступ (Федерація) дає змогу для спілкування в 1:1, як-от чат і присутність.  Однак не можна брати участь у роботі робочих груп за допомогою федеративного користувача.  Якщо ви хочете, щоб зовнішній користувач приєднався до участі в групах каналів або надати спільний доступ до файлів, потрібно ввімкнути Гостьове Access.
+Обов'язково [перегляньте відмінності, щоб](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) зрозуміти функції, доступні для кожного з них.  Наприклад, зовнішній доступ (федерація) дає змогу спілкуватися без підключення до мережі "Один-до-одного", наприклад "Чат" і "Присутність".  Проте федеративні користувачі не можуть Teams співпрацювати.  Якщо потрібно, щоб зовнішній користувач приєднався до розмов у каналі Teams або надав спільний доступ до файлів, увімкніть гостьовий доступ.
 
-**Параметр 1: Увімкнення гостьового доступу** У центрі адміністрування команд послідовно виберіть елементи [настройки організаційних параметрів > гостьового](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) доступу та активуйте параметр "Дозволити гостьовий доступ в командах".  Для клієнта з усіма іншими настройками за замовчуванням, це має бути все, що потрібно зробити.  Щоб настроїти конфігурацію гостьового доступу, переконайтеся, що ви виконаєте всі кроки в [контрольному списку гостей Access](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Після того як ви повністю закінчите, потрібно зачекати до [24 годин](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , щоб параметри набрали сили.
+**Варіант 1. Увімкнення гостьового доступу** У Центрі Teams адміністрування перейдіть до [](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) групи Настройки > Гостьовий доступ і ввімкніть параметр "Дозволити гостьовий доступ у Teams".  Це потрібно зробити лише для клієнта з іншими стандартними параметрами.  Щоб налаштувати конфігурацію гостьового доступу, обов'язково виконайте всі дії, описані в [контрольного списку Гостьовий доступ.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Коли все буде готово, зачекайте [24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) години, щоб настройки набрали сили.
 
-Якщо ви впевнені, що ви виконали всі кроки в контрольному списку, а це було понад 24 години, перейдіть вперед і спробувати [Додати гостя до своєї команди](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Якщо ви впевнені, що ви виконили всі кроки в контрольний список і вже понад 24 години, спробуйте додати гостя до робочої [групи.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Щоб отримати докладні відомості, зокрема про відеоролики, ознайомтеся [з Гостьовим доступом в командах Microsoft](https://docs.microsoft.com/microsoftteams/guest-access).
+Докладні відомості, зокрема відео інструкції, див. в статті [Гостьовий доступ Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Варіант 2: Увімкнення зовнішнього доступу (Федерація)** Якщо ви також хотіли б увімкнути зовнішній доступ (Федерація), у центрі адміністрування груп перейдіть до [параметрів організаційної настройки > зовнішній доступ](https://admin.teams.microsoft.com/company-wide-settings/external-communications) і ввімкніть "користувачі можуть спілкуватися зі службою" Skype для бізнесу "та" для користувачів груп ", а потім виконайте всі кроки, [щоб користувачі групи могли спілкуватися в чаті та спілкуватися з користувачами в іншій організації](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**Варіант 2. Увімкнення зовнішнього доступу (федерації)** Якщо потрібно ввімкнути зовнішній доступ (федерацію), у Центрі адміністрування Teams перейдіть на сторінку Зовнішній доступ Настройки > для всієї організації [та](https://admin.teams.microsoft.com/company-wide-settings/external-communications) ввімкніть параметр "Користувачі можуть спілкуватися з користувачами Skype для бізнесу і Teams", а потім виконайте всі дії, описані в статті Надання користувачам доступу до [служби Teams](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)і спілкування з користувачами в іншій організації.
