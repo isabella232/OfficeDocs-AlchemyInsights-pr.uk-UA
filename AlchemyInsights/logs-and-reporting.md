@@ -1,5 +1,5 @@
 ---
-title: Журнали та звіти
+title: Журнали та звітування
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004331"
 - "7727"
-ms.openlocfilehash: 7349efb02f8d6ac5d73f6d6cd06eef6308ffe9be
-ms.sourcegitcommit: 117c64e1fbcb5eec04f94eadad71423b974e7b14
+ms.openlocfilehash: 03d77c17622a1aac5ecb035bb5b73efdbbfe5e6b141e6b266eef8783f612c8b2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067033"
 ---
-# <a name="logs-and-reporting"></a>Журнали та звіти
+# <a name="logs-and-reporting"></a>Журнали та звітування
 
-Запитання й відповіді про повідомлення про те, як повідомити про Azure [Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) (AZURE AD), які часто задаються. Докладні відомості наведено в статті створення [звіту про службу "Azure Active Directory](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)".
+[Azure Active Directory відповіді на](https://docs.microsoft.com/azure/active-directory/active-directory-reporting-faq) поширені запитання про звітування про Azure Active Directory (Azure AD). Докладні відомості див. [в Azure Active Directory звітування](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports).
 
-**Вирішення проблем із аудитом**
+**Виправлення неполадок із аудитом**
 
-1. Якщо у вас виникли проблеми з деякими аудиторською діяльністю, а в цьому [списку](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities)відсутня робота, введіть квиток підтримки.
-2. Якщо у вас виникли проблеми з відображенням будь-яких журналів аудиту в клієнті, надішліть квиток на службу підтримки.
-3. Якщо ваші аудиторські дії не відображаються безпосередньо на порталі Лазурне, ознайомтеся з нашою [інформацією про латентність](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) та File квитків служби підтримки, якщо затримка перевищує документовану затримку.
-4. [Збереження журналів дій у Лазур](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
-5. Якщо ви не бачите всі елементи аудиту для вибраного діапазону дат, ви можете завантажити до рядків на 250K (за останнім часом) для входу на порталі Azure Portal. Докладні відомості наведено в статті [завантаження дій з аудиту](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report).
+1. Якщо під час перегляду деяких дій із аудиту [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-audit-activities)виникають проблеми, а в цьому списку немає активності, надавайте запит до служби підтримки.
+2. Якщо виникають проблеми з переглядом контрольних журналів у вашому клієнта, надавайте запит до служби підтримки.
+3. Якщо ваші дії з аудиту не відображаються відразу на [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) порталі Azure, перегляньте наші відомості про затримку та на файл запиту на підтримку, якщо затримка перевищує заплануту.
+4. [Збереження журналів дій Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-data-retention)
+5. Якщо не всі перевірки для вибраного діапазону дат, можна завантажити до 250K рядків (відсортований за останніми) для входу з порталу Azure. Докладні відомості див. в [сторінці Завантаження дій із аудиту.](https://docs.microsoft.com/azure/active-directory/reports-monitoring/quickstart-download-audit-report)
 
-**Вирішення проблем із входом**
+**Виправлення неполадок із входом**
 
-1. Ви можете переглянути останні 30 днів даних, якщо у вас є ліцензія Azure AD Premium (P1 або P2) для вашого клієнта.
-2. Для входу доступні лише для орендарів Azure AD Premium. Він недоступний для безкоштовних і основних ліцензованих орендарів.
-3. Якщо ваш клієнт має ліцензію Premium P1, і ви не бачите їх, ознайомтеся з [відомостями про затримку](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) та файлами служби підтримки, якщо затримка перевищує документовану затримку.
-4. Якщо ви не бачите всі елементи входу для вибраного діапазону дат, зверніть увагу, що ви можете завантажити до рядків на 250K (за останнім часом) для входу з порталу Лазур. Додаткові відомості наведено в статті [завантаження дій для входу](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities).
+1. Дані можна переглянути лише за останні 30 днів, якщо у вас ліцензія на Azure AD Premium (P1 або P2) для клієнта.
+2. Вхід доступний лише для клієнта Azure AD Premium. Вона недоступна для безкоштовних і базових ліцензованих клієнтах.
+3. Якщо клієнт має ліцензію "Premium P1" і ви не бачите входу, [](https://docs.microsoft.com/azure/active-directory/reports-monitoring/reference-reports-latencies) перегляньте відомості про затримку та надішліть запит на підтримку, якщо затримка перевищує затримку.
+4. Якщо ви не бачите всіх входу за вибраним діапазоном дат, зверніть увагу, що можна завантажити до 250K рядків (відсортовані за останніми) для входу з порталу Azure. Докладні відомості див. в [цій](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins#download-sign-in-activities)сторінці.
 
-**Виправлення неполадок із звітами про безпеку (користувачі, позначені під загрозою ризику, ризиковане вхід)**
+**Усунення несправностей зі звітами системи безпеки (користувачі, позначені як ризики та ризиковані вхід)**
 
-1. [Користувачі, позначені для звіту про безпеку ризику](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
-2. [Ризикований звіт про вхід на порталі «блакитний каталог Active Directory»](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
-3. [Події ризику в службі "блакитні активні каталоги"](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)
+1. [Користувачі, позначені для звіту про безпеку ризиків](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-user-at-risk)
+2. [Звіт про ризики для входу на Azure Active Directory порталі](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risky-sign-ins)
+3. [Azure Active Directory ризиків](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-risk-events)

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819533"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996651"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook не може підключитися до спільних папок
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook не вдається підключитися до спільних папок
 
 Якщо доступ до спільної папки не працює для деяких користувачів, спробуйте зробити ось що:
 
-Підключіться до EXO PowerShell і настройте параметр DefaultPublicFolderMailbox в обліковому записі користувача, який відповідає параметру робочого облікового запису користувача.
+Підключення exo PowerShell і настройте параметр DefaultPublicFolderMailbox в обліковому записі користувача, який відповідає параметру робочого облікового запису користувача.
 
 Приклад.
 
@@ -33,18 +33,18 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 Зачекайте принаймні годину, доки зміни наберуть сили.
 
-Якщо проблема не зсунеться, виконайте [цю процедуру,](https://aka.ms/pfcte) щоб усунути проблеми доступу до спільної папки за допомогою Outlook.
+Якщо проблема залишиться, [](https://aka.ms/pfcte) виконайте цю процедуру, щоб усунути проблеми доступу до спільної папки за допомогою Outlook.
  
-**Щоб визначити, які користувачі мають доступ до спільних папок, за допомогою Outlook, див.**
+**Щоб визначити, які користувачі мають доступ до спільних папок, за допомогою Outlook:**
 
 1.  Використання Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true або $false  
       
-    $true: надання користувачам доступу до спільних папок в Outlook  
+    $true. Надання користувачам доступу до спільних папок у Outlook  
       
-    $false. Заборона доступу користувачів до спільних папок в Outlook. ; ; ;Це значення за замовчуванням.  
+    $false. Заборона доступу користувачів до спільних папок у Outlook. ; ; ;Це значення за замовчуванням.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Примітка** Ця процедура може керувати підключеннями лише з класичною програмою Outlook для клієнтів Windows. Користувач може і надалі отримувати доступ до спільних папок за допомогою OWA або Outlook для Mac.
+**Примітка** Ця процедура може керувати підключеннями лише в класичній програмі Outlook для Windows клієнтів. Користувач може продовжити доступ до спільних папок за допомогою OWA або Outlook для Mac.
  
-Докладні відомості див. в статтях Про підтримку керованих підключень до [спільних папок в Outlook.](https://aka.ms/controlpf)
+Докладні відомості див. в [статтях](https://aka.ms/controlpf)Про підтримку керованих підключень до спільних папок у Outlook .

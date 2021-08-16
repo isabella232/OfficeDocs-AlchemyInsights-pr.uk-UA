@@ -1,5 +1,5 @@
 ---
-title: Сполучні лінії Microsoft Graph
+title: З'Graph Microsoft
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724924"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027323"
 ---
-# <a name="microsoft-graph-connectors"></a>Сполучні лінії Microsoft Graph
+# <a name="microsoft-graph-connectors"></a>З'Graph Microsoft
 
-За допомогою з'єднувачів Microsoft Graph організація може індексувати дані третіх осіб, які відображатимуться в результатах пошуку Microsoft.
+Завдяки з'Graph Microsoft організації можна індексувати дані сторонніх постачальників, щоб вони відображались Пошук Microsoft результатах.
 
-- [Сполучні лінії Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Сполучні лінії наших партнерів](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
+- [З'єднники корпорації Майкрософт](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [З'єднники наших партнерів](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Докладні відомості наведено в розділі  [Огляд сполучних ліній Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Докладні відомості див. в [статті Огляд з'єдн Graph Microsoft.](https://docs.microsoft.com/microsoftsearch/connectors-overview)

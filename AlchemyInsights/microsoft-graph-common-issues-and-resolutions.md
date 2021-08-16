@@ -1,5 +1,5 @@
 ---
-title: Поширені проблеми та резолюції Microsoft Graph
+title: Microsoft Graph поширені проблеми та вирішення
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: f6473c35cd0a0b2b5450039fca1b407f0f3f6fda
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 099fbd12a9245ad314b27d6e3eac08c1dbc57854e8d6c3165fac81141d83bde6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027287"
 ---
-# <a name="microsoft-graph-common-issues-and-resolutions"></a>Поширені проблеми та резолюції Microsoft Graph
+# <a name="microsoft-graph-common-issues-and-resolutions"></a>Microsoft Graph поширені проблеми та вирішення
 
-Повний список відомих проблем із Microsoft Graph наведено в статті [відомі проблеми з Microsoft Graph](https://docs.microsoft.com/graph/known-issues). Для інших запитань і ресурсів ознайомтеся з головною сторінкою [документації Microsoft Graph](https://docs.microsoft.com/graph/) .
+Повний список відомих проблем із програмою Microsoft Graph див. в статті [Відомі проблеми з microsoft Graph.](https://docs.microsoft.com/graph/known-issues) Інші запитання й ресурси можна переглянути на головній [сторінці документації Graph](https://docs.microsoft.com/graph/) Microsoft.
 
-- Довідка з [API в програмі Microsoft Graph](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0).
-- Дізнайтеся про зміни в API Microsoft Graph у списку [змін](https://docs.microsoft.com/graph/changelog). 
-- [Поставте запитання або надайте відгук про API для графіків і документи](https://aka.ms/GraphDeveloperSupport) за допомогою команди підтримки розробників.
+- [Довідка Graph REST API v1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0)
+- Дізнайтеся про зміни в інтерфейсі API програми Microsoft Graph на [сторінці Changelog.](https://docs.microsoft.com/graph/changelog) 
+- [Поставте запитання або надавайте відгук про API Graph API та документах,](https://aka.ms/GraphDeveloperSupport) зверніться до команди підтримки розробників.
 
-Уніфікована підтримка та клієнти Premier можуть підняти квиток підтримки за допомогою цього порталу. Інші користувачі можуть отримати доступ до безкоштовної підтримки розробників Microsoft Graph на [Microsoft Q&A](https://aka.ms/AskGraph).
+Комплексна підтримка та Premier Customers можуть отримати запит на підтримку на цьому порталі. Інші користувачі можуть отримати доступ до безкоштовної підтримки розробників microsoft Graph [компоненті "Запитання й&Microsoft".](https://aka.ms/AskGraph)

@@ -1,5 +1,5 @@
 ---
-title: Не вдалося створити новий підпис
+title: Не вдається створити новий підпис
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,17 +14,17 @@ ms.custom:
 - "1949"
 - "9000323"
 ms.assetid: ''
-ms.openlocfilehash: 382eb4c8d973353c1fb61f49cf0993bce3f626cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e1c7df87bbd879d2a5d6983b699c3edb585eab475e449f5b95775927d704361e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812532"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996507"
 ---
-# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Не вдається додати або створити новий підпис у програмі Outlook
+# <a name="cannot-add-or-create-a-new-signature-in-outlook"></a>Не вдається додати або створити новий підпис у Outlook
 
-Це відома проблема. Ми працюємо над тим, щоб виправити її, а стан буде оновлено в [Outlook, якщо натиснути кнопку "підпис"](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Це відома проблема. Ми працюємо над вирішенням цієї проблеми, і стан буде оновлено в Outlook кнопку Підпис [зависає.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)
 
-Щоб вирішити цю проблему, спочатку [виконайте кроки](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) , щоб видалити попередньо інстальовані програми Microsoft Office для настільних комп'ютерів. 
+Щоб вирішити цю проблему, спочатку [спробуйте видалити](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02) попередньо інстальовані класичні Microsoft Office програми. 
 
-Якщо це не спрацювало для ураженої машини, спробуйте вирішити проблему [на основі реєстру](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02).
+Якщо це не допомогло, спробуйте спосіб вирішення за допомогою [реєстру.](https://support.office.com/article/c70b36c2-66ca-401c-ab45-f29a46495d02)
