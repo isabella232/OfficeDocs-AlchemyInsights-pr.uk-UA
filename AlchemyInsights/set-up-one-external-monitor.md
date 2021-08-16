@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051795"
 ---
 # <a name="set-up-one-monitor"></a>Налаштування одного монітора
 
 **Перевірка параметрів проекту на КОМП'ютері**
 
-1. Відкрийте параметри проекту, одночасно натиснувши такі клавіші: клавіша Windows (кнопка "Пуск" з емблемою Windows) + P.
+1. Відкрийте параметри проекту, одночасно натиснувши клавіші Windows (кнопка Windows Емблема Пуск) + P.
 2. Виберіть **Дублювати**, **Розширити** або **Лише другий** екран ( залежно від власних уподобань).
 
 **Примітка.** Якщо ПК має лише один порт дисплея (наприклад, HDMI або VGA), знадобиться док-станція або USB-адаптер, щоб настроїти кілька моніторів.
