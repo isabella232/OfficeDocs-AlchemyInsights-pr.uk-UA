@@ -1,5 +1,5 @@
 ---
-title: Проблеми з інтеграцією безшовного входу в Локальні програми
+title: Проблеми з інтегруванням щільного єдиного входу з локальними програмами
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028313"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Проблеми з інтеграцією безшовного входу в Локальні програми
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Проблеми з інтегруванням щільного єдиного входу з локальними програмами
 
-Щоб вирішити проблеми з інтеграцією безшовного входу в Локальні програми, виконайте наведені нижче дії.
+Щоб усунути проблеми з інтеграцюючого єдиного входу з локальними програмами, виконайте такі дії:
 
 **Рекомендовані дії**
 
-1. Щоб настроїти **локальну програму** для **окремого входу за допомогою проксі-сервера програми**, перегляньте статтю " [для входу паролем" за допомогою проксі-сервера програми "єдиний вхід](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting)".
-1. **Виправлення неполадок із проксі-сервером програми**: радимо розпочати перегляд потоку виправлення неполадок, [проблем із коннектором програми налагодження](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), щоб визначити, чи правильно настроєно сполучні лінії проксі-сервера програми. Якщо ви все ще не змогли підключитися до програми, виконайте вказівки з виправлення неполадок у [вирішенні проблем програми налагодження проксі-](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)застосунку. За допомогою наведених нижче засобів відладки в браузері можна [визначити проблеми з CNAME](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) :
+1. Відомості про налаштування локальної програми для єдиного входу через **проксі-сервер** програм див. в розділі Зберігання паролів для єдиного входу за допомогою **проксі-сервера** [програм](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
+1. **Виправлення** неполадок із проксі-сервером програми. Ми радимо почати з перевірки потоку виправлення [неполадок,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)які виникають у з'єднаторі проксі-сервера застосунку , щоб визначити, чи правильно настроєно з'єднатори проксі-сервера програми. Якщо проблеми з підключенням до програми не зникли, виконайте дії з виправлення неполадок, описаних у статті Проблеми з проксі-сервером [програми налагодження.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps) Проблеми з [CORS можна виявити за](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) допомогою таких інструментів налагодження браузера:
     1. Запустіть браузер і перейдіть до веб-програми.
-    1. Натисніть клавішу **F12** , щоб відкрити консоль налагодження.
-    1. Виконайте спроби відтворити транзакцію та переглянути Консольне повідомлення. Під час порушення функції "Джерело" створюється помилка в консолі.
-    1. Деякі проблеми із входом не можна усунути, наприклад, коли програма переспрямовує на login.microsoftonline.com для автентифікації, а маркер доступу завершується. Під час виклику "виклики" не вдасться виконати виклик. Спосіб вирішення цього сценарію – подовжити термін дії маркера доступу, щоб запобігти його появі під час сеансу користувача. Щоб отримати докладні відомості про те, як це зробити, ознайомтеся [з Настроювана маркером користувача в платформі Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+    1. Натисніть **клавішу F12,** щоб відкрити консоль налагодження.
+    1. Спробуйте відтворити транзакцію та перегляньте повідомлення консолі. Порушення CORS призводить до помилки консолі про джерело.
+    1. Деякі проблеми з CORS не можна вирішити, наприклад коли програма переспрямує програму на login.microsoftonline.com для автентифікації, і термін дії маркера доступу завершиться. Після цього не вдасться виконати виклик CORS. Спосіб вирішення цієї ситуації – подовжити термін дії маркера доступу, щоб він не завершався під час сеансу користувача. Докладні відомості про те, як це зробити, див. в статті Час життя маркерів із настроюваним [платформа ідентичностей Microsoft.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes)
 
 **Рекомендовані документи**
 
-- [Настроювання компонента "єдиний вхід у програму" для проксі-сервера програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [Єдиний вхід для локальних програм із проксі-сервером програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Розуміння та вирішення проблем із проксі-сервером у службі "Azure Active Directory"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Усунення несправностей у конфігурації делегування для протоколу Kerberos для проксі-сервера програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Настроювання єдиного входу в програму проксі-сервера програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [Єдиний вхід SAML для локальних програм із проксі-сервером програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Вирішення проблем із Azure Active Directory проксі-серверів програм](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Усунення несправностей із конфігураціями обмеженого делегування Kerberos для проксі-сервера програм](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

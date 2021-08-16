@@ -1,5 +1,5 @@
 ---
-title: Вирішення проблем із доставкою електронної пошти до спільних папок із підтримкою пошти
+title: Вирішення проблем із доставкою електронної пошти для спільних папок із підтримкою пошти
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: 74a26306766ed7952a3bbbcb06f1f0113a113024
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: ff1400f694ae037a8658356af068b4c20b8fa9d9908dafedb90db7bb6859530f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068833"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Вирішення проблем із доставкою електронної пошти до спільних папок із підтримкою пошти
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>Вирішення проблем із доставкою електронної пошти для спільних папок із підтримкою пошти
 
-Якщо зовнішні відправники не можуть надсилати повідомлення до спільних папок із підтримкою пошти, а відправники отримують повідомлення про помилку: **не вдалося знайти (550 5.4.1)**, переконайтеся, що домен електронної пошти для спільної папки настроєно як внутрішній домен ретрансляції, а не важливий домен:
+Якщо зовнішні відправники не можуть надсилати повідомлення до спільних поштових папок, а відправники отримають повідомлення про помилку: не вдалося знайти **(550 5.4.1),** переконайтеся, що домен електронної пошти для спільної папки настроєно як внутрішній проміжний домен замість повноважного домену:
 
-1. Відкрийте [Центр адміністрування Exchange (EAC)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. Відкрийте [Центр Exchange адміністрування (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. Перейдіть на **Mail flow** сторінку \> **допустимі домени**передавання пошти, виберіть допустимий домен і натисніть кнопку **редагувати**.
+2. Перейдіть до **пункту** \> **Потік пошти допустимі** домени, виберіть допустимий домен і натисніть кнопку **Редагувати**.
 
-3. На сторінці властивостей, що Відкриється, якщо тип домену має значення " **авторитетний**", змініть значення на **внутрішній ретранслятор** і натисніть кнопку " **зберегти**".
+3. На сторінці властивостей, що відкриється, якщо для типу домену встановлено значення Повноваження, змініть значення на Внутрішнє **реле,** а потім натисніть кнопку **Зберегти**.
 
-Якщо зовнішні відправники отримують повідомлення про помилку, у **якому немає дозволу (550 5.7.13)**, виконайте таку команду в [службі Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) , щоб переглянути дозволи для анонімних користувачів у спільній папці.
+Якщо зовнішні відправники отримали повідомлення про помилку, у вас немає дозволу **(550 5.7.13),** виконайте в [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) таку команду, щоб переглянути дозволи для анонімних користувачів у спільній папці:
 
 `Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous` Наприклад, `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous` .
 
-Щоб дозволити зовнішнім користувачам надсилати повідомлення електронної пошти до цієї загальнодоступної папки, додайте до анонімного користувача доступ до списку CreateItems. Наприклад, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .
+Щоб дозволити зовнішнім користувачам надсилати електронну пошту до цієї спільної папки, додайте доступ CreateItems до анонімного користувача. Наприклад, `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems` .

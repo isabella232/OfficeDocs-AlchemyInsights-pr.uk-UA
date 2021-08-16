@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1544"
 - "1800021"
-ms.openlocfilehash: d0c95acd2587460d281474ebdba87683d336036d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af465979d881e98cbffaaa9fa20729dc6d0cd0d607c0d075311b19c8960b2f33
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099703"
 ---
-# <a name="rules-and-alerts-error-the-operation-failed"></a>Помилка "правила й оповіщення": "не вдалося виконати операцію"
+# <a name="rules-and-alerts-error-the-operation-failed"></a>Помилка правил і оповіщень: "Не вдалося виконати операцію"
 
-Після інсталяції таких оновлень може з'явитися повідомлення про помилку правил для папки "Вхідні".
+Після інсталяції таких оновлень може з'явитися повідомлення про помилку Правила для папки "Вхідні":
 
-- [Outlook 2016: оновлення системи безпеки за листопад КБ](https://support.microsoft.com/help/4461506)
-- [Outlook 2013: оновлення системи безпеки за листопад КБ](https://support.microsoft.com/help/4461486)
-- [Outlook 2010: оновлення системи безпеки за листопад КБ](https://support.microsoft.com/help/4461585)
+- [Outlook 2016: оновлення системи безпеки за листопад KB](https://support.microsoft.com/help/4461506)
+- [Outlook 2013 року: оновлення системи безпеки за листопад KB](https://support.microsoft.com/help/4461486)
+- [Outlook 2010 р.: оновлення системи безпеки за листопад KB](https://support.microsoft.com/help/4461585)
 
-Ви можете переглянути найновіший стан цієї відомої проблеми, відвідавши [програму Outlook: "не вдалося виконати операцію..." під час вибору керування правилами & оповіщеннями](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
+Найновіший стан відомої проблеми можна переглянути на сторінці Outlook повідомлення про помилку "Не вдалося [виконати операцію..." у меню Керування правилами & оповіщеннях](https://support.office.com/article/Outlook-Error-The-operation-failed-when-selecting-Manage-Rules-Alerts-64b6ff77-98c2-4564-9cbf-25bd8e17fb8b%20).
