@@ -1,5 +1,5 @@
 ---
-title: Змінення вмісту блокування SMIME
+title: Змінення вмісту блоку SMIME
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cca0219e7963b5a74b71a9f5eb4d1f5796299bfaa97c9d8265dcbf3f641b172
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770284"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022085"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Тепер програма Outlook заблокує зовнішній вміст за замовчуванням у S/MIME
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook блокування зовнішнього вмісту за замовчуванням у S/MIME
 
-Ми впроваджуємо додаткові заходи безпеки в програмі Outlook для Windows, блокуючи зовнішній вміст у зашифрованому та підписаному повідомленні у S/MIME за замовчуванням, а також попереджаючи їх для кожного окремого повідомлення.
+Ми впроваджуємо додаткові заходи безпеки Outlook для Windows, заблокувавши зовнішній вміст у повідомленнях, зашифрованих і підписаних S/MIME, і запобігаючи перевизначенню повідомлень.
 
-Щоб отримати докладні відомості, ознайомтеся з [програмою Outlook для Windows блокує зовнішній вміст у повідомленнях S/MIME](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).
+Докладні відомості див. [в Outlook для Windows блокує зовнішній вміст у повідомленнях S/MIME.](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e)
