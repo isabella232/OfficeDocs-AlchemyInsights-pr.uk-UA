@@ -1,5 +1,5 @@
 ---
-title: Повідомлення електронної пошти робочого циклу не надсилатиметься
+title: Електронна пошта робочого циклу не надсилається
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 7efb8895ac7e2816a2c6055ec3c08d6f7029d39d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2caf8e0878da0049667d9a19f4488eaec4b9327fbf36be7d29dbf4b7a9c89158
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072541"
 ---
-# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Повідомлення електронної пошти робочого циклу не надсилатиметься для списку або бібліотеки SharePoint
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Електронна пошта робочого циклу не надсилається SharePoint списку або бібліотеки
 
-1. Повідомлення електронної пошти з робочих циклів не надсилатимуться всім користувачам або лише певним користувачам, або відображається повідомлення про помилку, **яке не можна надіслати. Переконайтеся, що в повідомленні електронної пошти є дійсний одержувач**.
+1. Електронна пошта з робочих циклів не надсилається всім користувачам або лише певним користувачам, або відображається повідомлення про помилку Повідомлення електронної пошти не можна надіслати. Переконайтеся, що в повідомлення електронної пошти вказано припустимого **одержувача.**
 
-    Перевірте, чи є користувач у групі дозволи " **усі користувачі** " (список відомостей про користувачів) для цієї колекції сайтів.  Зразок прямої URL-адреси: https:// <tenant> . SharePoint.com/Sites/ <sitename> /_layouts/15/Peopl.aspx? Membershippid = 0
+    Перевірте, чи є користувач у **групі дозволів Усі** користувачі (список відомостей про користувача) для цієї колекції сайтів.  Зразок прямої URL-адреси: https:// <tenant> .sharepoint.com/sites/ <sitename> /_layouts/15/people.aspx? MembershipGroupId=0
 
-    - Якщо користувач не існує, переконайтеся, що користувач ввійшов до сторінки. 
-    - Якщо це зовнішній користувач, переконайтеся, що їх запрошення прийнято.
-    - Якщо користувач існує у групі дозволи, переконайтеся, що адреса електронної пошти правильна.
-    - Якщо адресу електронної пошти користувачів не настроєно, а потім створіть зразок оповіщення для цього користувача, який примусово синхронізує цей обліковий запис користувача від профілів користувачів SharePoint до цієї колекції сайтів.
+    - Якщо користувача не існує, переконайтеся, що користувач увійшов на сторінку. 
+    - Якщо це зовнішній користувач, переконайтеся, що його запрошення прийнято.
+    - Якщо користувач у групі дозволів, перевірте правильність адреси електронної пошти.
+    - Якщо тут не задається адреса електронної пошти користувачів, створіть зразок оповіщення для цього користувача, який змушує синхронізацію цього облікового запису користувача з профілів користувачів SharePoint із цією колекцією сайтів.
  
-2. Електронна пошта від робочих циклів надсилатиметься адміністраторам колекції сайтів, але не до інших користувачів і не бачить помилку **http, забороненої <span>https:</span>//url/_vti_bin/Client.xvc.SP.utilities.Utility.sendemail**.
+2. Електронна пошта з робочих циклів надсилається адміністраторам колекції сайтів, але не іншим користувачам, і відображається помилка HTTP Заборонено на **<span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Переглянути [відмовлено в доступі під час надсилання повідомлення електронної пошти групі SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
+    Докладні [відомості див. в SharePoint Access Denied when](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups)you send an email to a SharePoint(
 
-    Крім того, переконайтеся, що функція " **режим блокування дозволів користувачів із обмеженим доступом** " не активна.
+    Також переконайтеся, що **режим блокування дозволів** користувачів з обмеженим доступом неактивний.
 
 
 ## <a name="related-topics"></a>Пов’язані теми
-Хочете спробувати Microsoft Flow у службі SharePoint Online?
-- [Створення потоку](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint і передавання](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Бажаєте спробувати Microsoft Flow в SharePoint Online?
+- [Створення Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint і Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

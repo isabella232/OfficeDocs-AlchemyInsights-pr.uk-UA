@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок робочого циклу
+title: Виправлення неполадок із робочим циклом
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,24 +13,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: 7bd210d6493569c28b9fd5abc05982f59e1ea34e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9deea782837098512bcec571415352927f431cfad294f0a15e89d777abea592a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072505"
 ---
-# <a name="workflow-troubleshooting"></a>Виправлення неполадок робочого циклу
+# <a name="workflow-troubleshooting"></a>Виправлення неполадок із робочим циклом
 
-Щоб отримати відомості про налагодження робочих циклів SharePoint, перегляньте наведені нижче дії.
-- Налагоджувальні робочі цикли нагадують попередні версії.  Додаткові відомості наведено в статті [налагодження робочих циклів SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Докладні відомості про виправлення неполадок наведено в статті [виправлення помилок перевірки робочого циклу SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Докладні відомості про налагодження SharePoint робочих циклів:
+- Налагодження робочих циклів нагадує попередні версії.  Докладні відомості див. [в описі налагодження SharePoint робочих циклах.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- Докладні відомості про виправлення неполадок див. в SharePoint помилки перевірки робочого [циклу сервера.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
  
 
 ## <a name="related-topics"></a>Пов’язані теми
-Хочете спробувати Microsoft Flow у службі SharePoint Online?
-- [Створення потоку](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint і передавання](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Бажаєте спробувати Microsoft Flow в SharePoint Online?
+- [Створення Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint і Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 
