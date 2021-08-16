@@ -1,5 +1,5 @@
 ---
-title: Inune Exchange для локальної сполучної лінії
+title: Intune Exchange on-premise Connector
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,57 +13,57 @@ ms.collection: Adm_O365
 ms.custom:
 - "6732"
 - "9003775"
-ms.openlocfilehash: 8b470655efa2dfb460c29b6b840fa793ed2aa448
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 744758739c2ca839823d2c8b440ed7b0d9dd4f06ebbb6f19fe52041a6710c4b4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013985"
 ---
-# <a name="intune-exchange-on-premise-connector"></a>Inune Exchange для локальної сполучної лінії
+# <a name="intune-exchange-on-premise-connector"></a>Intune Exchange on-premise Connector
 
-Щоб отримати докладні відомості про настроювання сполучної лінії між Inune та Exchange, які розміщуються локально, ознайомтеся з такими документами:
+Докладні відомості про налаштування з'єднатора між Intune Exchange розміщеною локально, див. в цій документації:
 
-[Настроювання з'єднувача локального сервера Exchange у Microsoft Inune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
+[Налаштування локального з'єднатора Exchange Intune в Microsoft Intune Azure](https://docs.microsoft.com/intune/exchange-connector-install)
 
-**ЗАПИТАННЯ Й відповіді**
+**Запитання й відповіді:**
 
-П: під час спроби настроювання сполучної лінії Exchange з'являється повідомлення про помилку, наприклад "версія з'єднувача Exchange не підтримується". Що може бути причиною?
+П. Під час спроби налаштувати з'єдн Exchange язковий з'єднач відображається повідомлення про помилку Exchange версія з'єднатора. У чому могла бути причина?
 
-В: обліковий запис, який ви використовуєте, ліцензовано належним чином – вона має бути активною ліцензією Inune
+В. Обліковий запис, який ви використовуєте, ліцензовано відповідним чином – він має активну ліцензію Intune
 
-Запитання: чи можна мати кілька сполучних ліній Exchange?
+Запитання. Чи можна мати кілька сполучних Exchange з'єдначів?
 
-В: можна настроїти лише один з'єднувач Exchange для клієнта Inune за організацію Exchange. З'єднувач можна інсталювати лише на одному сервері в організації з кількома серверами Exchange Server.
+В. Для кожного клієнта Intune можна налаштувати Exchange лише один з'єдн Exchange організації. З'єднник можна інсталювати лише на одному сервері в організації обміну кількома серверами.
 
-Крім того, ви не можете налаштувати сполучні лінії для Exchange для локального та Exchange Online, настроєного в одному клієнті.
+Крім того, в одному й тому самому Exchange не можна налаштувати з'єдн Exchange Online в одному й тому самому клієнта.
 
-З: чи може сполучна лінія використовувати масив CAS як підключення до Exchange?
+Запитання. Чи може з'єднувати сполучна Exchange за допомогою масиву CAS?
 
-В: зазначення масиву CAS не підтримується в настройках з'єднувача. Потрібно вказати лише один сервер і має бути жорстко вказано в файлі конфігурації з'єднувача, який можна знайти в
+В. Вибір масиву CAS не підтримується в налаштуванні з'єднатора. Потрібно вказати лише один сервер, і його потрібно вказати у файлі конфігурації з'єднатора, який можна знайти в
 
-Програма data\microsoft\microsoft InTune для локального з'єднувача Exchange \OnpremiseExchangeConnectorServiceConfiguration.xml
+program data\microsoft\microsoft Intune on premise Exchange connector\ OnpremiseExchangeConnectorServiceConfiguration.xml
 
-Знайдіть наведений нижче запис ```<ExchangeWebServiceURL />``` і замініть URL-адресу на сервері Exchange.
+Знайдіть наведений нижче ```<ExchangeWebServiceURL />``` запис і замініть URL-адресу сервером Exchange.
 
-**Наприклад**
+**Приклад:**
 ```<ExchangeWebServiceURL> https://Exchangeserver.domain.com/ews/exchange.asmx<ExchangeWebServiceURL />```
 
-Щоб отримати додаткові виправлення неполадок, ознайомтеся з наведена нижче документацією: [Виправлення неполадок локальної сполучної лінії Exchange](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
+Додаткові способи виправлення неполадок див. в наведеній нижче документації. Виправлення неполадок із локальним з'єднатором [Intune Exchange'](https://support.microsoft.com/help/4471887/troubleshooting-exchange-connector-in-microsoft-intune)
 
-**Увімкнення детального журналювання для з'єднувача Exchange**
+**Увімкнення журналювання в усьому Exchange з'єднувача**
 
-1. Відкрийте файл конфігурації трасування з'єднувача Exchange для редагування.  
-Файл розташовано за адресою:%Programdata%\microsoft\ Windows Inune Exchange Connector\TracingConfiguration.xml  
+1. Відкрийте файл конфігурації Exchange З'єднатора для редагування.  
+Файл розташовано за такою: %ProgramData%\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml  
 
-**Наприклад**
+**Приклад:**
 ``` <C:\ProgramData\Microsoft\Windows Intune Exchange Connector\TracingConfiguration.xml>```
   
-2. Знайдіть TraceSourceLine з таким ключем: OnPremisesExchangeConnectorService  
+2. Знайдіть програму TraceSourceLine за допомогою такого розділу: OnPremisesExchangeConnectorService.  
   
-3. Змінення значення вузла SourceLevel з інформаційних ActivityTracing (за замовчуванням) для докладного ActivityTracing  
+3. Змініть значення вузла SourceLevel з Information ActivityTracing (за замовчуванням) на Verbose ActivityTracing  
 
-**Наприклад**
+**Приклад.**
 ```
 <TraceSourceLine>  
 <Key xsi:type="xsd:string">OnPremisesExchangeConnectorService</Key>  
@@ -74,6 +74,6 @@ ms.locfileid: "48808137"
 <ListenerType>CircularTraceListener</ListenerType>
 <SourceLevel>Verbose ActivityTracing</SourceLevel>
 ```
-4. Перезапуск служби Exchange для Microsoft Inune  
-5. Повна синхронізація на порталі Inune, доки не завершиться, а потім знову змініть його на "відомості ActivityTracing", а потім перезапустіть службу Microsoft Inune Exchange.  
+4. Перезапустіть Microsoft Intune Exchange служби  
+5. Повна синхронізація на порталі Intune до завершення, а потім знову змініть XML на "Information ActivityTracing" (Трасування даних) і перезапустіть Microsoft Intune Exchange Service.  
 6. Розташування журналів: `%ProgramData%\Microsoft\Windows Intune Exchange Connector`

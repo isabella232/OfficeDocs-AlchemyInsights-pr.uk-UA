@@ -1,5 +1,5 @@
 ---
-title: Інсталяція програми Visio
+title: Інсталяція Visio
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014309"
 ---
-# <a name="install-visio"></a>Інсталяція програми Visio
+# <a name="install-visio"></a>Інсталяція Visio
 
-Застосунок Visio продається як окрема програма, тому, якщо у вас ще немає, [придбайте або випробуйте програму Visio](https://products.office.com/visio). 
+Visio продається окремо, тож якщо у вас його ще немає, придбайте або [спробуйте Visio](https://products.office.com/visio). 
 
-**Примітка**. у програмі Visio Online Plan 1 не входить версія програми Visio для настільних комп'ютерів, тому не можна інсталювати.
+**Примітка.** Visio Online (план 1) не містить класичної Visio, тому інсталяція неможлива.
 
-Якщо у вас є Передплата на програму Visio Online (план 2), потрібно [призначити ліцензію](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) користувачу або вони не зможуть інсталювати Visio з **моєї інсталяції** на [порталі "Мій обліковий запис](https://portal.office.com/account#installs)". 
+Якщо у вас є передплата Visio Online (план [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 2), потрібно призначити ліцензію користувачу, або користувач  не зможе інсталювати пакет Visio на порталі "Мій обліковий запис" [.](https://portal.office.com/account#installs) 
 
-Неліцензійні версії Visio Standard або Visio Professional пов'язані з обліковими записами Microsoft і не можуть управлятися в центрі адміністрування. Щоб інсталювати ці версії, користувачі мають входити в [Account.Microsoft.com](https://account.microsoft.com) за допомогою облікового запису Microsoft, пов'язаного з цією версією програми Visio.
+Версії корпоративних ліцензій Visio Standard або Visio Professional пов'язано з обліковими записами Microsoft, і керувати ними не можна в Центрі адміністрування. Щоб інсталювати ці версії, користувачі повинні ввійти в [account.microsoft.com](https://account.microsoft.com) за допомогою облікового запису Microsoft, пов'язаного з цією версією Visio.
 
-Докладні відомості наведено в статті [Інсталяція програми Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) та дотримуйтесь інструкцій для своєї версії Visio.
+Докладні відомості див. [в статті Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) та дотримуйтеся вказівок для вашої версії Visio.
 
-Докладні відомості наведено в статті:<br>
-[Посібник із розгортання для програми Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[Підтримувані сценарії для інсталяції різних версій Office, Project і Visio на тому ж комп'ютері](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[Ліцензування Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+Докладні відомості див. в такому:<br>
+[Посібник із розгортання Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[Підтримувані сценарії інсталяції різних версій Office, Project та інших Visio на одному комп'ютері](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio Ліцензування](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
