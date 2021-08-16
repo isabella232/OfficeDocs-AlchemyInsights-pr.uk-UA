@@ -1,5 +1,5 @@
 ---
-title: Політики збереження в Центрі адміністрування Exchange не працюють
+title: Політики збереження Exchange Центрі адміністрування не працює
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
-ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
+ms.openlocfilehash: 6652ad5fc1691e1d5a4293d81f3a649f23ec38f18c8ed9fe06665628a901d13e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51952249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074953"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Політики збереження в Центрі адміністрування Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>Політики збереження в Центрі Exchange адміністрування
 
 Якщо ви хочете, щоб ми виконували автоматичні перевірки наведених нижче параметрів, натисніть кнопку "Назад" < – у верхній частині цієї сторінки, а потім введіть адресу електронної пошти користувача, який має проблеми з політиками збереження.
 
@@ -38,7 +38,7 @@ ms.locfileid: "51952249"
  
 **Примітка.** Якщо розмір поштової скриньки менше 10 МБ, помічник із керованих папок не обробить поштову скриньку автоматично.
  
-Докладні відомості про політики збереження в Центрі адміністрування Exchange див. у розділах:
+Докладні відомості про політики збереження в Центрі адміністрування Exchange див. в цій:
 
 - [Позначки та політики збереження](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
 

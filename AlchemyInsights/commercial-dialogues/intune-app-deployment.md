@@ -1,5 +1,5 @@
 ---
-title: Процес розгортання програми inune
+title: Процес розгортання програм Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034451"
 ---
-# <a name="intune-app-deployment-process"></a>Процес розгортання програми inune
+# <a name="intune-app-deployment-process"></a>Процес розгортання програм Intune
 
-Розгортання програм за допомогою Inteune:
+Розгортання програм в Intune описано нижче.
 
-- Додавши програму, ви можете додати застосунок-магазин програм або завантажити лінію бізнес-програми.
+- Додавання програми– можна додати програму з Магазину App Store або завантажити програму Line of Business.
 - Призначення програми – визначення області розгортання програми.
-- Моніторинг програм – перегляд стану інсталяції програм, список виявлених програм, а також Керування програмами, придбаними із магазину програм.
-- [Програма реалізувала пакет SDK для Inune. Список програм, які підтримують пакет SDK, наведено в статті Microsoft InTune захищені програми](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Моніторинг програм. Перегляньте стан інсталяції програм, список виявлених програм і керуйте програмами, придбаними в магазинах програм.
+- [Програма впроваджує SDK Intune. Список програм, які підтримують SDK,](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)див. в Microsoft Intune захищених програм.
 
-[Дізнайтеся більше про розгортання програм і керування ними...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Дізнайтеся більше про розгортання та керування програмами Intune...](https://docs.microsoft.com/mem/intune/apps/app-management)

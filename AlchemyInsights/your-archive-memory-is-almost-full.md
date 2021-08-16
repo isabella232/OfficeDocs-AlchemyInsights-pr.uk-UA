@@ -1,5 +1,5 @@
 ---
-title: Поштову скриньку архіву майже заповнено
+title: Архівна поштова скринька майже заповнена
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100006"
 - "7960"
-ms.openlocfilehash: 5c7081f8991716a8ac72f462c6c7ef88e800ab9c
-ms.sourcegitcommit: 6f1af4aed507d4c074c36d77666cf00100efe168
+ms.openlocfilehash: 085d9b211d5a8e9a0e1eb12af14d87a4e59c844a3afa012095dfd60db316ad14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046773"
 ---
-# <a name="your-archive-mailbox-is-almost-full"></a>Поштову скриньку архіву майже заповнено
+# <a name="your-archive-mailbox-is-almost-full"></a>Архівна поштова скринька майже заповнена
 
-Якщо користувач отримує попередження; **Поштова скринька архіву майже повна** або потрібно збільшити розмір поштової скриньки архіву, ось кілька порад:
+Якщо користувач отримає попередження; **Архівна поштова скринька** майже заповнена або потрібно збільшити розмір архівної поштової скриньки, ось кілька порад:
 
-1. Якщо для користувача призначено план Exchange Online 1, оновіть ліцензію на службу **Exchange Online Plan 2** , щоб збільшити розмір від 50 ГБ до 100 ГБ.
-1. Якщо користувач уже призначається один із таких пунктів: **Exchange Online Plan 2** або Exchange Online Plan 1 із надбудовою архівування Exchange Online, виконайте наведені нижче дії, щоб активувати автоматичне розширення архівації:.
+1. Якщо користувачу призначено план Exchange Online (план 1), оновіть систему до Exchange Online (план **2),** щоб збільшити розмір із 50 ГБ до 100 ГБ.
+1. Якщо користувачу вже призначено один із таких варіантів: Exchange Online (план **2)** або Exchange Online (план 1) з додатковим компонентом архівація Exchange Online), виконайте наведені нижче дії, щоб активувати автоматичне розгортання архівування.
  
-    1. [Підключіться до Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
-    2. Виконайте такі дії чином для користувача:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
-    1. Виконайте наведені нижче чином, щоб підтвердити, що його активовано для користувача.  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
+    1. [Підключення, щоб Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true)
+    2. Запустіть для користувача такий командлет:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
+    1. Щоб підтвердити, що для користувача ввімкнуто цю функцію, запустіть такий командлет:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
 
-Докладні відомості наведено в статті:
+Докладні відомості див. в такому:
 
-- [ Активувати необмежену архівацію – Довідка для адміністратора – відповідність вимогам Microsoft 365 | Документи Microsoft](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
+- [Активація необмеженої архівації – довідка для адміністраторів Microsoft 365 відповідності | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
 
-- [Обмеження Exchange Online – описи служб | Документи Microsoft](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
+- [Exchange Online обмеження – описи служб | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
 
-- [Оновлення до іншої бізнес-плану | Документи Microsoft](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
+- [Оновіть свій бізнес-план до іншого | Microsoft Docs](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
 
