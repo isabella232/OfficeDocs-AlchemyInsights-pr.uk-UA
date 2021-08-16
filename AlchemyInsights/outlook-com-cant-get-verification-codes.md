@@ -1,5 +1,5 @@
 ---
-title: Outlook.com не може отримувати коди перевірки
+title: Outlook.com не отримує коди перевірки
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064225"
 ---
-# <a name="cant-get-verification-codes"></a>Не вдалося отримати коди перевірки
+# <a name="cant-get-verification-codes"></a>Не вдається отримати коди перевірки
 
-Якщо ви не можете отримати доступ до альтернативного повідомлення електронної пошти або номера телефону, перейдіть на сторінку [основні відомості про безпеку](https://account.microsoft.com/security) облікового запису Microsoft, виберіть у **мене немає будь-якого з них** на сторінці входу та дотримуйтеся вказівок, щоб замінити відомості про безпеку.
+Якщо ви не можете отримати доступ до додаткової електронної пошти [](https://account.microsoft.com/security) або номера телефону, перейдіть на сторінку Основи безпеки облікового запису Microsoft, виберіть На сторінці входу пункт Я не маю жодного з цих елементів і дотримуйтеся вказівок, щоб замінити відомості для захисту. 
 
-*Примітка.* [Програма Генератор кодів Microsoft](https://go.microsoft.com/fwlink/?linkid=2016117) не вимагає підключення до Інтернету, щоб надати вам код підтвердження.
+*Примітка.* Для [Microsoft Authenticator не](https://go.microsoft.com/fwlink/?linkid=2016117) потрібне підключення до Інтернету для надання вам коду перевірки.
 
-Щоб дізнатися більше, ознайомтеся з [відомостями про безпеку облікового запису Microsoft і кодами перевірки](https://support.microsoft.com/help/12428/).
+Докладні відомості див. в статті [Відомості про безпеку облікового запису Microsoft і коди перевірки.](https://support.microsoft.com/help/12428/)

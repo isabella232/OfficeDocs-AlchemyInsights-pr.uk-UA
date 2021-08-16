@@ -1,5 +1,5 @@
 ---
-title: Outlook.com копіювати вставлення
+title: Outlook.com скопіювати
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "9000303"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4dc1944b85da3367947ce01ec45b004abda045e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b70b1b7d2ac743fbd80639546ef9494de8e524071833dc276403391c560bb6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752272"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011105"
 ---
-# <a name="copy-and-paste-in-outlookcom"></a>Копіювання та вставлення в Outlook.com
+# <a name="copy-and-paste-in-outlookcom"></a>Копіювання та вставлення Outlook.com
 
-Не можна копіювати або вставляти кнопки в Outlook.com, але ви можете використовувати сполучення клавіш.
+На сайті Outlook.com немає кнопок копіювання та вставлення, але можна використовувати сполучення клавіш:
 
-**На ПК:** CTRL + C, щоб скопіювати, CTRL + X, щоб вирізати, і CTRL + V, щоб вставити.
+**На ПК:** Ctrl+C, щоб скопіювати, ctrl+X, щоб вирізати, і Ctrl+V, щоб вставити.
 
-**На комп'ютері Mac:** CMD + C, щоб скопіювати, CMD + X, щоб вирізати, і CMD + V, щоб вставити.
+**На комп'ютері Mac:** CMD+C для копіювання, CMD+X для вирізання, і CMD+V для вставлення.

@@ -1,5 +1,5 @@
 ---
-title: Перехід на "Office 365 Відео" на Microsoft Stream
+title: Office 365 Перехід відео до Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001508"
 - "3568"
-ms.openlocfilehash: a0937a7664b0cff3fa98ba86fadeb7f360df474d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ffe6f9c939115bdeb67dac5bce5afa84e2afcea0bbc296f09bbe7b15eebf282d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810181"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096823"
 ---
-# <a name="office-365-video-transition-to-microsoft-stream"></a>Перехід на "Office 365 Відео" на Microsoft Stream
+# <a name="office-365-video-transition-to-microsoft-stream"></a>Office 365 Перехід відео до Microsoft Stream
 
-Докладні відомості про перенесення з "Office 365 Відео" на Microsoft Stream див. в статтях:
+Докладні відомості про перенесення з Office 365 відео до Microsoft Stream див. в статтях:
 
 - [Огляд перенесення](https://docs.microsoft.com/stream/migrate-from-office-365)
 - [Відомості про перенесення](https://docs.microsoft.com/stream/migration-experience)
