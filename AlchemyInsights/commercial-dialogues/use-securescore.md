@@ -1,5 +1,5 @@
 ---
-title: Використання Seserescore
+title: Використання SecureScore
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: e6065c9ec681e377f8f8a51232d1b411bc91845e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0367cf3f76a9668e71dec52645a5b3aed44ccec93c0c39bccfa883212009633b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033803"
 ---
-# <a name="use-securescore"></a>Використання Seserescore
+# <a name="use-securescore"></a>Використання SecureScore
 
-Захищене значення – це засіб аналітики безпеки, який рекомендує, що можна зробити, щоб подальше зниження ризику. Безпечний рахунок – це перевірка параметрів і дій Office 365, а також порівняння їх із базовою основою, встановленим корпорацією Майкрософт. Ви отримаєте оцінку на основі того, як ви працюєте з кращими практиками безпеки.
+Secure Score – це засіб аналітики безпеки, який рекомендує, що можна зробити, щоб знизити ризик. Secure Score перегляне ваші Office 365 дії та порівнює їх із базовим планом корпорації Майкрософт. Ви отримаєте оцінку на основі відповідності рекомендаціям із безпеки.
 
-Хочете спробувати безпечний рахунок? Коли ви ввійшли в службу Office 365 як Глобальний адміністратор, перейдіть на сторінку [SecureScore.com.](https://securescore.office.com/)
+Хочете випробувати захист? Увійшовте в обліковий Office 365 як глобальний адміністратор, перейдіть на [SecureScore.com.](https://securescore.office.com/)

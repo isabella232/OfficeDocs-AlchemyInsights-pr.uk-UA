@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: bd193dea999efc7720ece1d4614be090f733bfb24d8fa518c61ee23cca0063dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816293"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032291"
 ---
 # <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Створення політики спільного доступу для надання користувачам спільного доступу до календаря користувачам поза межами організації
 
-1. З приладної дошки Центру адміністрування Microsoft 365 перейдіть до **Exchange**  >  **адміністратора.**
+1. На прилад Центр адміністрування Microsoft 365 перейдіть до меню Адміністратор  >  **Exchange**.
 2. Перейдіть до **спільного доступу**  >  **до організації.**
 3. У поданні списку в розділі **Окремий спільний доступ** натисніть кнопку **Створити** .
 4. У **новій політиці спільного** доступу введіть зрозуміле ім'я політики спільного доступу в **полі Ім'я політики.**
@@ -41,5 +41,5 @@ ms.locfileid: "51816293"
 **Щоб мати повне розуміння цієї теми, див.:**
 
 - [Створення політики спільного доступу в Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Застосування політики спільного доступу до поштових скриньок в Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Застосування політики спільного доступу до поштових скриньок у Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
 - [Змінення, вимкнення або видалення політики спільного доступу в Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

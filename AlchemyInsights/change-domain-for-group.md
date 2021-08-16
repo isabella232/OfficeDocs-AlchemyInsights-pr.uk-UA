@@ -1,5 +1,5 @@
 ---
-title: Змінення домену для групи Microsoft 365
+title: Змінення домену для Microsoft 365 групі
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,15 +14,15 @@ ms.custom:
 - "749"
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: aefd66e86b12985456bda8fd99365adec2f1ad2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b32d921288d6d1f39a4b98fb0050624fc96529ddb1e6f9f385687187c729ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071065"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>Змінення домену для групи Microsoft 365
+# <a name="change-the-domain-for-microsoft-365-group"></a>Змінення домену для групи Microsoft 365 групі
 
-Якщо потрібно змінити домен для групи Microsoft 365 під час створення, виконайте кроки, описані в статті Вибір домену для створення груп [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
+Якщо потрібно змінити домен для групи Microsoft 365 під час створення, виконайте кроки, описані в статті Вибір домену для створення [Microsoft 365 Груп.](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups)
   
-Коли групу Microsoft 365 уже створено, змінити домен зараз не можна. Єдиний спосіб – створити нову групу Microsoft 365 і видалити стару за потреби (додаткові адреси електронної пошти можна додати через [Центр адміністрування Exchange).](https://outlook.office365.com/ecp.aspx)
+Коли Microsoft 365 групу вже створено, змінити домен зараз не можна. Єдиний спосіб – створити нову групу Microsoft 365 за потреби видалити стару (додаткові адреси електронної пошти можна додати в [Центрі Exchange адміністрування).](https://outlook.office365.com/ecp.aspx)

@@ -1,5 +1,5 @@
 ---
-title: Параметри Витребування електронної інформації
+title: Настройки Ediscovery
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101251"
 ---
-# <a name="ediscovery-settings"></a>Параметри Витребування електронної інформації
+# <a name="ediscovery-settings"></a>Настройки Ediscovery
 
-Пошук за допомогою функції eDiscovery/Content дає змогу шукати, утримувати та експортувати вміст у поштових скриньках Exchange Online, SharePoint Online і OneDrive для бізнесу, "Skype для бізнесу", команд Microsoft і груп Microsoft 365.
+Пошукові запити витребування електронної пошти та вмісту дають змогу шукати, утримувати та експортувати вміст із поштових скриньок Exchange Online, сайтів SharePoint Online і OneDrive для бізнесу, Skype для бізнесу розмов, Microsoft Teams та Microsoft 365 Груп.
 
-- Якщо ви шукаєте варіанти меню "Пошук" або "Перегляд вмісту", ознайомтеся з [проблемами eDiscovery](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Дізнайтеся про дозволи, необхідні для виконання пошуків електронної інформації з [дозволів, потрібних для пошуку в процесі виявлення](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Якщо пошуковий запит не повертає очікувані результати, у статті [Пошук не повертається очікувані результати](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Якщо ви шукаєте параметри меню витребування електронної пошти або пошуку вмісту, див. рисунок на сторінці Проблеми [витребування електронної пошти.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Дізнайтеся про дозволи, необхідні для виконання пошукових запитів витребування електронної інформації за допомогою дозволів, необхідних для пошуку [витребування електронної інформації.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Якщо пошук не повертає очікувані результати, див. дія пошук не [повертає очікувані результати.](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results)
 
-Докладні відомості про пошук електронної інформації наведено в статті [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Докладні відомості про ediscovery див. в [Ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
