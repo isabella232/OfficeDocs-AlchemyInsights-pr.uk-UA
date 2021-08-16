@@ -1,5 +1,5 @@
 ---
-title: Пристрій Wriтиback
+title: Записування пристрою
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256973"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101982"
 ---
-# <a name="device-writeback"></a>Пристрій Wriтиback
+# <a name="device-writeback"></a>Записування пристрою
 
-Пристрій Wriтиback використовується в таких ситуаціях:
+Записування пристрою використовується в таких випадках:
 
-- Активація [Windows Hello для бізнесу за допомогою гібридного розгортання в центрі безпеки для сертифіката](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Увімкнути умовний доступ на основі пристроїв до ADFS (2012 R2 або новішої версії) захищених програм (довірчі сторони)
+- Увімкнення [Windows Hello для бізнесу за допомогою гібридного розгортання довірених сертифікатів](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Увімкнення умовного доступу на основі пристроїв у захищених програмах ADFS (2012 R2 або новішої версії) (довірчих осіб)
 
     > [!NOTE]
-    > Підписка на Azure AD Premium необхідна для того, щоб пристрій wrireback.
+    > Для записування пристроїв потрібна Premium Azure AD.
 
-Це забезпечує додаткову безпеку та впевненість у тому, що доступ до програм надається лише надійним пристроям. Докладні відомості про умовний доступ наведено в статті [керування ризиками за допомогою умовного доступу](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) та [настроювання локального умовного доступу за допомогою реєстрації пристрою Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview).
+Це забезпечує додаткову безпеку та безпеку, яка забезпечує доступ до програм лише на надійних пристроях. Докладні відомості про умовний [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) доступ див. в Azure Active Directory Керування ризиками з умовним доступом і настроювання локального умовного доступу [за допомогою Azure Active Directory реєстрації пристрою.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Щоб отримати докладні відомості про ввімкнення Wrideback для пристроїв, див. [Увімкнення функції редагування пристроїв](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Докладні відомості про ввімкнення записування пристроїв для пристроїв див. в відомості про [ввімкнення записування пристроїв.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
