@@ -1,5 +1,5 @@
 ---
-title: Запобігання інсталяції Microsoft Search у службі Bing за допомогою програм Microsoft 365
+title: Заборона Пошук Microsoft інсталяції Bing за допомогою Програми Microsoft 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040131"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Запобігання інсталяції Microsoft Search у службі Bing за допомогою програм Microsoft 365
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Заборона Пошук Microsoft інсталяції Bing за допомогою Програми Microsoft 365
 
-Щоб заборонити службі фонової служби Microsoft шукати в Bing, не інсталювавши програму Microsoft 365 для підприємств, скористайтеся одним із наведених нижче параметрів.
+Щоб запобігти інсталяції фонової служби Пошук Microsoft інсталяції Bing за допомогою Програми Microsoft 365 для підприємств, скористайтесь одним із наведених нижче параметрів.
 
-- Засіб розгортання Office або групова політика
-- Диспетчер конфігурації кінцевої точки Microsoft (поточна гілка) або Microsoft InTune
+- Засіб Office розгортання або групова політика
+- Microsoft Endpoint Configuration Manager (поточна гілка) або Microsoft Intune
 
-Щоб дізнатися більше, Дізнайтеся більше про [те, як запобігти інсталяції фонової служби Microsoft Search у службі Bing, яка інсталюється за допомогою програм microsoft 365 для підприємств](https://go.microsoft.com/fwlink/?linkid=2151946).
+Докладні відомості див. в статті Як запобігти інсталяції [фонової](https://go.microsoft.com/fwlink/?linkid=2151946)служби Пошук Microsoft у Bing разом із Програми Microsoft 365 для підприємств .

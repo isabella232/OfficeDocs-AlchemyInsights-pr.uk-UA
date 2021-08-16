@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c07981bfae40d74deb1a2f143ce51da69b51a69f
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a5acd322186f8f4b7734f8541877a642a553288e10b3c122e4f276b9bb611308
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989000"
 ---
 # <a name="auditing-in-microsoft-365"></a>Аудит у Microsoft 365
 
-Нижче наведено кілька порад про відстеження в Microsoft 365.
+Ось кілька речей, які слід знати про аудит у Microsoft 365:
 
-1. Дії з адміністрування Exchange перевіряються за замовчуванням.
-1. Ми перебуваємо в процесі ввімкнення аудиту поштової скриньки за замовчуванням для всіх користувачів. Щоб дізнатися більше про це, натисніть [тут](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Exchange-Mailbox-Auditing-will-be-enabled-by-default/ba-p/215171). Якщо потрібно, щоб вказівки вручну могли ввімкнути його для однієї особи або всієї організації, натисніть кнопку увімкнути аудит поштової скриньки нижче.
-1. Поштові скриньки груп Microsoft 365 і поштові скриньки спільних папок не підтримують журналювання аудиту.
-1. Для служби SharePoint або OneDrive немає додаткової конфігурації, необхідної для ввімкнення аудиту. Щоб дізнатися, які дії відстежуватиметься, перегляньте:
+1. Exchange дії адміністратора перевіряються за замовчуванням.
+1. Ми активуємо аудит поштових скриньок за замовчуванням для всіх користувачів. Щоб дізнатися більше про це, клацніть [тут](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Exchange-Mailbox-Auditing-will-be-enabled-by-default/ba-p/215171). Доки ви не бажаєте вручну ввімкнути цю функцію для одного користувача або всієї організації, натисніть нижче кнопку Увімкнути аудит поштових скриньок.
+1. Microsoft 365 Поштові скриньки групи та поштові скриньки спільних папок не підтримують журналювання аудиту.
+1. Щоб SharePoint або OneDrive, додаткові параметри, необхідні для аудиту, не потрібно. Щоб дізнатися, які дії перевірено, див. такі дії:
     1. [Дії з файлами](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#file-and-page-activities)
     1. [Дії з папками](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    1. [Надання спільного доступу та дій Access](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities).
-1. Щоб переглянути список усіх перевірених дій за допомогою служби, ознайомтеся з діями, що [перевіряються](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+    1. [Дії з надання спільного доступу та доступ до даних](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities).
+1. Список усіх від перевірених дій за службами див. в цьому [списку.](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities)

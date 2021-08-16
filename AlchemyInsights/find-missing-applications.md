@@ -1,5 +1,5 @@
 ---
-title: Виявлення відсутніх програм
+title: Пошук відсутніх програм
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068941"
 ---
-# <a name="find-missing-applications"></a>Виявлення відсутніх програм
+# <a name="find-missing-applications"></a>Пошук відсутніх програм
 
-- [QuickStart: перегляд списку програм, що використовують ваш клієнт Azure Active Directory (AZURE AD) для керування посвідченнями](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) , показує, як переглядати програми, також відомі як програми, які вже настроєно для використання свого клієнта AZURE AD як свого постачальника посвідчень (IDP).
-- Щоб знайти певну програму, перейдіть до меню **тип застосунку** , виберіть пункт **Усі програми** та натисніть кнопку **застосування**.
-  - Введіть ім'я програми, яку потрібно переглянути. Якщо програму додано до свого клієнта Azure AD, вона з'явиться в результатах пошуку. Ви також можете вказати кілька перших букв імені застосунку.
-- [Усунення поширених проблем під час додавання або видалення програми до лазурового Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) дає змогу дізнатися про поширені проблеми, які виникають у користувачів, які переглядають програми в Лазурому Active Directory.
+- Короткий посібник. Перегляньте список програм, які використовують ваш клієнта [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) для керування ідентичностями, показує, як переглядати програми, також відомі як програми, які вже настроєно на використання клієнта Azure AD як свого постачальника ідентичності.
+- Щоб знайти певну програму, перейдіть до меню **Тип** програми, виберіть Усі **програми** та натисніть кнопку **Застосувати**.
+  - Введіть назву програми, яку потрібно знайти. Якщо програму додано до клієнта Azure AD, вона відображається в результатах пошуку. Також можна ввести кілька перших букв імені програми.
+- [Виправлення поширених проблем](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) із додаванням або видаленням програми для Azure Active Directory допомагає зрозуміти поширені проблеми, з якою стикаються користувачі, які стикаються з переглядом програм у Azure Active Directory.
