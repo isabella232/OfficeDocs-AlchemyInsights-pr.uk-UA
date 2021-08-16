@@ -1,5 +1,5 @@
 ---
-title: Деякі користувачі можуть виникати затримки в повідомленнях чату
+title: У деяких користувачів можуть виникати затримки повідомлень у чаті
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000738"
 - "8431"
-ms.openlocfilehash: ad5f11e60aa4c14f1accc43300dc1b3af75709ff
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: ec2adfdcfd4145a187cb1a1e816594a19f825fe84619c4972be73ee565befe77
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021689"
 ---
-# <a name="some-users-may-experience-delays-with-chat-messages"></a>Деякі користувачі можуть виникати затримки в повідомленнях чату
+# <a name="some-users-may-experience-delays-with-chat-messages"></a>У деяких користувачів можуть виникати затримки повідомлень у чаті
 
-Корпорація Майкрософт розуміє проблему, через яку користувачі можуть отримувати затримки під час надсилання та отримання повідомлень чату під час використання команд.
+Корпорації Майкрософт відомо про проблему, через яку під час використання веб-програми користувачі можуть здаватися затримками надсилання й отримання повідомлень Teams.
 
-Відомості про найновішу інформацію наведено в статті [https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228](https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228)
+Найновіші відомості див. в [https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228](https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM240228)

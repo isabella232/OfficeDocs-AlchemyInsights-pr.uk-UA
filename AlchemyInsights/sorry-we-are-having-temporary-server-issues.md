@@ -1,5 +1,5 @@
 ---
-title: Вирішення проблем із програмами Microsoft 365Повідомлення про тимчасові проблеми із сервером
+title: Повідомлення Microsoft 365 про тимчасові проблеми із сервером в програмах, на жаль, виникають тимчасові проблеми із сервером
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835292"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021617"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Виправлення помилок у програмах Microsoft 365 "На жаль, виникають тимчасові проблеми із сервером"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Виправлення неполадок із Microsoft 365 "На жаль, у нас виникли тимчасові проблеми із сервером"
 
 Якщо ви отримали це повідомлення, спробуйте виконати такі дії:
 
-1. Перевірте параметри брандмауера, антивірусного програмного забезпечення та проксі-сервера, щоб переконатися, що вони не блокують доступ до Інтернету до програм Microsoft 365. Див. [номери URL-адрес і діапазони IP-адрес.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+1. Перевірте параметри брандмауера, антивірусного програмного забезпечення та проксі-сервера, щоб переконатися, що вони не блокують доступ до Інтернету Microsoft 365 програм. Див. [номери URL-адрес і діапазони IP-адрес.](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
 
 2. Відкрийте меню **"Пуск"**  >  і введіть **services.msc.** Переконайтеся, що всі ці служби запущено:
     - Автоматичне настроювання підключених мережевих пристроїв
     - Служба списку мережі
     - Усвідомлення мережевого розташування
-    - Журнал подій Windows
+    - Windows Журнал подій
 
 Якщо одну з цих служб не запущено, спробуйте запустити її. Якщо під час запуску служби відобразиться помилка, запустіть наведену нижче команду, відкривши командний рядок із дозволами в режимі адміністратора.
 
