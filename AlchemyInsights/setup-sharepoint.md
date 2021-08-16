@@ -1,5 +1,5 @@
 ---
-title: Настроювання служби SharePoint
+title: Настроювання SharePoint
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "7407"
-ms.openlocfilehash: 66b29abcbce3d5cc538969d480ec9a89ae3c6095
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: eed91d538589a3eda49d19ae60cf772b7c20cbfc12c2b47aec0bb313ebd73e00
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49584005"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023471"
 ---
-# <a name="set-up-sharepoint"></a>Настроювання служби SharePoint
+# <a name="set-up-sharepoint"></a>Настроювання SharePoint
 
-[Посібник із настроювання SharePoint](https://go.microsoft.com/fwlink/?linkid=2071425) допомагає настроїти сховище документів SharePoint і керування вмістом, створювати сайти, настроювати зовнішній спільний доступ, переміщувати дані та настроювати додаткові параметри, а також використовувати взаємодію користувачів і спілкування в організації.
+Цей [посібник із](https://go.microsoft.com/fwlink/?linkid=2071425) настроювання SharePoint допоможе настроїти зберігання документів SharePoint і керування вмістом, створити сайти, настроїти зовнішній спільний доступ, перенести дані та налаштувати додаткові параметри, а також залучати користувачів і спілкуватися в організації.
 
-Виконайте вказівки з настроювання політик дозволів на спільний доступ до вмісту, виберіть засоби синхронізації перенесення, а також увімкніть параметри безпеки для середовища SharePoint.
+Щоб налаштувати політики дозволів на спільний доступ до вмісту, виберіть засоби синхронізації перенесення, а також увімкніть параметри безпеки SharePoint середовищі.
