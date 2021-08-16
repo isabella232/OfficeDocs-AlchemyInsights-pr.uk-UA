@@ -1,5 +1,5 @@
 ---
-title: Докладні відомості про прогресивні веб-застосунки (PDI) на Microsoft EDGE (хром)
+title: Відомості про перебіг виконання веб-програм PWAs Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101467"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Докладні відомості про прогресивні веб-застосунки (PDI) на Microsoft EDGE (хром)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>Відомості про перебіг виконання веб-програм PWAs Microsoft Edge (Chromium)
 
-Веб-сайти поступово вдосконалили функцію, як-от рідні програми на платформах, які їх підтримують. Pwwas поєднував кращі якості веб-та рідних програм.
+PWAs – це веб-сайти, які підтримують такі функції, як власні програми на платформах, які їх підтримують. PWAs об'єднує найкращі якості веб-програм і власних програм.
 
-З точки зору веб-платформи, [корпорація Майкрософт EDGE (хром)](https://go.microsoft.com/fwlink/?linkid=2135193) базувалася на стандартах. Вони дають змогу користувачам інсталювати програми безпосередньо в браузері, і вони не потребують розгортання або реєстрації на основі Microsoft Store. На будь-якій платформі, де можна знайти Microsoft EDGE (хром), підтримуються настільні програми.
+З точки зору веб-платформи [PWAs для Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) базуються на стандартах. Вони дають змогу користувачам інсталювати програми безпосередньо з браузера, і їм не потрібне Microsoft Store розгортання або реєстрації. Програми PWAs для настільних комп'ютерів підтримуються на будь-якій платформі, Microsoft Edge яких (Chromium) доступна.
