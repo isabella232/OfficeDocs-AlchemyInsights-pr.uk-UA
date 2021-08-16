@@ -1,5 +1,5 @@
 ---
-title: Вимоги до політики захисту застосунків
+title: Вимоги до політики захисту програм
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749556"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995420"
 ---
-# <a name="application-protection-policy-requirements"></a>Вимоги до політики захисту застосунків
+# <a name="application-protection-policy-requirements"></a>Вимоги до політики захисту програм
 
-Вимоги до політики захисту застосунків.
+Вимоги до політики захисту програм:
 
-- Користувач має ліцензію "Inune" або "EMS".
-- Користувач належить до групи, орієнтованої політикою захисту застосунків.
-- Лише один корпоративний користувач входить до захищених програм на пристрої.
-- [Програма реалізувала пакет SDK для Inune. Список програм, які підтримують пакет SDK, наведено в статті Microsoft InTune захищені програми.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- Користувач має ліцензію Intune або EMS.
+- Користувач належить до групи, націленої політиками захисту програм.
+- Лише один корпоративний користувач увійшов у захищені програми на пристрої.
+- [Програма впроваджує SDK Intune. Список програм, які підтримують SDK, див. в Microsoft Intune захищених програм.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [Докладніше...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)
