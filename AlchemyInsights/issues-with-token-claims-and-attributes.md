@@ -1,5 +1,5 @@
 ---
-title: Проблеми з відповідними вимогами і атрибутами маркерів
+title: Проблеми з твердженнями маркерів і атрибутами
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004347"
 - "7761"
-ms.openlocfilehash: 4c12f768ab4bf4547f48abc19736743fa555c477
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: 0c9827ee312d6b236c86f5a2973fa61fdc78c49b8565dd4ceb41f9a3a48140bc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012905"
 ---
-# <a name="issues-with-token-claims-and-attributes"></a>Проблеми з відповідними вимогами і атрибутами маркерів
+# <a name="issues-with-token-claims-and-attributes"></a>Проблеми з твердженнями маркерів і атрибутами
 
-**Оновлення, настроювання та видалення тверджень про маркер**
+**Оновлення, настроювання та вилучення тверджень маркерів**
 
-1. Використовуючи Azure Active Directory (Azure AD), можна [Настроїти тип твердження для твердження про роль](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) у відповіді, який ви отримали після авторизації програми.
-2. Розробники програм можуть використовувати необов'язкові претензії в своїх програмах Azure AD, щоб указати, які претензії вони хочуть в маркери, які надходять до їх програми. Додаткові відомості наведено в статті [надання необов'язкових претензій до програми](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims).
-3. [Настройте вимоги до груп для програм за допомогою служби Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
-4. Якщо у вашій програмі використовується небезшовний єдиний вхід, див. розділ ["настроїти претензії, видані в маркер SAML для корпоративних програм"](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization).
+1. За допомогою Azure Active Directory (Azure AD) [](https://docs.microsoft.com/azure/active-directory/develop/active-directory-enterprise-app-role-management) можна настроїти тип претензій на роль у маркері відповіді, отриманому після авторизації програми.
+2. Розробники програм можуть використовувати додаткові вимоги в програмах Azure AD, щоб указати, які вимоги мають бути в маркерах, надісланих у своїй програмі. Докладні відомості див. в [статтях Надання додаткових претензій для програми.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
+3. [Настройте групові твердження для програм за допомогою Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-group-claims).
+4. Якщо у вашій програмі використовується без проблем під час єдиного входу, перегляньте настроювання вимог, виданих у маркері [SAML для корпоративних програм.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-claims-customization)
 
 **Зіставлення атрибутів тверджень**
 
-1. Щоб настроїти політику зіставлення тверджень за допомогою PowerShell, перегляньте статтю [настроїти претензії, що випускаються в маркерів для певної програми в клієнті (ознайомлювальну версію)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
-2. Атрибути розширення схеми каталогів дають змогу зберігати додаткові дані в Лазурому Active Directory на об'єктах користувача та інших об'єктах каталогу, як-от групи, відомості про клієнта, керівники служб. Для застосування позовів до програм можна використовувати лише атрибути розширення для об'єктів користувача. [За допомогою атрибутів розширення схем каталогів у позовах](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) розповідається про те, як використовувати атрибути розширення схем каталогів для надсилання даних користувача до програм у позовах маркерів.
+1. Відомості про налаштування політики зіставлення тверджень за допомогою PowerShell див. в розділі Налаштування тверджень, які вимагаються в маркерах певної програми в попередньому [перегляді клієнта.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping)
+2. Атрибути розширення схеми каталогу дають користувачам Azure Active Directory дані в об'єктах користувача та інших об'єктах каталогу, як-от групах, відомості про клієнта, основних відомості про службу. Для випромінення претензій до програм можна використовувати лише атрибути розширення об'єктів користувачів. [Використання атрибутів](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions) розширення схеми каталогів у твердженнях описує, як надсилати дані користувачів до програм у твердженнях маркерів за допомогою атрибутів розширення схеми каталогів.
 
-Докладні відомості про твердження маркерів наведено в статті:
+Докладні відомості про вимоги маркерів див. в статтях:
 
-- [Скарги в маркери доступу](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
-- [Скарги в id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
-- [Твердження](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) про те, що ви можете розраховувати на маркери ідентифікаторів і маркери доступу, видані за допомогою AZURE AD B2C
-- [Довідник із маркерів "САМЛ"](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)
+- [Твердження в маркерах доступу](https://docs.microsoft.com/azure/active-directory/develop/access-tokens#claims-in-access-tokens)
+- [Претензії на id_token](https://docs.microsoft.com/azure/active-directory/develop/id-tokens#claims-in-an-id_token)
+- [Твердження,](https://docs.microsoft.com/azure/active-directory-b2c/tokens-overview#claims) які можна очікувати в маркерах ідентифікаторів і маркерах доступу, виданих Azure AD B2C
+- [Довідник із тверджень про маркери SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens)

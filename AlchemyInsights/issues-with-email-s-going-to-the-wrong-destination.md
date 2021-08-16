@@ -1,5 +1,5 @@
 ---
-title: 324 проблеми з електронною поштою (s), що надходять до неправильного місця призначення
+title: Проблеми з надходжанням повідомлень електронної пошти до невідповідного місця призначення (324)
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: 719d6f0c8d33056d93dbfad6f2f32b3949ab1011
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f42bd7b1342c50a189b5aaea9ed90dfa6ae8c10ce2721110c69d636de0f6181
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47769816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012977"
 ---
-# <a name="email-messages-are-going-to-the-wrong-destination"></a>Повідомлення електронної пошти буде неправильним місцем призначення
+# <a name="email-messages-are-going-to-the-wrong-destination"></a>Повідомлення електронної пошти надсилаються до невідповідного місця призначення
 
-Схоже, у вас є проблема з потоком пошти. У нас є діагностика, яка допоможе визначити багато поширених проблем із потоком пошти. Натисніть кнопку **виконати діагностику** нижче.
+Схоже, у вас виникає проблема з надсиланням пошти. У нас є діагностика, яка допоможе виявити поширені проблеми з надсиланням пошти. Натисніть **кнопку Запустити діагностику** нижче.

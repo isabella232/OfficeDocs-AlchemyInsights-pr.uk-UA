@@ -1,5 +1,5 @@
 ---
-title: 8000037 не отримує повідомлення електронної пошти в Outlook.com
+title: 8000037 повідомлення електронної пошти не надходять у Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
-ms.openlocfilehash: f847180d59258b6bf1f4b7253d0bca5d0c3390eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 671d53ba9687f55b9c7f91c097bb623430ea5ab9a18226caacabdc92f6b410d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097363"
 ---
-# <a name="not-receiving-mail-in-outlookcom"></a>Не отримувати пошту в Outlook.com
+# <a name="not-receiving-mail-in-outlookcom"></a>Не надходять повідомлення електронної пошти на Outlook.com
 
-Якщо ви не отримали повідомлення електронної пошти від певного відправника, як-от виписки з банківського рахунку або скидання пароля, вам потрібно буде звернутися до відправника, і повідомте їм, що ви не отримуєте повідомлення електронної пошти на ваш обліковий запис Outlook.com. Зверніться до відправника [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) , де можна знайти інформацію про практичні поради, рекомендувати виправлення неполадок і посилання, щоб звернутися до команди підтримки відправника.
+Якщо ви не отримуєте повідомлення від певного відправника, наприклад банківських виписок або повідомлень для скидання пароля, вам потрібно звернутися до відправника та повідомити його про те, що ви не отримуєте електронну пошту у вашому обліковому записі Outlook.com. Зверніться до відправника , де він може отримати відомості про практичні поради, порадити виправлення неполадок і посилання, щоб звернутися до нашої команди [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135) підтримки відправника.
   
-Якщо ваш обліковий запис Outlook.com не отримує електронний лист, перегляньте статтю [виправлення помилок синхронізації електронної пошти Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
+Якщо ваш обліковий запис Outlook.com взагалі не отримує електронну пошту, див. номери Вирішення проблем із синхронізацією [Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874363)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Мовні параметри Microsoft 365
+title: Microsoft 365 Мовні Настройки
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000298"
 - "5899"
-ms.openlocfilehash: e9898e76954fde8fb6988acdf11c656bbdaa8ce3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c3f6d8406982e8d304a49885e47a9af6d7105f09fb7934715b29777069d52726
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794529"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012869"
 ---
-# <a name="microsoft-365-language-settings"></a>Мовні параметри Microsoft 365
+# <a name="microsoft-365-language-settings"></a>Microsoft 365 Мовні Настройки
 
 Визначте, чи потрібно змінити мову інтерфейсу та інші параметри для користувачів або всього клієнта.
 
-- Відомості для користувачів див. [в статті Змінення мови інтерфейсу та часового поясу в Microsoft 365 для бізнесу для всіх програм.](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b)
-- Відомості про клієнта див. в [статті Установлення мовних і регіональних параметрів для Microsoft 365.](https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region)
+- Для користувачів див. [мову інтерфейсу та часовий пояс у Microsoft 365 для бізнесу для всіх програм.](https://support.microsoft.com/office/6f238bff-5252-441e-b32b-655d5d85d15b)
+- Відомості про клієнта див. в [розділі Установлення мовних і регіональних параметрів для Microsoft 365](https://docs.microsoft.com/office365/troubleshoot/access-management/set-language-and-region).
