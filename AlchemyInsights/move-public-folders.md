@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50036084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986246"
 ---
 # <a name="move-public-folders-between-public-folder-mailboxes"></a>Переміщення спільних папок між поштовими скриньками спільних папок
 
-Спільні папки в службі Exchange Online можна переміщати між поштовими скриньками спільних папок за допомогою програми Outlook для настільних комп'ютерів із Windows.
+Спільні папки в Exchange онлайн можна переміщати між спільними папками за допомогою класичного клієнта Outlook для Windows.
 
-Якщо ви намагаєтеся перенести спільні папки в Локальні Exchange для Exchange Online, ознайомтеся з такими статтями:
+Якщо ви намагаєтеся перемістити спільні папки з локальної Exchange до служби Exchange в Інтернеті, див. такі статті:
 
-[Перенесення Exchange Server 2013, 2016, 2019 спільні папки до Exchange Online](https://aka.ms/ModernPFToEXO)
+[Перенесення Exchange Server спільних папок 2013 2016 2019 до Exchange в Інтернеті](https://aka.ms/ModernPFToEXO)
 
-[Перенесення спільних папок Exchange Server 2010 до Exchange Online](https://aka.ms/LegacyPFToEXO)
+[Перенесення Exchange Server спільних папок 2010 до Exchange Online](https://aka.ms/LegacyPFToEXO)

@@ -1,5 +1,5 @@
 ---
-title: Команди Microsoft – гостьовий доступ
+title: Microsoft Teams- Гостьовий доступ
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96a57d523c75a2e0b3cebff6abe23377fa7d2525ce00cedeb1a16c6669255c8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026891"
 ---
-# <a name="microsoft-teams---guest-access"></a>Команди Microsoft – гостьовий доступ
+# <a name="microsoft-teams---guest-access"></a>Microsoft Teams- Гостьовий доступ
 
-Потрібна допомога з активування та настроювання функції гостьового доступу в групах Microsoft?  
+Потрібна допомога з увімкненням і настроюванням функції гостьового доступу Microsoft Teams?  
 
-Спочатку переконайтеся, що ви виконали всі кроки, описані в [контрольному списку гостей Access](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Після завершення всіх цих кроків потрібно [зачекати до 24 годин](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , щоб параметри набрали сили.
+Спочатку переконайтеся, що ви виконали всі дії, описані в контрольному списку [гостьового доступу.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Коли всі ці кроки буде виконано, потрібно зачекати [до 24 годин,](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) щоб настройки набрали сили.
 
-Якщо ви впевнені, що ви виконали всі кроки в контрольному списку, а це було понад 24 години, перейдіть вперед і спробувати [Додати гостя до своєї команди](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Якщо ви впевнені, що ви виконили всі кроки в контрольний список і вже понад 24 години, спробуйте додати гостя до робочої [групи.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Щоб отримати докладні відомості, зокрема про відеоролики, ознайомтеся [з Гостьовим доступом в командах Microsoft](https://docs.microsoft.com/microsoftteams/guest-access).
+Докладні відомості, зокрема відео інструкції, див. в статті [Гостьовий доступ Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

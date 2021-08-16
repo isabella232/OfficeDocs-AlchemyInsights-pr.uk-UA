@@ -1,5 +1,5 @@
 ---
-title: 8000063 як клацнути правою кнопкою миші на комп'ютері Mac
+title: 8000063 Як клацнути правою кнопкою миші на комп'ютері Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001961"
 ---
 # <a name="how-to-right-click-on-a-mac"></a>Клацання правою кнопкою миші на комп'ютері Mac
 
-На комп'ютері Mac клацніть правою кнопкою миші елемент "додаткове клацання" або "керування клацанням". Якщо мишу, трекпад або інший пристрій для входу не містять правої кнопки миші або інший спосіб виконати клацання правою кнопкою миші, утримуйте натиснутою **клавішу Control** на клавіатурі під час клацання.
+На комп'ютерах Mac клацання правою кнопкою миші називається додатковим клацанням або клацанням control. Якщо на миші, сенсорній панелі або іншому пристрої вводу немає правої кнопки миші або іншого клацання правою кнопкою миші, натисніть і утримуйте клавішу **Control** на клавіатурі.
   
-Щоб отримати докладніші відомості, перейдіть на сторінку [підтримки Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Докладні відомості див. в [довідці служби підтримки Apple.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
   

@@ -1,5 +1,5 @@
 ---
-title: Виправлення параметрів політики та поштової скриньки користувача
+title: Виправлення настройок політики користувача або поштової скриньки
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: ca998c453fcb0905b122436f0eea384a9b8a9992
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fecc52bea66e0aed709a8995d2509f4432c09482459aa575d29e4c7551375211
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750567"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034739"
 ---
-# <a name="fix-user-policymailbox-settings"></a>Виправлення параметрів політики та поштової скриньки користувача
+# <a name="fix-user-policymailbox-settings"></a>Виправлення настройок політики користувача або поштової скриньки
 
-Це повідомлення вплине на настройки небажаної пошти в поштовій скриньці. Щоб переглянути настройки, виконайте наведені нижче дії.
+Параметри небажаної пошти в поштовій скриньці, на які це вплинуло повідомлення. Щоб переглянути параметри, виконайте такі дії:
 
-1. Запуск оболонки керування Exchange. Докладні відомості наведено в статті [відкриття оболонки керування Exchange](https://go.microsoft.com/fwlink/?linkid=2101432).
-2. Виконати цю команду (за допомогою адреси електронної пошти користувача):  **Get-mailboxjunkmailconfiguration-Identity "User@domain.com"**
-3. Перевірте, чи є адреса електронної пошти відправника, що входить до складу **Trusedsendersanddomains** або **blockkedsendersanddomains**. Якщо адреса електронної пошти міститься в одному з списків, можливо, доведеться видалити його. Докладні відомості можна знайти в статті " [Set-MailboxJunkEmailConfiguration](https://go.microsoft.com/fwlink/?linkid=2101047)".
+1. Запустіть Exchange Керування. Докладні відомості [див. в сторінці Відкриття оболонки Exchange керування.](https://go.microsoft.com/fwlink/?linkid=2101432)
+2. Виконайте цю команду (за допомогою адреси електронної пошти користувача):  **get-mailboxjunkmailconfiguration -identity "user@domain.com"**
+3. Перевірте, чи є адреса електронної пошти відправника частиною **trustedSendersAndDomains** або **BlockedSendersAndDomains.** Якщо адреса електронної пошти міститься в одному зі списків, можливо, її доведеться видалити. Докладні відомості див. в статтях Настроювання параметрів поштової [скринькиJunkEmailConfiguration.](https://go.microsoft.com/fwlink/?linkid=2101047)
