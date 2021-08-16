@@ -1,5 +1,5 @@
 ---
-title: Проблеми з продуктивністю – SharePoint або OneDrive
+title: Проблеми з продуктивністю SharePoint або OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677191"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028457"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Внутрішня помилка сервера під час переходу до сайтів SharePoint або OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Внутрішня помилка сервера під час переходу на сайти SharePoint OneDrive сайтів
 
-Під час спроби перейти до сайтів SharePoint або OneDrive користувачі можуть отримувати внутрішню помилку сервера 500. 
+Користувачі можуть отримати 500 внутрішніх серверів помилки під час спроби перейти на SharePoint або OneDrive сайтів. 
 
-Перш ніж переходити до сайту, спробуйте очистити кеш браузера.
+Перш ніж переходити на сайт, спробуйте очистити кеш браузера.
 
 
-1. У браузері Microsoft EDGE перейдіть до меню Додаткові параметри... >
+1. У браузері Microsoft Edge докладні відомості див. в > Настройки
 
-2. У розділі очистити дані веб-перегляду виберіть пункт **вибрати, що потрібно очистити**
+2. У розділі "Очищення браузера" виберіть **"Виберіть, що потрібно очистити"**
 
-3. Установіть прапорець файли cookie та збережені дані веб-сайту, а потім натисніть кнопку **Очистити**.
+3. Установіть прапорець Файли cookie та збережені дані веб-сайтів і натисніть кнопку **Очистити.**
 
-Зверніть увагу: ці дії можуть відрізнятися під час використання інших браузерів, таких як Firefox або Chrome.
+Примітка. Ці дії можуть відрізнятися, якщо використовується інші браузери, як-от Firefox або Chrome.
 
-Якщо це не допомогло вирішити проблему, ви можете перевірити, чи відбувається активне обслуговування на вашому клієнті, перейшовши до [центру повідомлень](https://portal.office.com/adminportal/home#/MessageCenter).
+Якщо це не вирішує проблему, перевірте, чи активне обслуговування в вашому компоненті, перейдивши в [Центр повідомлень](https://portal.office.com/adminportal/home#/MessageCenter).
 
-Нарешті, переконайтеся, що ви відвідуєте сторінку [справність служби](https://portal.office.com/adminportal/home#/servicehealth) , щоб перевірити наявність будь-яких відповідних або інцидентів, які можуть виникнути.
+Нарешті, переконайтеся, [](https://portal.office.com/adminportal/home#/servicehealth) що ви відвідаєте сторінку Справність служби, щоб перевірити наявність порад або інцидентів, які можуть виникнути.
 

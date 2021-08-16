@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11129"
 - "9005486"
-ms.openlocfilehash: 3686bdbed46ed817446be0df63600436bbf2073f
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 52e859922453e7996bc1e2da9c989bf2bde946d815f5b432cc079d94feca4b9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52564523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994166"
 ---
 # <a name="microsoft-defender-for-endpoint-requires-microsoft-volume-licensing"></a>Для Програми Microsoft Defender для кінцевої точки потрібне корпоративне ліцензування Microsoft
 
@@ -29,7 +29,7 @@ ms.locfileid: "52564523"
 - Microsoft 365 E5 (M365 E5), до якого входить Windows 10 Enterprise E5
 - Microsoft 365 A5 (M365 A5)
 - Microsoft 365 E5 Захист
-- Microsoft 365 Безпека A5
+- Microsoft 365 A5 Безпека
 - Microsoft Defender для кінцевої точки
 
 Докладні відомості див. в [статті Мінімальні вимоги для Microsoft Defender для кінцевої точки.](https://docs.microsoft.com/microsoft-365/security/defender-endpoint/minimum-requirements)

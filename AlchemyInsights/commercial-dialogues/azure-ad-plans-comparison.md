@@ -1,5 +1,5 @@
 ---
-title: Порівняння планів "Лазурний"
+title: Порівняння планів Azure AD
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045657"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Порівняння планів "блакитні активні каталоги"
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory порівняння планів
 
-У чотирьох випусках Azure Active Directory: безкоштовні, програми Office 365, Premium P1 і Premium P2.
+Azure Active Directory версія постачається в чотирьох випусках: безкоштовні програми Office 365, Premium P1 і P2 Premium P2.
 
-Безкоштовне видання входить до складу "Лазурний". Преміальні видання доступні через представника Microsoft, [програму Open](https://go.microsoft.com/fwlink/?linkid=2110873)для ліцензування та [програми постачальників хмарних рішень](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
+Безкоштовний випуск входить до складу передплати на Azure. Випуски Premium доступні у представників корпорації Майкрософт, програмі [Open Volume License і](https://go.microsoft.com/fwlink/?linkid=2110873)програмах [постачальників хмарних рішень.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Абоненти Azure та Office 365 також можуть придбати Azure Active Directory Premium P1 і P2 Online. Щоб дізнатися більше, ознайомтеся з [функціями "блакитні активні каталоги" та "ціноутворення](https://go.microsoft.com/fwlink/?linkid=2081447)".
+Абоненти Azure Office 365 також можуть придбати передплатники Azure Active Directory Premium P1 і P2 онлайн. Докладні відомості див. [в Azure Active Directory про функції та ціни.](https://go.microsoft.com/fwlink/?linkid=2081447)

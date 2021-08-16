@@ -1,5 +1,5 @@
 ---
-title: Змінення мови, формату дати й часу або часового поясу в Інтернет-версії Outlook
+title: Змінення мови, формату дати й часу або часового поясу в інтернет-версія Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000014"
 - "2000"
-ms.openlocfilehash: 8f0b17005f5d93f2e0643ce0ef7d13545b40d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84c3086d2be1376254b10e702ae61d8ea13a372cbae6eee874562a8c1235566d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666206"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010601"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>Змінення мови, формату дати й часу або часового поясу в Інтернет-версії Outlook
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlook-on-the-web"></a>Змінення мови, формату дати й часу або часового поясу в інтернет-версія Outlook
 
-1. У верхній частині сторінки виберіть пункт <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Параметри**  >  **Переглянути всі настройки Outlook**.
-2. Виберіть **загальні**відомості про  >  **мову та час**.
-3. Виберіть мову, яку потрібно використовувати.
-4. Натисніть кнопку **зберегти**.
+1. Угорі сторінки натисніть кнопку <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ **Настройки**  >  **Переглянути всі Outlook параметри**.
+2. Виберіть **пункт**  >  **Загальна мова та час.**
+3. Виберіть потрібну мову.
+4. Натисніть **кнопку Зберегти**.
 
-Докладні відомості наведено в статті [Змінення часового поясу та мовних параметрів в Інтернет-версії Outlook](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).
+Докладні відомості див. в [розділі Змінення часового поясу та мовних параметрів інтернет-версія Outlook](https://support.office.com/article/65239869-12e7-4a9d-bca1-76b0ad7ce273).

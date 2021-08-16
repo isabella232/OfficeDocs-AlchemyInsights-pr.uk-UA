@@ -1,5 +1,5 @@
 ---
-title: Змінення доступу до зовнішнього користувача
+title: Зміни до зовнішнього доступу користувачів
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: abdb45fb-93b0-4df9-994d-b997fcfcaff5
-ms.openlocfilehash: 1be2a05efdf46a1ec05992963a3e03519dc2c3d5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3c3ccbd8dd4f43a5f927f727e8757ded3612c630158cf045b4e6c0f93bb75ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714349"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045693"
 ---
-# <a name="changes-to-external-user-access"></a>Змінення доступу до зовнішнього користувача
+# <a name="changes-to-external-user-access"></a>Зміни до зовнішнього доступу користувачів
 
-Починаючи з 23 березня 2018, зовнішні користувачі більше не зможуть отримати доступ до вмісту, який спільно з усіма користувачами, усі автентифіковані користувачі або Усі форми користувачів, навіть якщо їх запрошено або доданих до уповноважених груп. Зовнішні користувачі зможуть отримати доступ до вмісту, який надано спільно з користувачами або групами, до яких належить користувач. Якщо ви хочете зберегти свої поточні параметри, ознайомтеся з такими параметрами: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
+З 23 березня 2018 року зовнішні користувачі більше не зможуть отримувати доступ до вмісту, спільний доступ до яких надано всім користувачам, усім автентифікованим користувачам або всім користувачам форм, навіть якщо їх запрошено або додано до авторизованих груп. Зовнішні користувачі зможуть отримати доступ лише до вмісту, до якого надано спільний доступ користувачу або групам, до якого належить користувач. Якщо ви хочете зберегти наявні параметри, див. такі пункти: https://support.microsoft.com/help/4089534/how-to-grant-the-everyone-claim-to-external-users-in-office-365
   
 
