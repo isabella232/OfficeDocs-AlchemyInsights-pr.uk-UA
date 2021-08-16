@@ -1,5 +1,5 @@
 ---
-title: Виправлення неполадок у політиці та профілях InTune
+title: Виправлення неполадок із політикою та профілями Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: f3294bb9d0f388e1003181b0b83f9fd6ccef6097
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 06352056740180c9f332dd85553a9373b0f25548e50222a1d4bf9d502f513dfb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058203"
 ---
-# <a name="troubleshooting-the-intune-policy-and-profiles"></a>Виправлення неполадок у політиці та профілях InTune
+# <a name="troubleshooting-the-intune-policy-and-profiles"></a>Виправлення неполадок із політикою та профілями Intune
 
-Щоб переглянути наявні політики, усунути конфлікти, переглянути дані журналу, а також переглянути поширені запитання та проблеми, наведені нижче посібники можуть допомогти.
+Щоб переглянути наявні політики, усунути конфлікти, переглянути дані журналу та переглянути поширені запитання та проблеми, ознайомтеся з наведеними нижче посібниками.
 
-- [Усунення несправностей політики та профілів в програмі Inune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
-- [Поширені запитання, проблеми та резолюції з політиками пристроїв і профілями в InTune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
-- [Відстеження профілів конфігурації пристрою та перегляд конфліктів у програмі Inune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
-- [Виправлення неполадок із відповідністю пристроїв і умовного доступу в програмі Inune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
-- [Відстеження політик відповідності та перегляд конфліктів у програмі Inune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
+- [Усунення несправностей політик і профілів в Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
+- [Поширені запитання, проблеми та вирішення проблем із політиками пристроїв і профілями в Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-troubleshoot)
+- [Відстеження профілів конфігурації пристроїв і перегляд конфліктів в Intune](https://docs.microsoft.com/mem/intune/configuration/device-profile-monitor)
+- [Усунення несправностей із відповідністю пристроям і умовним доступом в Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-conditional-access)
+- [Моніторинг політик відповідності та перегляд конфліктів у Intune](https://docs.microsoft.com/mem/intune/protect/compliance-policy-monitor)
 
 [Докладніше...](https://docs.microsoft.com/mem/intune/configuration/device-profiles)

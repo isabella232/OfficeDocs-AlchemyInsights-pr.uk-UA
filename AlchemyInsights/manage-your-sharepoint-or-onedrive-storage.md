@@ -1,5 +1,5 @@
 ---
-title: Керування сховищем SharePoint або OneDrive
+title: Керування сховищем SharePoint або OneDrive сховища
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: d1f34740e93a666d72b691d0d16ca2a40a28c5a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9653f61da65f6aeb77ba33cb7eaf7f508ec7da8d38c3b32c2c30ea519d31ada6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47662922"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077815"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Керування сховищем SharePoint або OneDrive
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>Керування сховищем SharePoint або OneDrive сховища
 
- **Служба SharePoint Online**
+ **SharePoint Онлайн**
   
-Для більшості організацій сховище SharePoint автоматично керується, тому не потрібно встановлювати обмеження на колекцію сайтів. Щоб перевірити обсяг сховища SharePoint, виконайте такі дії:
+Здебільшого налаштування сховища SharePoint організації налаштовано автоматично, тому встановлювати обмеження для потрібної колекції сайтів не потрібно. Щоб дізнатися, скільки SharePoint сховища:
   
-- У новому центрі адміністрування SharePoint у верхньому правому куті сторінки "сайти" Знайдіть доступний і загальний обсяг сховища.
+- У новому SharePoint адміністрування у верхньому правому куті сторінки сайтів знайдіть доступний і загальний обсяг сховища.
     
-Відомості про те, як обчислюється ліміт, наведено в розділі [обмеження SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkID=856113). Щоб придбати додатковий обсяг сховища, ознайомтеся зі [зміною дискового простору для своєї передплатою](https://go.microsoft.com/fwlink/?linkid=866428).
+Відомості про обчислення обмежень див. в [SharePoint Online Limits.](https://go.microsoft.com/fwlink/p/?LinkID=856113) Щоб дізнатися, [](https://go.microsoft.com/fwlink/?linkid=866428)як придбати додатковий простір у сховищі, див. 36.0.
   
  **OneDrive**
   
-Щоб змінити сховище за замовчуванням для нових і наявного користувачів OneDrive:
+Щоб змінити стандартний обсяг сховища для нових і наявних OneDrive:
   
-- Перейдіть на [сторінку сховища в центрі адміністрування OneDrive](https://admin.onedrive.com/?v=StorageSettings)та вкажіть нову СУМУ в ГБ.
+- Перейдіть на сторінку [Сховище в Центрі адміністрування OneDrive](https://admin.onedrive.com/?v=StorageSettings)введіть нове значення в ГБ.
     
-Щоб перевірити обсяг сховища, який використовується у власному сховищі, Дізнайтеся, як [керувати сховищем служби "onedrive для бізнесу](https://go.microsoft.com/fwlink/?linkid=866429)". Докладні відомості про сховище, що постачається з кожним планом, наведено [в статті Опис служби "Onedrive для бізнесу](https://go.microsoft.com/fwlink/p/?LinkID=826071)".
+Щоб дізнатися, який обсяг сховища використовується у вашому власному сховищі OneDrive див. в статті Керування [сховищем OneDrive для бізнесу сховища.](https://go.microsoft.com/fwlink/?linkid=866429) Відомості про сховище, яке надається разом із кожним планом, [див OneDrive для бізнесу опис служби.](https://go.microsoft.com/fwlink/p/?LinkID=826071)
   
 

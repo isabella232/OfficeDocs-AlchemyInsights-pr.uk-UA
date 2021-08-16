@@ -1,5 +1,5 @@
 ---
-title: Захисник Microsoft 365
+title: Microsoft 365 Defender
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815959"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012185"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft для спільного доступу до перехресного клієнта
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do спільного доступу між клієнтами
 
-Корпорація Майкрософт підтримує спільний доступ до списку для особистих і робочих облікових записів. Це дає змогу користувачам у вашій організації
+Microsoft To Do підтримує обмін списками особистих і робочих облікових записів. Це дає змогу користувачам у вашій організації
 
-приєднання, перегляд, змінення та додавання даних до списків, що належать особистим обліковим записам Microsoft.
+приєднуватися, переглядати, змінювати та додавати дані до списків, які наділи особисті облікові записи Microsoft.
 
-Для адміністраторів можна вимкнути нову настройку адміністратора, установивши прапорець не перевіряти цю функцію.
+Щоб вимкнути цю функцію, адміністратори можуть активувати нову настройку адміністратора, знявши цей прапорець.
 
-Адміністратор може відшукати цей параметр на порталі адміністрування **в розділі Настройки**  >  **організаційної**  >  **служби**  >  **Office** .  
+Адміністратор може знайти цей параметр на порталі адміністрування в розділі **служби Настройки**  >  **Org Настройки**  >  **Services**  >  **Microsoft To Do**.  
 
 [Чому я не можу приєднатися до спільного списку?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)

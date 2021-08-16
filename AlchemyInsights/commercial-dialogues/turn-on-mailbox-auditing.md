@@ -1,5 +1,5 @@
 ---
-title: Увімкнення аудиту поштової скриньки
+title: Увімкнення аудиту поштових скриньок
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: aa0ff925ae891d28e31394ec66eb17c2d9710008
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 797dd57aaa43e879c015a36c79c8c9fb13e04ae894b33b0f7c6d9694d1ae1960
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058059"
 ---
-# <a name="turn-on-mailbox-auditing"></a>Увімкнення аудиту поштової скриньки
+# <a name="turn-on-mailbox-auditing"></a>Увімкнення аудиту поштових скриньок
 
-Щоб увімкнути аудит поштової скриньки для одного користувача або всієї організації, запустіть наведені нижче командлети з віддаленого PowerShell:
+Щоб увімкнути аудит поштових скриньок для одного користувача або всієї організації, запустіть ці командлети з Remote PowerShell:
 
-- **Єдиний користувач**: Set-Mailbox-ідентичність "Джейн Dow" – AuditEnabled $True
-- **Організація**: Get-Mailbox-ResultSize Unlimited-Filter {Reseientype(дані)-еквалайзер "usermailbox"} | Set-Mailbox-AuditEnabled $true
+- **Окремий** користувач: Set-Mailbox ідентичності "Яна Доу" -AuditEnabled $true
+- **Організація:** Get-Mailbox -ResultSize Unlimited -Filter {RecipientTypeDetails -eq "UserMailbox"} | Set-Mailbox -AuditEnabled $true
 
-Докладні відомості наведено в статті [керування аудиторською поштовою скринькою](https://go.microsoft.com/fwlink/?linkid=2103668).
+Докладні відомості див. в [розділі Керування аудитом поштових скриньок.](https://go.microsoft.com/fwlink/?linkid=2103668)

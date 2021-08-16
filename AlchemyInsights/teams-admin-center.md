@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 29e54e0f8255b4ce84c433f2cc827aaedf35327626f0095788faef802763bc53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049365"
 ---
 # <a name="teams-admin-center"></a>Центр адміністрування Teams
 
@@ -32,5 +32,5 @@ ms.locfileid: "51826400"
 
 - Ви створювали користувачів або призначали ліцензії протягом останніх 24 годин? Перш ніж відкрити квиток підтримки, переконайтеся, що минуло принаймні 24 години.
 - Пересвідчіться, що ви призначили відповідні ліцензії.
-- Якщо у вас є локальна служба Active Directory, переконайтеся, що значення [msRTCSIP-PrimaryUserAddress або SIP-адреси в полі ProxyAddresses](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) у локальній службі Active Directory унікальне, а формат відповідає sip: ім'я користувача з Центру адміністрування Microsoft [365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
-- Якщо ви планували зберегти розгортання "Skype для бізнесу – сервер" і розгорнути їх у локальному середовищі та онлайн, виконайте вказівки "Налаштування гібридного розгортання з Teams і "Skype для бізнесу – онлайн" на Панелі керування "Skype для бізнесу – **сервер"** і перемістіть користувачів через Інтернет.
+- Якщо у вас є локальна служба Active Directory, переконайтеся, що значення [msRTCSIP-PrimaryUserAddress або SIP-адреси в полі ProxyAddresses](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) у локальній службі Active Directory унікальне, а формат відповідає sip: ім'я користувача з [Центр адміністрування Microsoft 365.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+- Якщо ви маєте намір зберегти розгортання Skype для бізнесу - сервер і розгорнути їх у локальному середовищі та в онлайні, на Панелі керування служби Skype для бізнесу - сервер перемістіть користувачів до служби Teams і **Skype для бізнесу Online,** а потім перемістіть користувачів в онлайновий режим.
