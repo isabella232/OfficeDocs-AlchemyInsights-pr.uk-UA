@@ -1,5 +1,5 @@
 ---
-title: Інсталяція сервера звітів Power BI
+title: Інсталяція Сервер звітів Power BI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01cc2efc2dacc2fdf0b7b7f036bc18e1c75fd515348b72d5c4dde96949a51a2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832115"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028601"
 ---
-# <a name="install-power-bi-report-server"></a>Інсталяція сервера звітів Power BI
+# <a name="install-power-bi-report-server"></a>Інсталяція Сервер звітів Power BI
 
 1. Знайдіть розташування PowerBIReportServer.exe та запустіть інсталятор.
 
-2. Натисніть **кнопку Інсталювати сервер звітів Power BI.**
+2. Натисніть **кнопку Інсталювати Сервер звітів Power BI**.
 
 3. Виберіть випуск, який потрібно інсталювати, а потім натисніть кнопку **Далі**.
 
@@ -35,6 +35,6 @@ ms.locfileid: "51832115"
 
 7. Після успішного настроювання натисніть кнопку **Настроїти сервер звітів,** щоб запустити диспетчер конфігурації служб звітування.
 
-Під час інсталяції не потрібен сервер об'єкта баз даних SQL Server. Після інсталяції вам знадобиться настроїти служби звітування.
+Вам не потрібен сервер SQL Server Database Engine, доступний під час інсталяції. Після інсталяції вам знадобиться настроїти служби звітування.
 
 Докладні відомості: https://docs.microsoft.com/power-bi/report-server/install-report-server
