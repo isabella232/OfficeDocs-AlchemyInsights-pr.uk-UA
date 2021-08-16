@@ -1,5 +1,5 @@
 ---
-title: Обчислення сховища SharePoint
+title: Обчислення SharePoint сховища
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421179"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046449"
 ---
-# <a name="calculate-sharepoint-storage"></a>Обчислення сховища SharePoint
+# <a name="calculate-sharepoint-storage"></a>Обчислення SharePoint сховища
 
-**Формула сховища:** 1 ТБ плюс 10 ГБ на ліцензію відповідного плану, придбаного разом з придбаним додатковим компонентом "Додатковий простір для **[Office 365".](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)
+**Формула сховища:** 1 ТБ плюс 10 ГБ на **[](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** ліцензію відповідного плану, придбаного Додатковий простір для Office 365 додаткового компонента. [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)
 
-Докладні відомості див. в [розділах Обмеження сховища SharePoint за планом.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+Докладні відомості див. [в SharePoint за планом.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)

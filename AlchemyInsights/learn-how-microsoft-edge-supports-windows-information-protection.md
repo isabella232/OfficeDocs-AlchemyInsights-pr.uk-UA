@@ -1,5 +1,5 @@
 ---
-title: Відомості про те, як Microsoft EDGE підтримує засоби захисту інформації Windows (WIP)
+title: Дізнайтеся, як Microsoft Edge підтримує захист Windows (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054354"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Відомості про те, як Microsoft EDGE підтримує засоби захисту інформації Windows (WIP)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>Дізнайтеся, як Microsoft Edge підтримує захист Windows (WIP)
 
-Оскільки кількість віддалених робочих працівників зростає, так само як і кількість особистих і робочих заходів, що відбуваються на корпоративних пристроях. Це, у свою чергу, збільшує ризик того, що корпоративні дані можуть отримати спільний доступ за межі робочого місця. Щоб пом'якшити цей ризик, Microsoft EDGE (версія 81 або пізніша) підтримує засоби захисту інформації Windows (WIP): функція Windows-10, яка допомагає захистити корпоративні дані від неавторизованого та випадкового розкриття інформації.
+Коли кількість віддалених працівників збільшується, тож кількість особистих і робочих дій відбувається на корпоративних пристроях. Це, у свою чергу, збільшує ризик того, що корпоративні дані можуть розголошуватись поза межами компанії. Щоб знизити цей ризик, Microsoft Edge (версія 81 або пізніша) підтримує захист даних Windows (WIP): функцію Windows-10, яка допомагає захистити корпоративні дані від несанкціонованого та випадкового розголошення.
