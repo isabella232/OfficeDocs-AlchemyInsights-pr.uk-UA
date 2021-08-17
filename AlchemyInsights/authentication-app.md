@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405685"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082963"
 ---
 # <a name="authentication-app"></a>Програма автентифікації
 
@@ -30,11 +30,11 @@ ms.locfileid: "51405685"
 
 **Перегляньте відповідний сценарій.**
 
-1. Якщо користувач не отримує push-сповіщення в програмі Microsoft Authenticator, переконайтеся, що їх не відображаються під заблокованими користувачами багатофаквартирної автентифікації, як описано в статті Блокування та розблокування [користувачів.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Якщо користувач не блокується для багатофазної автентифікації, але не отримує push-сповіщення, він може відкрити програму Microsoft Authenticator, яка тягне запити на затвердження, що очікують.
+1. Якщо користувач не отримує push-сповіщення в програмі Microsoft Authenticator, переконайтеся, що їх не відображаються під заблокованими користувачами багатофаквартирних програм, як описано в статті Блокування та [розблокування користувачів.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Якщо користувач не блокується для багатофагів, але не отримує push-сповіщення, він може відкрити програму Microsoft Authenticator, яка шахраї отримають запити на затвердження, що очікують.
 1. Як альтернативний спосіб входу користувач може також натиснути кнопку Увійти та вибрати код перевірки з мобільної програми.
-1. Microsoft Authenticator App – це єдиний доступний спосіб для багатьох користувачів. [Докладні відомості про стандартні параметри безпеки](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults), див. в статті Запитання й відповіді про програму [Authenticator,](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) які часто ставляться та як вирішити їх.
+1. Програма Microsoft Authenticator доступна лише для багатьох користувачів. [Дізнайтеся більше про стандартні параметри](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)безпеки , перегляньте [запитання Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) запитання й відповіді про програму та способи їх вирішення.
  
 **Рекомендовані відео**
 
-[Як налаштувати програму Authenticator на новому телефоні (2min)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).
+[Як настроїти програму Authenticator на новому телефоні (2 хвилини)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).

@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057879"
 ---
 # <a name="domain-service-synchronization"></a>Синхронізація служби доменів
 
-Об'єкти та облікові дані в керованих доменах служб домену Azure Active Directory (Azure AD DS) можна створювати локально в домені або синхронізуватися з клієнта Azure Active Directory (Azure AD). Коли ви вперше розгортаєте Azure AD DS, автоматичне односторонне синхронізації настроєно та розпочато для реплікації об'єктів із Лазурого AD. Ця односторонна синхронізація продовжує виконуватися у фоновому режимі, щоб зберегти в полі "Лазурний" домен з будь-якими змінами, які мають будь-які зміни від лазурових ОБ'ЯВ. Немає синхронізації з Azure AD DS назад до лазурових ОБ'ЯВ.
+Об'єкти й облікові дані в керованому домені служб доменів Azure Active Directory (Azure AD DS) можна створити локально в домені або синхронізувати з клієнта Azure Active Directory (Azure AD). Під час першого розгортання Azure AD DS настроюється автоматична односхвална синхронізація, щоб реплікувати об'єкти з Azure AD. Така односимвне синхронізація продовжуватиме виконуватися у фоновому режимі, щоб підтримувати в керованому домені Azure AD DS оновлення зі змінами, внесеними в Azure AD. Синхронізація з Azure AD DS не відбувається знову з Azure AD.
 
-Докладні відомості про синхронізацію служби domain Active Directory наведено в статті [синхронізація служби доменів](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+Докладні відомості про синхронізацію Azure Active Directory службі доменів див. в [розділі Синхронізація служби доменів.](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization) 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ccdcf5b175ffe5455cc5ab0bb4c7ef652fd6a3c9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868367"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320812"
 ---
 # <a name="information-about-teams-contacts"></a>Відомості про Teams контактів
 
@@ -29,8 +29,8 @@ Teams використовує такі контакти:
 
 Якщо контакти не завершено або їх не синхронізовано для одного або кількох користувачів, виконайте наведені нижче дії.
 
-- Переконайтеся, що поштову скриньку Exchange розміщено в Інтернеті (не локально). Докладні відомості див. [в статті Exchange та Microsoft Teams взаємодії.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
+- Переконайтеся, що поштову скриньку Exchange розміщено в Інтернеті (не локально). Докладні відомості див. [в Exchange та Microsoft Teams взаємодії.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
 - Переконайтеся, що номер телефону контакту додано до контактної інформації.
-- Знайдіть електронну пошту контакту в **рядку** пошуку. Контакти, які можна відновити, синхронізуються зі списком контактів.
+- Знайдіть електронну пошту контакту в **рядку** пошуку. Контакти, які можна синхронізувати зі списком контактів.
 
 

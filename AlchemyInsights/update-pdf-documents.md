@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007101"
 - "12066"
-ms.openlocfilehash: b0ef6d9e777fdcde3555f4197ce5791f1ad1050badb54b267129d2b1febe0e7c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7a6efa496e2489e765acf74e03f0486a2dd7b943fe0d933bd0eda4d50883aa2c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53990872"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891852"
 ---
 # <a name="update-pdf-documents"></a>Оновлення документів PDF
 
-Посібник із внесення змін у файл PDF, зокрема параметрів, змінних і винятків для виконання завдання, див. в [документі PDF.](/power-automate/desktop-flows/actions-reference/pdf)
+Посібник із внесення змін у файл PDF, зокрема параметрів, змінних і винятків для виконання завдання, див. у [файлі PDF.](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf)
 
 Докладні відомості див. в такому:
 
-- [Видобування зображення](/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
-- [Видобування тексту](/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
-- [Об'єднання PDF-файлів](/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
-- [Видобування сторінок для створення нового PDF-файлу](/power-automate/desktop-flows/actions-reference/pdf#extractpages)
+- [Видобування зображення](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#pdf-actions)
+- [Видобування тексту](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extracttextfrompdfaction)
+- [Об'єднання PDF-файлів](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#mergefiles)
+- [Видобування сторінок для створення нового PDF-файлу](https://docs.microsoft.com/power-automate/desktop-flows/actions-reference/pdf#extractpages)
