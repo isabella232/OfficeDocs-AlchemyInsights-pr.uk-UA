@@ -1,5 +1,5 @@
 ---
-title: 2609 – збереження або відкриття – утримання
+title: Утримання на збереження або в ediscovery-hold 2609
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074845"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Не вдається видалити елементи в службі SharePoint Online або OneDrive для бізнесу
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>Не вдається видалити елементи в SharePoint Online або OneDrive для бізнесу
 
-Ви або ваші користувачі не зможуть видаляти елементи в службі SharePoint Online або OneDrive для бізнесу, тому що політика збереження, підпис збереження або утримання eDiscovery застосовуються до SharePoint сайту OneDrive або до певного елемента. Це включає в себе не вдалося видалити документ, версію документа, папку, бібліотеку документів, список, програму, сайт або колекцію сайтів. 
+Можливо, вам або вашим користувачам не вдається видалити елементи в службі SharePoint Online або OneDrive для бізнесу, тому що до певного елемента застосовується політика збереження, підпис збереження або утримання витребування електронної SharePoint сайту OneDrive. Це стосується: не вдається видалити документ, версію документа, папку, бібліотеку документів, список, програму, сайт або колекцію сайтів. 
 
-Щоб видалити елементи в одному з цих сценаріїв, потрібно видалити політику збереження, мітку збереження або утримання електронної інформації (або сайт має бути виключено з політики збереження). Потрібно вимкнути або виключити відповідне утримання, що спричиняє цю проблему. Після видалення політики збереження або утримання може знадобитися до 24 годин, щоб зміни набрали сили. 
+Щоб видалити елементи в одному з цих сценаріїв, потрібно видалити політику збереження, підпис збереження або утримання витребування електронної пошти (або виключити сайт із політики збереження). Потрібно вимкнути або виключити відповідне утримання, яке може привести до виникнення цієї проблеми. Коли політику збереження або утримання буде видалено, зміни наберуть сили протягом 24 годин. 
 
-Щоб отримати відомості про різні функції збереження та утримання, які можна застосувати до сайтів SharePoint і облікових записів OneDrive, ознайомтеся з однією з наведених нижче розділів.
+Відомості про різні функції збереження та утримання, які можна застосовувати до сайтів SharePoint та облікових записів OneDrive див. в одній із наведених нижче розділів.
 
-- [Загальні відомості про політики збереження](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [Огляд міток збереження](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [Керування утриманнями в розширеному Витребування електронної інформації](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [Пошук у Витребування електронної інформації](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [Застарілі політики закриття та видалення сайтів](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [Огляд політик збереження](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [Огляд підписів збереження](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [Керування утриманням у Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [Утримання для витребування електронної даних](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [Політики закриття та видалення застарілих сайтів](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 986c78f20e7b8c303c302913d63d817a56ce2896
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2e7f898ac1a9e9469f633192be18e2a3a362023c83c9e510593196b5a4a0daf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51798570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074701"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Відновлення застарілих засобів витребування електронної даних
 
-У результаті нових і вдосконалених функцій витребування електронної даних у Центрі відповідності Microsoft 365 ми закриємо такі застарілі засоби й командлети для витребування електронної пошти в найближчі місяці:
+У результаті нових і вдосконалених функцій витребування електронної даних у Центрі відповідності Microsoft 365, у найближчі місяці буде вилучено такі застарілі засоби й командлети для витребування електронної пошти:
 
-- [Витребування електронної](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) пошти на місці та утримання на місці [в](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) Центрі адміністрування Exchange.
+- [Утримання на](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) місці витребування електронної Exchange на місці. [](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds)
 
 - Командлети Exchange Online PowerShell, які підтримують In-Place витребування In-Place витребування електронної In-Place даних. (Ці командлети спільно визначено як командлети *-MailboxSearch). До них відносяться такі командлети:
 
@@ -32,8 +32,8 @@ ms.locfileid: "51798570"
     - [Stop-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
     - [Set-MailboxSearch](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- Командлет [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) (Поштова скринька пошуку) в Exchange Online PowerShell.
-- У API веб-служб Exchange:
+- Командлет [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) (Поштова скринька пошуку Exchange Online PowerShell).
+- У наведених нижче операціях у Exchange API веб-служб:
     - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
     - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
@@ -47,7 +47,7 @@ ms.locfileid: "51798570"
 
 **Докладні відомості див. в такому:**
 
- - [Перенесення застарілих пошукових запитів витребування електронної даних у Центрі відповідності Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Перенесення застарілих пошукових запитів витребування електронної Центр відповідності Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
  - [Відновлення застарілих засобів витребування електронної даних](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
  - [Запитання й відповіді про утримання In-Place витребування In-Place електронної інформації](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 

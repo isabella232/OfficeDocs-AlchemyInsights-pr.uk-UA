@@ -1,5 +1,5 @@
 ---
-title: 9001220 mdatp Advanced полювання спільні запити
+title: 9001220 розширеного пошуку спільних запитів за допомогою функції mdatp
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48300036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042147"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>Надання спільного доступу до розширених запитів на полювання
+# <a name="sharing-advanced-hunting-queries"></a>Надання спільного доступу до розширених запитів пошуку
 
-Розширені запити на полювання можуть бути розділені між користувачами в тій самій організації. Ви також можете шукати запити, які поділилися публічно на GitHub. Ці запити дають змогу швидко проводити певні сценарії мисливської загрози без запису запитів із нуля.
+Користувачам в одній організації можна спільно використовувати розширені пошукові запити. Ви також можете знайти загальнодоступні запити, до яких надано спільний GitHub. Ці запити дають змогу швидко переслідувати певні сценарії пошуку загроз, не пишучи запити з нуля.
   
-Докладні відомості наведено [в статті використання спільних запитів у розширеному полюванні](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+Докладні відомості див. в [розділі Використання спільних запитів у розширеному пошуку.](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries)

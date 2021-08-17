@@ -1,5 +1,5 @@
 ---
-title: Виставлення рахунків для придбання зарезервованого екземпляра
+title: Виставлення рахунків за придбання зарезервованих екземплярів
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,49 +12,49 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820343"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104041"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Виставлення рахунків для придбання зарезервованого екземпляра
+# <a name="billing-for-reserved-instance-purchase"></a>Виставлення рахунків за придбання зарезервованих екземплярів
 
-Плату за зарезервований екземпляр стягується з методу оплати, прив'язаної до вибраної передплати під час придбання. Тип передплати має бути укладено за корпоративною угодою (номер пропозиції: MS-AZR-0017P), Pay-As-You-Go (номер пропозиції: MS-AZR-0003P), клієнтська угода з корпорацією Майкрософт або постачальник послуг CSP.
+Кошти за придбані зарезервовані екземпляри стягуються в порядку, передбаченому передплатою, яку ви виберете під час купівлі. Необхідна оформити одну з таких підписок: договір “Enterprise Agreement” (пропозиція номер MS-AZR-0017P), пропозиція з похвилинною оплатою (номер MS-AZR-0003P), клієнтська угода або договір з постачальником хмарних рішень Microsoft.
 
-- У розмірі передплати для підприємств витрати знімаються з балансу грошового зобов'язання або сплачуються у вигляді понаднормових
-- У разі передплати на Pay-As-You-Go рахунки стягуються з кредитної картки або способу оплати за рахунком-фактурою за передплатою.
+- За наявності корпоративної передплати вартість резервування списується з балансу фінансового зобов’язання, оформленого під час реєстрації, або сплачується згідно рахунка-фактури.
+- За наявності похвилинної передплати вартість резервування оплачується кредитною карткою або згідно рахунка-фактури відповідно до умов підписки.
 
 **Скасування резервування**
 
 - **Самообслуговування:** Зарезервований екземпляр можна скасувати або обміняти самостійно [на порталі Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Виберіть резервування та натисніть кнопку "Відшкодування" або "Обмін". Зверніть увагу, що для обміну або відшкодування потрібно мати доступ власника до замовлення на резервування. Доступ лише до резервування не дозволяє продовжити відшкодування або обмін. Попросіть власника замовлення на резервування надати вам доступ до замовлення на резервування
-- **Політика Exchange:** Ви можете обміняти резервування для іншого резервування того самого типу – при цьому немає жодних копій **на** обмін резервування. Загальне зобов'язання з новим резервуванням має бути більшим, ніж сума відшкодування коштів за обмін валюти та майбутні щомісячні платежі (якщо застосовно)
+- **Exchange політики:** Ви можете обміняти резервування для іншого резервування того самого типу – при цьому немає жодних копій **на** обмін резервування. Загальне зобов'язання з новим резервуванням має бути більшим, ніж сума відшкодування коштів за обмін валюти та майбутні щомісячні платежі (якщо застосовно)
 - **Політика відшкодування:** Сума відшкодування та скасовані майбутні платежі не можуть перевищувати 50 000 доларів США у 12-місячному вікні rolling window. **Наразі ми не стягуємо** пенсію під час відшкодування, але можемо стягувати її з майбутніх відшкодування.
 
-**Винятки.** Можливість самостійного обміну та скасування передплати недоступна для клієнтів, укладених за договором "Us Government Enterprise Agreement"
+**Винятки.** Можливість самостійного обміну та скасування передплати недоступна для клієнтів, які договір "Enterprise Agreement" США.
 
 - **Підтримка API, PS та CLI** недоступна для скасування та відшкодування самостійних обмінів і відшкодування для резервування [Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Можливість самостійного обміну та скасування послуг недоступна для клієнтів, укладених за договором "Us Government Enterprise Agreement". Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP.
+- Можливість самостійного обміну та скасування цієї служби недоступна для клієнтів, які договір "Enterprise Agreement" США. Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP.
 
-Докладні відомості: [Як обробляються транзакції](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) повернення та обміну Learn more [(Політики](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) обміну та відшкодування) Інші запитання: Відвідання [зарезервованих екземплярів docs](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Докладні відомості: Як обробляються [транзакції](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) повернення та обміну Докладні відомості : [політики Exchange](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) та відшкодування Інші запитання: Відвідати зарезервовані екземпляри для [docs](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Exchange наявний зарезервований екземпляр (Self-service)**
+**Exchange наявного зарезервованого екземпляра (Self-service)**
 
-Ви можете обмінюватися резервуваннями одного й того самого типу. Ви також можете відшкодувати резервування за рік до 50 000 доларів США, якщо воно більше не потрібне. Можливість самостійного обміну та скасування послуг недоступна для клієнтів, укладених за договором "Us Government Enterprise Agreement". Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP. Щоб обмінятись або відшкодувати наявне резервування, потрібно мати доступ до замовлення власника.
+Ви можете обмінюватися резервуваннями одного й того самого типу. Ви також можете відшкодувати резервування за рік до 50 000 доларів США, якщо воно більше не потрібне. Можливість самостійного обміну та скасування цієї служби недоступна для клієнтів, які договір "Enterprise Agreement" США. Підтримуються інші типи передплат для державних установ США, зокрема Pay-As-You-Go і CSP. Щоб обмінятись або відшкодувати наявне резервування, потрібно мати доступ до замовлення власника.
 
 Нижче описано процедуру завершення транзакції.
 
-1.Увійдіть [на портал Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Виберіть резервування, які потрібно відшкодувати, і натисніть **кнопку Exchange** 2.Виберіть продукт віртуальної реальності, який потрібно придбати, і введіть кількість. Переконайтеся, що нова сума покупки більша за суму, що [повертається, Визначте потрібний розмір перед придбанням](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
+1.Увійдіть [на портал Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Виберіть резервування, які потрібно відшкодувати, і **клацніть Exchange** 2.Виберіть продукт віртуальної реальності, який потрібно придбати, і введіть кількість. Переконайтеся, що нова сума покупки більша за суму, що [повертається, Визначте потрібний розмір перед придбанням](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy).
 3.Перегляньте та завершіть транзакцію
 
 **Відшкодування зарезервований екземпляр**
 
 Щоб відшкодувати резервування, перейдіть до пункту **"Відомості** про резервування" та натисніть **"Відшкодування"**
 
-**Пропорціонне відшкодування:**
+**Pro відшкодування:**
 
-**Приклади пропорційного та мінімального вимог щодо відшкодування та обміну** Приклад резервування на передньому плані:
+**Pro із раціональною та мінімальною** вимогою для відшкодування та обміну Приклад резервування на передньому плані:
 
 - Придбано річний період RI за 120 дол. США з 1 січня
 - 7 квітня ви хочете відшкодувати або обміняти це резервування
@@ -80,13 +80,13 @@ ms.locfileid: "51820343"
 - Ще не створено рахунок-фактуру. Дочекайтеся завершення розрахункового періоду
 - Якщо ви не адміністратор облікового запису, старі рахунки-фактури можуть бути недоступні для вас
 
-**Завантаження рахунка-фактури з порталу Azure (PDF)**
+**Завантаження рахунка-фактури з порталу Azure (.pdf)**
 
 - Виберіть передплату на сторінці ["Передплати"](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) на порталі Azure як [користувача з доступом до рахунків-фактур](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Виберіть **Рахунки-фактури**
-- Натисніть **кнопку Завантажити рахунок-фактуру,** щоб переглянути копію рахунка-фактури у форматі PDF. Якщо відображається повідомлення **Недоступно,** див. номери Чому не відображається рахунок-фактура за останній [розрахунковий період?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Натисніть кнопку **Завантажити рахунок-фактуру**, щоб переглянути копію рахунка-фактури у форматі PDF. Якщо з’явилося повідомлення **Недоступно**, дізнайтеся, чому ви не бачите рахунок-фактуру за останній розрахунковий період, переглянувши [цю статтю](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
 
-**Отримання рахунка-фактури електронною поштою (PDF)**
+**Отримання рахунка-фактури електронною поштою (.pdf)**
 
 - Виберіть передплату на [сторінці Передплати.](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Виберіть пункт **"Рахунки-фактури",** а потім "Надіслати рахунок електронною поштою"
 - Натисніть **кнопку "Погодитися"** та прийміть умови. Вам доведеться погодитися на кожну передплату, якою ви володієте
@@ -111,5 +111,5 @@ ms.locfileid: "51820343"
 - [Відомості про застосування знижки зарезервованого екземпляра](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Розуміння використання зарезервованого екземпляра для передплати на Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Загальні відомості про використання зарезервованого екземпляра для вашої організації](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Витрати на програмне забезпечення Windows не включено до зарезервованих екземплярів](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Зарезервовані екземпляри в програмі Центрального постачальника хмарних рішень для партнерів](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows програмне забезпечення не включено в зарезервовані екземпляри](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Зарезервовані екземпляри в програмі Центру Постачальник хмарних рішень партнерів (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
