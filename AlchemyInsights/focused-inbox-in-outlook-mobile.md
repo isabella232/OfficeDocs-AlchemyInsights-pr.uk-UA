@@ -1,5 +1,5 @@
 ---
-title: 1800019 "важливі Вхідні" в Outlook Mobile
+title: 1800019 "Вхідні" в програмі Outlook мобільному пристрої
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744450"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117073"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>Важливі вхідні для Outlook Mobile
+# <a name="focused-inbox-for-outlook-mobile"></a>"Активні вхідні" для Outlook мобільних пристроїв
 
-[Що таке "важливі Вхідні"?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[Що таке "Орієнтовані вхідні"?](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[Як змінити правила, які рухаєте повідомлення електронної пошти в папці "важливі Вхідні"?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[Як відредагувати правила переміщення електронної пошти до папки "Вхідні" та "З неї"?](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[Вимкнення функції "важливі Вхідні" або змінення кількості і сповіщень, які можна синхронізувати зі зміннутою папкою "важливі Вхідні"?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[Як вимкнути функцію "Активні вхідні" або змінити синхронізацію кількості емб і сповіщень із нею?](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[Вимкнення функції "важливі Вхідні" або змінення сповіщень, які синхронізуються з папкою "важливі Вхідні"?](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[Як вимкнути функцію "Активні вхідні" або змінити синхронізацію сповіщень із нею.](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[Як переключатися між зосередженими та іншими?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[Як переключатися між режимами "Активні" та "Інші"?](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-Докладні відомості: [отримання довідки в програмі Outlook для IOS і Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+Докладні відомості: [Отримання довідки в програмі Outlook для iOS і Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501837"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892216"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Додавання або вилучення ліцензій для передплати
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501837"
 4. Щоб придбати або вилучити  ліцензії, у полі  Усього ліцензій у розділі Нова кількість введіть загальну кількість ліцензій, потрібну для цієї передплати. Наприклад, якщо у вас 100 ліцензій і потрібно додати 25, введіть 125. Щоб вилучити 25 ліцензій, введіть 75.
 5. Натисніть **кнопку Зберегти**.
 
-Відомості про те, як призначати ліцензії, див. [в статті Призначення ліцензій для користувачів.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Відомості про те, як призначати ліцензії, див. [в статті Призначення ліцензій для користувачів.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Ресурси**
   
-- [Придбання або вилучення ліцензій](/microsoft-365/commerce/licenses/buy-licenses)
-- [Скасування передплати Microsoft 365 для бізнесу](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Спробуйте або придбайте передплату Microsoft 365 для бізнесу](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Придбання або вилучення ліцензій](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Скасування передплати Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Спробуйте або придбайте передплату Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

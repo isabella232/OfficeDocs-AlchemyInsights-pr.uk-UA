@@ -1,5 +1,5 @@
 ---
-title: Список автозаповнення зсуває екран на робочому Outlook столі
+title: Список автозаповнення зникає з екрана на екрані Outlook робочому столі
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "11171"
-ms.openlocfilehash: df1903ce53295cc2845f8648615f39f3aaaf19f90b6833da83b27ba836e44d4e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f07430134bb3c2b28b940c9a8f746cc53702bf64ffa2e7414bb74861239b914f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979766"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894088"
 ---
-# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Список автозаповнення зсуває екран на робочому Outlook столі
+# <a name="autocomplete-list-scrolls-off-the-screen-in-outlook-desktop"></a>Список автозаповнення зникає з екрана на екрані Outlook робочому столі
 
-Цю проблему вирішено у версії 2104 збірки 13929.20386. Очікується, що оновлення з фіксованою збіркою буде випущено на поточний тиждень у каналі оновлення 17 травня. 
+Цю проблему вирішено у версії 2104 збірки 13929.20386. Оновлення з фіксованою збіркою очікується в щопівроку цього каналу оновлення в 17 травня. 
 
-Щоб дізнатися, коли з'явиться фіксована збірка, див. Програми Microsoft 365 Журнал оновлень [для Програми Microsoft 365 (зазначено за датою).](/officeupdates/update-history-microsoft365-apps-by-date)
+Щоб дізнатися, коли з'явиться фіксована збірка, див. Програми Microsoft 365 Журнал оновлень [для Програми Microsoft 365 (зазначено за датою).](https://docs.microsoft.com/officeupdates/update-history-microsoft365-apps-by-date)

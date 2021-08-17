@@ -1,5 +1,5 @@
 ---
-title: Використання веб-сайту Wix із придбаними або керованими доменами Microsoft
+title: Використання веб-сайту Wix із придбаними доменами Microsoft або керованими доменами
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083755"
 ---
-# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Використання веб-сайту Wix із придбаними або керованими доменами Microsoft
+# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Використання веб-сайту Wix із придбаними доменами Microsoft або керованими доменами
 
-Щоб отримати відомості про те, як використовувати веб-сайт Wix із придбаним або керованим доменом Microsoft, перегляньте статтю [Оновлення записів DNS, щоб зберегти веб-сайт за допомогою поточного постачальника послуг розміщення](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+Відомості про те, як використовувати веб-сайт Wix із придбаним доменом Microsoft або керованим доменом, див. в статті Оновлення записів DNS для збереження веб-сайту в поточного [постачальника послуг розміщення.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
 
-Докладні відомості наведено в статті: 
+Докладні відомості див. в такому: 
 
-- Ця стаття "підключення домену до Wix за допомогою методу наведення" рекомендує додавати записи DNS, як зазначено в посиланні вище, а не змінювати сервери імен під час використання Microsoft 365.
+- Стаття Wix "Підключення домену до Wix за допомогою вказівного методу" рекомендує додавати записи DNS, як зазначено в посиланні вище, а не змінювати DNS-сервери під час Microsoft 365.
 
-- Якщо ви вирішите змінити сервери імен на веб-сайт WTX, потрібно створити записи DNS на веб-сайті Wix для корпорації Майкрософт. Докладні відомості наведено в статті [створення записів DNS на сайті Wix для корпорації Майкрософт](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
+- Якщо ви вирішили змінити DNS-сервери на Wix, потрібно створити записи DNS на сайті Wix для Microsoft. Докладні відомості див. в [статті Створення записів DNS для корпорації Майкрософт на веб-сайті Wix.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix)
 
-- Якщо ваш домен придбано з корпорації Майкрософт, то не можна змінити сервери імен. Якщо потрібно змінити сервери імен, домен, придбаний корпорацією Майкрософт, потрібно перенести на інший хостинг-провайдер після 60 днів. Докладні відомості наведено в статті [передавання домену від корпорації Майкрософт до іншого хоста](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+- Якщо домен придбано в корпорації Майкрософт, змінити DNS-сервери не можна. Якщо потрібно змінити сервери імен, придбаний домен Microsoft потрібно перенести до іншого постачальника послуг розміщення через 60 днів. Докладні відомості див. в [статті Перенесення домену з корпорації Майкрософт до іншого хоста.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
