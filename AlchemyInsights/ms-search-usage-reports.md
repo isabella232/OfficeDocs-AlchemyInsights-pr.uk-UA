@@ -1,5 +1,5 @@
 ---
-title: Початок роботи зі звітами про використання пошуку Microsoft
+title: Початок використання Пошук Microsoft звітів про використання
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077311"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Початок роботи зі звітами про використання пошуку Microsoft
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Початок використання Пошук Microsoft звітів про використання
 
-Звіти про використання пошуку Microsoft надають аналосію того, як працює пошук в організації. Ці висвітлення допоможуть знайти вміст і зробити пошук кориснішим і чудовим досвідом для користувачів в організації.
+Пошук Microsoft звіти про використання дають інформацію про те, як працює пошук в організації. Ці висвітлення допоможуть знайти вміст і зробити пошук кориснішим і чудовим досвідом для користувачів в організації.
 
-Докладні відомості див. в статті [Звіти про використання пошуку Microsoft.](https://go.microsoft.com/fwlink/?linkid=2152048)
+Докладні відомості див. в [Пошук Microsoft звітах про використання](https://go.microsoft.com/fwlink/?linkid=2152048).

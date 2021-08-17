@@ -1,5 +1,5 @@
 ---
-title: 1490 – усунення несправностей – eDiscovery – помилки
+title: 1490-troubleshooting-eDiscovery-failures
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277843"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105589"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Виправлення помилок пошуку вмісту
 
-Під час експорту результатів пошуку виникають проблеми з пошуком вмісту або їх збої?
+Виникли проблеми з пошуком вмісту або отриманням помилок під час експорту результатів пошуку?
 
-Наприклад, під час запуску пошуків відображається таке:
+Наприклад, коли виконується пошук, ви отримуєте таке повідомлення?
 
 - Помилки CS008 або CS012
 
-- Помилки на сервері/тайм-аут
+- Помилки зайнятості та часу очікування сервера
 
 - Сталася помилка програми
 
-Або під час пошуку або експортування результатів із великої кількості поштових скриньок (понад 100 000 поштових скриньок) ви одержуєте помилки експорту?
+Або під час пошуку або експорту результатів із великої кількості поштових скриньок (понад 100 000 поштових скриньок) ви отримуєте помилки експорту?
 
-Для цих типів помилок повторіть пошук розташувань вмісту, які не вдалося виконати. Перегляньте  [цю статтю](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) , щоб отримати докладніші відомості.
+Для таких типів помилок повторіть пошук розташень вмісту, які не вдалося знайти. Докладні  [відомості див.](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) в цій статті.
 
-Якщо ви експортуєте понад 100K поштові скриньки, вам доведеться використовувати наведені нижче PowerShell, щоб завантажити результати експорту:  [Експорт результатів із понад 100K поштових скриньок](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Якщо ви експортуєте понад 100K поштових скриньок, завантажте результати експорту за допомогою наведеної нижче оболонки PowerShell: експорт результатів із понад [100K-поштових скриньок.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
