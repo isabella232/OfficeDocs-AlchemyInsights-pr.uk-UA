@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9007063"
 - "11926"
-ms.openlocfilehash: 12bd9e75a8623fd0c0f93b803c3d78d26acf131f831e8032651461fe80914c57
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3db3546bdcbb9737cbdff187b618c51e971035d395ca5cae8195bbc0e360b313
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53914060"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889991"
 ---
 # <a name="deploy-sharepoint-in-microsoft-365"></a>Розгортання SharePoint в Microsoft 365
 
-Щоб оцінити SharePoint, які допоможуть у розгортанні, див. номери Загальні відомості про SharePoint [в Microsoft 365.](/sharepoint/introduction) 
+Щоб оцінити SharePoint, які допоможуть у розгортанні, див. розділ Загальні відомості про [SharePoint в Microsoft 365.](https://docs.microsoft.com/sharepoint/introduction) 
 
 Додаткові ресурси: 
 
-- Щоб дізнатися про служби приєднування до FastTrack і SharePoint або знайти перевіреного партнера, ознайомтеся зі стилями партнерів SharePoint [або](/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support)відвідайте спільноту [SharePoint.](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint) 
-- Докладні відомості про переміщення вмісту й знань і програм для співпраці в організації на SharePoint див. в статті Загальні [відомості про SharePoint в Microsoft 365](/sharepoint/introduction#migration). 
-- Докладні відомості про можливості співпраці, створення сучасної інтрамережі та навчальні матеріали для користувачів див. в цій SharePoint [Microsoft 365.](/sharepoint/introduction#collaboration) 
-- Відомості про додавання програм або ліцензій на програми див. в розділі Керування ліцензіями програм для [SharePoint середовища.](/sharepoint/manage-app-licenses) 
+- Щоб дізнатися про FastTrack про служби FastTrack адаптивного зв'язку або [](https://docs.microsoft.com/microsoft-365/sharepoint/sharepoint-partners-sharepoint-support)знайти перевіреного SharePoint партнера, див. знайдіть список зв'SharePoint або відвідайте спільноту [SharePoint.](https://techcommunity.microsoft.com/t5/sharepoint/ct-p/SharePoint) 
+- Докладні відомості про переміщення вмісту та знань і програм для співпраці в організації на SharePoint див. в статті Загальні відомості [SharePoint програмі Microsoft 365.](https://docs.microsoft.com/sharepoint/introduction#migration) 
+- Докладні відомості про можливості співпраці, створення сучасної інтрамережі та навчальні матеріали для користувачів див. в цій SharePoint [Microsoft 365.](https://docs.microsoft.com/sharepoint/introduction#collaboration) 
+- Відомості про додавання програм або ліцензій на програми див. в розділі Керування ліцензіями програм для [SharePoint середовищі.](https://docs.microsoft.com/sharepoint/manage-app-licenses) 
 
 

@@ -1,5 +1,5 @@
 ---
-title: Загальні відомості про надбудови Outlook
+title: Загальні Outlook про надбудови
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679972"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116965"
 ---
-# <a name="general-outlook-add-ins-information"></a>Загальні відомості про надбудови Outlook
+# <a name="general-outlook-add-ins-information"></a>Загальні Outlook про надбудови
 
-Перейдіть на цей веб-сайт, щоб отримати всі ресурси документації, що стосуються [створення надбудов Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+Відвідайте цей веб-сайт, щоб отримати ресурси з документації, [що стосуються Outlook надбудов.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-Додаткові ресурси щодо керування, розгортання та ввімкнення надбудов наведено в статті:
+Додаткові ресурси, які стосуються керування, розгортання та ввімкнення надбудов, див. в таких службах:
 
-- [Визначає, чи централізоване розгортання надбудов для вашої організації](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- [Визначте, чи працює централізоване](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)розгортання надбудов для вашої організації.
 - [Налаштування розгортання надбудов у Центрі адміністрування Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [Визначення адміністраторів і користувачів, які можуть інсталювати надбудови для Outlook і керувати ними](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [Зазначте адміністраторів і користувачів, які можуть інсталювати надбудови та керувати ними для Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

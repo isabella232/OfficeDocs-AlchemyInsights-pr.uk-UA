@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7796"
-ms.openlocfilehash: 39b9af46689bc333b7f590b589a13222d425b497
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: c3d3eeb09b21b09e94ffb8468714f0c7e150468dc9bffe4cd7745fb5d7237908
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093069"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110305"
 ---
 # <a name="resolve-problems-when-configuring-the-app-proxy"></a>Вирішення проблем під час настроювання проксі-сервера програми
 
-1. Якщо ви або користувач **може завантажити програму, але щось на сторінці буде розірваний**, наведені нижче статті допоможуть вирішити проблему.
-    - [Проблеми з проксі-застосунком програми налагодження](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)
-    - [Сторінка застосунку не відображається належним чином](https://docs.microsoft.com/azure/active-directory/application-proxy-page-appearance-broken-problem)
-    - [Програма займає забагато часу для завантаження](https://docs.microsoft.com/azure/active-directory/application-proxy-page-load-speed-problem)
+1. Якщо ви або користувач можете завантажити **програму,** але яка-небудь на сторінці виглядає недійсно, проблему можна вирішити за допомогою наведених нижче статей.
+    - [Проблеми з проксі-сервером програми налагодження](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)
+    - [Сторінка застосунку відображається неправильно](https://docs.microsoft.com/azure/active-directory/application-proxy-page-appearance-broken-problem)
+    - [Завантаження програми займає надто довго](https://docs.microsoft.com/azure/active-directory/application-proxy-page-load-speed-problem)
     - [Посилання на сторінці програми не працюють](https://docs.microsoft.com/azure/active-directory/application-proxy-page-links-broken-problem)
-2. Якщо у вас виникли **проблеми з підключенням до програми**, наведені нижче статті можуть допомогти вирішити проблему.
-    - [Проблеми з сполучною програмою налагодження проксі-сервера](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
-    - [Я зіткнувся з проблемою, тому що не було робочої сполучної лінії в групі "сполучна лінія" для моєї програми](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector)
-3. Якщо у вас виникли **проблеми з настроюванням проксі-сервера програми Azure AD на порталі адміністрування**, наведені нижче статті можуть допомогти вирішити проблему.
-    - [Утруднення з настроюванням програми проксі-сервера застосунку](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
-    - [Настроювання компонента "єдиний вхід у програму" для проксі-застосунку програми](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
+2. Якщо виникла проблема **з підключенням до** програми, проблему можна вирішити за допомогою наведених нижче статей.
+    - [Проблеми з з'єднатором проксі-сервера для програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
+    - [Сталася помилка через відсутність з'єднуваючої мережі в групі з'єднаторів для програми](https://docs.microsoft.com/azure/active-directory/application-proxy-connectivity-no-working-connector)
+3. Якщо під час налаштування проксі-сервера програми **Azure AD** на порталі адміністрування виникли проблеми, наведені нижче статті можуть допомогти вирішити вашу проблему.
+    - [Виникли труднощі з налаштуванням проксі-застосунку](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to)
+    - [Настроювання єдиного входу в програму проксі-сервера програми](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)
     - [Створення програми на порталі адміністрування](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem)
-4. Якщо у вас виникли **проблеми з настроюванням автентифікації на основі резервної** копії, наведені нижче статті можуть допомогти вирішити проблему.
-    - [Я не знаю, як настроїти делегування з обмеженнями Kerberos](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to)
-    - [Я не знаю, як настроїти програму в програмі PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to)
-5. Якщо **під час входу в програму** ви або користувач виникли проблеми, ці статті можуть допомогти вирішити проблему: [я отримую повідомлення про помилку "не вдалося отримати доступ до цієї корпоративної програми"](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error).
-6. Якщо у вас **виникла проблема з роз'ємом проксі-сервера застосунку**, наведені нижче статті можуть допомогти вирішити проблему.
-    - [Проблеми з сполучною програмою налагодження проксі-сервера](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
-    - [У мене виникли проблеми з інсталяцією з'єднувача агента проксі-сервера застосунків](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem)
+4. Якщо не вдається **налаштувати** серверну автентифікацію в програмі, наведені нижче статті можуть допомогти вирішити вашу проблему.
+    - [Я не знаю, як настроїти делегування Kerberos Constrained Delegation](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+    - [Я не знаю, як налаштувати програму за допомогою PingAccess](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to)
+5. Якщо у вас або користувача виникають проблеми під час входу в **програму,** проблему можна вирішити за допомогою наведених нижче статей. З'являється повідомлення про помилку "Не вдалося отримати доступ до корпоративної [програми".](https://docs.microsoft.com/azure/active-directory/application-proxy-sign-in-bad-gateway-timeout-error)
+6. Якщо у вас виникнуть **проблеми з з'єднувачом** агента проксі-сервера програми, проблему можна вирішити за допомогою наведених нижче статей.
+    - [Проблеми з з'єднатором проксі-сервера для програми](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)
+    - [Виникли проблеми з інсталяцією з'єднувача проксі-сервера програми](https://docs.microsoft.com/azure/active-directory/application-proxy-connector-installation-problem)
