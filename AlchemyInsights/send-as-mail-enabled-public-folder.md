@@ -1,5 +1,5 @@
 ---
-title: Спільна папка "Надіслати як пошта" в програмі EXO
+title: Спільна папка з підтримкою пошти в EXO
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1956"
 - "3500007"
-ms.openlocfilehash: ed62c6d7db0ae532f806ce4fdc48f42623bcd545
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 22aa3e8f46c2ff4f62cb520b9498041dffb9d3a3eb607d788cc97b10bf32dbb5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48462077"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052587"
 ---
-# <a name="sendas-mail-enabled-public-folder"></a>Спільна папка "пошта" з підтримкою SendAs
+# <a name="sendas-mail-enabled-public-folder"></a>Спільна папка SendAs Mail Enabled
 
-У наведеному нижче прикладі призначається дозвіл "Надіслати як" для спільної папки "пошта" NewPF1 для користувача Jason.
+У наведеному нижче прикладі призначено дозволи "Надіслати як" для спільної поштової папки NewPF1 користувачу Jason.
 
-Add-RecipientPermission-Identity ' NewPF1 '-довірена особа "Джейсон"-Accepправами "SendAs"
+Add-RecipientPermission -Identity 'NewPF1' -Trustee "Jason" -AccessRights 'SendAs'
 
-Докладні відомості про синтаксис і параметри наведено в статті [призначення дозволів "Надіслати як" або "Надіслати від імені" для спільних папок із підтримкою пошти](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs).
+Докладні відомості про синтаксис і параметри див. в розділі Призначення дозволів "Надіслати як" або "Надіслати від імені" для спільних [поштових папок.](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/assign-permissions-mail-enabled-pfs)
 

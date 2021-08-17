@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5ea0f3dd2c1e21455b4750afbf9c43c931ad34bf357e94dd604ffe5bcdd2fa64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080371"
 ---
 # <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Створення зв'язку організації для надання користувачам дозволу на співпрацю з іншою організацією
 
-1. З приладної дошки Центру адміністрування Microsoft 365 перейдіть до **Exchange**  >  **адміністратора.**
+1. На прилад Центр адміністрування Microsoft 365 перейдіть до меню Адміністратор  >  **Exchange**.
 2. Перейдіть до **спільного доступу**  >  **до організації.**
 3. У розділі **Спільний доступ до** організації натисніть кнопку **Створити** .
 4. У **новому зв'язку організації** в полі **Ім'я зв'язку** введіть зрозуміле ім'я для зв'язку організації.
-5. У полі **Домени** для надання спільного доступу введіть домен для зовнішньої служби Office 365 або локальної організації Exchange, у якій потрібно переглядати календарі. Якщо потрібно ввести кілька доменів, відокремте їх комами. Наприклад, contoso.com, service.contoso.com.
+5. У полі **Domains to share with** (Домени, до яких потрібно надати спільний доступ) введіть домен для зовнішнього Office 365 або Exchange локальної організації, якій потрібно дозволити переглядати календарі. Якщо потрібно ввести кілька доменів, відокремте їх комами. Наприклад, contoso.com, service.contoso.com.
 6. Щоб увімкнути **спільний доступ** до календаря для перелічених доменів, установіть прапорець Дозволити спільний доступ до відомостей про зайнятість у календарі. Настройте рівень спільного доступу для відомостей календаря про зайнятість і вказуйте, які користувачі можуть надавати спільний доступ до відомостей про зайнятість у календарі.  
 
 Щоб установити рівень доступу "Зайнятість", виберіть один із таких варіантів:
@@ -46,6 +46,6 @@ ms.locfileid: "51816149"
 
 **Щоб мати повне розуміння цієї теми, див.:**
 
-- [Створення зв'язку організації в Службі Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Змінення зв'язку організації в службі Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Видалення зв'язку організації в Службі Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Створення зв'язку організації в Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Змінення зв'язку організації у Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Видалення зв'язку організації у Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
