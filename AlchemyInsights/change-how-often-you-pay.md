@@ -17,12 +17,12 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: 9b819fdb9ec80f6bbe9e329280de239a0517038c52ab157867f3065505acca90
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 888bac8b4ff8cf5c0ad7616cf4e87c0003e922ae89f9faf7872b94aba76f7027
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503817"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891588"
 ---
 # <a name="change-how-often-you-pay"></a>Змінення частоти оплати
 
@@ -30,10 +30,10 @@ ms.locfileid: "54503817"
 
 1. Перейдіть на сторінку **Виставлення**  >  [рахунків для ваших](https://go.microsoft.com/fwlink/p/?linkid=842054) продуктів.
 2. На **вкладці** Продукти виберіть передплату, яку потрібно змінити.
-3. На сторінці відомостей про передплату в розділі **Настройки передплати та оплати** виберіть змінити **частоту виставлення рахунків.**
+3. На сторінці відомостей про передплату в розділі **Настройки передплати та оплати** виберіть змінити частоту **виставлення рахунків.**
 4. В області **Змінення частоти виставлення рахунків** виберіть потрібний періодичність виставлення рахунків і натисніть кнопку **Змінити**.
 
 > [!NOTE]
 > Щомісячне або щорічне виставлення рахунків – це єдині варіанти.
 
-Докладні відомості див. в статті [Змінення частоти виставлення рахунків](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+Докладні відомості див. в статті [Змінення частоти виставлення рахунків](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).

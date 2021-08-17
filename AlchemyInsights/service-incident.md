@@ -1,5 +1,5 @@
 ---
-title: Виникаючі проблеми
+title: Виникне проблема
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34ed86c3044a0b73bc2cc94a7032b8f2c99dd643a497eadfdf3b26172c1200df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797713"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108973"
 ---
-# <a name="emerging-issue"></a>Виникаючі проблеми
+# <a name="emerging-issue"></a>Виникне проблема
 
-Деякі клієнти скаржилися на таку проблему, як і про те, що ви повідомляєте. Ми шукаємо цю проблему.
+Кілька клієнтів скаржились на проблему, схожу на те, що ви повідомляєте. Ми доглядаємо за цією проблемою.
 
-Перевірте [приладну дошку справності служби](https://admin.microsoft.com/adminportal/home#/servicehealth) , щоб залишатися в курсі подій, які впливають на випадки використання служби.
+Перегляньте [приладну дошку справності служб,](https://admin.microsoft.com/adminportal/home#/servicehealth) щоб постійно оновлювати служби, які впливають на інциденти.
