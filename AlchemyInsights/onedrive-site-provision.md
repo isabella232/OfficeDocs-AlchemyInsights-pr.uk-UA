@@ -1,5 +1,5 @@
 ---
-title: Підготовка сайту OneDrive
+title: OneDrive підготовки сайту
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bd7d87d5-abf3-4c72-941d-ac88dab48795
-ms.openlocfilehash: ea4968de39f6a620a7e9ba2cbf6e41ac17522003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1285968f3d0a53aebf88e91aefdc0b0b6b5e2020f8959aa42e85151a800c68ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754396"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075925"
 ---
-# <a name="onedrive-site-provisioning"></a>Підготовка сайту OneDrive
+# <a name="onedrive-site-provisioning"></a>OneDrive підготовки сайту
 
-Для новостворених облікових записів користувачі повинні ввійти в Центр адміністрування Microsoft 365 за допомогою власного облікового запису та клацнути піктограму OneDrive, щоб вручну розпочати надання сайту OneDrive.
-Довідка з цього [посібника з виправлення неполадок](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
+Для новостворених облікових записів користувачам потрібно ввійти в обліковий запис Центр адміністрування Microsoft 365 за допомогою власного облікового запису та клацнути піктограму OneDrive, щоб вручну почати підготовку сайту OneDrive сайту.
+Дотримуйтеся цього [посібника з виправлення неполадок,](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) щоб отримати довідку
 
-Однак, якщо користувач уже натиснув піктограму OneDrive, а його персональний сайт не підготовлено протягом 24 годин, увійдіть у службу підтримки, щоб отримати додаткову допомогу.
+Однак якщо користувач уже клацнув піктограму OneDrive, а його особистий сайт не підготовлено протягом 24 годин, занотуйте запит на підтримку, щоб отримати додаткову допомогу.
 

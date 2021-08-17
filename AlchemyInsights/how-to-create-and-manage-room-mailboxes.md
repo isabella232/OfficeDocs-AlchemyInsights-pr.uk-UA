@@ -1,5 +1,5 @@
 ---
-title: 614 як створювати поштові скриньки кімнат та керувати ними
+title: 614 Створення поштових скриньок приміщення та керування ними
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "3500013"
 - "3800012"
 ms.assetid: 3f439b79-7eda-4dd7-857e-ce0a10130c88
-ms.openlocfilehash: a691361dd3025fc207d555629fbb6f9f10cb3cf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 76c4ec598acfd81e7aef7485429b0d325fe14a5a454ac4349ed3c8f90f930a89
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54043524"
 ---
-# <a name="how-to-create-and-manage-room-mailboxes"></a>Створення поштових скриньок кімнат і керування ними
+# <a name="how-to-create-and-manage-room-mailboxes"></a>Створення поштових скриньок приміщення та керування ними
 
-Щоб створити та змінити поштові скриньки кімнат, перегляньте статтю [створення поштових скриньок кімнат і керування ними](https://technet.microsoft.com/library/jj215781.aspx).
+Відомості про створення та змінення поштових скриньок приміщення див. в [розділі Створення поштових скриньок приміщення та керування ними.](https://technet.microsoft.com/library/jj215781.aspx)
 
-Щоб дізнатися більше про поштові скриньки кімнат і обладнання (також відомі як поштові скриньки ресурсів), ознайомтеся з [поштовими скриньками для кімнат і обладнання](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes).
+Докладні відомості про поштові скриньки приміщення та обладнання (також відомі як поштові скриньки ресурсів) див. в статтях [Поштові скриньки приміщення та обладнання.](https://docs.microsoft.com/microsoft-365/admin/manage/room-and-equipment-mailboxes)
