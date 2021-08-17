@@ -1,5 +1,5 @@
 ---
-title: Відновлення кореневого сайту SharePoint
+title: Відновлення кореневого SharePoint сайту
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: fd0d3858cd073ab6f5dbfdd8b1f24adde37f8146
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 7793e28fbf17efbfa72da9bcb0a06f094b90b041f65aa500b9ab85010c234a02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109621"
 ---
-# <a name="restore-the-sharepoint-root-site"></a>Відновлення кореневого сайту SharePoint
+# <a name="restore-the-sharepoint-root-site"></a>Відновлення кореневого SharePoint сайту
 
-Відновлення видаленого кореневого сайту з нового Центру адміністрування SharePoint. Відновлено, замість цього замініть сайт.
+Відновлення видаленого кореневого сайту з SharePoint центру адміністрування. Відновлено, замість цього замініть сайт.
 
 1. Перейдіть на сторінку [Видалені](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) сайти. 
 2. Виберіть кореневий сайт, який потрібно відновити.

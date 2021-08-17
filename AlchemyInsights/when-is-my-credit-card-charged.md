@@ -1,5 +1,5 @@
 ---
-title: Коли стягнеться плата за кредитну картку?
+title: Коли з моєї кредитної картки стягнеться плата?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -16,17 +16,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 756c1ac4a5d5fdf9cb7f347feb445b910c7a9e513ca4ea9542f5e1fbb08c954f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5fabc89dcca3a35d285e5677287dc890c0b3788d29d2ba9c8e2c106fd5672fc5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899137"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Коли стягнеться плата за кредитну картку?
+# <a name="when-is-my-credit-card-charged"></a>Коли з моєї кредитної картки стягнеться плата?
 
-Початкова покупка може тривати до двох днів, щоб стягувати платіж.
+Під час початкової покупки плата може тривати до двох днів.
   
 Повторювані нарахування відбуваються протягом одного дня створення рахунка-фактури.
   
-Якщо сума невдала, система й надалі намагатиметься погасити баланс протягом наступних кількох тижнів. Ви можете будь-коли змінити відомості про оплату, щоб переконатися в успішності наступної спроби оплати. Докладні відомості див. в статті [Керування методами оплати](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Якщо сума невдала, система й надалі намагатиметься погасити баланс протягом наступних кількох тижнів. Ви можете будь-коли змінити відомості про оплату, щоб переконатися в успішності наступної спроби оплати. Докладні відомості див. в статті [Керування методами оплати](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

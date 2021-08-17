@@ -1,5 +1,5 @@
 ---
-title: Вирішення проблеми з невідомим користувачем в чаті групи
+title: Вирішення проблеми з невідомим користувачем у Teams чаті
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003807"
 - "6809"
-ms.openlocfilehash: 523c11cb9d5c4696703c67c2a6b3184f5d12f8e7
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 276a073a7213bca4a66dc6b9f27b6c9270a2845c9f2b3aaee791ce28f17e9a75
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109945"
 ---
-# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Вирішення проблеми з "невідомим користувачем" в чаті команд
+# <a name="resolving-issue-with-unknown-user-in-teams-chat"></a>Вирішення проблеми з "Невідомим користувачем" у Teams чаті
 
-Іноді видалений користувач відображатиметься як "невідомий користувач". Це [відома проблема](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown).
+Іноді видалений користувач відображатиметься як "Невідомий користувач". Це [відома проблема.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/removed-user-appears-as-unknown)
 
-Якщо ви не бачите користувачів, які відображаються як "невідомий користувач" у чатах, випробуйте та Очистіть кеш:
+Якщо користувачі постійно бачать повідомлення "Невідомий користувач" у Teams чатах, спробуйте очистити кеш.
 
-1.  Клацніть правою кнопкою миші піктограму команди на панелі завдань. Натисніть кнопку  **вийти** .
-2.  Перейдіть до папки%AppData%\microsoft\ Teams\ "папка" на комп'ютері та видаліть усі файли в цій папці.
+1.  Клацніть правою кнопкою миші Teams піктограми на панелі завдань. Натисніть **кнопку Вийти.**
+2.  Перейдіть до папки %appdata%\Microsoft\teams\ на комп'ютері та видаліть усі файли з цього каталогу.
 
-Ви можете заборонити анонімним користувачам приєднуватися до нарад, гарантуючи, що вони очікують у фойє. Докладні відомості наведено в статті [змінення параметрів учасників для наради команд](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e).
+Ви можете заборонити анонімним користувачам приєднуватися до нарад, переконавшись, що вони чекають у фойє. Докладні відомості див. [в розділі Змінення настройок учасників для наради Teams наради.](https://support.microsoft.com/office/change-participant-settings-for-a-teams-meeting-53261366-dbd5-45f9-aae9-a70e6354f88e)
