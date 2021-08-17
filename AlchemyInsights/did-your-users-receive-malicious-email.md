@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: de8823253d60efcd38bfa96864c146a2cedc0537f6d0aa41de6dafc6c7debc03
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929218"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893424"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Чи ваші користувачі отримували зловмисні електронні листи?
 
-- Тепер ви можете повідомити корпорації Майкрософт про зловмисні електронні листи за допомогою [надходжень від адміністратора в Центрі безпеки та відповідності](https://sip.protection.office.com/reportsubmission).
+Тепер ви можете повідомити про зловмисну електронну пошту до корпорації Майкрософт за допомогою надсилання [Microsoft 365 Defender порталі](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
 
-Повідомлення, надіслані до [надходжень від адміністратора](https://sip.protection.office.com/reportsubmission), скануються, і в спливаючому меню **відомостей** відображаються такі результати:
+Повідомлення, надіслані [](https://security.microsoft.com/reportsubmission?viewid=admin) в надіслані адміністратором, скануються, а в розгорнутому меню докладно показано такі результати:
 
 - Чи сталася помилка автентифікації електронного листа відправника під час доставки.
 - Інформація про збіги з політиками, які могли вплинути на вердикт для повідомлення або перевизначити його.
@@ -39,9 +39,9 @@ ms.locfileid: "53929218"
 Тим часом, зловмисні електронні листи можна вилучити з поштових скриньок користувачів, дотримуючись вказівок із [цієї статті](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - Клієнти, у яких є Microsoft Defender для Office 365, можуть:
-    - використовувати [Викривальник загроз для пошуку та видалення підозрілих електронних листів](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered);
-    - [використовувати Безпеку посилань для блокування доступу](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) до зловмисних URL-адрес;
-    - відстежувати користувачів, які клацнули зловмисні URL-адреси й отримали доступ до них: [Перегляд URL-адрес фішингу та клацання даних вердикту](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer) & [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace);
-    - уручну [запустити автоматичну перевірку](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office).
+  - Пошук [і видалення підозрілих](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered) електронних листів за допомогою провідника загроз
+  - [Використання Сейф посилань для блокування доступу](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links) до зловмисної URL-адреси
+  - Відстеження користувачів, які клацали зловмисні URL-адреси та отримували до них доступ: перегляд [фішингнових URL-адрес](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)і клацання verdict data  &  [Get-UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+  - Запуск [автоматичного дослідження вручну](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 Ви також можете захистити себе від зловмисних файлів і URL-адрес, дотримуючись вказівок зі статті [Захист від зловмисних URL-адрес і файлів](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats).
