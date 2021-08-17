@@ -1,5 +1,5 @@
 ---
-title: Керування схемою пошуку в службі SharePoint Online
+title: Керування схемою пошуку в SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,30 +8,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8eb0e93ea5bbf2154213274041b28a3c908090dae724b8f8e55fa2fb05f16d86
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770572"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085105"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>Керування схемою пошуку в службі SharePoint Online
+# <a name="manage-search-schema-in-sharepoint-online"></a>Керування схемою пошуку в SharePoint Online
 
-Схема пошуку керує тим, що користувачі можуть шукати, як користувачі можуть шукати його, а також про те, як можна представити результати на веб-сайтах пошуку. 
+Схема пошуку контролює, що користувачі можуть шукати, як користувачі можуть шукати та як можна представити результати на веб-сайтах пошуку. 
 
-Дізнайтеся [, як керувати схемою пошуку в службі SharePoint Online,](https://docs.microsoft.com/sharepoint/manage-search-schema) щоб дізнатися, як це зробити: 
-- Змінення схеми пошуку.
+Докладні відомості див. в статті Керування [схемою SharePoint Online.](https://docs.microsoft.com/sharepoint/manage-search-schema) 
+- Змініть схему пошуку.
 - Створення керованих властивостей.
-- Зіставте карту обійденого елемента, у якій можна керувати керованими властивостями.
+- Зіставлення властивостей обійти зіставленої карти з керованими властивостями.
 
-Зверніть увагу на те, як керувати схемою пошуку, виконавши наведені нижче дії.
+Зверніть увагу на те, як керувати схемою пошуку:
 
-- Якщо ви отримали попередження про те, **що програма призупиняється** під час внесення змін до схеми, це тимчасовий характер, оскільки відбувається обслуговування служби. 
+- Якщо під час внесення змін до схеми з'являється попередження про те, що під час внесення змін до схеми призупиняються повідомлення про те, що це оновлення тимчасове, лише коли відбувається обслуговування служби.  
 
-    Якщо Минуло більше 24 годин, і ви все ще відчуєте попередження, увійдіть у справу підтримки.
-- Якщо змінити керовані властивості або додати нові, зміни набули чинності лише після повторного обходу вмісту. У службі SharePoint Online обхід відбувається автоматично на основі визначеного розкладу обходу.
-- Щоб переконатися, що зміни обійдено, можна конкретно [Надіслати запит на переіндексування списку або бібліотеки](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) . 
+    Якщо попередження не зникло понад 24 години, увійдіть у свій журнал.
+- Якщо змінити керовані властивості або додати нові, зміни наберуть сили лише після повторного обходу вмісту. У SharePoint Online обход автоматично відбувається відповідно до визначеного графіка обходу.
+- Щоб переконатися, що внесено зміни, можна спеціально надіслати запит на переіндексування списку [або бібліотеки.](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-Повний огляд схеми пошуку наведено в статті Загальні відомості про [схему](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) пошуку 
+Повний огляд схеми пошуку див. в статті [Загальні відомості про схему пошуку.](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 
