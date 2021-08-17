@@ -1,5 +1,5 @@
 ---
-title: Передавання файлів до служби "OneDrive" або SharePoint
+title: Upload файли для OneDrive або SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 03e2962a12fca12850441d03b43d6cfde9e60bad
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90767dbcbac08f109b33bfed474cf53829f1e553e5973477796b951acf5c8d28
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47805952"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54073297"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Передавання файлів до служби "OneDrive" або SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload файли для OneDrive або SharePoint
 
-1. У браузері перейдіть до розташування, до якого потрібно передати файли.
+1. У браузері перейдіть до розташування, куди потрібно передати файли.
     
 2. Відкрийте Файловий провідник і перейдіть до файлів, які потрібно передати.
     
-3. Виберіть файли та перетягніть їх до розташування в службі Onedriveабо SharePoint. Зверніть увагу: Якщо ви використовуєте Microsoft EDGE, Mozilla FireFox або Google Chrome, ви також можете передавати папку та всі файли в ньому.
+3. Виберіть файли та перетягніть їх до потрібного розташування в OneDrive або SharePoint. Примітка. Якщо ви використовуєте Microsoft Edge, Mozilla FireFox або Google Chrome, ви також можете передати папку та всі файли в ньому.
     
-**Нотаток**
-- Ви можете передавати файли розміром до 15 ГБ. 
-- Повний шлях до файлу (включно з іменем файлу) не може перевищувати 400 символів у довжину. 
-- Якщо потрібно передати більше файлів 100, [використовуйте клієнт синхронізації OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Примітки.**
+- Розмір файлів можна передати до 15 ГБ. 
+- Повний шлях до файлу (включно з іменем файлу) не може бути більше 400 символів. 
+- Якщо потрібно передати понад 100 файлів, [скористайтеся клієнтом синхронізатор OneDrive .](https://go.microsoft.com/fwlink/?linkid=866427) 
   
 

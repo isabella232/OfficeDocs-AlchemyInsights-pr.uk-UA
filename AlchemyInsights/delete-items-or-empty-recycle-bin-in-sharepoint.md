@@ -1,5 +1,5 @@
 ---
-title: Видалення елементів або очищення кошика сайту SharePoint
+title: Видалення елементів або очищення кошика на SharePoint сайту
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: 3968f389675644cf5c0bd81eafcdb03b74a6dce5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 98b04875dd0b1a99e2624cd07dc24a9f5f93cbd43b9f087cfbd9709b39b3c5ff
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102736"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Видалення елементів або очищення кошика сайту SharePoint 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>Видалення елементів або очищення кошика на SharePoint сайту 
 
-Елемент, видалений із бібліотеки документів або списку SharePoint, не видаляється із SharePoint негайно. Видалені елементи протягом певного часу переносяться в кошик сайту. Протягом цього часу можна відновити видалені елементи у вихідному розташуванні або видалити їх, щоб звільнити місце.
+Коли ви видаляєте елемент із SharePoint бібліотеки документів або списку, він не видаляється з SharePoint. Видалені елементи протягом певного часу переносяться в кошик сайту. Протягом цього часу можна відновити видалені елементи у вихідному розташуванні або видалити їх, щоб звільнити місце.
 
-[Видалення елементів або очищення кошика сайту SharePoint](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
+[Видалення елементів або очищення кошика на SharePoint сайту](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
