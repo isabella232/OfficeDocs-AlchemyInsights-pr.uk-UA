@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800009"
 - "611"
-ms.openlocfilehash: bbd49134bd4a4451649b76bb5f60b19065910cae
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4bf7680a422f096401f0a87bccd1b8dd11f4489f882bcc06864e37d6a248438c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819929"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046125"
 ---
 # <a name="calendar-permissions"></a>Дозволи календаря
 
-Користувачі можуть змінювати власні дозволи календаря в інтернет-версії Outlook або інших клієнтах, але як адміністратор може також вивчати цю мету.  
-Якщо за допомогою командлета Exchange PowerShell з'являться дозволи в календарі користувача, виконайте такі дії:
+Користувачі можуть змінювати власні дозволи календаря Outlook в Інтернеті або інших клієнтах, але адміністратору може знадобитися також дослідити цю можливість.  
+Якщо Exchange командлет PowerShell, з'являться такі дозволи:
 
 `Get-MailboxFolderPermission <SMTPAddress>:\Calendar | FT -a`
 
@@ -37,6 +37,6 @@ ms.locfileid: "51819929"
 Дозволи календаря використовуються для надання спільного доступу до календарів. Докладні відомості про надання спільного доступу до календаря Outlook див. в таких статтях:
 
 - [Надання спільного доступу до календаря Outlook іншим користувачам](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [Надання спільного доступу до календаря в інтернет-версії Outlook для бізнесу](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [Надання спільного доступу до календаря в інтернет-версія Outlook для бізнесу](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
 
-Виправлення неполадок із календарем. Дозвіл можна отримати за [допомогою помічника з підтримки й](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) відновлення.
+Виправлення неполадок із календарем. Дозвіл можна використовувати [Помічник із підтримки й відновлення](https://support.microsoft.com/office/e90bb691-c2a7-4697-a94f-88836856c72f) засобі.
