@@ -1,5 +1,5 @@
 ---
-title: Змінення тла для наради команд
+title: Змінення фону для наради Teams наради
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001720"
 - "7948"
-ms.openlocfilehash: 6c9d7f37210b83e9315648bb9f4de21269afd867
-ms.sourcegitcommit: 0810dec217a876b7c307ab8b22ad0a4d2712fbdf
+ms.openlocfilehash: ab9c11342b0499a08abbe8b66acf5d9b6ac7ce1302b0481b9ece4f440d4c9886
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082387"
 ---
-# <a name="change-your-background-for-a-teams-meeting"></a>Змінення тла для наради команд
+# <a name="change-your-background-for-a-teams-meeting"></a>Змінення фону для наради Teams наради
 
-Якщо ви хочете змінити те, що відображається за вами у відео, ви можете або повністю змащувати свій фон або замінити його на будь-яке потрібне зображення.
+Якщо потрібно змінити вигляд відео, можна розмити фон або повністю замінити його на будь-яке зображення.
 
-Щоб дізнатися більше про те, як змінити тло, перш ніж або під час наради, перегляньте статтю [Змінення тла для наради команд](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780).
+Докладні відомості про те, як змінити фон перед нарадою або під час неї, див. в статті Змінення фону [Teams наради.](https://support.microsoft.com/office/change-your-background-for-a-teams-meeting-f77a2381-443a-499d-825e-509a140f4780)
 
 > [!NOTE]
-> Зараз користувачі Linux не можуть використовувати цю функцію. Фонові ефекти також не будуть доступні для вас, якщо ви використовуєте команди за допомогою оптимізованої інфраструктури віртуальної стільниці (VDI).
+> Наразі користувачі Linux не можуть скористатися цією функцією. Фонові ефекти також будуть недоступні, якщо ви використовуєте Teams інфраструктуру віртуальних ПК (VDI).

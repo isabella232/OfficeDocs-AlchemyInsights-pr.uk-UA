@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311420"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892888"
 ---
 # <a name="view-all-quarantined-messages"></a>Перегляд усіх повідомлень у карантині
 
-1. На порталі Microsoft 365 Defender виберіть Електронна пошта <https://security.microsoft.com> **&** \>  \> **перевіряти карантин "Співпраця".**
+1. На порталі Microsoft 365 Defender перейдіть до пункту Електронна <https://security.microsoft.com> пошта & Quarantine  \>  \> **Collaboration Review (Карантин)**.
 
    Щоб перейти безпосередньо до сторінки **"Карантин",** <https://security.microsoft.com/quarantine> скористайтеся .
 

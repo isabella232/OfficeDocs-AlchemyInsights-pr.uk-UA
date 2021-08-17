@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: a455c7123f45bdcdd6fb9933037b2d3cfb0e616c7d425e4b0e54b2c15b7280e2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927166"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892620"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – аудіоконференції
 
-Потрібна допомога з увімкненням або настроюванням [аудіоконференції для Microsoft Teams?](/microsoftteams/set-up-audio-conferencing-in-teams)  Чи нещодавно створено користувача? У такому разі, щоб ці параметри набрали сили, знадобиться кілька годин.
+Потрібна допомога з увімкненням або настроюванням [аудіоконференції для Microsoft Teams?](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  Чи нещодавно створено користувача? У такому разі, щоб ці параметри набрали сили, знадобиться кілька годин.
 
-Якщо [ліцензії придбано,](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)переконайтеся, що користувач має ліцензію Microsoft 365 для аудіоконференцій і для нього за замовчуванням установлено платний номер.
+Якщо [ліцензії придбано,](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)переконайтеся, що користувач має ліцензію на Microsoft 365 Аудіоконференції та має платний номер за замовчуванням.
 
 1. Відкрийте вкладку [Активні користувачі](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) та виберіть потрібного користувача.
 
 2. Залежно від версії центру адміністрування, виберіть **Ліцензії та програми** або клацніть **Редагувати** на вкладці **Ліцензії на продукти**.
 
-3. Переконайтеся, що користувач має ліцензії на **аудіоконференції Microsoft 365,** Microsoft Teams та **онлайн (Skype для бізнесу план 2).** Якщо **Microsoft 365 ліцензія** на аудіоконференції немає, [](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business) спочатку потрібно придбати ліцензії.
+3. Переконайтеся, що користувач має ліцензії, вибрані для **Microsoft 365 аудіоконференцій,** служб Microsoft Teams та **Skype для бізнесу Online (план 2).** Якщо **Microsoft 365 ліцензія** на аудіоконференції немає, спочатку потрібно придбати [ліцензії.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. На вкладці **Центри адміністрування** послідовно виберіть **Показати всі** > **Teams**.
 

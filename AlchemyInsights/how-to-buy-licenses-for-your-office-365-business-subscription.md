@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499677"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892560"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Придбання ліцензій для передплати Програми Microsoft 365 для бізнесу office 365 для бізнесу
 
@@ -32,4 +32,4 @@ ms.locfileid: "54499677"
 3. В **області Придбання** ліцензій  у розділі Нова кількість  у полі Усього ліцензій введіть загальну кількість ліцензій, потрібну для цієї передплати. Наприклад, якщо у вас 100 ліцензій і потрібно додати 25, введіть 125.
 4. Натисніть **кнопку Зберегти**.
 
-Докладні відомості див. [в статтях Придбання та вилучення ліцензій.](/microsoft-365/commerce/licenses/buy-licenses)
+Докладні відомості див. [в статтях Придбання та вилучення ліцензій.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

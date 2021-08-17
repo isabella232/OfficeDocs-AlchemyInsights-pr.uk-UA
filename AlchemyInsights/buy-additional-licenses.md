@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 54889cd480f85fc63254c8218d03e26541795620fe2711798c19c9c503637f92
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499101"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892948"
 ---
 # <a name="buy-additional-licenses"></a>Придбання додаткових ліцензій
 
@@ -28,11 +28,11 @@ ms.locfileid: "54499101"
 
 1. У Центрі адміністрування перейдіть на сторінку **Виставлення**  >  [рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. На вкладці **Продукти** знайдіть передплату, для якої потрібно придбати ліцензії. Виберіть три крапки (додаткові дії), а потім натисніть **кнопку Придбати ліцензії.**
-3. У **розділі Нова кількість у** полі Усього ліцензій введіть загальну кількість ліцензій, потрібну для цієї передплати.  Наприклад, якщо у вас 100 ліцензій і потрібно додати 25, введіть 125.
+3. У **розділі Нова кількість у** полі **Усього** ліцензій введіть загальну кількість ліцензій, потрібну для цієї передплати. Наприклад, якщо у вас 100 ліцензій і потрібно додати 25, введіть 125.
 4. Натисніть **кнопку Зберегти**.
 
-Докладні відомості див. [в статтях Придбання та вилучення ліцензій.](/microsoft-365/commerce/licenses/buy-licenses)
+Докладні відомості див. [в статтях Придбання та вилучення ліцензій.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Додаткові ресурси**
 
-[Призначення ліцензій користувачам у Microsoft 365 для бізнесу](/microsoft-365/admin/manage/assign-licenses-to-users)
+[Призначення ліцензій користувачам у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

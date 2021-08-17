@@ -1,5 +1,5 @@
 ---
-title: На борту пристрою, який не є пристроєм Windows, до засобу захисту від досвідчених загроз Microsoft Defender (MDATP)
+title: Перенесення пристрою з Windows до розширеного захисту від загроз для Microsoft Defender (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748461"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081883"
 ---
-# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>На борту пристрою, який не є пристроєм Windows, до засобу захисту від досвідчених загроз Microsoft Defender (MDATP)
+# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>Перенесення пристрою з Windows до розширеного захисту від загроз для Microsoft Defender (MDATP)
 
-Визначення того, чи сумісний із програмою "MDATP" дистрибутив пристрою або версії macOS.
+Перевірте, чи сумісний дистрибутив Linux або macOS пристрою з MDATP:
 
 - [Вимоги для пристроїв Linux](https://go.microsoft.com/fwlink/?linkid=2143462)
-- [Вимоги до macOS пристроїв](https://go.microsoft.com/fwlink/?linkid=2143461)
-- [Бортові пристрої, які не є ОС Windows](https://go.microsoft.com/fwlink/?linkid=2143628)
+- [Вимоги для пристроїв macOS](https://go.microsoft.com/fwlink/?linkid=2143461)
+- [Дошка не Windows пристроями](https://go.microsoft.com/fwlink/?linkid=2143628)

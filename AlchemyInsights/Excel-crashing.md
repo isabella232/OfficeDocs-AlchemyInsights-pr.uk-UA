@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918488"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312780"
 ---
 # <a name="frequent-excel-crashes"></a>Часті Excel аварійне завершення роботи?
 
@@ -28,8 +28,7 @@ ms.locfileid: "53918488"
 
 3. У Add-Ins зніміть прапорець поруч із надбудовою, яку потрібно вимкнути, і натисніть кнопку **OK.**
 
-> [!NOTE]
-> Якщо Excel під час запуску, запустіть її в Сейф, натиснувши й утримуючи клавішу Ctrl під час запуску програми.
+**Примітка.** Якщо Excel аварійно завершує роботу під час запуску, запустіть її Сейф режимі, натиснувши й утримуючи клавішу Ctrl під час запуску програми.
   
 Якщо проблеми не зникли, див. такі статті:
   
@@ -37,4 +36,4 @@ ms.locfileid: "53918488"
 
 - [Виправлення неполадок, пов'язаних із аварійним завершенням роботи та відповіддю на Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel не відповідає, "зависає", "зависає" або припиняє працювати](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel не відповідає, "зависає", "припиняє реагувати" або "припиняє працювати"](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

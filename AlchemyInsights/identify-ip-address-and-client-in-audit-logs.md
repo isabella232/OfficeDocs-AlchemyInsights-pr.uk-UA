@@ -13,16 +13,16 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887521"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313040"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Визначення IP-адреси та клієнта в контрольних журналах
 
-IP-адреса, яка відповідає дії користувача або Microsoft 365 відображається в контрольних журналах. Крім того, записуються відомості про клієнта. Нижче описано, як визначити таку інформацію.
+IP-адреса, яка відповідає дії користувача або Microsoft 365, відображається в контрольних журналах. Крім того, записуються відомості про клієнта. Нижче описано, як визначити таку інформацію.
 
 1. Увійдіть [у Центр Microsoft 365 відповідності.](https://protection.office.com/)
 

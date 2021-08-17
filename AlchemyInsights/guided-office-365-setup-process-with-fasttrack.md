@@ -1,5 +1,5 @@
 ---
-title: Інтерактивний Office 365 налаштування за допомогою FastTrack
+title: Інтерактивний Office 365 налаштування з FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -13,21 +13,20 @@ ms.custom:
 - "9003885"
 - "6939"
 - "9419"
-ms.openlocfilehash: 35b18e1fc353d3a757a4b2aded385111bd723f61386fe6d2f7c1315536cc30af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5914e6c7ade38e90bdc56be5b72323abf05770c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913412"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313234"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Інтерактивний Office 365 налаштування за допомогою FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Інтерактивний Office 365 налаштування з FastTrack
 
-Якщо ви хочете отримати допомогу з Office 365 FastTrack, ви можете звернутись по допомогу через портал. Якщо ви шукаєте допомогу з самообслуговуванням або порад від партнера, вам можуть допомогти наші Office 365 або відповідний партнер.
+Якщо ви можете отримати допомогу Office 365 FastTrack, ви можете звернутись по допомогу на порталі. Якщо ви шукаєте довідку з самообслуговуванням або пораду від партнера, наші Office 365 майстри настроювання або відповідний партнер можуть допомогти вам у цьому процесі.
 
 - Щоб отримати довідку на порталі FastTrack, увійдіть на портал [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) і виконайте вказівки, щоб заповнити форму Запит на Microsoft 365 допомогою.
 
-    > [!NOTE]
-    > Якщо виникають проблеми з входом або вам потрібна додаткова допомога, надішліть електронний [лист ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+    **Примітка.** Якщо виникають проблеми з входом або вам потрібна додаткова допомога, надішліть електронний [лист ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
 - Відомості про самостійну довідку з Office 365 див. в [указівках із настроювання.](https://go.microsoft.com/fwlink/?linkid=2125827)
 - Відомості про те, як знайти постачальника рішень, див. в статтях [Пошук постачальника рішень.](https://go.microsoft.com/fwlink/?linkid=2125918)
