@@ -1,5 +1,5 @@
 ---
-title: Проблеми з інтеграцією програм SSO
+title: Проблеми інтеграції програм єдиного входу
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004344"
 - "7758"
-ms.openlocfilehash: bba3c30c7123f946f38ef559b31397f5464b9880
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 5652a3dd5acd95cf1007a6e0cc6b37d7bb7ed9423cab15946983cc2f28bc450c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885535"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084439"
 ---
-# <a name="sso-application-integration-issues"></a>Проблеми з інтеграцією програм SSO
+# <a name="sso-application-integration-issues"></a>Проблеми інтеграції програм єдиного входу
 
-Виконайте пошук певної програми, яку потрібно інтегрувати з непевним входом (SSO) в нашій [збірці підручників для інтеграції програм за допомогою служби Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) та дотримуйтеся вказівок, щоб усунути проблеми з інтеграцією.
+Знайдіть конкретну програму, яку потрібно інтегрувати з бездоганним єдиним входом у колекції посібників із інтеграції програм із [програмами Azure Active Directory](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) і дотримуйтеся вказівок, щоб виправити неполадки інтеграції.

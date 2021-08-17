@@ -1,5 +1,5 @@
 ---
-title: Outlook не синхронізовані папки
+title: Outlook синхронізації папок
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ac814286496a946866fbd36268ec63b7904e8f15124e2909a134805fc615a7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771886"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111251"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook не синхронізовані папки
+# <a name="outlook-not-synching-folders"></a>Outlook синхронізації папок
 
-Якщо програма Outlook не відповідав папки, як очікувалося, можна спробувати виправити цю проблему.
+Якщо Outlook синхронізації папок неналежним чином, спробуйте усунути її кріпами.
 
-1. Зменште кількість папок у основній або спільній поштовій скриньці. [Дізнайтеся про проблеми з продуктивністю Outlook, якщо в кеші в режимі кешованих або PST-файлів є забагато записів або папок](https://support.microsoft.com/help/2768656).
-2. Вимкнення кешування всіх спільних папок.
-3. Змініть конфігурацію допоміжної поштової скриньки Exchange на другий обліковий запис Exchange у профілі.
+1. Зменште кількість папок у основній або спільній поштовій скриньці. [Див. Outlook](https://support.microsoft.com/help/2768656)про проблеми з продуктивністю, якщо в папці файлів у режимі кешування OST або PST забагато елементів або папок.
+2. Вимкніть кешування всіх спільних папок.
+3. Змініть конфігурацію додаткової поштової скриньки Exchange на другий обліковий Exchange у профілі.
 
-Щоб отримати докладніші відомості, ознайомтеся [з проблемами продуктивності та синхронізації під час роботи з папками в додатковій поштовій скриньці в програмі Outlook](https://support.microsoft.com/help/3115602).
+Докладні відомості див. в [цій](https://support.microsoft.com/help/3115602)Outlook.

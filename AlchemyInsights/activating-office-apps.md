@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a4e7f20270b6a04aca6d54b059b27f048294338c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889275"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314261"
 ---
 # <a name="activating-microsoft-365-apps"></a>Активація Microsoft 365 програм
 
-**Примітка.** Якщо використовується попередня версія Windows (наприклад, Windows 7), переконайтеся, що протокол TLS 1.2 ввімкнуто за замовчуванням. Докладні відомості див. в статтях Оновлення для ввімкнення [протоколів TLS 1.1 і TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)як безпечних протоколів за замовчуванням у WindowsHTTP у Windows.
+**Примітка.** Якщо використовується попередня версія Windows (наприклад, Windows 7 із пакетом оновлень 1 (SP1), Windows Server 2008 R2), увімкніть TLS 1.2 за замовчуванням за допомогою простого [виправлення.](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Докладні відомості див. в статтях Оновлення для ввімкнення [протоколів TLS 1.1 і TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)як безпечних протоколів за замовчуванням у WindowsHTTP у Windows.
 
 Щоб активувати пакет Office, див. статтю:
 
@@ -38,7 +38,7 @@ ms.locfileid: "57889275"
 
 - [Поради для випадків, коли не вдається інсталювати або активувати пакет Office для Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**Порада.** На комп’ютерах із Windows ми можемо діагностувати та автоматично усунути кілька поширених проблем із входом у систему Office. Завантажте та запустіть  **[Помічник із підтримки й відновлення від Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)**, щоб скористатися нашим автоматизованим інструментом.
+**Порада.** Windows комп'ютерах ми можемо діагностувати та автоматично виправити кілька поширених Office проблем із входом. Завантажте та запустіть  **[Помічник із підтримки й відновлення від Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)**, щоб скористатися нашим автоматизованим інструментом.
 
 Якщо ви не можете ввійти в Microsoft 365, виконайте наведені нижче дії.
 
