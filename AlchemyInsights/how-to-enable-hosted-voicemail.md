@@ -1,5 +1,5 @@
 ---
-title: Увімкнення розміщення голосової пошти
+title: Увімкнення розміщеної голосової пошти
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055575"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Увімкнення розміщення голосової пошти
+# <a name="how-to-enable-hosted-voicemail"></a>Увімкнення розміщеної голосової пошти
 
-Щоб активувати голосову пошту, потрібно настроїти **голосову пошту** на $True.
+Щоб увімкнути голосову пошти, потрібно встановити значення **HostedVoicemail** $true.
 
-Властивість **Hostedvoicemail пошта** користувача за допомогою віддаленого PowerShell (RPS).
+**Властивість HostedVoicemail** для користувача, який використовує remote PowerShell (RPS).
 
-Щоб отримати докладніші відомості про підключення до RPS, ознайомтеся з додатковими відомостями про підключення до RPS у [програмі Microsoft](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) .
+Докладні відомості про підключення до запитів на Microsoft Teams [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) див. в цьому Microsoft Teams.
 
-1. Адміністратор команди має увійти в віддалений PowerShell для команд.
-1. У програмі PowerShell запит адміністратор команди може запустити **Set-csuser user@contoso.com-HostedVoiceMail пошта $True** , де SIP URI має користувача в питанні.
+1. Адміністратор Teams ввійти у віддалену оболонку PowerShell для Teams.
+1. З командного рядка PowerShell Teams адміністратор може запустити **set-csuser user@contoso.com -HostedVoiceMail $true** де sip uri має відповідного користувача.
 
 > [!NOTE]
-> Зміни в політиці можуть знадобитися до 24 годин, щоб реплікувати.
+> Щоб реплікувати зміни до політик, може сягати 24 годин.

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003309"
 - "6203"
-ms.openlocfilehash: df17f479856689249209ffac491af894cf7c2771
-ms.sourcegitcommit: 76dbf5aaea92a62d7957cf210583a7f2c29c1ce5
+ms.openlocfilehash: 3786dc516866c461fd904146c3c92e33d35c35a426b407d6b93d97fd11446ce9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49950054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055611"
 ---
 # <a name="hide-a-chat"></a>Приховання чату
 
-Ви не можете видалити весь чат (або розмову), але його можна приховати. Ви також можете [Видалити надіслане повідомлення](https://support.office.com/client/delete-a-message-you-have-sent-67bd76a5-04e7-46ea-9ef0-5800865cb8f3) .
+Видалити весь чат (або розмову) не можна, але його можна приховати. Також можна [видалити надіслане](https://support.office.com/client/delete-a-message-you-have-sent-67bd76a5-04e7-46ea-9ef0-5800865cb8f3) повідомлення.
 
-Щоб приховати чат, виконайте наведені нижче дії.
+Щоб приховати чат:
 
-- У меню ліворуч виберіть **чат** .
+- У **меню** ліворуч виберіть Чат.
 - Виберіть чат, який потрібно приховати.
-- Виберіть три крапки (**...**) поруч із чатом, а потім натисніть кнопку **Приховати**.
+- Натисніть три крапки (**...**) поруч із чатом і виберіть **приховати**.

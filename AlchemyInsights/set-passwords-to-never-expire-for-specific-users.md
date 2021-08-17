@@ -15,16 +15,16 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0f71f3a73d159878e29a5aca2fc61aa177471205469bd7f941daf2a67bdcb68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51789012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108649"
 ---
 # <a name="set-passwords-to-never-expire"></a>Установлення терміну дії паролів
 
-Щоб установити для всіх паролів значення "Ніколи" необмежено термін дії, у Центрі адміністрування Microsoft 365 перейдіть до меню Настройки параметрів > Політика терміну дії паролів і зніміть прапорець "Установити термін дії паролів користувачів через кілька  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** днів".
+Щоб установити для всіх паролів значення "ніколи не дійсний", у програмі Центр адміністрування Microsoft 365 перейдіть до політики терміну дії паролів для параметрів безпеки та конфіденційності Настройки  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) Org Настройки >** і зніміть прапорець "Термін дії паролів користувачів завершується через кілька днів".
   
 Докладні відомості див. в описах:
 

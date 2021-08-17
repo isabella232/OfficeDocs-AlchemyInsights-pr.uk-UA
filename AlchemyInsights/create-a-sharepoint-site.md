@@ -1,5 +1,5 @@
 ---
-title: Створення сайту SharePoint
+title: Створення SharePoint сайту
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080911"
 ---
-# <a name="create-a-sharepoint-site"></a>Створення сайту SharePoint
+# <a name="create-a-sharepoint-site"></a>Створення SharePoint сайту
 
-Створюйте сайти та керуйте ними на сайтах із [активних сайтів](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) у центрі адміністрування SharePoint. Докладні відомості наведено в статті [керування сайтами в новому центрі адміністрування SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Створюйте сайти з [активних сайтів і керуйте](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) ними в Центрі SharePoint адміністрування. Докладні відомості [див. в розділі Керування сайтами в новому SharePoint адміністрування.](https://docs.microsoft.com/sharepoint/manage-site-creation) 
 
-## <a name="tips"></a>Поради
+## <a name="tips"></a>Підказки.
 
-- **Не** можна створити сайт з тією самою URL-адресою наявного сайту. Якщо ви видалили сайт і хочете повторно використовувати URL-адресу, можливо, видалений сайт все ще перебуває в розділі [Видалені сайти](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Щоб повторно використовувати URL-адресу, сайт знадобиться остаточно видалити. Щоб повністю видалити сайт із PowerShell, перегляньте приклад командлета [Видалити-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-- Можливо, деякі користувачі не зможуть створити сайт. [Перегляньте статтю керування створенням сайту в службі SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Можливо, сайт застряг на час **створення** довше, ніж очікувалося. Якщо ви вперше побачили цю проблему понад 24 години, увійдіть у службу підтримки. У багатьох випадках ми вже працюємо над вирішенням проблеми. Щоб завершити вирішення, надайте нам принаймні 24 години.
+- Не **можна** створити сайт з однаковою URL-адресою наявного сайту. Якщо ви видалили сайт і хотіли б повторно використовувати URL-адресу, можливо, видалений сайт залишиться в розділі [Видалені сайти.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) Щоб повторно використовувати URL-адресу сайту, знадобиться остаточно видалити його. Щоб повністю видалити сайт за допомогою PowerShell, див. приклад [командлета Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Можливо, деяким користувачам не вдасться створити сайт. [Докладні відомості див. в SharePoint Online.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Можливо, сайт застрягає  на сторінці Створення довше, ніж очікувалося. Якщо з моменту виникнення цієї проблеми минає понад 24 години, надішлюйте запит на підтримку. У багатьох випадках ми вже працюємо над вирішенням цієї проблеми. Дайте нам принаймні 24 години, щоб завершити вирішення.
