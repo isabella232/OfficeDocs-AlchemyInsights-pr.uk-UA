@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937698"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889275"
 ---
 # <a name="activating-microsoft-365-apps"></a>Активація Microsoft 365 програм
 
@@ -29,7 +29,7 @@ ms.locfileid: "53937698"
 
 - [Активація Office на Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Примітка.**  Переконайтеся, що у вас є Office 365 або Microsoft 365, яка включає [Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)клієнтські програми, наприклад Microsoft 365 Бізнес Стандарт, Програми Microsoft 365 для бізнесу або Програми Microsoft 365 для підприємств. Крім того, переконайтеся, що обліковому запису користувача, який використовується для входу в Office програми, [призначено ліцензію.](/microsoft-365/admin/manage/assign-licenses-to-users)
+**Примітка.**  Переконайтеся, що у вас є Office 365 або Microsoft 365, яка включає клієнтські програми [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)наприклад Microsoft 365 Бізнес Стандарт, Програми Microsoft 365 для бізнесу або Програми Microsoft 365 для підприємств. Крім того, переконайтеся, що обліковому запису користувача, який використовується для входу в Office програми, [призначено ліцензію.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Щоб вирішити проблеми з активацією Office, див. статтю: 
 
@@ -48,6 +48,6 @@ ms.locfileid: "53937698"
 
 3. Виберіть **Параметри Windows > Облікові записи > Доступ до компанії або навчального закладу** і відключіть застарілі або непотрібні робочі облікові записи.
 
-4. [Скиньте стан активації Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), а потім [виконайте вхід у програми Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426), використовуючи новий обліковий запис.
+4. [Скиньте стан активації Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state), а потім [виконайте вхід у програми Office](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426), використовуючи новий обліковий запис.
 
 Відомості про додаткові способи виправлення неполадок див. в статті [Повідомлення, що стосується передплати, відображається під час відкриття програми Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

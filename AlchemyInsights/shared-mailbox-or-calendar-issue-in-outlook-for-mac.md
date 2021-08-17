@@ -1,5 +1,5 @@
 ---
-title: Спільна поштова скринька або проблема з календарем у програмі Outlook для Mac?
+title: Проблема зі спільною поштовою скринькою або календарем Outlook mac OS?
 ms.author: supravee
 author: supravee
 manager: jackiesm
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 77d6f7c0-4a3b-49c6-8def-a18f4a120443
-ms.openlocfilehash: a53a79a2da13c9c3f9c2a8509d157e4b244a068d
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 520137fe1e7de1c7da3be1684006c4211baebf76786dc2e1dea7acc91f82cc7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707615"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108217"
 ---
-# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Спільна поштова скринька або проблема з календарем у програмі Outlook для Mac?
+# <a name="shared-mailbox-or-calendar-issue-in-outlook-for-mac"></a>Проблема зі спільною поштовою скринькою або календарем Outlook mac OS?
 
-Ми допоможемо вам швидше, якщо ви звернетеся до нас безпосередньо з програми. **Перейдіть до комп'ютера Mac, на якому ви торкнулися користувача, відкрийте програму Outlook і натисніть кнопку Довідка \> . Зверніться до служби підтримки**. 
+Ми можемо допомогти вам швидше, якщо ви звернетесь до нас безпосередньо з програми. **На комп'ютері Mac ураженого користувача відкрийте Outlook і натисніть кнопку Довідка \> Зверніться до служби підтримки.** 
   
-Щоб дізнатися більше про те, як використовувати програму Outlook для Mac у службі підтримки, ознайомтеся з цією статтею: [нова функція підтримки контакту в програмі Outlook 2016 для Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Докладні відомості про те, як використовувати Outlook для Mac, див. в статті Нова функція звернення до служби підтримки в [Outlook 2016 для Mac.](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 
