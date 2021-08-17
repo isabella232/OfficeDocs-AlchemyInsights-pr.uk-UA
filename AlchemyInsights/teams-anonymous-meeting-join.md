@@ -1,5 +1,5 @@
 ---
-title: Дозвіл і заборона анонімним користувачам приєднуватися до нарад Teams
+title: Надання або заборона анонімним користувачам приєднуватися до Teams нарад
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106966"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Дозвіл і заборона анонімним користувачам приєднуватися до нарад Teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Надання або заборона анонімним користувачам приєднуватися до Teams нарад
 
-Параметри анонімного приєднання до наради можна керувати в Центрі адміністрування Teams.
+Параметри анонімного приєднання до наради можна керувати в Центрі Teams адміністрування.
 
 **Ця зміна набере сили протягом 24 годин.**
 
-1.  Перейдіть до [Центру адміністрування Teams](https://admin.teams.microsoft.com)
+1.  Перейдіть у [Teams адміністрування](https://admin.teams.microsoft.com)
 2.  На панелі переходів ліворуч перейдіть до параметрів **нарад.**   >   
 3.  У **розділі Учасники** ввімкніть **параметр Анонімні користувачі можуть приєднатися до наради.**

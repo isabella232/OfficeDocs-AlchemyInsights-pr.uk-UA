@@ -13,16 +13,16 @@ ms.assetid: 858c2f23-bcf5-42e4-92c5-8749eed29dfb
 ms.custom:
 - "835"
 - "2000020"
-ms.openlocfilehash: 42b275309ff7a63899bc03898dd29884fd797a4c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2229ccac30b1bddb943a5fb9a944167895a41129608326ced437231166920610
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828281"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050067"
 ---
 # <a name="solutions-for-error-30179-25"></a>Вирішення для помилки 30179-25
 
-Якщо на жорсткому диску не вистачає місця, може з'явитися повідомлення про помилку з текстом "Не вдалося здійснити потокове передавання пакета Office" (код помилки [30179-25).](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)
+Якщо на жорсткому диску не вистачає місця, може з'явитися повідомлення про помилку з текстом "Не вдалося здійснити потокове Office" (код помилки [30179-25).](https://support.office.com/article/e40d3c7d-98f6-4284-94a0-882beaa44593?wt.mc_id=Alchemy_ClientDIA)
   
-[Звільніть місце на жорсткому диску,](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) [а потім повторно інсталювати Пакет Office.](https://portal.office.com/OLS/MySoftware.aspx)
+[Звільніть місце на жорсткому диску,](https://support.microsoft.com/help/12425/windows-10-free-up-drive-space) [а потім](https://portal.office.com/OLS/MySoftware.aspx)повторно Office .
   

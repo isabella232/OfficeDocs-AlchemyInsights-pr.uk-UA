@@ -1,5 +1,5 @@
 ---
-title: Потрібна Передплата на Microsoft EDGE Sync для роботи з обліковими записами служб Azure Active Directory
+title: Передплата, потрібна, щоб Microsoft Edge синхронізувати для роботи з Azure Active Directory обліковими записами
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049626"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Потрібна Передплата на Microsoft EDGE Sync для роботи з обліковими записами служб Azure Active Directory
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Передплата, потрібна, щоб Microsoft Edge синхронізувати для роботи з Azure Active Directory обліковими записами
 
 Синхронізація працюватиме з однією з таких передплат:
 
-1. "Блакитні активні каталоги" (P1 і P2)
-1. Microsoft 365 Business Premium
-1. Office 365 E3 та вище
-1. Azure захист інформації (P1 і P2)
-1. Усі передплати на Office 365 для навчальних закладів:
-    - Програми Microsoft для студентів або викладачів
+1. Azure Active Directory Premium (P1 і P2)
+1. Microsoft 365 Business преміум
+1. Office 365 E3 і вище
+1. Захист даних в Azure (P1 і P2)
+1. Усі Office 365 Education передплати:
+    - Програми Microsoft для учнів і студентів або викладачів
     - Exchange Online для студентів або викладачів
-    - Office 365 a1 або новіша
-    - Microsoft 365 a1 або новіша
-    - Azure захист інформації P1 або P2 для учнів або викладачів
+    - Office 365 A1 або вище
+    - Microsoft 365 A1 або вище
+    - Захист даних в Azure P1 або P2 для учнів і студентів або викладачів
