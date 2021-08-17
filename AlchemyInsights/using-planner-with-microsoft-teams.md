@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: fb0677e7b4115cb957d32c74ee8ad6de954eb373
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 96f88e51c03c147eff23ab402139a2ede1b185c9438cc9b2de3613d91e4363f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047961"
 ---
 # <a name="using-planner-with-microsoft-teams"></a>Використання Planner з Microsoft Teams
 
-Упорядкуйте свої завдання, додавши одну або кілька вкладок Planner до каналу Teams: 
+Упорядкуйте свої завдання, додавши одну або кілька вкладок Planner до Teams каналу. 
 
-- [Додайте вкладку Planner до каналу команди](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Користувач, який додає вкладку, має бути учасником команди, а не лише власником. Ви можете додати користувача як учасника через інтерфейс Microsoft Teams.
-- [Додавання наявного плану до Microsoft Teams.](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463)
-- [Видалення вкладки Planner або плану.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Видалені плани в Teams відновити не можна. Якщо групу вже видалено, можна відновити [видалені плани та групи](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
-- [Увімкнення або вимкнення сповіщень про завдання Planner в Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams)
+- [Додайте вкладку Planner до каналу команди](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). Користувач, який додає вкладку, має бути учасником команди, а не лише власником. Користувача можна додати як учасника за допомогою Microsoft Teams інтерфейсі.
+- [Додавання наявного плану до Microsoft Teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+- [Видалення вкладки Planner або плану.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan) Видалені плани не можна відновити в Teams. Якщо групу вже видалено, можна відновити [видалені плани та групи](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
+- [Увімкніть або вимкніть сповіщення про завдання Planner Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 
-**Примітка.** Загальні відомості про інтеграцію Planner з Microsoft Teams див. в [статті Використання Planner в Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
+**Примітка.** Загальні відомості про інтеграцію з Planner Microsoft Teams див. в розділі Використання [Planner в Microsoft Teams.](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0)
