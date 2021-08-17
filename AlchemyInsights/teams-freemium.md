@@ -1,5 +1,5 @@
 ---
-title: Команда «Freeум»
+title: Безкоштовна версія Teams з платними функціями
 ms.author: heidip
 author: heidip
 ms.date: 04/21/2020
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "997"
 - "6500005"
-ms.openlocfilehash: 5b4aae884bff8be2a7b2a7018eb28e65aef87e50
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9ee8e58510ec8ca550de60ff7b07855427633bae055b738eeef3e838edd7c609
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708227"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048825"
 ---
-# <a name="id-like-to-sign-up-for-teams-for-free"></a>Я хочу зареєструватися для команд безкоштовно
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Я хочу безкоштовно зареєструватися на отримання Teams реєстрації
 
-Команди доступні безкоштовно через кілька різних програм. Оскільки ви зв'язавшись зі службою підтримки за допомогою цього запиту, ви вже маєте наявний клієнт Microsoft 365, що означає, що ви вже маєте команди Microsoft.
+Teams доступна безкоштовно в кількох різних програмах. Оскільки звертаючись до служби підтримки з цього запиту, у вас уже є Microsoft 365 клієнта, тобто ви вже маєте Microsoft Teams.
 
-У більшості випадків команди ввімкнуто за замовчуванням для всіх користувачів. Після того, як ви ввімкнули, користувачі можуть запускати команди, інсталювавши [настільні](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)   та [мобільні](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients) клієнти, або [з браузера](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)   в [командах Microsoft](https://www.microsoft.com/microsoft-teams/teams-for-work).
+Здебільшого Teams за замовчуванням увімкнуто для всіх користувачів. Коли його ввімкнуто, користувачі можуть запускати програми Teams [](https://docs.microsoft.com/MicrosoftTeams/get-clients#desktop-client)настільних комп'ютерів і мобільних клієнтів або з браузера   в [](https://docs.microsoft.com/MicrosoftTeams/get-clients#mobile-clients)  [](https://dos.microsoft.com/MicrosoftTeams/get-clients#web-client)    [Microsoft Teams](https://www.microsoft.com/microsoft-teams/teams-for-work).
 
-Винятком з цього є групи Microsoft для навчальних закладів (EDU). Якщо у вас є ліцензія EDU, потрібно ввімкнути команди Microsoft вручну. Для цього перейдіть до центру адміністрування Microsoft 365 **> служб і надбудов > команд Microsoft**. Якщо ви використовуєте Центр адміністрування нових команд, вам доведеться вимкнути функцію **"спробувати новий Центр адміністрування"**,   щоб знайти **служби та надбудови**. Важливо: можливо, знадобиться зачекати до 24 годин, щоб зміни набрали сили.
+Виняток полягає в тому, Microsoft Teams для освіти (EDU). Якщо у вас є ліцензія на EDU, потрібно Microsoft Teams вручну. Для цього перейдіть до Центр адміністрування Microsoft 365 **> Services і надбудови > Microsoft Teams**. Якщо ви використовуєте новий Центр адміністрування Teams, вимкніть **** новий Центр адміністрування, щоб знайти служби та    **надбудови.** УВАГА! Можливо, доведеться зачекати до 24 годин, щоб зміни набрали сили.
 
-Не пропустіть всі наші вказівки для [підтримки віддалених працівників за допомогою команд](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Не пропустіть всі наші указівки з підтримки [віддалених працівників із Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
