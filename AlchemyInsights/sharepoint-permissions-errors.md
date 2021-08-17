@@ -1,5 +1,5 @@
 ---
-title: Помилки дозволів SharePoint
+title: SharePoint дозволів
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab3e2accbb9c2e765dd77fc64b92305dce748cd5da3bf0c6c6dd8414737c709f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826616"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107668"
 ---
-# <a name="sharepoint-permissions-errors"></a>Помилки дозволів SharePoint
+# <a name="sharepoint-permissions-errors"></a>SharePoint дозволів
 
 Існує багато сценаріїв, у яких може з'явитись запит на введення одного з цих повідомлень. Найчастіше дозволи для користувача або адміністратора настроєно неправильно або взагалі не настроєно. 
 
-Докладні відомості див. в статтях Про помилки "Немає в доступі", "Потрібен дозвіл на доступ до цього сайту" або "Не вдалося знайти користувача в каталозі" в SharePoint Online і["OneDrive для бізнесу".](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+Докладні відомості див. в статтях Про помилки "Немає доступу", "Потрібен дозвіл на доступ до цього сайту" або "Користувач не знайдено в каталозі" в[службі SharePoint Online і OneDrive для бізнесу.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)

@@ -1,5 +1,5 @@
 ---
-title: 9001220 розширених спеціальних виявлень під час пошуку
+title: 9001220 настроюваних виявлень, які виявляться незайнятими
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 17bee943a0a8e607758bafa0c42bf6580b858952c447c403207bebfba9d8d243
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952306"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882816"
 ---
-# <a name="advanced-hunting-custom-detections"></a>Розширені спеціальні виявлення, які виявляться під час пошуку
+# <a name="advanced-hunting-custom-detections"></a>Розширені спеціальні виявлення під час пошуку
 
-Дізнайтеся, як створювати спеціальні правила виявлення та керувати ними на основі розширених запитів пошуку. За допомогою спеціальних виявлень можна заввибачливо відстежувати різні події та стани системи, зокрема підозрілі дії з порушенням системи та неправильно настроєні пристрої. Це можна зробити за допомогою правил виявлення, які можна настроювати, щоб автоматично ініціювати оповіщення та дії відповіді.
+Дізнайтеся, як створювати спеціальні правила виявлення та керувати ними на основі розширених запитів пошуку. За допомогою спеціальних виявлень можна завгодно відстежувати різноманітні події та стани системи, зокрема підозрілі дії з порушенням системи та неправильно настроєні пристрої. Це можна зробити за допомогою правил виявлення, які можна настроювати, щоб автоматично ініціювати оповіщення та дії відповіді.
   
 Якщо використовується така служба, докладні відомості див. в наведених нижче розділах. 
-- [Огляд настроюваних виявлень](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Створення настроюваних правил виявлення](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Перегляд настроюваних правил виявлення та керування ними](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+- [Огляд настроюваних виявлень](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Створення настроюваних правил виявлення](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Перегляд настроюваних правил виявлення та керування ними](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-Якщо використовується Microsoft 365 Defender, докладні відомості див. в таких розділах: 
-- [Огляд настроюваних виявлень](/microsoft-365/security/mtp/custom-detections-overview)
-- [Створення настроюваних правил виявлення та керування ними](/microsoft-365/security/mtp/custom-detection-rules)
+Якщо ви використовуєте Microsoft 365 Defender, докладні відомості див. в таких розділах: 
+- [Огляд настроюваних виявлень](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
+- [Створення настроюваних правил виявлення та керування ними](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
