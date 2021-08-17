@@ -1,5 +1,5 @@
 ---
-title: Перебіг виконання події служби
+title: Інцидент служби, що виконується
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.assetid: 724f662c-50f0-456a-925a-2ab840a50cd3
 ms.custom:
 - "118"
 - "1600016"
-ms.openlocfilehash: 344507c74530f6f7b91fad68025554d0c6a6a004
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0f2722720060490fa544de42e87c05f230fa09bc01a05623f6d985f1f058042
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074269"
 ---
-# <a name="service-incident-in-progress"></a>Перебіг виконання події служби
+# <a name="service-incident-in-progress"></a>Інцидент служби, що виконується
 
-Можливо, ви торкнулися інцидент служби або консультативної, який зараз розслідується. Ви можете перевірити останній стан, перейшовши на сторінку [справність служби](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Інцидент служби, який зараз досліджується, може впливати на вас. Ви можете перевірити найновіший стан на сторінці [Справність служби.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-Для вашої зручності можна переглянути зведення цього інциденту нижче.
+Для вашої зручності зведені відомості про цей інцидент наведено нижче.
   
 > **Номер інциденту:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
 
