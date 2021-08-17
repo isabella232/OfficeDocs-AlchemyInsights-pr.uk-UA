@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: dac6690b66181455a1c9c0f40a642b71f2af3516d91ea0853d06564b017b03a2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059617"
 ---
 # <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Керування параметрами фойє та рівнем участі в Teams
 
@@ -25,16 +25,16 @@ ms.locfileid: "51820055"
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Цей командлет наразі потребує використання модуля PowerShell служби "Skype для бізнесу". Щоб налаштувати використання цього командлета, ознайомтесь із цією цією командлетом, щоб дізнатися про керування [політиками за допомогою PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
+Цей командлет наразі потребує використання Skype для бізнесу PowerShell. Щоб налаштувати використання цього командлета, ознайомтесь із цією цією командлетом, щоб дізнатися про керування [політиками за допомогою PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
 Після налаштування політики її потрібно застосувати до користувачів. або, якщо ви змінили політику Global, вона автоматично застосовуватиме до користувачів. Щоб політики набрали сили, зачекайте принаймні 4 години до **24** годин. 
 
 Обов'язково перегляньте наведену нижче документацію, перш ніж вносити ці зміни, щоб зрозуміти, що це дозволяє.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Докладні відомості про елементи керування політикою "фойє" наради Teams
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Докладні відомості про Teams елементів керування політикою фойє нарад
 
-Ці параметри керують тим, які учасники наради чекають у фойє, перш ніж їх буде прийнято на нараду, і рівень участі, які вони можуть брати на нараду. За допомогою PowerShell можна оновити параметри політики нарад, які ще не впроваджено (з позначкою "незабаром") у Центрі адміністрування Teams. Нижче наведено приклад командлета PowerShell, який дає змогу всім користувачам обійти фойє.
+Ці параметри керують тим, які учасники наради чекають у фойє, перш ніж їх буде прийнято на нараду, і рівень участі, які вони можуть брати на нараду. За допомогою PowerShell можна оновити параметри політики нарад, які ще не впроваджено (з позначкою "незабаром") Teams адміністрування. Нижче наведено приклад командлета PowerShell, який дає змогу всім користувачам обійти фойє.
 
 - [Автоматично допускати](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) користувачів – це політика кожного організатора, яка визначає, чи користувачі можуть безпосередньо приєднуватися до наради, або чекати у "фойє", доки автентифікований користувач не приєднається до наради.
 
@@ -44,4 +44,4 @@ ms.locfileid: "51820055"
 
 - Дозволити організаторам перевизначати настройки фойє (незабаром) – це політика кожного організатора, яка визначає, чи може  організатор наради  перевизначати параметри фойє, установлені адміністратором у розділі Автоматичне допускання користувачів і Надання користувачам дозволу оминати фойє під час планування нової наради. [](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) 
 
-**Примітка.** Повний [огляд політик нарад Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) див. в статті Керування політиками нарад у Teams.
+**Примітка.** Повний [огляд політик нарад Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) керування політиками Microsoft Teams нарад.

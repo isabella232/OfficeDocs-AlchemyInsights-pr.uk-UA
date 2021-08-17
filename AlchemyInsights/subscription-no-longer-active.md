@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002453"
 - "4763"
-ms.openlocfilehash: a6ffa3a8bbed64194620ae82edf149be91efc42b0e34ed6a05f7ca03478a8697
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea911e83d9b4cb21ae72187a69f89e491b7131a87eafb37dbc53e31e0ab9ee10
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53909703"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890419"
 ---
 # <a name="subscription-no-longer-active"></a>Передплата більше не дійсна
 
@@ -28,8 +28,8 @@ ms.locfileid: "53909703"
 **Повторна активація передплати**
 
 1. У Центрі адміністрування перейдіть на сторінку **Виставлення**  >  [рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. На вкладці **Продукти** знайдіть передплату, яку потрібно повторно активувати. Виберіть три крапки (додаткові дії), а потім виберіть **Повторно активувати цю передплату**.
+2. На вкладці **Продукти** знайдіть передплату, яку потрібно активувати повторно. Виберіть три крапки (додаткові дії), а потім виберіть **Повторно активувати цю передплату**.
 3. В області **Повторна активація цієї передплати** виберіть із розкривного списку метод оплати або клацніть Додати **метод оплати**.
 4. Натисніть **кнопку Зберегти**.
 
-Докладні відомості див. в статті [Повторна активація передплати](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Докладні відомості див. в статті [Повторна активація передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

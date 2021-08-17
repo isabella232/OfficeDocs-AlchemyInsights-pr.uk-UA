@@ -1,5 +1,5 @@
 ---
-title: 2681 Симулятор атаки в Microsoft 365
+title: 2681-681-атака-симулятор Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065305"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895812"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Моделятор атаки в Microsoft 365
 
-- Не бракує симулятора атаки? Для моделювання атаки потрібен **Захисник Microsoft Office 365 (план 2** **або Office 365 для підприємств E5).** Моделятор  атаки не входить до складу Microsoft Defender Office 365 (план 1), Office 365 для підприємств E3 або будь-Програми Microsoft 365 для бізнесу передплати.
+- Не бракує симулятора атаки? Для моделювання атаки потрібен **Захисник Microsoft Office 365 (план 2** **або Office 365 для підприємств E5).** Моделятор  атаки не входить до складу Захисника Microsoft Office 365 (план 1 Office 365 для підприємств E3 або будь Програми Microsoft 365 для бізнесу передплати.
 
-- Для запуску зімітованих атак облікового запису потрібні дозволи глобального адміністратора або адміністратора безпеки та багатофакторна автентифікація (MFA). Докладні відомості про вимоги до моделювання атаки див. [в цій статті.](/microsoft-365/security/office-365-security/attack-simulator)
+- Для запуску зімітованих атак облікового запису потрібні дозволи глобального адміністратора або адміністратора безпеки та багатофакторна автентифікація (MFA). Докладні відомості про вимоги до моделювання атаки див. [в цій статті.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Важливі відомості про **Brute Force Password attack** simulations:
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065305"
 
   - За задумом не можна вказати настроюване значення для URL-адреси сервера **фішинг для входу.**
 
-  - Якщо одержувач використовує [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) надбудову "Активувати звіт про повідомлення", щоб повідомити про фішинг, повідомлення може не надійти (оскільки це зімітована атака).
+  - Якщо одержувач використовує [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) надбудову "Активувати звіт про повідомлення", щоб повідомити про фішинг, повідомлення може не надійти (оскільки це зімітована атака).
 
 - Звіти. Після зімітованої атаки можна натиснути кнопку Відомості про **атаку,** щоб переглянути звіт.
 
-- Докладні інструкції та нові функції в симуляторі атаки див. в статті [Моделятор атаки Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- Докладні інструкції та нові функції в імітаторі атаки див. в статті [Моделятор атаки в Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

@@ -1,5 +1,5 @@
 ---
-title: Скасування передплати Visio
+title: Скасування Visio передплати
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 6bbada43d53801d137e53afffca30d89cbb60e051c5c426711caaadb36cf39bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54082675"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895648"
 ---
-# <a name="cancel-visio-subscription"></a>Скасування передплати Visio
+# <a name="cancel-visio-subscription"></a>Скасування Visio передплати
 
 Адміністратори можуть скасувати передплату Visio для своєї організації в Центр адміністрування Microsoft 365.
 
@@ -32,4 +32,4 @@ ms.locfileid: "54082675"
 
 **Відшкодування:** Пропорції повернуться вам протягом наступного розрахункового циклу.
 
-Докладні відомості див. в [статтях Скасування передплати.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Докладні відомості див. [в статтях Скасування передплати.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

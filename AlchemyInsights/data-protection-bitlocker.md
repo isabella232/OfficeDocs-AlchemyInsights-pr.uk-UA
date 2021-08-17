@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f6e48b9d2f7562d74d60c2901759a7ab359e5c67bd4aa2d556d941a41ab680c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118621"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Увімкнення шифрування Bitlocker за допомогою Intune
 
-Політику захисту кінцевих точок Intune можна використовувати, щоб настроїти параметри шифрування BitLocker для пристроїв Windows. Докладні відомості див. в розділі Настройки Windows 10 (і пізніших версій) для [захисту пристроїв за допомогою Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
+Політику захисту кінцевих точок Intune можна використовувати, щоб настроїти параметри шифрування Bitlocker Windows пристроях. Докладні відомості див. [в Windows 10 (і пізніших) для захисту пристроїв за допомогою Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
 
 Окрім політики захисту кінцевої точки також є звіт про шифрування, який надає детальніше подання стану шифрування для пристроїв. Цей звіт можна отримати на порталі MEM у розділі Пристрої **> Монітор,** а потім у розділі Конфігурація **виберіть** Звіт про [шифрування.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)
 
@@ -31,13 +31,13 @@ ms.locfileid: "51815636"
 
 Слід знати, що багато новіших пристроїв із Windows 10 підтримують автоматичне шифрування Bitlocker, що активується без застосування політики MDM. Це може вплинути на програму політики, якщо налаштовано нестандартні параметри. Докладні відомості див. в наведених нижче запитаннях і відпомонях.
 
-Відомості про виправлення неполадок, пов'язаних із bitlocker, див. в статті Виправлення неполадок [політик BitLocker в Microsoft Intune.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
+Відомості про виправлення неполадок, пов'язаних із [bitlocker,](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)див. в цій Microsoft Intune .
  
  
 **Запитання й відповіді**
 
-Запитання. Які випуски Windows підтримують шифрування пристроїв за допомогою політики захисту кінцевих точок?<br>
-В. Настройки в політиці захисту кінцевих точок Intune впроваджуються за допомогою [технології BitLocker CSP.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Не всі випуски та збірки Ос Windows підтримують підтримку процесора CSP Bitlocker. <br><br>
+Запитання. Які випуски Windows підтримує шифрування пристрою за допомогою політики захисту кінцевих точок?<br>
+В. Настройки в політиці захисту кінцевих точок Intune впроваджуються за допомогою [технології BitLocker CSP.](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp) Не всі випуски та збірки Windows підтримують процесор Bitlocker CSP. <br><br>
 
 Запитання. Як можна ввімкнути Bitlocker на пристроях без необхідності взаємодії з користувачем?<br>
 В. Таким чином, за умови, що необхідні попередні умови виконуються, можна ввімкнути Bitlocker "Silent Encryption" через Intune. Докладні відомості про вимоги до пристрою та приклад параметрів політики, які дають змогу вмикати автоматичне шифрування, див. в таких документах: [Silently Enable Bitlocker Encryption](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices)(Без прохання ввімкнути bitlocker Encryption). <br><br>
@@ -50,6 +50,6 @@ ms.locfileid: "51815636"
 В. Видалення політики, пов'язаної з шифруванням, НЕ призводить до розшифрування настроєних дисків.
  
 Запитання. Чому політика відповідності Intune показує, що на пристрої не ввімкнуто Bitlocker, хоча це так?<br>
-В. Параметр "Bitlocker увімкнуто" в політиці відповідності Intune користуєся клієнтом Windows Device Health Attestation (DHA). Цей клієнт вимірює стан пристрою лише під час завантаження. Тому якщо після завершення шифрування Bitlocker пристрій не перезавантажився, клієнтська служба DHA не повідомлятиме про активність Bitlocker.
+В. Параметр "Bitlocker enabled" (Bitlocker увімкнуто) у політиці відповідності Intune користуєся клієнтом Windows Device Health Attestation (DHA). Цей клієнт вимірює стан пристрою лише під час завантаження. Тому якщо після завершення шифрування Bitlocker пристрій не перезавантажився, клієнтська служба DHA не повідомлятиме про активність Bitlocker.
  
  

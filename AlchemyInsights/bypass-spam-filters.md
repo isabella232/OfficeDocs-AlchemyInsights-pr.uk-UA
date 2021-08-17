@@ -1,5 +1,5 @@
 ---
-title: 2637 обхід фільтрування спаму, щоб дозволити певним повідомленням?
+title: 2637 Обійдіть фільтрування спаму, щоб дозволити певні повідомлення?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "2637"
 - "9000682"
 ms.assetid: ''
-ms.openlocfilehash: 3c2fd2bb8394b7a4499b539c9b676918d3c0e5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aa9ee7cd7710517dfcc441cd931b9f427474869ad49ed0fa0a91a06e06682ed7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059581"
 ---
-# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Обходити фільтрування спаму, щоб дозволити певним повідомленням?
+# <a name="bypass-spam-filtering-to-allow-specific-messages"></a>Обійти фільтрування спаму, щоб дозволити певні повідомлення?
 
-Під час створення списку дозволених рекомендується [обережно](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) . Наприклад, якщо ви дозволите вашому власному домену, зловмисники зможуть отримати відповідні повідомлення та передавати їх як домен.  Натомість радимо використовувати посібник з [Виправлення неполадок](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection), який допоможе визначити, чому повідомлення було позначено як спам, і що можна зробити, щоб безпечно дозволити доставку повідомлення.
+Радимо [обережно створювати](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters) список дозволів. Наприклад, якщо дозволити власний домен, зловмисники зможуть піддавати та надсилати повідомлення як домен.  Натомість радимо зробити це помилковим посібником із виправлення помилкових [результатів,](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-protection)який допоможе визначити, чому надійне повідомлення позначено як спам, і що можна зробити, щоб безпечно дозволити доставку повідомлення.

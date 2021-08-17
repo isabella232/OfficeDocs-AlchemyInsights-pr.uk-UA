@@ -1,5 +1,5 @@
 ---
-title: 610 Дізнайтеся про групи Microsoft 365
+title: 610 Докладні відомості про Microsoft 365 групи
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "610"
 - "3800008"
 ms.assetid: 6db67087-c251-49db-ad9e-d9c41da25c56
-ms.openlocfilehash: 7ada16406b79317882831c54bdee117153723dd9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d58d72ff81be8b1ea2873996043f2b08b550233ab4a817f4e2476944624a17b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676795"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087481"
 ---
-# <a name="learn-about-microsoft-365-groups"></a>Відомості про групи Microsoft 365
+# <a name="learn-about-microsoft-365-groups"></a>Відомості про Microsoft 365 Групи
 
-Групи Microsoft 365 – це служба, яка працює з інструментами Office 365, які ви використовуєте вже, тому ви можете співпрацювати з колегами під час написання документів, створення електронних таблиць, робота над планами проекту, планування нарад або надсилання електронної пошти. Докладні відомості наведено в статті [відомості про групи Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Microsoft 365 Групи – це служба, яка працює з уже використовуваними засобами Office 365, тому ви можете співпрацювати з колегами, створюючи документи, створюючи електронні таблиці, працюючи над планами проектів, планами нарад або надсилаючи електронну пошту. Докладні відомості [див. в Microsoft 365 Групами.](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2)

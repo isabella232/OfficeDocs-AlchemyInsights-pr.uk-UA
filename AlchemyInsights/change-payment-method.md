@@ -15,16 +15,16 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500037"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895512"
 ---
 # <a name="change-payment-method"></a>Змінення методу оплати
 
-Спосіб оплати можна змінити на Центр адміністрування Microsoft 365 **.**
+Спосіб оплати можна змінити на вкладці **Центр адміністрування Microsoft 365**.
   
 1. У Центрі адміністрування перейдіть на сторінку **Виставлення рахунків** > **Рахунки та платежі** > [Способи оплати](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 2. Виберіть рядок зі способом оплати, який потрібно замінити. В області праворуч буде наведено всі профілі виставлення рахунків та окремі передплати, які використовують вибраний спосіб оплати.
@@ -36,6 +36,6 @@ ms.locfileid: "54500037"
 6. В області **Додати спосіб оплати** введіть відомості облікового запису й натисніть **Зберегти**. Потрібно використовувати спосіб оплати з тієї ж країни, що й у вашого клієнта.
 7. Новий спосіб оплати вже вибрано в розкривному списку. Натисніть **Замінити**.
 
-Відомості про додавання, оновлення, заміну та видалення методів оплати див. в статті Керування [методами оплати.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Відомості про додавання, оновлення, заміну та видалення методів оплати див. в статті Керування [методами оплати.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Відомості про те, як змінити метод оплати, див. в [статті Як оплачувати передплату.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Відомості про те, як змінити метод оплати, див. в [статті Як оплачувати передплату.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

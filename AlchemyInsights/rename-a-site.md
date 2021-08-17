@@ -11,24 +11,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcba86584c42587c89c9c7ae4cdb3f05b6e51bd509ab7a36a41de2ac00f8f391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110772"
 ---
-# <a name="rename-a-sharepoint-site"></a>Перейменування сайту SharePoint
+# <a name="rename-a-sharepoint-site"></a>Перейменування SharePoint сайту
 
-Щоб змінити або перейменувати URL-адресу сайту, у статті [змінити адресу сайту](https://docs.microsoft.com/sharepoint/change-site-address), виконайте описані дії. Наприклад, щоб змінити https://contoso.sharepoint.com/sites/sample1 його https://contoso.sharepoint.com/sites/sample2 .
+Дії зі змінення та перейменування URL-адреси сайту документовані в [статті Змінення адреси сайту](https://docs.microsoft.com/sharepoint/change-site-address). наприклад, щоб змінити формат на https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
 
-Щоб отримати відомі помилки під час перейменування, перегляньте [повідомлення про помилки, коли ви перейменуєте адресу сайту SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+Відомі помилки під час перейменування див. в SharePoint [адресі сайту.](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
 
-Щоб отримати відомі ефекти після перейменування, ознайомтеся [з дією змінення адреси сайту](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+Відомості про відомі ефекти після перейменування див. в [цьому](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)відео.
 
-**Примітка.** Ви не можете змінити ім'я домену (у наведеному вище прикладі "contoso" частина URL-адреси) в URL-адресі SharePoint Online. 
+**Примітка.** Не можна змінити ім'я домену (у наведеному вище прикладі – "contoso" за URL-адресою) у SharePoint Online. 
 
 Докладні відомості:
 
-- [Змінення імені домену SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [Помилки під час перейменування адреси сайту SharePoint](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+- [Змінення імені SharePoint домену](https://go.microsoft.com/fwlink/?Linkid=2018696)
+- [Помилки під час перейменування адреси SharePoint сайту](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

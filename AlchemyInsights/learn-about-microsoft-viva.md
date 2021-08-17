@@ -1,5 +1,5 @@
 ---
-title: Відомості про Microsoft Viva
+title: Докладніше про Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8338"
-ms.openlocfilehash: b87a08b698de39f0b447c15845037abbc3c311c3
-ms.sourcegitcommit: 0f1e81498c68a5d1aba76a21fdae91a141b69f89
+ms.openlocfilehash: 3e540cc31841e8b47b34b56546e87a43eb7afd22c28a9244bc3016e9937b087c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50427964"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087517"
 ---
-# <a name="learn-about-microsoft-viva"></a>Відомості про Microsoft Viva
+# <a name="learn-about-microsoft-viva"></a>Докладніше про Microsoft Viva
 
-Microsoft Viva надасть кожному працівнику нову цифрову епоху. Докладніше про це див. в статтях:
+Microsoft Viva зумовить кожним працівником новий цифровий вік. Докладніше про це див. в статтях:
 
 - [Загальні відомості про Microsoft Viva](https://www.microsoft.com/microsoft-viva/overview)
-- [Відомості про зв'язки з Viva](https://aka.ms/VivaConnectionsBlog/)
-- [Відомості про пропозиції Viva](https://aka.ms/VivaInsightsBlog)
-- [Відомості про навчання Viva](https://aka.ms/VivaLearningBlog)
-- [Відомості про Viva теми](https://aka.ms/viva/topics/blog)
+- [Докладніше про Viva Connections](https://aka.ms/VivaConnectionsBlog/)
+- [Докладніше про програму Viva Аналітика](https://aka.ms/VivaInsightsBlog)
+- [Дізнайтеся про те, як Навчання](https://aka.ms/VivaLearningBlog)
+- [Докладніше про теми Viva](https://aka.ms/viva/topics/blog)
 
-Додаткові відомості наведено в статті [Microsoft Viva: розширення можливостей кожного працівника для нового цифрового віку](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/).
+Докладні відомості [див. в Microsoft Viva.](https://www.microsoft.com/microsoft-365/blog/2021/02/04/microsoft-viva-empowering-every-employee-for-the-new-digital-age/)Забезпечення всім працівникам нового цифрового віку.

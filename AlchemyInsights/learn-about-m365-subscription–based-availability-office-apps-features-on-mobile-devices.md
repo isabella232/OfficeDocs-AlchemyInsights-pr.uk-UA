@@ -1,5 +1,5 @@
 ---
-title: Відомості про абонентську плату Microsoft 365 – доступність функцій програм Office на мобільних пристроях
+title: Дізнайтеся про Microsoft 365 доступність функцій програм Office основі передплати на мобільні пристрої
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087445"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Відомості про абонентську плату Microsoft 365 – доступність функцій програм Office на мобільних пристроях
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>Дізнайтеся про Microsoft 365 доступність функцій програм Office основі передплати на мобільні пристрої
 
-Усі плани Microsoft 365 дають змогу переглядати документи в програмах Word, Excel, PowerPoint і OneNote на пристроях з iOS, Android і Windows Mobile. Однак доступність функцій і файлів цих програм залежить від вашої передплатою – кваліфікаційного плану Microsoft 365 або некваліфікаційного плану або одноразової покупки Office, а також розмір екрана мобільного пристрою.
+Усі плани Microsoft 365 дають змогу переглядати документи в програмах Word, Excel, PowerPoint і OneNote на мобільних пристроях iOS, Android Windows і PowerPoint. Проте доступність функцій і файлів цих програм залежить від вашої передплати – Microsoft 365 кваліфікуваного плану, невідвідцільного плану або одноразового придбання Office, а також розміру екрана мобільного пристрою.
 
-Щоб дізнатися більше, Дізнайтеся, [що можна робити в програмах Office на мобільних пристроях за допомогою передплатою Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2135575). 
+Докладні відомості [див. в Office на](https://go.microsoft.com/fwlink/?linkid=2135575)мобільних пристроях із передплатою Microsoft 365. 
