@@ -1,5 +1,5 @@
 ---
-title: Модерніта класичний досвід роботи зі службою SharePoint
+title: Модернізуйте класичні SharePoint можливості
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a6ea80b64d98f8def1831297768a33e65d0b3891bce564385631ad01a5a2602
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800629"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085465"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>Модерніта класичний досвід роботи зі службою SharePoint
+# <a name="modernize-your-classic-sharepoint-experience"></a>Модернізуйте класичні SharePoint можливості
 
-Щоб перейти до сучасного інтерфейсу користувача, ознайомтеся з такими ресурсами:
+Щоб перейти до сучасного інтерфейсу користувача, ознайомтеся з наведеними нижче ресурсами.
 
-- [Створення **сучасних сайтів** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (сайту групи або сайту спілкування). Використання [книги SharePoint Look](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) для створення гарної, потужної інтрамережі, яка з'єднує робоче місце. Перегляньте [Приклади](https://lookbook.microsoft.com/) та отримайте [вказівки з оформлення](https://spdesign.azurewebsites.net/).
-- [Підключіть сайт до **групи Microsoft 365** ,](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) щоб збільшити співпрацю в межах програми Microsoft 365.
-- Перетворення на **сучасний список і бібліотечну** роботу, активувавши [списки та бібліотеки, щоб відобразити в сучасному інтерфейсі користувача](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-- Перетворення **сторінок сайту** з класичної **вікі**- **частини**та **домашніх** сторінок на [сучасні сторінки на стороні клієнта](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). [Сканер модернізації SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) надає відомості про використання сторінок поточного вікі-сторінки та сторінок веб-частин, які допоможуть вам визначити пріоритети перетворення сторінки.
+- [Створювати **сучасні сайти**](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (сайт групи або сайт для спілкування). За допомогою [SharePoint Look Book можна](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) створити чудову потужну інтрамережу, яка з'єднує робоче місце. Перегляньте [приклади](https://lookbook.microsoft.com/) й [отримуйте довідці з оформлення.](https://spdesign.azurewebsites.net/)
+- [Підключення сайт до групи **Microsoft 365,**](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) щоб збільшити співпрацю між різними Microsoft 365.
+- Перетворіть їх **на сучасний інтерфейс** списків і бібліотек, увімкнувши відображення списків і бібліотек [у сучасному інтерфейсі користувача.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+- Перетворіть **сторінки сайту** з  **класичного вікі-сайту,** веб-частини та **домашніх** сторінок на [сучасні сторінки на боці клієнта.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) [Сканер SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) модернізації містить відомості про використання сторінок на поточних сторінках вікі-сайтів і веб-частин, які допомагають у пріоритеті перетворювати сторінки.
 
-Додаткова інформація:
+Додаткові відомості:
 
-- Щоб отримати покрокові вказівки з модернізації класичної версії SharePoint до сучасних, ознайомтеся зі статтею [модернізації класичного досвіду SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
-- Перегляньте Посібник із [сучасним досвідом](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
-- Переглядайте [класичні та сучасні досліди SharePoint](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
+- Покроковий огляд модернізування класичного інтерфейсу SharePoint сучасності див. в розділі Модернізація класичного [інтерфейсу SharePoint інтерфейсу.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
+- Див. посібник із [сучасного використання](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- Див. [SharePoint Класичний і сучасний режими.](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)

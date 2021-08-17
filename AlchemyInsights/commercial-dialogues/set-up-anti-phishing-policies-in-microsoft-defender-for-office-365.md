@@ -1,5 +1,5 @@
 ---
-title: Налаштування антифішингнових політик у Microsoft Defender для Office 365
+title: Налаштування антифішинговних політик у Microsoft Defender для Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 97ff250f5b2b3f970a71b3a5f31faad7c65cd60b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: bf7b6763111c92ab9b01d991a8c9598890fb973e04e66a24b1f21863e11e2d91
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58313448"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895104"
 ---
-# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Налаштування антифішингнових політик у Microsoft Defender для Office 365
+# <a name="set-up-anti-phishing-policies-in-microsoft-defender-for-office-365"></a>Налаштування антифішинговних політик у Microsoft Defender для Office 365
 
-1. На порталі Microsoft 365 Defender у розділі Політики співпраці & електронної пошти & політики загроз для захисту від <https://security.microsoft.com/>  \>  \>  \> фішингів.  
+1. На порталі Microsoft 365 Defender перейдіть до розділу Політики співпраці & електронної пошти & політики захисту від загроз & фішинг у розділі <https://security.microsoft.com/>  \>  \>  \>  Політики. 
 
    Щоб перейти безпосередньо на сторінку **"Захист від фішингів",** <https://security.microsoft.com/antiphishing> скористайтеся .
 

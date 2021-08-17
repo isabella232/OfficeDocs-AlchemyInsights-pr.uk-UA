@@ -1,5 +1,5 @@
 ---
-title: Рівні дозволів SharePoint Online
+title: SharePoint Онлайнові рівні дозволів
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 3657a3f01b362fbe8877c342ec59f10b9a1b63ab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13f71d0eac4a1895061b75968437fe32e4f5f9109ab9c9f0edfe371d7d0c995c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770977"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085177"
 ---
-# <a name="sharepoint-online-permission-levels"></a>Рівні дозволів SharePoint Online
+# <a name="sharepoint-online-permission-levels"></a>SharePoint Онлайнові рівні дозволів
 
-SharePoint постачається з певними рівнями дозволів за замовчуванням, які можна використовувати, наприклад лише для участі та перегляду. Якщо вони не відповідатимуть вашим потребам, можна створити додаткові рівні дозволів. Можна легко відстежувати дозволи, якщо ви не редагуєте або видаляєте рівні за замовчуванням, а якщо додати користувачів до груп і призначати рівні дозволів для цих груп, а не призначати рівні дозволів окремим користувачам.
+SharePoint містить кілька стандартних рівнів дозволів, як-от "Внесати" та "Лише перегляд". Якщо вони не відповідають вашим потребам, можна створити додаткові рівні дозволів. Найпростіший із них – відстежувати дозволи, якщо не змінювати та не видаляти рівні за замовчуванням, а додавати користувачів до груп і призначати рівні дозволів цим групам, а не окремим користувачам.
   
-- [Загальні відомості про рівні дозволів](https://go.microsoft.com/fwlink/?linkid=867071)
+- [Докладні відомості про рівні дозволів](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [Створення та редагування рівнів дозволів](https://go.microsoft.com/fwlink/?linkid=867072)
+- [Створення та змінення рівнів дозволів](https://go.microsoft.com/fwlink/?linkid=867072)
     
 
