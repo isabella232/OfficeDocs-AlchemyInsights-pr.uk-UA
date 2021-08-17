@@ -12,16 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: f49e2d44fd7f4b44a69ec3fd43f7bd0818015fad38c79097648456f53ff6870e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a35e818ea5005a29163d990825a753ca834e9f8c24d6038b319b1382587fc286
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967966"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898341"
 ---
 # <a name="find-a-specific-quarantined-message"></a>Пошук певного повідомлення в карантині
 
-1. Перейдіть до Центру [безпеки & відповідності.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Перейдіть до **вправи керування**  >    >  **загрозами в карантин.**
-3. Натисніть **кнопку Пошук**.
-4. Виберіть будь-яку комбінацію умов, встановивши прапорці поруч із ними (наразі не можна використовувати символи узагальвання).
+1. На порталі Microsoft 365 Defender перейдіть до пункту Електронна <https://security.microsoft.com> пошта & Quarantine  \>  \> **Collaboration Review (Карантин)**.
+
+   Щоб перейти безпосередньо до сторінки **"Карантин",** <https://security.microsoft.com/quarantine> скористайтеся .
+
+2. На сторінці **Карантин переконайтеся,**  що вкладку електронного листа вибрано, а потім натисніть кнопку **Фільтр.**
+3. Виберіть будь-яке поєднання властивостей, щоб відфільтрувати та знайти повідомлення.
+
+Докладні відомості див. в таких розділах:
+
+- [Пошук і випуск повідомлень у карантині як користувача](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Керування повідомленнями та файлами в карантині як адміністратор](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

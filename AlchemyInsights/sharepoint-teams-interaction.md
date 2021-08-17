@@ -1,5 +1,5 @@
 ---
-title: Довідка з SharePoint та Microsoft Teams взаємодії
+title: Довідка з взаємодії SharePoint Microsoft Teams взаємодії
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812978"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898377"
 ---
-# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Довідка з SharePoint та Microsoft Teams взаємодії
+# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Довідка з взаємодії SharePoint Microsoft Teams взаємодії
 
 Кожна команда в Microsoft Teams має сайт групи в SharePoint, і кожен стандартний канал команди отримує папку в стандартній бібліотеці документів сайту групи. Кожен приватний канал має власний окремий SharePoint сайту. Додаткові відомості
 
-- Докладні відомості про приватну взаємодію каналів див. в цій [Microsoft Teams](/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+- Докладні відомості про приватну взаємодію каналів див. в цій [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-- Докладні відомості про обмеження та SharePoint сховища див. в статті Обмеження та специфікації [Microsoft Teams](/microsoftteams/limits-specifications-teams#storage). 
+- Докладні відомості про обмеження та SharePoint сховища див. в статті Обмеження та [специфікації Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage). 
