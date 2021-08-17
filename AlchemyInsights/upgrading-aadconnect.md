@@ -1,5 +1,5 @@
 ---
-title: 932 оновлення AADConnect
+title: Оновлення AADConnect (932)
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806060"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104833"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Оновлення "Azure AD Connect"
+# <a name="upgrade-azure-ad-connect"></a>Оновлення Azure AD Підключення
 
-За замовчуванням автоматичне оновлення ввімкнуто для Azure AD Connect, що допомагає забезпечити роботу найновішої версії. Щоб перевірити параметри автоматичного оновлення, скористайтеся командлетом **Get-ADSyncAutoUpgrade** в ЛАЗУРКОМУ AD PowerShell. Командлет поверне одне з наведених нижче значень.
+За замовчуванням для служб Azure AD Підключення ввімкнуто автоматичне оновлення, яке гарантує, що ви використовуєте найновішу версію. Щоб перевірити параметри автоматичного оновлення, скористайтеся **командлетом Get-ADSyncAutoUpgrade** в Azure AD PowerShell. Командлет поверне одне з таких значень:
 
-- **Увімкнуто**: функція автоматичного оновлення ввімкнена.
+- **Увімкнуто.** Увімкнуто автоматичне оновлення.
 
-- **Вимкнуто**: автоматичне оновлення вимкнуто.
+- **Вимкнуто.** Автоматичне оновлення вимкнуто.
 
-- **Призупинено**: система більше не має права на отримання автоматичних оновлень. Не можна настроїти це значення; це встановлено системою.
+- **Призупинено:** система більше не має право отримувати автоматичні оновлення. Це значення настроїти не можна. його встановлює система.
 
-Докладні відомості наведено в статті [Автоматичне оновлення](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Докладні відомості див. в [розділі Автоматичне оновлення.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-Щоб завантажити найновішу версію служби Azure AD Connect, перейдіть на сторінку [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Щоб завантажити найновішу версію Azure AD Підключення, перейдіть до [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

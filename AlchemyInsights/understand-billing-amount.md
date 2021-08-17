@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919690"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304354"
 ---
 # <a name="understand-billing-amount"></a>Відомості про суму рахунка
 
 **Під керованим клієнтом (WD):**
 
-- Довідку з перегляду й розуміння рахунка див. в навчальній [вправі: перегляд окремого рахунка Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Довідку з перегляду та розуміння рахунка див. в навчальній [вправі: перегляд окремого рахунка Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Загальні відомості про терміни в рахунку-фактурі: [пояснені умови рахунка-фактури Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Загальні відомості про тарифи на використання Azure: [пояснені умови використання](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Щоб отримати PDF-файл рахунка та копію докладного файлу щоденного використання (.CSV): отримання даних [рахунка-фактури та даних про використання](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
@@ -34,7 +34,7 @@ ms.locfileid: "53919690"
 
 [Як перевірити доступ до Клієнтської угоди корпорації Майкрософт?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
-- Довідку з перегляду та розуміння рахунка див. в навчальному посібнику: перегляд рахунка за [клієнтську](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support) угоду з майкрософт
+- Довідку з перегляду та розуміння рахунка див. в навчальному посібнику: перегляд рахунка за клієнтську угоду [з майкрософт](https://docs.microsoft.com/azure/cost-management-billing/understand/review-customer-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Розуміння умов у рахунку-фактурі: пояснені умови [рахунка-фактури з клієнтською угодою з корпорації Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Загальні відомості про тарифи на використання Azure: Умови використання клієнтської [угоди Майкрософт](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Якщо у вас є клієнтська [угода з майкрософт,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)ви можете завантажити її на [порталі Azure](https://portal.azure.com/).
@@ -54,20 +54,22 @@ ms.locfileid: "53919690"
 - Увійдіть **на корпоративний портал.** Виберіть **"Звіти"**
 - У верхньому правому куті вкладки перемкніться подання **з M** на **C** та збігайтеся з періодом у рахунку-фактурі
 - Загальна **сума використання** має відповідати загальній **сумі загальної суми** в рахунку-фактурі за перенавантаження служби
-- Докладні відомості про витрати див. **в** розділі Завантаження > завантаження звіту про використання служби office 365. Цей звіт не містить податків, відрахування за резервування або нарахування на ринку.
+- Докладні  відомості про витрати див. в розділі Завантаження > завантаження звітів. Примітка. Цей звіт не містить податків, відрахування за резервування або внески на ринок.
 
 **Ринок Azure**
 
 - Докладні відомості про виставлення рахунків сторонніх постачальників: [виставлення рахунків у Ринку Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Рахунок-фактура з ринку:
+Рахунок-фактура з перегляду ринку:
 
-Порівняйте загальну суму Ринку Azure зі списку звітів > зведення про використання на корпоративному порталі з рахунком-фактурою на ринку. Рахунок на ринок можна отримати лише для покупок і використання Ринку Azure. Суми зведення про використання не включають податок.
+Порівняйте загальну суму Ринку Azure зі звітів > зведення про використання на корпоративному порталі з рахунком-фактурою на ринку. Рахунок на ринок можна отримати лише для покупок і використання Ринку Azure. Суми зведення про використання не включають податок.
 
 - Увійдіть **на корпоративний портал.** Виберіть **"Звіти"**
 - У верхньому правому куті вкладки перемкніться подання **з M** на **C** та збігайтеся з періодом у рахунку-фактурі
 - Загальна **сума Ринку Azure** має відповідати підсумковій **сумі** продажу в рахунку-фактурі ринку
-- Докладні **відомості про платежі** на основі використання див. в статтях Завантаження відомостей про використання. У **розділі Збори на** ринку виберіть **Примітка** для **завантаження.** Цей звіт не містить податків і не показує одноразові покупки
+- Докладні **відомості про платежі** на основі використання див. в статтях Завантаження відомостей про використання. У **розділі "Витрати на ринок"** виберіть **Завантажити** 
+
+**Примітка.** Цей звіт не містить податків і не показує одноразового придбання
 
 **Постачальник хмарних рішень (CSP)**
 
