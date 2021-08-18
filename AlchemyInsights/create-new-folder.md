@@ -1,5 +1,5 @@
 ---
-title: 8000059 створення нової папки
+title: 8000059 "Створити папку"
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,18 +12,18 @@ ms.custom:
 - "994"
 - "8000059"
 ms.assetid: b8fbcf77-c6ab-43e8-8fb9-ae65530d73bf
-ms.openlocfilehash: 465c4e07d753afbe3d171981824236943966362c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c64c4333e23e757bc070dab34e9e079bed17d8022306fdfdb68892fda76a4981
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732484"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090253"
 ---
-# <a name="create-a-new-folder-in-outlookcom"></a>Створення нової папки в Outlook.com
+# <a name="create-a-new-folder-in-outlookcom"></a>Створення папки в Outlook.com
 
-1. У розділі **папки** в області переходів виберіть **Нова папка**.
+1. В **області переходів** у розділі Папки натисніть кнопку **Створити папку.**
 
-2. Введіть ім'я для папки та натисніть клавішу ВВІД.
+2. Введіть ім'я папки й натисніть клавішу Enter.
 
-Докладні відомості можна знайти [в статті створення папки в Outlook.com](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy).
+Докладні відомості див. [в Outlook.com.](https://support.office.com/article/5fa8de74-3562-4729-ac1d-5599f470b25a?wt.mc_id=Office_Outlook_com_Alchemy)
   

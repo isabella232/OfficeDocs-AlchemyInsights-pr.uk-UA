@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 7746e44a0ee5a4442051900985aab339b09652f08e412b02a02429c93cc7c107
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d6be4331967ed9ae362f5da85856b03cfa40b319
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895200"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317829"
 ---
 # <a name="find-out-who-set-up-forwarding-on-a-mailbox-and-how"></a>Дізнайтеся, хто налаштовує пересилання поштової скриньки, і як це зробити
 
@@ -26,10 +26,9 @@ ms.locfileid: "57895200"
 
 1. Виконайте одну з таких дій:
    - У розділі Центр відповідності Microsoft 365 <https://compliance.microsoft.com> перейдіть до пункту Аудит  \> **рішень.** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://compliance.microsoft.com/auditlogsearch> скористайтеся .
-   - На порталі Microsoft 365 Defender виберіть <https://security.microsoft.com> аудит . Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://security.microsoft.com/auditlogsearch> скористайтеся .
+   - На порталі Microsoft 365 Defender перейдіть <https://security.microsoft.com> до в меню **Audit (Аудит).** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://security.microsoft.com/auditlogsearch> скористайтеся .
 
-   > [!NOTE]
-   > Якщо з'явилось повідомлення про те, що потрібно ввімкнути аудит, увімкніть його зараз. Якщо цю функцію вимкнуто, результати пошуку не зможуть отримувати дані з попередніх дат.
+   **Примітка.** Якщо з'явилось повідомлення про те, що потрібно ввімкнути аудит, увімкніть його зараз. Якщо цю функцію вимкнуто, результати пошуку не зможуть отримувати дані з попередніх дат.
 
 2. На сторінці **Аудит** переконайтеся, що на вкладці **Пошук** вибрано вкладку Пошук, а потім налаштуйте такі параметри:
    - У полях Початок і Кінець **виберіть** діапазон дат **і** часу.
@@ -44,4 +43,4 @@ ms.locfileid: "57895200"
    - **Параметри.** _ForwardingSmtpAddress указує_ цільову адресу електронної пошти.
    - **UserId (Ідентифікатор користувача).** Користувач, який настроєний для пересилання електронної пошти, у полі **ObjectId поштової** скриньки.
 
-Докладні відомості див. в відомості про те, як [визначити, хто налаштовує пересилання електронної пошти для поштової скриньки.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Докладні відомості див. в [відомості про те, як визначити, хто налаштовує пересилання електронної пошти для поштової скриньки.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

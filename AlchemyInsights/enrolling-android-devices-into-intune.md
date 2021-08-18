@@ -1,5 +1,5 @@
 ---
-title: Зарахування пристроїв Android на InTune
+title: Зарахування пристроїв з Android в Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090178"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Зарахування пристроїв Android на InTune
+# <a name="enrolling-android-devices-into-intune"></a>Зарахування пристроїв з Android в Intune
 
-Якщо ви хочете перенести користувачів із програми "адміністратор пристроїв Android" до компанії Android, перегляньте: [переміщення пристроїв Android із адміністратора пристроїв для керування робочим профілем](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Якщо ви збираєтеся перенести користувачів із зарахування адміністратора пристроїв Android до Android Enterprise, ознайомтеся зі стилями: Переміщення пристроїв Android із адміністратора пристрою до керування [профілем.](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)
 
-Inune підтримує реєстрацію таких пристроїв Android:  
+Intune підтримує такі пристрої Android:  
 
-- [Samsung Нокс, Зебра, адміністратор пристроїв](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Профіль робочого для Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Виділений Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Повністю кероване підприємство з Android](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, Zebra, адміністратор пристрою](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Профіль для роботи в Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise спеціальний](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Повністю кероване Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Перед настроюванням реєстрації для пристроїв Android [ознайомтеся з попередніми реквізитами](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+Перш ніж налаштувати реєстрації для пристроїв з Android, перегляньте попередні [вимоги.](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-Щоб отримати відомості про виправлення неполадок із реєстрацією пристрою в загальному та деяких помилок реєстрації в ОС Android, перегляньте статтю [Виправлення неполадок із реєстрацією пристроїв у Microsoft InTune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
+Відомості про виправлення неполадок із загальною інформацією про увійдіть [](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)у несправностей, пов'язаних із їхніми версіями, і про деякі помилки, пов'Microsoft Intune.
 
-Ви також можете використовувати вміст, який описує відповідь на виправлення неполадок, щоб визначити, які проблеми з зарахуванням зазнають користувачі.
+Крім того, щоб визначити проблеми з ініціюванням користувачів, можна скористатися вмістом, що описує носій Виправлення неполадок Intune.

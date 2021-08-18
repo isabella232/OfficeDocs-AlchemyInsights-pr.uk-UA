@@ -1,5 +1,5 @@
 ---
-title: 761 підключення до Exchange Online PowerShell після ввімкнення МЗС
+title: Підключення до служби PowerShell Exchange Online 761, якщо активовано MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090299"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Підключення до Exchange Online PowerShell під час ввімкнення МЗС
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Підключення до Exchange Online PowerShell, коли активовано MFA
 
-Якщо ваш обліковий запис має функцію багатофакторної автентифікації (МЗС), потрібно виконати ці вказівки, щоб підключитися до служби Exchange Online PowerShell: [використовуйте програму Exchange Online PowerShell із сучасною автентифікацією за допомогою модуля V2](https://aka.ms/exops-docs). Виконайте пошук на цій сторінці за інструкціями з автентифікації МЗС і Мультифакторних.
+Якщо в обліковому записі ввімкнуто багатофакторну автентифікацію (MFA), щоб підключитися до PowerShell за допомогою Exchange Online PowerShell, виконайте наведені нижче вказівки. Скористайтеся оболонкою Exchange Online PowerShell із сучасною автентифікацією за допомогою [модуля V2.](https://aka.ms/exops-docs) Знайдіть на цій сторінці вказівки багатофакторна автентифікація та багатофакторна автентифікація.
