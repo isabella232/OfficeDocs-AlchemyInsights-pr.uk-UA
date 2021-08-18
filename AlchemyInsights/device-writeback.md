@@ -12,23 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c069d0b4588e53250d6cc1f3a66c744ea5c12ae4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54101982"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320107"
 ---
 # <a name="device-writeback"></a>Записування пристрою
 
 Записування пристрою використовується в таких випадках:
 
-- Увімкнення [Windows Hello для бізнесу за допомогою гібридного розгортання довірених сертифікатів](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Увімкнення [Windows Hello гібридного розгортання довіри сертифіката для бізнесу](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
 - Увімкнення умовного доступу на основі пристроїв у захищених програмах ADFS (2012 R2 або новішої версії) (довірчих осіб)
 
-    > [!NOTE]
-    > Для записування пристроїв потрібна Premium Azure AD.
+    **Примітка.** Щоб записувати пристрої, Premium передплату на Azure AD Premium.
 
-Це забезпечує додаткову безпеку та безпеку, яка забезпечує доступ до програм лише на надійних пристроях. Докладні відомості про умовний [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) доступ див. в Azure Active Directory Керування ризиками з умовним доступом і настроювання локального умовного доступу [за допомогою Azure Active Directory реєстрації пристрою.](https://docs.microsoft.com/azure/active-directory/devices/overview)
+Це додаткова безпека та безпека, яка забезпечує доступ до програм лише на надійних пристроях. Докладні відомості про умовний [](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) доступ див. в Azure Active Directory Керування ризиками з умовним доступом і настроювання локального умовного доступу за [допомогою Azure Active Directory реєстрації пристрою.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Докладні відомості про ввімкнення записування пристроїв для пристроїв див. в відомості про [ввімкнення записування пристроїв.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
+Докладні відомості про ввімкнення записування пристроїв для пристроїв див. в цьому [відео.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)
