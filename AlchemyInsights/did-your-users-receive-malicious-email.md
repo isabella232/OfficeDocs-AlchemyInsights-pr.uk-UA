@@ -14,18 +14,18 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893424"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326731"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>Чи ваші користувачі отримували зловмисні електронні листи?
 
-Тепер ви можете повідомити про зловмисну електронну пошту до корпорації Майкрософт за допомогою надсилання [Microsoft 365 Defender порталі](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
+Тепер ви можете повідомити корпорації Майкрософт про зловмисні електронні листи за допомогою надсилання [Microsoft 365 Defender порталі](https://sip.security.microsoft.com/reportsubmission?viewid=admin).
 
-Повідомлення, надіслані [](https://security.microsoft.com/reportsubmission?viewid=admin) в надіслані адміністратором, скануються, а в розгорнутому меню докладно показано такі результати:
+Повідомлення, надіслані [](https://security.microsoft.com/reportsubmission?viewid=admin) в надіслані адміністратором надіслані адміністратором, скануються, а в розгорнутому меню докладно показано такі результати:
 
 - Чи сталася помилка автентифікації електронного листа відправника під час доставки.
 - Інформація про збіги з політиками, які могли вплинути на вердикт для повідомлення або перевизначити його.

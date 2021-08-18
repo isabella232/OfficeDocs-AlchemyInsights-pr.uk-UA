@@ -14,20 +14,20 @@ ms.assetid: ''
 ms.custom:
 - "9007094"
 - "12473"
-ms.openlocfilehash: f9ceffa17f23b964d55ac19113c029a512aacd86c9f61ea7abd8db1a7c81381f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 45cc48056975c21ef54df7404bd8bbf6b5ff465e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896392"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326032"
 ---
 # <a name="sharepoint-global-navigation"></a>SharePoint глобальної навігації
 
-Глобальну навігацію можна ввімкнути й настроїти на панелі команд SharePoint програми. Настройте емблему, назву й джерело глобальної навігації залежно від потреб користувача та організації. Якщо вимкнути глобальну навігацію, піктограма домашньої сторінки матиме посилання SharePoint початковій сторінці.
+Глобальну навігацію можна ввімкнути й настроїти на панелі команд SharePoint програми. Настройте емблему, назву й джерело глобальної навігації залежно від потреб користувача та організації. Якщо вимкнути глобальну навігацію, піктограма домашньої сторінки SharePoint початкової сторінки.
 
 - [Початок настроювання глобальної навігаційної вкладки](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#get-started-customizing-the-global-navigation-tab)
 - [Визначення джерела глобальної навігації](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#determine-the-global-navigation-source-depending-on-your-home-sites-configuration)
 - [Переглянути всі способи настроювання глобальної навігації](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#see-all-the-different-ways-you-can-set-up-global-navigation)
 
-Докладні відомості див. [в загальних SharePoint панелі команд програми](https://docs.microsoft.com/sharepoint/sharepoint-app-bar). 
+Докладні відомості див. [в статтях Загальні відомості SharePoint панелі команд програми.](https://docs.microsoft.com/sharepoint/sharepoint-app-bar) 
 

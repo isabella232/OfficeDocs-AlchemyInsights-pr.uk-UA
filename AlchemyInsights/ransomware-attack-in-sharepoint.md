@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893216"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327542"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Атака зловмисних програм із SharePoint або OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "57893216"
     - [Захист даних у SharePoint та OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Захист від загроз ізловмисних програм із викупом](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  Чи всі файли на комп'OneDrive Або SharePoint зловмисних програм ізловмисних програм ізловмисних програм, зловмисних програм чи вірусу Crypto? 
+3.  Чи всі файли на вашому комп'OneDrive Чи SharePoint зловмисних програм ізловмисних програм ізловмисних програм, зловмисних програм чи вірусу Crypto? 
 
 Негайно зупиніть або призупиніть синхронізацію OneDrive (якщо є) або відключіть подання провідника, зіставлене з бібліотекою на відповідному комп'ютері (якщо є), а потім можна відновити всю бібліотеку OneDrive або SharePoint до попереднього часу за допомогою функції відновлення файлів. 
 

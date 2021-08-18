@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896096"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326818"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Виправлення політики клієнта (заміна дії)
 
 Це повідомлення вплинуло одна з політик захисту від спаму. Щоб переглянути політики, виконайте такі дії:
 
-1. На порталі Microsoft 365 Defender у розділі Політики співпраці & електронної пошти & правила захисту від <https://security.microsoft.com/>  \>  \>  \>  спаму. 
+1. На порталі Microsoft 365 Defender перейдіть до розділу Політики & електронної пошти & правила захисту від спаму в розділі <https://security.microsoft.com/>  \>  \>  \>  Політики. 
 
    Щоб перейти безпосередньо на сторінку **політики захисту від спаму,** <https://security.microsoft.com/antispam> скористайтеся .
 
