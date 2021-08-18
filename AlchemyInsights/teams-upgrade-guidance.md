@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57164d972780830087bb85f9cd809d290446fa3e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901201"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324337"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams оновлення
 
-Незалежно від того, чи ви лише починаєте працювати з програмою Teams (уже використовуєте Teams поряд із Skype для бізнесу або готові до оновлення), ми хочемо переконатися, що у вас є все, що потрібно для успішної навігації Teams. Докладні відомості див. за посиланнями нижче.
+Якщо ви лише починаєте працювати з програмою Teams (уже використовуєте Teams поряд із Skype для бізнесу або готові оновитися), ми хочемо переконатися, що у вас є все, що потрібно для успішної навігації Teams. Докладні відомості див. за посиланнями нижче.
 
 [Початок роботи з Microsoft Teams оновлення](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
@@ -32,4 +32,4 @@ ms.locfileid: "57901201"
 
 [Виконання оновлення з локального Skype для бізнесу до Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Перевірка стану підключення до Skype для бізнесу Online для Teams за допомогою PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Перевірка стану підключення Skype для бізнесу Online для Teams за допомогою PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

@@ -1,5 +1,5 @@
 ---
-title: Змінення яскравості екрана у Windows 10
+title: Змінення яскравості екрана в Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002940"
 - "5633"
-ms.openlocfilehash: 6d858183e8a539c024b2228be71283043017819b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f8a310fd0259e2343fdb32c5af558fa205925faca5dc2ab7a637e0de1a5fbd20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818597"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119788"
 ---
-# <a name="change-screen-brightness-in-windows-10"></a>Змінення яскравості екрана у Windows 10
+# <a name="change-screen-brightness-in-windows-10"></a>Змінення яскравості екрана в Windows 10
 
-Якщо windows 10 новіша за версію 1903, повзунок яскравості в центрі підтримки має повзунок.  Щоб відкрити центр підтримки,  натисніть кнопку Сповіщення в крайній правій частині панелі завдань або натисніть **клавіші Windows Home + A** на клавіатурі.
+Якщо ваш Windows 10 новіший за версію 1903, він має повзунок яскравості **в** центрі підтримки. Щоб відкрити центр підтримки,  натисніть кнопку Сповіщення в крайній правій частині панелі завдань або натисніть **клавіші Windows домашній + A** на клавіатурі.
 
 ![Повзунок яскравості](media/brightness-slider.png)
 
-Якщо у Вас раніша версія Windows 10, повзунок яскравості можна знайти в меню Параметри **[> > Дисплей](ms-settings:display?activationSource=GetHelp)**.
+Якщо ви Windows 10, повзунок яскравості можна знайти в розділі Настройки > **[Система > Дисплей](ms-settings:display?activationSource=GetHelp)**.
 
 **Примітки.**
 

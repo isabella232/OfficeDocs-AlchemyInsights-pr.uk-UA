@@ -13,18 +13,20 @@ ms.custom:
 - "9001670"
 - "3737"
 - "3820"
-ms.openlocfilehash: b57387176c9a3098c1967da953c6f178ea174204f5a31334f71ddd143d66d92c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 723d5d273a844bb5a53e9447ba6b1e9c1bd7ec04
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998523"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324291"
 ---
 # <a name="use-rights-management-protection-with-microsoft-365"></a>Використання захисту керування правами з Microsoft 365
 
 Перш ніж використовувати функції керування правами доступу до інформації (IRM) програм і служб Microsoft, необхідно активувати [службу керування правами (RMS)](https://docs.microsoft.com/azure/information-protection/what-is-azure-rms).
 
-1. Вимоги до ліцензії та активація з **Центр адміністрування Microsoft 365** див. в статті Активація захисту прав [керування правами в Центр адміністрування Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). **Примітка**. Потрібен глобальний обліковий запис адміністрування.
+1. Вимоги до ліцензії та активація з **Центр адміністрування Microsoft 365** див. в статті Активація [захисту прав керування правами в Центр адміністрування Microsoft 365](https://docs.microsoft.com/azure/information-protection/activate-office365). 
+
+    **Примітка**. Потрібен глобальний обліковий запис адміністрування.
 
 2. Відомості про ліцензійні вимоги та активацію з **порталу Microsoft Azure** див. в статті [How to activate the Rights Management protection service from Azure portal (Активація служби захисту керування правами з порталу Microsoft Azure)](https://docs.microsoft.com/azure/information-protection/activate-azure). **Примітка**. Глобальний обліковий запис адміністрування не потрібен.
 

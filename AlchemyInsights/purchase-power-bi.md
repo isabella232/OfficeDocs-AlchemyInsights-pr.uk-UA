@@ -15,18 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: 15642c07f686504ea7bf129c53a4d9ae453d2dffb6a9e666f1312ed35acf9c16
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900977"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323659"
 ---
 # <a name="purchase-power-bi"></a>Придбання Power BI
 
-Power BI можна придбати в Центр адміністрування Microsoft 365 **.**
+Power BI можна придбати в **Центр адміністрування Microsoft 365**.
 
-1. Перейдіть на сторінку **Виставлення рахунків > [придбання послуг.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+1. Перейдіть на сторінку **Виставлення рахунків > [придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)** послуг.
 2. Скористайтеся полем пошуку, щоб знайти "Power BI".
 3. Виберіть план Power BI, який потрібно придбати, виберіть елемент **Докладно**, а потім натисніть кнопку **Придбати**.
 4. Введіть потрібну кількість ліцензій і виберіть спосіб оплати (щомісяця або за весь рік). Виберіть, чи потрібно автоматично призначати ліцензії всім, у кого зараз немає ліцензії. Потім виберіть **Оцініться зараз.**
