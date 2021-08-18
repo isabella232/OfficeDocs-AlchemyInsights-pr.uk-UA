@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 7209595f5cda9b31e53241d9d5696fa584ff5e5ab3d237aae28542bf7aec9398
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e8501414498bf1937e98abaca32987e3276bb54e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53940840"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316161"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Поміняйте класичний кореневий сайт сучасним сайтом
 
@@ -28,8 +28,8 @@ ms.locfileid: "53940840"
     - Використовуйте [Invoke-SPOSiteSwap,](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) щоб поміняти місце розташування сайту на іншому сайті під час архівації вихідного сайту. Доступно як для сайту групи (не підключеного до групи), так і для інформаційних сайтів. 
 
 - Незабаром з'являться додаткові можливості, які дають змогу продовжувати використовувати вміст сайту, але перетворити наявний сайт на сайт для спілкування. 
->[!Important]
->Ці можливості будуть розгортатись поступово. Продовжуйте перевіряти Центр повідомлень на наявність оновлень. 
+
+**Увага!** Ці можливості будуть розгортатись поступово. Продовжуйте перевіряти Центр повідомлень на наявність оновлень. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Відомі проблеми зі переміненням сайтів
 

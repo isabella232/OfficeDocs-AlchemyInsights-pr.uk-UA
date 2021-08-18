@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53968002"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315707"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Ліцензії на Microsoft 365 Defender
 
@@ -33,8 +33,7 @@ ms.locfileid: "53968002"
 - Microsoft Cloud App Security
 - Microsoft Defender для Office 365 (план 2)
 
-    > [!NOTE]
-    > Наразі ліцензії на ознайомлювальну Office 365 не надають доступу до Microsoft 365 Defender.
+    **Примітка.** Наразі ліцензії на ознайомлювальну Office 365 не дають доступу до Microsoft 365 Defender.
 
 Докладні відомості див. в Microsoft 365 для підприємств [порівняння планів.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
