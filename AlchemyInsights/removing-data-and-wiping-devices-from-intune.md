@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922285"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331062"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Видалення даних та стирання пристроїв з Intune
 
@@ -32,8 +32,7 @@ ms.locfileid: "53922285"
 4. Натисніть кнопку **Так** для підтвердження. Поки стирання не завершиться, у статусі дії пристрою відображатиметься *Триває списання*.
     Після завершення дії ви більше не бачитимете мобільний пристрій у списку керованих.
 
-> [!NOTE]
-> Дані організації не можна видалити з пристроїв, ПРИЄДНАНИХ до Microsoft Azure AD. 
+**Примітка.** Дані компанії не можна видалити з пристроїв JOINED в Azure AD. 
 
 Повну інформацію про ефект дій "Списати" та "Стерти", зокрема те, що збережено та що видалено, див. у таких документах:
 

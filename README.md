@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>Поведінка в Програмі з відкритим кодом Microsoft
 Цей проект застосується до поведінки з відкритим [кодом Microsoft Із відкритим кодом](https://opensource.microsoft.com/codeofconduct/).
-Докладні відомості див. в статті [Правила поведінки:](https://opensource.microsoft.com/codeofconduct/faq/) запитання й [відповіді opencode@microsoft.com](mailto:opencode@microsoft.com) з будь-яких додаткових запитань і приміток.
+Докладні відомості див. в статті [Правила поведінки:](https://opensource.microsoft.com/codeofconduct/faq/) запитання й відповіді [opencode@microsoft.com](mailto:opencode@microsoft.com) з будь-яких додаткових запитань і приміток.

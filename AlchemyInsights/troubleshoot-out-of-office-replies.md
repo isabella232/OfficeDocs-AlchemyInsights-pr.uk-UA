@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 9450edbed749f6abcb268678acb407599559ad0f0ab8fb405b3f772c2371cdea
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 0fb5afbfb5194e44f925557421f5724b8ce57158
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899681"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58332578"
 ---
 # <a name="troubleshooting-out-of-office-automatic-replies"></a>Виправлення неполадок із Office автовідповідей
 
 Залежно від настройок автовідповідей "Не на Office" можуть виникати різноманітні причини проблем.
 
-Докладніші відомості про те, де можна вирішити цю проблему, див. в Office (Докладні відомості та виправлення неполадок із відповідями "Не на [місці").](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)
+Докладніші відомості про те, де можна вирішити цю проблему, див. в Office основні відомості та виправлення [неполадок.](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)

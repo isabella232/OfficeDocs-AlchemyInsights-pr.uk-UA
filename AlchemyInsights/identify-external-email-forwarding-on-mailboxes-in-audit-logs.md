@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899905"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331180"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Визначення настройок пересилання зовнішньої електронної пошти в поштових скриньках
 
-Коли користувач Microsoft 365 налаштовує пересилання електронної пошти із зовнішньої електронної пошти в поштовій скриньці, вона перевіряється в командлеті **Set-Mailbox.** Цю дію можна переглянути за допомогою пошуку в контрольних журналах. Ось як це зробити.
+Коли користувач Microsoft 365 налаштовує пересилання електронної пошти із зовнішньої електронної пошти в поштовій скриньці, вона перевіряється в складі командлета **Set-Mailbox.** Цю дію можна переглянути за допомогою пошуку в контрольних журналах. Ось як це зробити.
 
 1. Виконайте одну з таких дій:
-   - У розділі Центр відповідності Microsoft 365 <https://compliance.microsoft.com> перейдіть до **аудиту** \> **рішень.** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://compliance.microsoft.com/auditlogsearch> скористайтеся .
-   - На порталі Microsoft 365 Defender виберіть <https://security.microsoft.com> аудит . Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://sip.security.microsoft.com/auditlogsearch> скористайтеся .
+   - У розділі Центр відповідності Microsoft 365 <https://compliance.microsoft.com> перейдіть до пункту Аудит  \> **рішень.** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://compliance.microsoft.com/auditlogsearch> скористайтеся .
+   - На порталі Microsoft 365 Defender виберіть <https://security.microsoft.com> аудит .  Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://sip.security.microsoft.com/auditlogsearch> скористайтеся .
 
 2. На сторінці **Аудит** переконайтеся, що на вкладці **Пошук** вибрано вкладку Пошук, а потім налаштуйте такі параметри:
    - У полях Початок і Кінець **виберіть** діапазон дат **і** часу.
@@ -42,4 +42,4 @@ ms.locfileid: "57899905"
    - **Параметри.** _ForwardingSmtpAddress указує_ цільову адресу електронної пошти.
    - **UserId (Ідентифікатор користувача).** Користувач, який настроєний для пересилання електронної пошти, у полі **ObjectId поштової** скриньки.
 
-Докладні відомості див. в відомості про те, як [визначити, хто налаштовує пересилання електронної пошти для поштової скриньки.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)
+Докладні відомості див. в [відомості про те, як визначити, хто налаштовує пересилання електронної пошти для поштової скриньки.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox)

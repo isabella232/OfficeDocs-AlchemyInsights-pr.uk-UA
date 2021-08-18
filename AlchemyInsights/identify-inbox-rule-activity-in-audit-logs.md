@@ -13,20 +13,20 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2bddd267abacabcd04b54271ade8ecf7b69fab914bcb8c103c806c31a388d2f5
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1f252836d624b4550e1f3c87cf4fd7309dec6e91
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891316"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331144"
 ---
 # <a name="identify-inbox-rule-activity-in-audit-logs"></a>Визначення дії з правилом папки "Вхідні" в контрольних журналах
 
-Ви можете скористатися пошуком контрольного журналу в Центр відповідності Microsoft 365, щоб переглянути події правил для папки "Вхідні" (створення, змінення та видалення правил для папки "Вхідні").
+Ви можете скористатися пошуком контрольного журналу в Центр відповідності Microsoft 365, щоб переглядати події правил для папки "Вхідні" (створення, змінення та видалення правил для папки "Вхідні").
 
 1. Виконайте одну з таких дій:
    - У розділі Центр відповідності Microsoft 365 <https://compliance.microsoft.com> перейдіть до пункту Аудит  \> **рішень.** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://compliance.microsoft.com/auditlogsearch> скористайтеся .
-   - На порталі Microsoft 365 Defender виберіть <https://security.microsoft.com> аудит . Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://security.microsoft.com/auditlogsearch> скористайтеся .
+   - На порталі Microsoft 365 Defender перейдіть <https://security.microsoft.com> до в меню **Audit (Аудит).** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://security.microsoft.com/auditlogsearch> скористайтеся .
 
 2. На вкладці **Пошук** на сторінці **Аудит налаштуйте** такі параметри:
    - **Діапазон дати й часу.** У полях  Початок і Кінець виберіть діапазон дат **і** часу.

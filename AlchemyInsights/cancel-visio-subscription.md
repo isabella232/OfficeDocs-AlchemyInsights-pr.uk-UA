@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 090cb87251755ac06f109faea194ba120bbe7650ddaac1b1d0cdea19a0f0a7a6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895648"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331480"
 ---
 # <a name="cancel-visio-subscription"></a>Скасування Visio передплати
 
@@ -32,4 +32,4 @@ ms.locfileid: "57895648"
 
 **Відшкодування:** Пропорції повернуться вам протягом наступного розрахункового циклу.
 
-Докладні відомості див. [в статтях Скасування передплати.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Докладні відомості див. в [статтях Скасування передплати.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

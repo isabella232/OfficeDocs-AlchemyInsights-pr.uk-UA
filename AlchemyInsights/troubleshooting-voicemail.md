@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 36ba65c1ee67631a8b3c24c3407f46e3304541c5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972404"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330765"
 ---
 # <a name="troubleshooting-voicemail"></a>Виправлення неполадок, пов'язаних із голосовою пошти
 
@@ -31,7 +31,7 @@ ms.locfileid: "53972404"
 1. Виберіть **елемент Керування користувачами.**
 1. Знайдіть користувача та змініть політику викликів на політику, яка має зайнятість, доступна під час **виклику** вимкнуто. 
 1. Натисніть кнопку **Застосувати**.
-> [!NOTE]
-> Щоб реплікувати зміни до політик, може сягати 24 годин.
+
+**Примітка.** Зміни політик можуть реплікувати до 24 годин.
 
 Докладні відомості про цю функцію див. в цьому документі: [Зайнятий на зайнятий](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)час доступний під час виклику.

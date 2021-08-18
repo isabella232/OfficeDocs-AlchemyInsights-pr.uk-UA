@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088885"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333180"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Початок роботи з відеоподіями Teams
 
@@ -27,7 +27,9 @@ ms.locfileid: "54088885"
 
 - Спочатку переконайтеся, що події Teams Live [доступні у вашій країні та вашому регіоні](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability); у деяких країнах події Live ще не підтримуються.  Якщо ви призначили ліцензії та налаштували політики, але все одно не можете створити подію Teams Live, імовірно, ви знаходитесь у країні або регіоні, де події Live ще недоступні.
 
-- [Ліцензія на Office 365 для підприємств E1, E3 або E5 або Office 365 A3 чи A5.](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) **Примітка**. Через підвищений попит на використання Teams може знадобитися приблизно 24 години на повне призначення ліцензії користувачеві Teams. До того моменту ви не зможете призначити такому користувачеві політики, а він не матиме доступу до деяких функцій Teams, як-от виклики та аудіоконференції.
+- [Ліцензія на Office 365 для підприємств E1, E3 або E5 або Office 365 A3 чи A5.](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses) 
+
+    **Примітка**. Через підвищений попит на використання Teams може знадобитися приблизно 24 години на повне призначення ліцензії користувачеві Teams. До того моменту ви не зможете призначити такому користувачеві політики, а він не матиме доступу до деяких функцій Teams, як-от виклики та аудіоконференції.
 
 - Дозвіл на [створення відеоподій у центрі адміністрування Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
