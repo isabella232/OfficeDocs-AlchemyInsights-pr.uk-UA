@@ -1,5 +1,5 @@
 ---
-title: Змінення Microsoft EDGE за допомогою змінних каталогів даних, а не жорстко
+title: Змінення Microsoft Edge, використовуючи змінні каталогу даних, а не жорстко кодовані шляхи
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679156"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113437"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Змінення Microsoft EDGE за допомогою змінних каталогів даних, а не жорстко
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Змінення Microsoft Edge, використовуючи змінні каталогу даних, а не жорстко кодовані шляхи
 
-Наприклад, у Windows для зберігання даних профілю в розділі Локальні дані програми користувача, а не в розташуванні за замовчуванням, установіть політику **UserDataDir** to **$ {local_app_data} \Edge\Profile**. 
+Наприклад, щоб зберігати Windows дані профілю в локальній програмі користувача, а не в стандартному розташуванні, установіть для політики **UserDataDir** значення **${local_app_data}\Edge\Profile.** 
 
-Докладні відомості можна знайти в статті [створення змінних каталогів даних для користувачів служби Microsoft EDGE](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Докладні відомості див. [в Microsoft Edge змінних каталогу даних користувачів.](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)

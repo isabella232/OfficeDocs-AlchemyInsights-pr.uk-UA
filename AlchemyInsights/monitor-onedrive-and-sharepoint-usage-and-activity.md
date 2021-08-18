@@ -1,5 +1,5 @@
 ---
-title: Моніторинг та використання в службі SharePoint
+title: Відстеження OneDrive та SharePoint використання та дій
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0a74d150be81d4684e481a76eb4b1d93fcc8b70997d513c9230406f520d1ec2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666675"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113365"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Перегляд звітів у службі "OneDrive" і "дії та використання SharePoint"
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Перегляд звітів про OneDrive і SharePoint дії та використання
 
-Перейдіть на [сторінку "звіти про використання" в центрі адміністрування Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). У розділі **Виберіть звіт**виберіть звіт про дії в службі "OneDrive" або "SharePoint" або "використання".
+Перейдіть на сторінку [Звіти про використання в Центр адміністрування Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). У **розділі Виберіть звіт** виберіть звіт про OneDrive або SharePoint дії чи звіт про використання.
   
-[Докладні відомості про звіти про OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[Докладні відомості про OneDrive звіти](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[Докладні відомості про звіти SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
+[Докладні відомості про SharePoint звіти](https://go.microsoft.com/fwlink/?linkid=875240)
   

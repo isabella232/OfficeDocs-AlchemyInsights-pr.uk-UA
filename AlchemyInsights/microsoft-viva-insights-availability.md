@@ -1,5 +1,5 @@
 ---
-title: Доступність знань Microsoft Viva
+title: Аналітика Microsoft Viva Доступність
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8337"
-ms.openlocfilehash: 141a896fe181a554ae2b5ace46b6f09b6006692f
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 5744a83b5652bc9ef39b81ba98352cfa5c7401143057fc5d51d164757413a6d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315520"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113797"
 ---
-# <a name="microsoft-viva-insights-availability"></a>Доступність знань Microsoft Viva
+# <a name="microsoft-viva-insights-availability"></a>Аналітика Microsoft Viva Доступність
 
-Статистику Microsoft Viva тепер можна переглядати в ознайомлювальну версію.
+Аналітика Microsoft Viva тепер доступна в режимі попереднього перегляду.
 
-[Завантажити](https://aka.ms/InsightsDocumentation) Ідеї Viva в командах Microsoft.
+[Завантажити](https://aka.ms/InsightsDocumentation) Viva Аналітика у Microsoft Teams.
 
-[Дізнайтеся більше](https://aka.ms/VivaInsights) про те, як можна створити культуру, де користувачі та бізнес можуть процвітати.
+[Дізнайтеся більше](https://aka.ms/VivaInsights) про те, як Viva Аналітика допомагає створити культуру, де люди та бізнес можуть проявити прояви.
 
-Щоб отримати докладніші відомості, ознайомтеся з функціями [Microsoft Viva, які допомагають людям виховати добробут і бути кращими](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).
+Докладні відомості див. в Аналітика Microsoft Viva, що допомагає людям у вироку та покращеної [якості.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)
