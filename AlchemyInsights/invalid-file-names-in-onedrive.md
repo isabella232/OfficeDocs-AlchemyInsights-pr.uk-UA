@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1e27cb97-e3e5-4533-9f49-585b63399fb5
-ms.openlocfilehash: 90c2df4eb6fe97925a6d6eb6e7afd357e2349850
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2564d25d9385e629ead0fd5af7e178f9d73cfd766c672fa31abc493185786c76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696246"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088129"
 ---
 # <a name="invalid-file-and-folder-names-in-onedrive-and-sharepoint"></a>Неприпустимі імена файлів і папок у OneDrive та SharePoint
 
-Ці символи неприпустимі в іменах файлів і папок " \* :" \< \> ? / \ | 
+Ці символи не дозволені в іменах файлів і папок " \* : \< \> ? / \ | 
   
-Деякі організації ще не підтримують функцію # і%. Щоб дізнатися, як дозволити таким символам у вашій організації, у статті [Увімкнення підтримки # і%](https://go.microsoft.com/fwlink/?linkid=862611). 
+У деяких організаціях ще не ввімкнуто підтримку # і % . Відомості про те, як дозволити ці символи у вашій організації, див. в статті Увімкнення [# і підтримки% .](https://go.microsoft.com/fwlink/?linkid=862611) 
   
-[Докладні відомості про обмеження імені файлу та папки](https://go.microsoft.com/fwlink/?linkid=866430)
+[Докладні відомості про обмеження на імена файлів і папок](https://go.microsoft.com/fwlink/?linkid=866430)
   
 

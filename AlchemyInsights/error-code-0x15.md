@@ -13,12 +13,12 @@ ms.custom:
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: Якщо під час активації пакета Office 2013 у розгортань служб віддалених робочих столів (RDS) з'являється повідомлення про помилку, редагуючи реєстр, можна активувати ADAL.
-ms.openlocfilehash: 247686bf26c11d07ed118bdb1ba190fc718e87cf140b88f79b8aa0b40c827b4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ed3770c001461c162ff5bbe24dc400a29380a03b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100783"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316707"
 ---
 # <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Помилка під час активації Office 2013 у службах віддалених робочих столів
 
@@ -28,8 +28,7 @@ ms.locfileid: "54100783"
 |:-----|:-----|:-----|
 |HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-Докладні відомості див. в сторінці [Активація сучасної автентифікації Office 2013 на Windows пристроях.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
+Докладні відомості див. в [сторінці Активація сучасної автентифікації Office 2013 на Windows пристроях.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
-> [!NOTE]
->  AdAL активовано за замовчуванням у Програми Microsoft 365 для підприємств 2016 Office 2016. Служби віддалених робочих столів раніше назвили службами терміналів.
+**Примітка.** ADAL активовано за замовчуванням у Програми Microsoft 365 для підприємств 2016 Office. Служби віддалених робочих столів (RDS) раніше назвували службами терміналів.
   

@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2491
 ms.assetid: ''
-ms.openlocfilehash: 2e24f489292f38b5e9cacc8b9bfe5730ebfc71ce5e3004be479134ef6c791a12
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 90b078147bbb1e60cba0a2de6e49a862469f93aa
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899353"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316379"
 ---
 # <a name="alert-email-messages-from-the-phish-delivered-due-to-tenant-or-user-override-policy"></a>Оповіщення електронною поштою від політики "Фіш доставлено через клієнта" або "перевизначити користувачем"
 
@@ -35,4 +35,4 @@ ms.locfileid: "57899353"
 
 Якщо ви вважаєте, що повідомлення неправильно позначено як [](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission) фішинг, повідомте про це корпорацією Майкрософт за допомогою надісланого адміністратором повідомлення.
 
-Користувачі можуть [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) надсилати зразки повідомлень до корпорації Майкрософт за допомогою надбудови "Повідомлення звіту" Outlook надбудови "Звіт про фішинг".
+Користувачі можуть [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) надсилати зразки повідомлень до корпорації Майкрософт за допомогою надбудови "Звіт про повідомлення" Outlook надбудови "Звіт про фішинг".
