@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: f0f82eaaa00d71992af445bb89346fb85bad3ade5d120b25ad3a6ea4f9674893
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1b4f336f389eb6fd81ac2ca40e6047184cc4c1bf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883340"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317717"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>Помилка "Основне підключення закрито" в SharePoint
 
-Якщо в програмі SharePoint відображається повідомлення про помилку "Основне підключення закрито", можливо, воно пов'язане з вилученням протоколу TLS 1.0/1.1. Докладні відомості див. в таких статтях:
+Якщо з'являється повідомлення про помилку "Основне підключення закрито" в SharePoint це може бути пов'язано з вилученням протоколу TLS 1.0/1.1. Докладні відомості див. в таких статтях:
 
 - [Підготовка до TLS 1.2 у Office 365 і Office 365 GCC](https://docs.microsoft.com/microsoft-365/compliance/prepare-tls-1.2-in-office-365)
 

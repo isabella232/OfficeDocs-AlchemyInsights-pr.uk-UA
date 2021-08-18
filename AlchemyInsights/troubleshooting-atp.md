@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038826"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900673"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>Виправлення неполадок, пов'язаних із Захисником Microsoft Office 365
 
-- **Чи помітили ви затримки доставки повідомлень?** Скористайтеся [динамічною доставкою](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) в Microsoft Defender, щоб Office 365 Сейф вкладення. Це допоможе уникнути затримки повідомлень під час захисту від зловмисних файлів.
+- **Чи помітили ви затримки доставки повідомлень?** Скористайтеся [параметром динамічної доставки](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) в Microsoft Defender, щоб Office 365 Сейф вкладення. Це допоможе уникнути затримки повідомлень під час захисту від зловмисних файлів.
 
 - **Хочете повідомити корпорації Майкрософт про хибні або хибні негативні результати?** Використовуйте [провідник вкладень](https://protection.office.com/reportsubmission).
 

@@ -1,5 +1,5 @@
 ---
-title: 123 після того, як сталася помилка під час вимкнення облікового запису в OWA?
+title: 123 Отримання помилки вимкнення облікового запису в OWA
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089353"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Помилка під час вимкнення облікового запису в Інтернет-версії Outlook
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Помилка в обліковому записі, вимкнута інтернет-версія Outlook?
 
-Якщо **з'являється повідомлення про помилку**  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` , коли ви намагаєтеся відкрити інтернет-версію Outlook (раніше відому як веб-застосунок Outlook Web App), адміністратор організації може вимкнути доступ до Інтернет-версії Outlook. Адміністратор може виправити цю помилку, виконавши кроки, описані в статті [Увімкнення або вимкнення веб-застосунку Outlook Web App для поштової скриньки](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Якщо з'являється повідомлення про помилку, з якою обліковий запис вимкнуто, коли ви намагаєтеся відкрити програму інтернет-версія Outlook (раніше відому як  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` Outlook Web App), можливо, адміністратор організації вимкнув ваш доступ до інтернет-версія Outlook. Адміністратор може виправити цю помилку, виконавши кроки, описані в статті Увімкнення або [Outlook Web App для поштової скриньки.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

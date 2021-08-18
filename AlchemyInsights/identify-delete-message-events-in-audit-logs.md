@@ -13,12 +13,12 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: f68b623abd0efa990df71e5bf1ea1c9e7367ed691b1752f68c971e973922a63d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f5d6041fd80b4d5cae610e7d9248e45ed410a3d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868439"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317615"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Контрольні журнали видалених повідомлень електронної пошти
 
@@ -34,6 +34,6 @@ ms.locfileid: "57868439"
 
 У результатах виберіть запис аудиту. У докладних відомостях натисніть кнопку **Додаткові відомості.** У полі **AffectedItems** відображаються додаткові відомості про видалений елемент (наприклад, рядок теми та розташування елемента після видалення). Властивість **ClientInfoString** відображатиме, якщо видалення відбулося в Outlook, інтернет-версія Outlook (раніше відому як Outlook Web App) або будь-якому іншому пристрої.
 
-Докладні відомості див. в відомості про те, як [визначити, хто налаштовує пересилання електронної пошти для поштової скриньки.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
+Докладні відомості див. в [відомості про те, як визначити, хто налаштовує пересилання електронної пошти для поштової скриньки.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Примітка.** Видалити видалені елементи за допомогою функції контрольного журналу не можна. Щоб дізнатися, як відновити видалені інтернет-версія Outlook, див. дія Відновлення видалених [елементів Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Примітка.** Видалити видалені елементи за допомогою функції контрольного журналу не можна. Щоб дізнатися, як відновити видалені інтернет-версія Outlook див. в [цій](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)Outlook Web App .

@@ -1,5 +1,5 @@
 ---
-title: 127 отримання помилки TenantAccessBlockedException під час доступу до електронної пошти?
+title: 127 Отримання помилки TenantAccessBlockedException під час доступу до електронної пошти
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089461"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Отримання помилки TenantAccessBlockedException під час доступу до електронної пошти?
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>Помилка TenantAccessBlockedException під час доступу до електронної пошти
 
-Ця помилка може з'явитися через кілька різних причин. Наприклад,
+Це повідомлення про помилку може з'явитися з кількох причин. Наприклад:
 
-- Переконайтеся, що ваша Передплата дійсна на сторінці " **виставлення рахунків** на \> **[продукти](https://portal.office.com/adminportal/home#/subscriptions)** " в центрі адміністрування Microsoft 365.
+- Переконайтеся, що ваша передплата дійсна на сторінці **Виставлення** \> **[рахунків](https://portal.office.com/adminportal/home#/subscriptions)** для продуктів у Центр адміністрування Microsoft 365.
 
-- Перевірте наявність попередніх сповіщень на сторінці **виставлення** \> **[рахунків & платежі](https://portal.office.com/adminportal/home#/billoverview)** в центрі адміністрування Microsoft 365.
+- Перевірте наявність прострочених  сповіщень на сторінці Виставлення & рахунків \> **[](https://portal.office.com/adminportal/home#/billoverview)** у Центр адміністрування Microsoft 365.
 
-- Якщо ви нещодавно оновили рахунки та передплати для вашого облікового запису, може знадобитися час для розповсюдження змін. Повторіть спробу через кілька хвилин, і Якщо проблему не усунуто, зверніться до нас.
+- Якщо виставлення рахунків і передплати для вашого облікового запису нещодавно оновлено, розмножувати може знадобити час, доки зміни почнуть діяти. Спробуйте ще раз через кілька хвилин і, якщо проблема не знизиться, зверніться до нас.
