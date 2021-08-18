@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895140"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318813"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>Повідомлення про підозрілі повідомлення електронної пошти, URL-адреси або вкладення
 
@@ -33,5 +33,4 @@ ms.locfileid: "57895140"
 
 Докладні відомості див. в статті Надсилання від адміністратора для надсилання до корпорації Майкрософт підозрілих [спаму, фіш, URL-адрес і файлів.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
 
-> [!NOTE]
-> Повідомте користувачам про те, що їм слід повідомити про будь-які підозрілі повідомлення у своїй папці "Вхідні" за допомогою надбудови "Звітування про повідомлення" або надбудови "Звітування про [фішинг".](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)
+**Примітка.** Повідомте користувачам про те, що їм слід повідомити про будь-які підозрілі повідомлення у своїй папці "Вхідні" за допомогою надбудови "Звітування про повідомлення" або "Звітування про [фішинг".](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

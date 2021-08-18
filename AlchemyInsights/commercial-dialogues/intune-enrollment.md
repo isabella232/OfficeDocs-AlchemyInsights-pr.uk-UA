@@ -1,5 +1,5 @@
 ---
-title: Реєстрація в "inune"
+title: Intune Enrollment
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090901"
 ---
-# <a name="intune-enrollment"></a>Реєстрація в "inune"
+# <a name="intune-enrollment"></a>Intune Enrollment
 
-Щоб виправити неполадки з реєстрацією пристроїв, ознайомтеся з такими питаннями:
+Щоб усунути несправностей під час синхронізації пристрою, див. такі відомості:
 
-- [Виправлення неполадок із реєстрацією пристроїв у Microsoft InTune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
-- [Виправлення неполадок із реєстрацією пристроїв iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- [Виправлення неполадок із автоматичним реєстрацією Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
-- [Виправлення неполадок із корпоративними пристроями для Android](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- [Виправлення неполадок із реєстрацією пристроїв у Windows](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [Усунення несправностей із Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+- [Усунення несправностей у підключенні пристроїв iOS та iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Усунення Windows 10 автоматичної реєстрації](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Виправлення неполадок із пристроєм Android Enterprise](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
+- [Виправлення Windows проблем із робленням синхронізації пристрою](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
-[Дізнайтеся більше про реєстрацію в "Inune"...](https://docs.microsoft.com/mem/intune/enrollment/)
+[Дізнайтеся більше про розширення Intune Enrollment...](https://docs.microsoft.com/mem/intune/enrollment/)

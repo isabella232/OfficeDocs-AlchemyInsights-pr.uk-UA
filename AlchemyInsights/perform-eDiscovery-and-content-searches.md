@@ -14,29 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317497"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902065"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Виконання пошукових запитів і пошукових запитів витребування електронної пошти
 
 **Щоб виконати пошук вмісту:**
 
 1. Перейдіть до Центру Microsoft 365 відповідності та ввійдіть у неї.
-2. Виберіть **пошук > Пошук вмісту.**
+2. Виберіть **пошук > Пошуку вмісту.**
 3. Натисніть **кнопку Новий пошук,** щоб створити новий пошук.
 4. Введіть потрібні умови пошуку, зокрема ключові слова та розташування вмісту.
 5. Натисніть **кнопку & виконати,** щоб назвати пошук, почніть його, а потім перегляньте результати.
 
-**Примітка.** У **Microsoft 365 рішень центру** відповідності розгорніть засіб витребування електронної даних і виберіть потрібний засіб  >  витребування електронної даних. 
+> [!NOTE]
+> У **Microsoft 365 рішень центру відповідності** розгорніть засіб витребування електронної даних і виберіть потрібний засіб  >  витребування електронної пошти. 
 
 Докладні вказівки щодо пошуку вмісту, експорту результатів і створення інцидентів витребування електронної інформації для зберігання даних див. в статті Запити на пошук вмісту та витребування [електронної інформації.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) [](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
 **Докладні відомості:**
 
-- Докладні відомості про засоби витребування електронної інформації в Microsoft 365 див. в цій [статі.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
-- Дізнайтеся про дозволи, вимоги та обмеження, необхідні для [](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) виконання пошуку витребування електронної інформації за допомогою дозволів, необхідних для пошуку, а також вимог і обмежень для [витребування електронної інформації.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
+- Докладні відомості про засоби витребування електронної інформації в Microsoft 365 див. в цій [Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- Дізнайтеся про дозволи, вимоги та обмеження, необхідні для [](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) виконання пошуку витребування електронної інформації за допомогою дозволів, необхідних для пошуку, а також вимог і обмежень для витребування [електронної інформації.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
 - Якщо ви виправляєте неполадки [](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) витребування електронної пошти, див. розділ Виправлення поширених проблем зі службою витребування електронної пошти та дослідження частково [індексованих елементів.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)
