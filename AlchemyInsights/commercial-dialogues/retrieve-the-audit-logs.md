@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893612"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320464"
 ---
 # <a name="retrieve-the-audit-logs"></a>Отримання контрольних журналів
 
@@ -26,7 +26,7 @@ ms.locfileid: "57893612"
 
 1. Виконайте одну з таких дій:
    - У розділі Центр відповідності Microsoft 365 <https://compliance.microsoft.com> перейдіть до пункту Аудит  \> **рішень.** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://compliance.microsoft.com/auditlogsearch> скористайтеся .
-   - На порталі Microsoft 365 Defender виберіть <https://security.microsoft.com> аудит .  Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://security.microsoft.com/auditlogsearch> скористайтеся .
+   - На порталі Microsoft 365 Defender перейдіть <https://security.microsoft.com> до в меню **Audit (Аудит).** Або, щоб перейти безпосередньо на сторінку **"Аудит",** <https://security.microsoft.com/auditlogsearch> скористайтеся .
 
 2. На вкладці **Пошук** на сторінці **Аудит налаштуйте** такі параметри:
    - **Діапазон дати й часу.** У полях  Початок і Кінець виберіть діапазон дат **і** часу.

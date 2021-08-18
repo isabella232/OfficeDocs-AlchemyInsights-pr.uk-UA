@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896132"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320510"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Виправлення правил зі списком відправників або доменів
 
 Це повідомлення вплинуло одна з політик захисту від спаму. Відправник повідомлення знайдено в списку дозволених або заблокованих контактів. Щоб переглянути політики, виконайте такі дії:
 
-1. На порталі Microsoft 365 Defender у розділі Політики співпраці & електронної пошти & правила захисту від <https://security.microsoft.com/>  \>  \>  \>  спаму. 
+1. На порталі Microsoft 365 Defender перейдіть до розділу Політики & електронної пошти & правила захисту від спаму в розділі <https://security.microsoft.com/>  \>  \>  \>  Політики. 
 
    Щоб перейти безпосередньо на сторінку **політики захисту від спаму,** <https://security.microsoft.com/antispam> скористайтеся .
 

@@ -1,5 +1,5 @@
 ---
-title: 934 Увімкнення облікових записів POP та IMAP
+title: 934 Активація облікових записів POP та IMAP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 934
 ms.assetid: 2e07bd5a-5aad-41a9-aaba-6b2bedaf92f9
-ms.openlocfilehash: bc0ffa7f014e3a329deb8b56ca73148922c18d72
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27b0339fec72c9c94f89fa332eee4603963f33229411c59f78282b24e0c7f586
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118045"
 ---
-# <a name="pop-and-imap4-settings"></a>Параметри POP та IMAP4
+# <a name="pop-and-imap4-settings"></a>Настройки POP та IMAP4
 
-Щоб знайти настройки сервера POP3 та IMAP4 для власної поштової скриньки, ознайомтеся з [настройками електронної пошти за протоколом POP та IMAP для Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+Відомості про те, як знайти параметри серверів POP3 та IMAP4 для власної поштової скриньки, див. в розділі Параметри електронної пошти [POP та IMAP Outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
 
-Адміністратори можуть ввімкнути та настроїти протоколи POP3 та IMAP4 в локальних організаціях Exchange. Докладні відомості наведено в статті [Увімкнення та настроювання протоколу POP3 на серверах Exchange](https://technet.microsoft.com/library/bb124934.aspx) і [ввімкнення та настроювання протоколу IMAP4 на серверах Exchange](https://technet.microsoft.com/library/bb124489.aspx).
+Адміністратори можуть активувати та настроїти протоколи POP3 та IMAP4 в локальних Exchange організації. Докладні відомості див. в розділі Увімкнення та настроювання [протоколу POP3](https://technet.microsoft.com/library/bb124934.aspx) на Exchange серверах і Увімкнення та [настроювання протоколу IMAP4 на Exchange серверах.](https://technet.microsoft.com/library/bb124489.aspx)
