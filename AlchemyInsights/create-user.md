@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: afba00ffc6ba082606e0071b41e2917b11e6a39d61cd0df7e468f0238f2ed8e8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118765"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896736"
 ---
 # <a name="create-user"></a>Створення користувача
 
 **ОГОЛОШЕННЯ:**
 
-- [Вилучення підтримки входу в WebView від Google із 4 січня 2021 р.](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Перевірте, чи можуть на ваші програми вплинути наведені в [Google](https://go.microsoft.com/fwlink/?linkid=2157323) указівки щодо сумісності тестування.
-- Увійдіть у систему за допомогою облікових записів Google споживачів і переконайтеся, що ви використовуєте системний веб-браузер або системний браузер. Докладні відомості див. в статтях Проблеми із входом лише в програми [за допомогою браузера Chrome.](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
+- [Вилучення підтримки входу в WebView від Google із 4 січня 2021 р.](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) Перевірте, чи можуть на ваші програми вплинути наведені в [Google](https://go.microsoft.com/fwlink/?linkid=2157323) указівки щодо сумісності тестування.
+- Увійдіть у систему за допомогою облікових записів Google споживачів і переконайтеся, що ви використовуєте системний веб-браузер або системний браузер. Докладні відомості див. в статтях Проблеми з входом лише в програми [за допомогою браузера Chrome.](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications)
 
 **Не вдається створити нового користувача в каталозі Azure AD**
 
@@ -36,6 +36,6 @@ ms.locfileid: "54118765"
 1. Див. [номери ролей і адміністраторів Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) для Azure AD.
 1. Перегляньте [імена доменів](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) для azure AD.
 1. Перегляньте [контрольні журнали,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) щоб переглянути докладніші відомості про нещодавно створеного або видаленого користувача (наприклад, тих, хто виконав дію) і час.
-1. Докладні відомості про додавання нових користувачів див. в цій [статтях.](/azure/active-directory/active-directory-users-create-azure-portal)
-1. [Права адміністратора Azure AD: дозволи](/azure/active-directory/active-directory-assign-admin-roles)адміністратора в Azure Active Directory
-1. Ви також можете [створити нового користувача за допомогою Azure AD PowerShell.](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)
+1. Докладні відомості про додавання нових користувачів див. в цій [сторінці.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+1. [Права адміністратора Azure AD: дозволи](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)адміністратора в Azure Active Directory
+1. Ви також можете [створити нового користувача за допомогою Azure AD PowerShell.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

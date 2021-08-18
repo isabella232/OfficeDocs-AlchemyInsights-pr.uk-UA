@@ -1,5 +1,5 @@
 ---
-title: Здійснення покупки Microsoft 365 придбання
+title: Здійснення покупки Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499065"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896952"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Здійснення покупки Microsoft 365 придбання
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Здійснення покупки Microsoft 365
 
 Придбати передплату на Microsoft 365 можна в Центрі адміністрування.
   
@@ -30,7 +30,7 @@ ms.locfileid: "54499065"
 - Щоб придбати додаткові ліцензії, перейдіть на сторінку **Виставлення** \> **[рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Виберіть передплату, яку потрібно змінити, а потім виберіть **елемент Придбати ліцензії**.\
 **Перегляньте відео** про те, як це зробити: [Придбання нових ліцензій](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Докладні відомості див. [в статтях Придбання та вилучення ліцензій.](/microsoft-365/commerce/licenses/buy-licenses)
+Докладні відомості див. [в статтях Придбання та вилучення ліцензій.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Виправлення неполадок**
 
@@ -38,5 +38,5 @@ ms.locfileid: "54499065"
 
 **Додаткові ресурси**
   
-- [Призначення ліцензій користувачам у Microsoft 365 для бізнесу](/microsoft-365/admin/add-users/add-users)
-- [Скасування передплати Microsoft 365 для бізнесу](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Призначення ліцензій користувачам у Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Скасування передплати Microsoft 365 для бізнесу](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

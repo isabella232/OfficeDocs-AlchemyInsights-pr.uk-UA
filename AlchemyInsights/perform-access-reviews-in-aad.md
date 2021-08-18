@@ -1,5 +1,5 @@
 ---
-title: Виконання відгуків в надбудові Active Directory
+title: Перевірки доступу в Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680773"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086797"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>Виконання відгуків в надбудові Active Directory
+# <a name="perform-access-reviews-in-azure-active-directory"></a>Перевірки доступу в Azure Active Directory
 
-Призначені рецензенти можуть виконувати Відгуки про членство в групах, доступ до програм, а також завдання для роботи з Azure Active Directory. Ці Відгуки допоможуть знизити ризики системи безпеки, які можуть виникнути в організації, коли користувачі мають більший доступ, ніж вони мають потребу. Ви можете виконувати рецензії на доступ за допомогою [моїх програм](https://go.microsoft.com/fwlink/?linkid=2134605) або [мого доступу](https://go.microsoft.com/fwlink/?linkid=2134505).
+Призначені рецензенти можуть Azure Active Directory отримувати доступ до відгуків про членство в групах, доступ до програм і призначення ролей. Ці відгуки допомагають зменшити ризики безпеки, з якою в організації може виикати потреба в доступі користувачів. Ви можете отримати доступ до відгуків, використовуючи функції [Мої програми](https://go.microsoft.com/fwlink/?linkid=2134605) або [Мій доступ.](https://go.microsoft.com/fwlink/?linkid=2134505)
