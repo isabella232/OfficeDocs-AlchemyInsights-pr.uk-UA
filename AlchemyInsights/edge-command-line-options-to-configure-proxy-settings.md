@@ -1,5 +1,5 @@
 ---
-title: Налаштування параметрів проксі-сервера в Microsoft Edge за допомогою параметрів командного рядка
+title: Налаштування параметрів проксі-сервера у веб-програмі Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403440"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118441"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Налаштування параметрів проксі-сервера в Microsoft Edge за допомогою параметрів командного рядка
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>Налаштування параметрів проксі-сервера у веб-програмі Microsoft Edge
 
-У Microsoft Edge версії 77 і пізніших мережевий стек за замовчуванням використовує параметри мережі системи. У гібридних сценаріях, коли користувачі запитують альтернативу, Microsoft Edge підтримує параметри командного рядка для настроювання параметрів настроюваного проксі-сервера. Докладні відомості див. в такому:
+У Microsoft Edge версії 77 і пізніших мережевий стек використовує настройки мережі системи за замовчуванням. У гібридних сценаріях, коли користувачі запитують альтернативу, Microsoft Edge підтримують параметри командного рядка для настроювання настроюваних параметрів проксі-сервера. Докладні відомості див. в такому:
 
 1. ["Настройки системної мережі"](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [Параметри командного рядка для параметрів проксі-сервера](https://go.microsoft.com/fwlink/?linkid=2134292)

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: d86b2dd6d7915f0698cf950cd57f1065cde22219284edbbc0e64f3a5e69ff252
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a144b172787563b1aa57bdec790df1805a13f078
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896736"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323307"
 ---
 # <a name="create-user"></a>Створення користувача
 
@@ -29,13 +29,13 @@ ms.locfileid: "57896736"
 
 **Не вдається створити нового користувача в каталозі Azure AD**
 
-1. Переконайтеся, що ви маєте право створювати нового стандартного користувача. Створити нового стандартного користувача може лише роль глобального адміністратора або Azure Active Directory (AD). Якщо ви не на одній із цих ролей, попросіть адміністратора додати вас до однієї з цих ролей або створити новий обліковий запис користувача для вас.
+1. Переконайтеся, що ви маєте право створювати нового стандартного користувача. Новий стандартний користувач може створити лише роль глобального Azure Active Directory адміністратора в Azure Active Directory (AD). Якщо ви не на одній із цих ролей, попросіть адміністратора додати вас до однієї з цих ролей або створити новий обліковий запис користувача для вас.
 1. Переконайтеся, що ім'я користувача перевірено в Azure AD. Якщо в Azure AD немає перевірених імен настроюваних доменів, можна використовувати початковий домен Azure AD, який закінчується на *.onmicrosoft.com.
 1. Переконайтеся, що ім'я користувача в домені, не ітерованому до Azure AD, з локальної служби AD. Користувачів не можна додавати до хмари з іменами доменів, іфедеративними з локальних доменів.
 1. Переконайтеся, що жодний інший користувач або контакт не має імені користувача, яке потрібно призначити новому користувачу. Імена користувачів мають бути унікальні в Azure AD.
 1. Див. [номери ролей і адміністраторів Azure AD](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) для Azure AD.
 1. Перегляньте [імена доменів](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) для azure AD.
 1. Перегляньте [контрольні журнали,](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) щоб переглянути докладніші відомості про нещодавно створеного або видаленого користувача (наприклад, тих, хто виконав дію) і час.
-1. Докладні відомості про додавання нових користувачів див. в цій [сторінці.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+1. Докладні відомості про додавання нових користувачів див. в цій [статтях.](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 1. [Права адміністратора Azure AD: дозволи](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles)адміністратора в Azure Active Directory
 1. Ви також можете [створити нового користувача за допомогою Azure AD PowerShell.](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0)

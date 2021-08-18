@@ -1,5 +1,5 @@
 ---
-title: Витребування електронної пошти в мережах Yammer
+title: Витребування електронної Yammer мережі
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118435"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>Витребування електронної пошти в мережах Yammer
+# <a name="ediscovery-in-yammer-networks"></a>Витребування електронної Yammer мережі
 
-Тепер ви можете шукати вміст Yammer за допомогою функції витребування електронної пошти.  Для виконання пошуку або експорту вмісту Yammer потрібно виконати такі дії:
+Тепер ви можете шукати вміст за допомогою засобу витребування Yammer витребування електронної Yammer даних.  Щоб виконувати пошук або експортувати вміст для витребування електронної Yammer, потрібно виконати такі дії:
 
-1. Щоб повідомлення та файли Yammer було видимими, потрібно спочатку перенести мережу Yammer Enterprise до власного режиму. Примітка. Якщо ви новий клієнт станом на 9 січня **2020 р.** і мережа Yammer вже в режимі власного використання, дані тепер видимі за допомогою витребування електронної інформації.
+1. Щоб повідомлення та файли було видимими Yammer спочатку перенесіть Yammer Enterprise Network to Native Mode (Власний режим). Примітка. Якщо ви – новий клієнт станом на 9 січня **2020 р.,** а мережа Yammer вже доступна у власному режимі, дані тепер видимі за допомогою витребування електронної інформації.
 
-2. Витребування електронної даних для Yammer буде доступне для клієнтів, щойно випуститься засіб вирівнювання власного режиму, а перенесення власного режиму завершиться для Yammer в клієнті.
+2. Витребування електронної Yammer для клієнтів стане доступним після випуску засобу вирівнювання власного режиму та завершення перенесення за власним Yammer в клієнті.
 
 Докладні відомості про:
 
-- Власний режим у Yammer див. в: [Огляд власного режиму.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
-- Витребування електронної інформації в мережах Yammer: огляд витребування електронної інформації [в мережах Yammer.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
-- Витребування електронної пошти в Microsoft 365 див. в статті Витребування електронної [пошти в Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
+- Власний режим в Yammer див. в: [Огляд власного режиму.](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode)
+- Витребування електронної інформації в Yammer мережі див. в цій Yammer [огляді витребування електронної інформації.](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery)
+- Витребування електронної даних у Microsoft 365 див. в статті Витребування електронної Microsoft 365 [.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)

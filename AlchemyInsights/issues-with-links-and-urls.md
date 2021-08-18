@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054819"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321928"
 ---
 # <a name="issues-with-links-and-urls"></a>Проблеми з посиланнями та URL-адресами
 
@@ -42,15 +42,13 @@ ms.locfileid: "54054819"
     - платформа (iOS/Android/UWP)
     - відомості, використані для створення програми, наприклад ідентифікатор пакета в iOS або ім’я пакета та геш підпису в Android. Вам допоможе реєстрація програми на порталі Microsoft Azure. Докладні відомості див. в статті [Конфігурації платформи та URI переспрямування](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Інтерфейси API Web і деякі способи придбання маркерів (за допомогою IWA та імені користувача і пароля) не потребують URI переспрямування.
+**Примітка.** Для веб-інтерфейсів API та деяких беззвучних способів отримання маркерів (IWA та ім'я користувача та пароль) ідентифікатор URI не потребує переспрямування.
 
 **У мене розгорнута веб-програма, і коли я її тестую, з’являється повідомлення про невідповідність URL-адреси відповіді**
 
 Додайте URI переспрямування для всіх розташувань, у яких розгортаєте веб-програму. Докладні відомості див. в статті [Реєстрація веб-програми за допомогою порталу Microsoft Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> Додайте URI переспрямування до розташування відразу після розгортання програми в цьому розташуванні.
+**Примітка.** Додайте URI переспрямування для розташування відразу після розгортання програми в цьому розташуванні.
 
 **Не вдається зареєструвати достатню кількість URL-адрес відповіді**
 
