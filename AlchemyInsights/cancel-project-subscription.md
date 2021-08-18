@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4b1b83f29d6ac91d3306792a405e531b174dd718
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900449"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330465"
 ---
 # <a name="cancel-project-subscription"></a>Скасування Project передплати
 
@@ -32,4 +32,4 @@ ms.locfileid: "57900449"
 
 **Відшкодування:** Пропорції повернуться вам протягом наступного розрахункового циклу.
 
-Докладні відомості див. [в статтях Скасування передплати.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Докладні відомості див. в [статтях Скасування передплати.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

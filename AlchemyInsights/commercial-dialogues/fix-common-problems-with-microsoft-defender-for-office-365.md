@@ -1,5 +1,5 @@
 ---
-title: Вирішення поширених проблем із Захисником Microsoft для Office 365
+title: Вирішення поширених проблем із Захиснитем Microsoft Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898265"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330081"
 ---
-# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Вирішення поширених проблем із Захисником Microsoft для Office 365
+# <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Вирішення поширених проблем із Захиснитем Microsoft Office 365
 
-Ось кілька способів вирішення поширених проблем із Захисником Microsoft для Office 365:
+Ось кілька способів вирішення поширених проблем із Microsoft Defender для Office 365:
 
 - **Затримка повідомлення:**
 
@@ -31,11 +31,11 @@ ms.locfileid: "57898265"
 
   Докладні відомості див. в [статті Звітування про повідомлення та файли до корпорації Майкрософт.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)
 
-- **Увімкніть Сейф Захист посилань:**
+- **Увімкніть Сейф Захист від посилань:**
 
-  1. На порталі Microsoft 365 Defender перейдіть до розділу Політики співпраці & електронної <https://security.microsoft.com/> **пошти** \> **&** \> **правилами** Сейф \>   посилання в розділі Політики.
+  1. На порталі Microsoft 365 Defender перейдіть до розділу Політики співпраці & електронної пошти & політик & загроз Сейф посиланнями в <https://security.microsoft.com/>  \>  \>  \>  **розділі** Політики.
 
-     Щоб перейти безпосередньо на сторінку **посилання Сейф,** скористайтеся <https://security.microsoft.com/safelinksv2> .
+     Щоб перейти безпосередньо на **сторінку посилання Сейф,** <https://security.microsoft.com/safelinksv2> скористайтеся .
 
   2. На сторінці **Сейф Посилання** виберіть політику, клацнувши ім'я політики.
   3. У вікні відомостей, що з'являться, виконайте одну з таких дій:
@@ -45,4 +45,4 @@ ms.locfileid: "57898265"
      - Увімкніть параметр Виберіть дію для **потенційно зловмисних URL-адрес у повідомленнях.**
      - Виберіть **Елемент Застосувати безпечні посилання до повідомлень, надісланих у межах організації.**
 
-  Докладні відомості див. [в статті Налаштування політик посилань Сейф в Microsoft Defender для Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies).
+  Докладні відомості див. [в статті Налаштування політик посилань Сейф в Microsoft Defender для Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

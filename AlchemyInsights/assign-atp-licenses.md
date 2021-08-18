@@ -1,5 +1,5 @@
 ---
-title: Призначення ліцензій для Microsoft Defender Office 365 Microsoft Defender
+title: Призначення ліцензій для Microsoft Defender Office 365 Ліцензії
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,14 +15,14 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd2771143980b7a9652bf2323b08e5c8019fc1b1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888911"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328123"
 ---
-# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Призначення ліцензій для Microsoft Defender Office 365 Microsoft Defender
+# <a name="assign-microsoft-defender-for-office-365-licenses"></a>Призначення ліцензій для Microsoft Defender Office 365 Ліцензії
 
 Захисник Microsoft Office 365 для Office 365 можна призначити користувачам у Центрі Адміністратор Microsoft 365 пошти.
 

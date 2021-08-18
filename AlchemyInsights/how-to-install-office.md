@@ -12,19 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: a3f07573832fbaed622cd76686a59df06127023563cc3d2c3a7e710cbf45accd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 188063432bec2e1bdec07c11cbaf6731ab6046d9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54028961"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328969"
 ---
 # <a name="how-to-install-office"></a>Указівки з інсталяції Office
 
 Щоб інсталювати клієнтські програми Office, потрібна передплата для бізнесу, як-от "Microsoft 365 Бізнес Стандарт", "Програми Microsoft 365 для бізнесу" або "Microsoft Office 365 для навчальних закладів".
   
-> [!NOTE]
-> [Office для дому та бізнесу](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) – це продукт [Office для дому](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia), який не входить у передплату для бізнесу. Докладні вказівки щодо Visio або Project див. в статті [Інсталяція Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) або [Інсталяція Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
+**Примітка.** [Office для дому](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) та бізнесу [– це Office для](https://support.microsoft.com/office/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=alchemy_clientdia) дому, а не частина передплати для бізнесу. Докладні вказівки щодо Visio або Project див. в статті [Інсталяція Visio](https://support.microsoft.com/office/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=Alchemy_ClientDIA) або [Інсталяція Project](https://support.microsoft.com/office/7059249b-d9fe-4d61-ab96-5c5bf435f281?wt.mc_id=Alchemy_ClientDIA).
 
 Створіть облікові записи користувачів і додайте свій домен. Переконайтеся, що користувачу [призначено ліцензію](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 

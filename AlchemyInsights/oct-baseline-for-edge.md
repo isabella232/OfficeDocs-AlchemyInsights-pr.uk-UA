@@ -1,5 +1,5 @@
 ---
-title: Переглянути базовий план за жовтень 2019 р Microsoft Edge версії 77 і пізніших
+title: Переглянути базовий план за жовтень 2019 р. для Microsoft Edge версії 77 і пізніших
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006500"
 - "11140"
-ms.openlocfilehash: d0b6a5539bfeff967c7b8f4c32cfa9467441df8a3f5fe2a59886b2f3457a3c68
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 476819de4e124c85585261d1956bb418a757ab06
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901393"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328801"
 ---
-# <a name="view-the-october-2019-baseline-for-microsoft-edge-versions-77-and-later"></a>Переглянути базовий план за жовтень 2019 р Microsoft Edge версії 77 і пізніших
+# <a name="view-the-october-2019-baseline-for-microsoft-edge-versions-77-and-later"></a>Переглянути базовий план за жовтень 2019 р. для Microsoft Edge версії 77 і пізніших
 
 Microsoft Intune підтримує параметри базового плану для Microsoft Edge. Базові значення за замовчуванням представляють рекомендовану конфігурацію браузера; вони можуть не відповідати стандартним значенням для інших опорних точок безпеки.
 
