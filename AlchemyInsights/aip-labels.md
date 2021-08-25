@@ -1,6 +1,6 @@
 ---
-title: Підписи захисту даних в Azure (AIP)
-ms.author: pebuam
+title: Політики Захисту даних в Azure (AIP)
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52125249"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451763"
 ---
-# <a name="azure-information-protection-aip-labels"></a>Підписи захисту даних в Azure (AIP)
+# <a name="azure-information-protection-aip-labels"></a>Політики Захисту даних в Azure (AIP)
 
-Керування підписами Azure Information Protection (AIP) на порталі Azure та клієнті AIP вилучаються з 31 березня 2021 року. Докладні відомості див. в [дописі, класифікації](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)та захисту даних в Azure (AIP).
+Керування міткою Захисту даних в Azure (AIP) на порталі Azure та клієнті AIP вилучається з 31 березня 2021 року. Щоб отримати докладнішу інформацію, див. в [П Політики Захисту даних в Azure (AIP), класифікація та захист](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection).
 
-Для створення та керування етикетками використовуйте уніфіковані можливості маркування Microsoft 365 натомість. 
+Для створення та керування підписами використовуйте уніфіковані можливості створення міток Microsoft 365 натомість. 
 
-Докладні відомості див. в такому:
+Докладні відомості див.:
 
-[Керування підписами чутливості в Office програмах](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+[Керування мітками делікатності в програмах Office ](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
-[Відомості про підписи чутливості](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+[Відомості про мітки делікатності](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-Список відомих проблем із функціями AIP див. в відомості [про відомі проблеми – Захист даних в Azure.](https://docs.microsoft.com/azure/information-protection/known-issues)
+Список відомих проблем із функціями AIP див. в [Відомі проблеми – Захист даних в Azure](https://docs.microsoft.com/azure/information-protection/known-issues).
