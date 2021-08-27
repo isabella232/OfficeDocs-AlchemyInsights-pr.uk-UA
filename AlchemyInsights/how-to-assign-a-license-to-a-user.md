@@ -1,9 +1,8 @@
 ---
-title: Призначення або відміна ліцензій користувачам
+title: Призначення та відміна ліцензій користувачам
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: shegu, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -17,14 +16,15 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 1a70fe2b468251f48eb3399e75dd414d3aa0fe02
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/27/2021
+ms.openlocfilehash: c820270c655c77f008dd53a3d123d65f9e5f788e
+ms.sourcegitcommit: 44081ba551e0424c7b78ba2304c5705b38567f3d
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58319475"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "58679320"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Призначення або відміна ліцензій користувачам
+# <a name="assign-or-unassign-licenses-to-users"></a>Призначення та відміна ліцензій користувачам
 
 Щоб отримати доступ до служб, користувачу потрібна ліцензія. Нижче описано, як призначити ліцензію користувачу або скасувати для неї.
   
