@@ -1,5 +1,5 @@
 ---
-title: Повідомлення Microsoft 365 про тимчасові проблеми із сервером в програмах, на жаль, виникають тимчасові проблеми із сервером
+title: Повідомлення про Microsoft 365 тимчасових проблем із сервером виникають
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: aa0d625856df1027146de5af57845224e3056d8c21d9ac4cefbd4a9c329f487c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 565f70d9a09c61bef84cdd1c23e9b0ed34bebe51
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54021617"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744688"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Виправлення неполадок із Microsoft 365 "На жаль, у нас виникли тимчасові проблеми із сервером"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>Виправлення помилок із Microsoft 365 "На жаль, у нас виникли тимчасові проблеми із сервером"
+
+Примітка. Якщо ви використовуєте попередню версію Windows (наприклад, Windows 7 із пакетом оновлень 1 (SP1), Windows [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) Server 2008 R2), скористайтеся засобом простого виправлення, щоб увімкнути TLS 1.2 за замовчуванням. Докладні відомості див. в статтях Оновлення для ввімкнення [протоколів TLS 1.1 і TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)як безпечних протоколів за замовчуванням у WindowsHTTP у Windows.
 
 Якщо ви отримали це повідомлення, спробуйте виконати такі дії:
 
