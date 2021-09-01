@@ -1,9 +1,8 @@
 ---
-title: Придбання передплати для Microsoft 365 для бізнесу після безкоштовного ознайомлення
+title: Придбання передплати для Microsoft 365 для бізнесу після використання безкоштовної ознайомлювної передплати
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,13 +14,14 @@ ms.custom:
 - commerce_purchase
 - "257"
 - "1400007"
+ms.date: 08/10/2021
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 1ea808a1d98ade11fc65ef9cafed8d71a79ed347
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58325788"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845091"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Придбання передплати для Microsoft 365 безкоштовної ознайомлювальній версію
 
@@ -31,7 +31,7 @@ ms.locfileid: "58325788"
   
 1. У Центрі адміністрування перейдіть на сторінку **Виставлення** \> [рахунків для продуктів.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. На **вкладці** Продукти виберіть передплату, яку потрібно придбати.
-3. На сторінці відомостей про передплату в розділі **Ліцензія** виберіть Придбати платну **передплату** зараз і дотримуйтеся вказівок, щоб оплачути передплату.
+3. На сторінці відомостей про передплату в розділі **Ліцензія** виберіть Придбати платну передплату **зараз** і дотримуйтеся вказівок, щоб оцінити передплату.
  
 **Придбання іншої передплати**
   

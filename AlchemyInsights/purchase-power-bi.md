@@ -3,7 +3,6 @@ title: Придбання Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: fc5e731ee05722c7cd707239af5ad4c07a6d85b9
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 19603dfe2f8a141dd2aa0e7dffebfb4d5e3e4149
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58323659"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844947"
 ---
 # <a name="purchase-power-bi"></a>Придбання Power BI
 
-Power BI можна придбати в **Центр адміністрування Microsoft 365**.
+Power BI можна придбати в Центр адміністрування Microsoft 365 **.**
 
 1. Перейдіть на сторінку **Виставлення рахунків > [придбання](https://go.microsoft.com/fwlink/p/?linkid=868433)** послуг.
 2. Скористайтеся полем пошуку, щоб знайти "Power BI".

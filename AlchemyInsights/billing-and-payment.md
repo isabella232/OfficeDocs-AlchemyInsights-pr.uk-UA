@@ -3,7 +3,6 @@ title: Виставлення рахунків і оплата
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314937"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844983"
 ---
 # <a name="billing-and-payment"></a>Виставлення рахунків і оплата
 
-Ваші рахунки можна знайти на вкладці **Виставлення рахунків**  >  [& рахунків.](https://go.microsoft.com/fwlink/p/?linkid=848039)  За замовчуванням відображаються останні 3 місяці рахунків-фактур.  Щоб переглянути старіші рахунки-фактури, налаштуйте фільтр.  Клацніть посилання Завантажити **рахунок у форматі PDF,** щоб переглянути рахунок-фактуру.
+Ваші рахунки можна знайти на вкладці **Виставлення рахунків**  >  [& виставлення рахунків.](https://go.microsoft.com/fwlink/p/?linkid=848039)  За замовчуванням відображаються останні 3 місяці рахунків-фактур.  Щоб переглянути старіші рахунки-фактури, налаштуйте фільтр.  Клацніть посилання Завантажити **рахунок у форматі PDF,** щоб переглянути рахунок-фактуру.
 
 **Отримування рахунків електронною поштою**
 

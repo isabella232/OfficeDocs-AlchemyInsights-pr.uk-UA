@@ -3,7 +3,6 @@ title: Намагаєтеся знайти ознайомлювальну озн
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,17 +14,18 @@ ms.custom:
 - commerce_purchase
 - "488"
 - "1500033"
+ms.date: 04/21/2020
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 7b3f7dfaf9afffb689a3676910e1160276939397
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 87648f2039ca95b6b83c365d5f642c940e32b1db
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58327272"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844623"
 ---
 # <a name="trying-to-find-a-trial"></a>Намагаєтеся знайти ознайомлювальну ознайомлювальну ознайомлювальну інформацію?
 
-Список передплат, доступних для ознайомлення, див. в Центр адміністрування Microsoft 365.
+Список передплат, доступних для ознайомлення, можна спробувати в новій службі в Центр адміністрування Microsoft 365.
   
 1. У Центрі адміністрування перейдіть  на сторінку Служби придбання \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) рахунків.
 
