@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "9002914"
 - "5614"
-ms.openlocfilehash: b0edc8f3cf3c61e0b16983e171456cc5126f2b27
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 458824fe600ed0942e4f20ea315b3f56f7a85a52
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451007"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843399"
 ---
 # <a name="cancelrefundclose-your-microsoft-365-subscription"></a>Скасування, відшкодування та закриття Microsoft 365 передплати
 
-Наслідки скасування передплати Докладні відомості див. в статті [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).
+Наслідки скасування передплати Докладні відомості див. в [Скасування передплати](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).
 
 - **Пропорції повернуться** вам протягом наступного розрахункового циклу.
 - Передплата перейде в стан **"Вимкнуто" протягом 90** днів (у більшості країн або регіонів).
