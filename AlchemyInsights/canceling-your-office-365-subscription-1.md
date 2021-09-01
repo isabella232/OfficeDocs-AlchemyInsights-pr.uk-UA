@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: ''
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 03ee652d21cb87d9534f2d5d4b1918d815788c22
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 597c3a8f1d64f5ecdf60fe4d911b44863e5f2ccc
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58330229"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842355"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Скасування передплати Microsoft 365?
 
@@ -33,4 +33,4 @@ ms.locfileid: "58330229"
 
 Щоб дізнатися більше про скасування передплати або варіанти її використання, див. [номери скасування передплати.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Щоб і надалі використовувати передплату на період ознайомлення, повторюване виставлення рахунків за передплатою можна вимкнути. Щоб дізнатися, як це [зробити, див. Microsoft 365 для бізнесу.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Щоб і надалі використовувати передплату на період ознайомлення, повторюване виставлення рахунків за передплатою можна вимкнути. Щоб дізнатися, як це [зробити, див. Microsoft 365 оновлення для бізнесу.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

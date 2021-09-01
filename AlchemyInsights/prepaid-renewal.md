@@ -3,7 +3,6 @@ title: Передоплачене поновлення
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/11/2021
+ms.openlocfilehash: dabc83172eb9e58393620d7d24dae418de1a1b19
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901985"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842391"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Передплачене Microsoft 365 поновлення
 
@@ -29,8 +29,7 @@ ms.locfileid: "57901985"
 3. На сторінці відомостей про передплату в розділі **Параметри передплати та оплати** виберіть Подовжити дату **завершення.**
 4. На сторінці **подовження або додавання ліцензій** користувачів виберіть Використати новий невибраний **ключ продукту,** а потім натисніть кнопку **Далі**.
 5. Введіть ключ продукту, а потім натисніть кнопку **Далі**.
-    > [!NOTE]
-    > Якщо у вас кілька ключів продукту, можна вибрати **додати інший ключ продукту,** щоб ввести його.
+    **Примітка.** Якщо у вас кілька ключів продукту, можна вибрати Додати **інший ключ** продукту, щоб ввести його.
 6. Перегляньте відомості про замовлення, а потім **натисніть кнопку "Повторити"**.
 
 Докладні відомості див. [в статтях Додавання ліцензій до або подовження передплати, оплаченої за допомогою ключа продукту.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

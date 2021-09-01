@@ -3,7 +3,6 @@ title: Визначення платежу у виписці за кредитн
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,18 +15,19 @@ ms.custom:
 - "451"
 - "1960"
 - "1500019"
+ms.date: 04/21/2020
 ms.assetid: db7b34b7-0843-4f4b-9222-bfb998b860df
-ms.openlocfilehash: 82e14310556b46cec30c8ec861992a36930b6c2d
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 44a8da7c2fa066582404576525c8e492b00a09c7
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58320858"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842463"
 ---
 # <a name="how-to-identify-a-charge-on-your-credit-card-or-bank-statement"></a>Визначення платежу у виписці за кредитною карткою або банківським рахунком
 
-Опис оплати передплати Microsoft 365 має такий вигляд:
+Опис платежу за Microsoft 365 має такий вигляд:
   
 MSFT \* E012345ABC 0000 – MSBILL.INFO, WA
   
-10-символьний рядок букв і цифр після букв MSFT – це номер рахунка, за який потрібно \* сплатити. Щоб знайти рахунок-фактуру, перейдіть на сторінку **Виставлення** & рахунків, щоб \> [](https://go.microsoft.com/fwlink/p/?linkid=848039) переглянути останні рахунки-фактури. Номер рахунка-фактури розташовано в правому куті документа рахунка-фактури.
+10-символьний рядок букв і цифр після букв MSFT – це номер рахунка, за який потрібно \* сплатити. Щоб знайти рахунок-фактуру, перейдіть на сторінку **Виставлення** & рахунків, де можна переглянути \> [](https://go.microsoft.com/fwlink/p/?linkid=848039) останні рахунки-фактури. Номер рахунка-фактури розташовано в правому куті документа рахунка-фактури.

@@ -1,5 +1,5 @@
 ---
-title: Скасування передплати Microsoft 365
+title: Скасування Microsoft 365 передплати
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,13 +12,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
+ms.date: 08/11/2021
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b55130a5e3ddc42c32658115809035ce792fa3868ff62b16a94c80d91572568a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca706a13805ba837128664de1dcf3794e1875380
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57900493"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845451"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Скасування передплати Microsoft 365?
 
@@ -30,7 +31,6 @@ ms.locfileid: "57900493"
 
 **Відшкодування. Пропорції кредиту буде повернуто вам протягом наступного розрахункового циклу.**
 
-> [!NOTE]
-> Якщо параметр для скасування не відображається, виберіть передплату, щоб переглянути сторінку відомостей. У розділі **Настройки передплати та оплати** виберіть скасувати **передплату**.
+**Примітка.** Якщо параметр для скасування не відображається, виберіть передплату, щоб переглянути сторінку відомостей. У розділі **Настройки передплати та оплати** виберіть скасувати **передплату**.
 
 Докладні відомості див. [в статтях Скасування передплати.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
