@@ -9,33 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 67d041da543dc1ac3668190faacefe4207d6c8eb30af4c19a5ff0833a3b46538
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea00bfb368cca514c2b4732667cfb55509f9a3f5
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985658"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923755"
 ---
 # <a name="sync-a-users-profile-picture"></a>Синхронізація зображення профілю користувача
 
-Ви можете додати або змінити фотографію профілю Microsoft 365 на сайті Office.com або під час використання програм Microsoft на комп'ютері або в браузері на телефоні. Ваше фото відображається скрізь, де є коло з фотографією профілю в Microsoft 365.
+Зображення SharePoint профілю в Інтернеті не відображається на сайтах SharePoint веб-частинах "Контакти". Щоб відобразити зображення профілю, виконайте кроки, описані в розділі [Фіктивне зображення, яке](https://docs.microsoft.com/sharepoint/troubleshoot/administration/profile-picture-not-showing)не SharePoint Online.
 
-Щоб додати фотографію профілю до Microsoft 365 для бізнесу:
-
-1. Знайдіть потрібну фотографію та збережіть її на комп'ютері, OneDrive або іншому розташуванні, до якого можна отримати доступ.
-
-2. Увійдіть у Microsoft 365 свій робочий або навчальний обліковий запис на [office.com.](https://www.office.com)
-
-3. Клацніть коло у верхньому правому куті сторінки, де відображаються ваші ініціали або піктограма особи.
-
-4. В області Мої облікові записи виберіть коло, у яких відображаються ваші ініціали або піктограма особи. Змініть свою фотографію у спливаючому вікні, що з'явиться.
-
-**Примітка.** Якщо зображення профілю користувача відображається не так SharePoint порівняно з іншими програмами Microsoft, користувач має виконати такі дії:
-
-1. Відкрийте приватний сеанс браузера (InPrivate/incognito).
-1. Перейдіть до [Microsoft Office 365](https://www.office.com).
-1. Клацніть піктограму SharePoint піктограми.
-1. Перейдіть на сайт або сторінку, де не оновлено фотографію або сторінку, до якої входить користувач у веб-частину "Контакти".
-
-Докладні відомості див. в [розділі Відомості про синхронізацію зображень профілю в Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a).
+Докладні відомості див. [в цій Microsoft 365.](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 
