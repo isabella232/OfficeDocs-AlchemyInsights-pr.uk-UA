@@ -1,5 +1,5 @@
 ---
-title: Активація програм Office 365 на пк з Windows 365
+title: Активація програм Office 365 на ПК з Windows 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792950"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923539"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Активація програм Office 365 на пк з Windows 365
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Активація програм Office 365 на ПК з Windows 365
 
-Windows зображення 365 ПК містять інстальовані копії програм Office 365, які активуються під час першого відкриття будь-якої програми Office програми.
+**Примітка**: ця проблема НЕ стосується користувачів із ліцензіями Windows 365 Enterprise.
 
-Під час активації ліцензований користувач Windows 365 Business може статися така помилка:
+Зображення ПК з Windows 365 містять інстальовані копії програм Office 365, які активуються під час першого відкриття будь-якої програми Office.
+
+Під час активації ліцензований користувач Windows 365 Business може стикатися з такою помилкою:
 
 "Проблема з обліковим записом
 
-Продукти, знайдені в обліковому записі, не можна використовувати для активації Office на спільному комп'ютері Сценарії помилки з кодом помилки 0x80004005"
+Продукти, які ми знайшли у вашому обліковому записі, не можна використовувати для сценаріїв активації Office на спільному комп’ютері, код помилки 0x80004005"
 
 Щоб вирішити цю проблему, попросіть відповідного користувача виконати такі дії: 
 
-1. Видаліть наявні Office програми з хмарного ПК.
-1. Перейдіть на Office.com і встановіть прапорець Інсталювати Office.
+1. Видалити наявні програми Office із хмарного ПК.
+1. Перейти до Office.com і вибрати варіант інсталяції Office.
 
-    Office активацію має завершитися.
+    Після цього активацію Office має бути успішно завершено.
