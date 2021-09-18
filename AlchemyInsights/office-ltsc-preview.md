@@ -1,9 +1,9 @@
 ---
-title: Office LTSC Preview
+title: Office LTSC
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 04/23/2020
+ms.date: 09/17/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -23,25 +23,27 @@ ms.custom:
 - "2000021"
 - "2000020"
 - "9002483"
-ms.openlocfilehash: 9102102ffc4a260aed74f11ad343afddd7872f1a3bcfb061f1961aef49e6e841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 52352c6651b3268445d01a50bcfdd73d1075523f
+ms.sourcegitcommit: 1e174b64d290ffa99d400480efe5d63ed846581c
 ms.translationtype: MT
 ms.contentlocale: uk-UA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54076438"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59447116"
 ---
-# <a name="office-ltsc-preview"></a>Office LTSC Preview
+# <a name="office-ltsc"></a>Office LTSC
 
-Microsoft Office Канал long Term Servicing Channel (LTSC) для Windows і Office 2021 для Mac зараз доступний у загальнодоступної версії Preview. Докладні відомості:
+Office Long Term Servicing Channel (LTSC) 2021 зазвичай доступний у Центрі обслуговування з корпоративним ліцензуванням (VLSC).
 
-- [Огляд програми Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/overview-ltsc-preview)
+**Увага!** Office LTSC 2021 – це не Office, доступний у Microsoft 365 (або Office 365) планах. Наприклад, якщо ви розгорнули Програми Microsoft 365 для підприємств (колишня назва – Office 365 ProPlus) для користувачів в організації, вам не потрібно мати Office LTSC 2021. У вас уже є всі функції, включені Office LTSC 2021, а також багато інших функцій, недоступних у Office LTSC 2021.
 
-- [Інсталяція Office LTSC Preview](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview)
+Докладні відомості та вимоги до розгортання див. в описах:
 
-- [Огляд версії Office 2021 Standard для Mac (попередня версія)](https://docs.microsoft.com/deployoffice/office2021/overview-mac-preview)
+[Огляд Office LTSC](https://docs.microsoft.com/deployoffice/ltsc2021/overview)  
 
-- [Office Запитання й відповіді про комерційну версію LTSC](https://answers.microsoft.com/msoffice/forum/all/office-ltsc-commercial-preview-faq/0fcf5976-f87f-4be1-81af-9f6d6141bc3a)  
+[Office LTSC для Windows і Mac: запитання й відповіді](https://support.microsoft.com/office/office-ltsc-for-windows-and-mac-faq-d574cf0b-3ebc-42cf-9035-a3b837e0463c)  
 
-**Примітка.** Якщо ви використовуєте Програми Microsoft 365 для підприємств або Програми Microsoft 365 для бізнесу, у вас уже є функції, доступні в Office LTSC 2021 або Office 2021 для Mac і вам не потрібно брати участь у попередньому перегляді.
+[Office Вимоги до системи для LTSC 2021](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1#coreui-heading-kg69bnh)
 
-Якщо вам потрібна допомога з обслуговуванням Office LTSC під час попереднього перегляду, див. ість [Отримання підтримки та надання відгуків.](https://docs.microsoft.com/deployoffice/office2021/install-ltsc-preview#getting-support-and-providing-feedback)
+[Розгортання Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/deploy)
+
+[Оновлення Office LTSC 2021 Preview до Office LTSC 2021](https://docs.microsoft.com/deployoffice/ltsc2021/update-from-preview)
